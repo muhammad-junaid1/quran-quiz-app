@@ -1,0 +1,25 @@
+
+{
+  "id": 1,
+  "englishName": "Al-Fatihah",
+  "arabicName": "الفاتحة",
+  "translation": "The Opening",
+  "revelationType": "Meccan",
+  "questions": [
+    { "id": "ch1-q1", "text": "Is Al-Fatihah the first Surah revealed in order of revelation?" },
+    { "id": "ch1-q2", "text": "Why is it referred to as 'Umm al-Kitab' (Mother of the Book)?" },
+    { "id": "ch1-q3", "text": "In 'Alhamdulillah', who does the praise truly belong to and why?" },
+    { "id": "ch1-q4", "text": "Explain the linguistic depth of 'Ar-Rahman' vs 'Ar-Rahim'." },
+    { "id": "ch1-q5", "text": "Does 'Maliki Yawm id-Din' imply God only rules on Judgment Day?" },
+    { "id": "ch1-q6", "text": "How does 'Iyyaka na'budu' shift the perspective from the third person to the second person?" },
+    { "id": "ch1-q7", "text": "What is the grammatical significance of the 'n' in 'na'budu'?" },
+    { "id": "ch1-q8", "text": "Is 'Ihdinas-siratal-mustaqim' a request for guidance or a request for steadfastness?" },
+    { "id": "ch1-q9", "text": "Who are 'those who have evoked Your anger' historically and conceptually?" },
+    { "id": "ch1-q10", "text": "Why is 'Amin' not written in the Mushaf if it is part of the prayer?" },
+    { "id": "ch1-q11", "text": "How does Al-Fatihah summarize the entire message of the Quran?" },
+    { "id": "ch1-q12", "text": "Can a prayer be valid without the recitation of Al-Fatihah?" },
+    { "id": "ch1-q13", "text": "What is the relationship between 'Rububiyyah' and the first verse?" },
+    { "id": "ch1-q14", "text": "How does this Surah bridge the gap between the Creator and the creation?" },
+    { "id": "ch1-q15", "text": "What are the practical implications of acknowledging Allah as 'Malik' in daily life?" }
+  ]
+}
