@@ -8,7 +8,7 @@ import LandingPage from './components/LandingPage';
 
 interface SurahProgress {
   activeIndex: number;
-  correctIds: string[];
+  wrongIds: string[];
 }
 
 interface MultiSurahState {
@@ -19,7 +19,7 @@ interface MultiSurahState {
 const getInitialProgress = () => {
     const initialProgress: Record<number, SurahProgress> = {};
     SURAHS_REGISTRY.forEach(s => {
-      initialProgress[s.id] = { activeIndex: 0, correctIds: [] };
+      initialProgress[s.id] = { activeIndex: 0, wrongIds: [] };
     });
     
     return {
@@ -44,8 +44,21 @@ const App: React.FC = () => {
       }
       
       const userKey = `quran_furqan_progress_${user.email}`;
+      const savedLocal = localStorage.getItem(userKey);
+
+      // 1. Try Local Storage First
+      if (savedLocal) {
+        try {
+          const parsed = JSON.parse(savedLocal);
+          setState(parsed);
+          setHasLoadedInitialData(true);
+          return; // Exit early if we have local data
+        } catch (e) {
+          console.error("Error parsing local storage data", e);
+        }
+      }
       
-      // Fetch from Supabase on refresh/login
+      // 2. Fallback to Supabase if local storage doesn't exist or is invalid
       setIsDataLoading(true);
       try {
         const { data, error } = await supabase
@@ -58,29 +71,11 @@ const App: React.FC = () => {
           setState(data.progress_data);
           localStorage.setItem(userKey, JSON.stringify(data.progress_data));
         } else {
-          // If not in Supabase, check local storage as backup
-          const saved = localStorage.getItem(userKey);
-          if (saved) {
-            try {
-              const parsed = JSON.parse(saved);
-              setState(parsed);
-            } catch (e) {
-              setState(getInitialProgress());
-            }
-          } else {
-            setState(getInitialProgress());
-          }
+          setState(getInitialProgress());
         }
       } catch (err) {
         console.error("Error fetching from Supabase", err);
-        const saved = localStorage.getItem(userKey);
-        if (saved) {
-          try {
-            setState(JSON.parse(saved));
-          } catch (e) {
-            setState(getInitialProgress());
-          }
-        }
+        setState(getInitialProgress());
       } finally {
         setIsDataLoading(false);
         setHasLoadedInitialData(true);
@@ -235,7 +230,7 @@ const App: React.FC = () => {
     fetchChapter();
   }, [state.currentSurahId]);
 
-  const currentProgress = state.progress[state.currentSurahId] || { activeIndex: 0, correctIds: [] };
+  const currentProgress = state.progress[state.currentSurahId] || { activeIndex: 0, wrongIds: [] };
 
   const globalProgress = useMemo(() => {
     let totalQuestions = 0;
@@ -250,13 +245,24 @@ const App: React.FC = () => {
     return totalQuestions > 0 ? Math.round((answeredQuestions / totalQuestions) * 100) : 0;
   }, [state.progress]);
 
+  const completedChaptersCount = useMemo(() => {
+    return SURAHS_REGISTRY.filter(s => {
+      const prog = state.progress[s.id];
+      if (!prog) return false;
+      return prog.activeIndex >= s.totalQuestions && s.totalQuestions > 0;
+    }).length;
+  }, [state.progress]);
+
   const stats = useMemo(() => {
     if (!currentSurahData) return { total: 0, correctCount: 0, notSureCount: 0, progress: 0, isCompleted: false };
     const total = currentSurahData.questions.length;
-    const correctCount = currentSurahData.questions.filter(q => currentProgress.correctIds.includes(q.id)).length;
-    const answeredCount = currentProgress.activeIndex;
+    const answeredCount = Math.min(currentProgress.activeIndex, total);
+    
+    // notSureCount is the number of questions in wrongIds
+    const notSureCount = currentProgress.wrongIds.length;
+    const correctCount = Math.max(0, (currentProgress.activeIndex >= total ? total : currentProgress.activeIndex) - notSureCount);
+    
     const isCompleted = currentProgress.activeIndex >= total;
-    const notSureCount = Math.max(0, (isCompleted ? total : answeredCount) - correctCount);
     const progressPerc = Math.round((currentProgress.activeIndex / total) * 100);
     return { total, correctCount, notSureCount, progress: Math.min(progressPerc, 100), isCompleted };
   }, [currentSurahData, currentProgress]);
@@ -317,12 +323,14 @@ const App: React.FC = () => {
     setState(prev => {
       const surahId = prev.currentSurahId;
       const oldProg = prev.progress[surahId];
-      let newCorrectIds = [...oldProg.correctIds];
+      let newWrongIds = [...oldProg.wrongIds];
 
-      if (isCorrect) {
-        if (!newCorrectIds.includes(question.id)) newCorrectIds.push(question.id);
+      if (!isCorrect) {
+        // If "Not Sure", add to wrongIds if not already there
+        if (!newWrongIds.includes(question.id)) newWrongIds.push(question.id);
       } else {
-        newCorrectIds = newCorrectIds.filter(id => id !== question.id);
+        // If "I know this", remove from wrongIds if it exists
+        newWrongIds = newWrongIds.filter(id => id !== question.id);
       }
 
       const isAnsweringCurrent = selectedQuestionIndex === null || selectedQuestionIndex === oldProg.activeIndex;
@@ -339,7 +347,7 @@ const App: React.FC = () => {
         ...prev,
         progress: {
           ...prev.progress,
-          [surahId]: { activeIndex: nextIndex, correctIds: newCorrectIds }
+          [surahId]: { activeIndex: nextIndex, wrongIds: newWrongIds }
         }
       };
     });
@@ -439,11 +447,11 @@ const App: React.FC = () => {
   return (
     <div className="h-screen w-screen flex flex-col bg-[#0a0a0a] text-zinc-300 relative overflow-hidden selection:bg-emerald-500/20 font-sans tracking-tight">
       
-      {isAuthLoading || isDataLoading ? (
+      {isAuthLoading || (user && !hasLoadedInitialData) ? (
         <div className="flex-1 flex flex-col items-center justify-center gap-6">
           <div className="w-12 h-12 rounded-full border-2 border-emerald-500/20 border-t-emerald-500 animate-spin" />
           <p className="text-[10px] font-premium font-bold uppercase tracking-[0.3em] text-zinc-500">
-            {isAuthLoading ? 'Checking Authentication...' : 'Syncing Your Progress...'}
+            {isAuthLoading ? 'Loading App...' : 'Syncing Your Progress...'}
           </p>
         </div>
       ) : !user ? (
@@ -459,6 +467,7 @@ const App: React.FC = () => {
                     src={user.user_metadata.avatar_url} 
                     alt="Profile" 
                     className="w-9 h-9 md:w-10 md:h-10 rounded-full border border-white/10" 
+                    crossOrigin="anonymous"
                     onError={() => setProfileImageError(true)}
                   />
                 ) : (
@@ -470,9 +479,15 @@ const App: React.FC = () => {
                   <span className="text-sm md:text-base font-premium font-semibold text-white leading-tight tracking-tight">
                     {user.user_metadata?.full_name || user.user_metadata?.name || user.email?.split('@')[0]}
                   </span>
-                  <span className="text-[10px] md:text-[11px] font-premium font-medium text-emerald-400/80 uppercase tracking-[0.15em] md:tracking-[0.2em] mt-1">
-                    {globalProgress}% Completed
-                  </span>
+                  <div className="flex items-center gap-2 mt-1">
+                    <span className="text-[10px] md:text-[11px] font-premium font-medium text-emerald-400/80 uppercase tracking-[0.15em] md:tracking-[0.2em]">
+                      {globalProgress}% Completed
+                    </span>
+                    <span className="w-1 h-1 rounded-full bg-white/10" />
+                    <span className="text-[10px] md:text-[11px] font-premium font-medium text-zinc-500 uppercase tracking-[0.15em] md:tracking-[0.2em]">
+                      {completedChaptersCount}/114 Chapters
+                    </span>
+                  </div>
                 </div>
               </div>
               
@@ -506,7 +521,7 @@ const App: React.FC = () => {
                 Help
               </button>
             </div>
-      </div>
+          </div>
 
       {/* Header */}
       <header className="glass-panel sticky top-0 z-50 px-4 md:px-8 py-4 md:py-5 flex items-center justify-between">
@@ -519,27 +534,37 @@ const App: React.FC = () => {
             <div className="flex items-center gap-2 md:gap-3">
               <span className="text-2xl md:text-3xl font-arabic text-white leading-none">{currentRegistryItem.arabicName}</span>
               <span className="text-lg md:text-xl font-premium font-medium text-white tracking-tight">{currentRegistryItem.englishName}</span>
-              <svg className={`w-3.5 h-3.5 md:w-4 md:h-4 text-zinc-500 transition-transform duration-500 ${isDropdownOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 9l-7 7-7-7" /></svg>
+              <svg className={`w-4.5 h-4.5 md:w-5 md:h-5 text-zinc-500 transition-transform duration-500 ${isDropdownOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 9l-7 7-7-7" /></svg>
             </div>
             <span className="text-[10px] md:text-[11px] text-zinc-400 font-premium font-semibold uppercase tracking-[0.2em] md:tracking-[0.25em] mt-1.5 md:mt-2">{currentRegistryItem.id}. {currentRegistryItem.translation}</span>
           </button>
 
           {isDropdownOpen && (
             <div className="absolute top-full left-1/2 -translate-x-1/2 mt-6 w-80 bg-[#0d0d0d] border border-white/[0.08] rounded-[24px] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.7)] animate-in fade-in slide-in-from-top-4 duration-300 z-[100]">
-              <div className="max-h-[60vh] overflow-y-auto no-scrollbar">
+              <div className="max-h-[60vh] overflow-y-auto custom-scrollbar">
               {SURAHS_REGISTRY.map(s => {
                 const p = getSurahProgressPercent(s.id);
+                const isFinished = p === 100;
                 return (
                     <button key={s.id} onClick={() => selectSurah(s.id)} className={`w-full px-6 py-5 flex items-center justify-between hover:bg-white/[0.05] transition-all border-b border-white/[0.03] last:border-0 ${s.id === state.currentSurahId ? 'bg-white/[0.03]' : ''}`}>
                     <div className="text-left">
                         <div className="flex items-center gap-2 mb-1">
-                          <span className={`text-[9px] px-1.5 py-0.5 rounded-md font-bold tracking-tighter ${s.id === state.currentSurahId ? 'bg-emerald-500/20 text-emerald-400' : 'bg-zinc-800 text-zinc-400'}`}>{p}%</span>
+                          <span className={`text-[9px] px-1.5 py-0.5 rounded-md font-bold tracking-tighter transition-all ${isFinished ? 'bg-emerald-500 text-black shadow-[0_0_12px_rgba(16,185,129,0.3)]' : s.id === state.currentSurahId ? 'bg-emerald-500/20 text-emerald-400' : 'bg-zinc-800 text-zinc-400'}`}>
+                            {isFinished ? 'DONE 100%' : `${p}%`}
+                          </span>
                           <span className="text-[8px] text-zinc-500 font-bold uppercase tracking-[0.2em]">{s.totalQuestions} Questions</span>
                         </div>
                         <p className={`text-base font-premium font-semibold ${s.id === state.currentSurahId ? 'text-white' : 'text-zinc-200'}`}>{s.englishName}</p>
                         <p className={`text-[11px] font-premium uppercase tracking-wider mt-0.5 ${s.id === state.currentSurahId ? 'text-zinc-400' : 'text-zinc-500'}`}>{s.translation}</p>
                       </div>
-                      <span className={`text-2xl font-arabic transition-colors ${s.id === state.currentSurahId ? 'text-white' : 'text-zinc-500'}`}>{s.arabicName}</span>
+                      <div className="flex items-center gap-3">
+                        {isFinished && (
+                          <svg className="w-4 h-4 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                          </svg>
+                        )}
+                        <span className={`text-2xl font-arabic transition-colors ${isFinished ? 'text-emerald-400' : s.id === state.currentSurahId ? 'text-white' : 'text-zinc-500'}`}>{s.arabicName}</span>
+                      </div>
                   </button>
                 );
               })}
@@ -556,7 +581,11 @@ const App: React.FC = () => {
       {/* Stats Dashboard */}
       <div className="bg-[#080808]/80 backdrop-blur-md border-b border-white/[0.08] py-3 md:py-4 px-4 md:px-6 flex flex-wrap items-center justify-center gap-6 md:gap-16 text-[9px] md:text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-400 z-40 relative">
         <div className="flex flex-col items-center gap-1.5">
-          <span className="text-zinc-500">Total</span>
+          <span className="text-zinc-500">Chapters</span>
+          <span className="text-white text-xs md:text-sm font-bold tracking-tight">{completedChaptersCount}/114</span>
+        </div>
+        <div className="flex flex-col items-center gap-1.5">
+          <span className="text-zinc-500">Total Questions</span>
           <span className="text-white text-xs md:text-sm font-bold tracking-tight">{stats.total}</span>
         </div>
         <div className="flex flex-col items-center gap-1.5">
@@ -580,7 +609,7 @@ const App: React.FC = () => {
       <main 
         ref={mainRef} 
         onClick={() => setSelectedQuestionIndex(null)}
-        className="flex-1 overflow-y-auto no-scrollbar px-6 md:px-32 lg:px-[25%] py-8 select-none"
+        className="flex-1 overflow-y-auto custom-scrollbar px-6 md:px-32 lg:px-[25%] py-8 select-none"
       >
         {isLoading ? (
           <div className="h-full flex flex-col items-center justify-center animate-pulse gap-6">
@@ -602,7 +631,7 @@ const App: React.FC = () => {
 
             <div className="relative text-[1.25rem] md:text-[1.4rem] font-light text-justify leading-[1.8] tracking-tight">
               {currentSurahData.questions.map((q, idx) => {
-              const isCorrect = currentProgress.correctIds.includes(q.id);
+              const isWrong = currentProgress.wrongIds.includes(q.id);
               const isPast = idx < currentProgress.activeIndex;
               const isActive = idx === currentProgress.activeIndex;
               const isSelected = selectedQuestionIndex === idx;
@@ -610,7 +639,7 @@ const App: React.FC = () => {
 
               let colorClass = "text-zinc-400/70";
               if (isPast) {
-                colorClass = isCorrect ? "text-emerald-500/80" : "text-amber-500/80";
+                colorClass = !isWrong ? "text-emerald-500/80" : "text-amber-500/80";
               } else if (isActive) {
                 colorClass = "text-white";
               } else {
@@ -623,7 +652,7 @@ const App: React.FC = () => {
                     <span className={`
                       w-8 h-8 rounded-full border flex items-center justify-center text-[13px] font-premium font-bold transition-all duration-700 select-none
                       ${isActive ? 'bg-white text-black border-white shadow-[0_0_15px_rgba(255,255,255,0.3)]' : 
-                        isPast ? (isCorrect ? 'border-emerald-500/40 text-emerald-500/60 bg-emerald-500/5' : 'border-amber-500/40 text-amber-500/60 bg-amber-500/5') : 
+                        isPast ? (!isWrong ? 'border-emerald-500/40 text-emerald-500/60 bg-emerald-500/5' : 'border-amber-500/40 text-amber-500/60 bg-amber-500/5') : 
                         'border-white/20 text-zinc-400 bg-white/[0.05]'}
                     `}>
                       {idx + 1}
@@ -731,7 +760,7 @@ const App: React.FC = () => {
                 </div>
               </div>
 
-              <div className="flex-1 overflow-y-auto no-scrollbar mb-8 md:mb-10">
+              <div className="flex-1 overflow-y-auto custom-scrollbar mb-8 md:mb-10">
                 <div className="space-y-6 md:space-y-8">
                   <div className="p-6 md:p-8 bg-white/[0.03] border border-white/[0.05] rounded-[24px] md:rounded-[32px]">
                     <div className="flex items-center justify-between mb-4">
@@ -742,11 +771,11 @@ const App: React.FC = () => {
                       
                       {/* User Status Badge */}
                       <div className={`px-3 py-1 rounded-full border text-[9px] font-premium font-bold uppercase tracking-wider ${
-                        currentProgress.correctIds.includes(currentSurahData.questions[reviewIdx].id)
+                        !currentProgress.wrongIds.includes(currentSurahData.questions[reviewIdx].id)
                           ? 'bg-emerald-500/10 border-emerald-500/20 text-emerald-400'
                           : 'bg-amber-500/10 border-amber-500/20 text-amber-400'
                       }`}>
-                        {currentProgress.correctIds.includes(currentSurahData.questions[reviewIdx].id)
+                        {!currentProgress.wrongIds.includes(currentSurahData.questions[reviewIdx].id)
                           ? 'You knew this answer'
                           : 'You were not sure about this'}
                       </div>
@@ -775,8 +804,14 @@ const App: React.FC = () => {
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" /></svg>
                 </button>
-                <div className="flex flex-col items-center">
-                   <p className="text-[9px] md:text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-600">Navigate</p>
+                <div className="flex flex-col items-center gap-1.5">
+                  <div className="flex items-center gap-2">
+                    <svg className="w-3.5 h-3.5 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                    <p className="text-[10px] font-premium font-bold uppercase tracking-[0.15em] text-zinc-400">Answers are AI generated</p>
+                  </div>
+                  <p className="text-[9px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Double check for accuracy</p>
                 </div>
                 <button 
                   onClick={() => navigateReview('next')}

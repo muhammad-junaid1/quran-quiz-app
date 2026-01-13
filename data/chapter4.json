@@ -1,0 +1,60 @@
+
+    {
+      "id": 4,
+      "englishName": "An-Nisa",
+      "arabicName": "النِّسَاء",
+      "translation": "The Women",
+      "questions": [
+        {
+          "id": "ch4-q1",
+          "text": "Why is this Surah titled 'An-Nisa' (The Women)?",
+          "answer": "It deals extensively with the rights of women, including marriage, inheritance, legal protections, and their roles in the family and society."
+        },
+        {
+          "id": "ch4-q2",
+          "text": "What is the primary theme of the first verse of Surah An-Nisa?",
+          "answer": "Human equality and common origin, emphasizing that all mankind was created from a single soul (Adam) and its mate (Hawa)."
+        },
+        {
+          "id": "ch4-q3",
+          "text": "What does the Surah command regarding the property of orphans?",
+          "answer": "Believers are strictly forbidden from consuming the wealth of orphans or substituting their own inferior property for the orphans' superior property."
+        },
+        {
+          "id": "ch4-q4",
+          "text": "Under what specific condition does the Quran allow a man to marry up to four wives?",
+          "answer": "Only if he can treat them with absolute justice; if he fears he cannot be just, he must marry only one."
+        },
+        {
+          "id": "ch4-q5",
+          "text": "How does the Surah define the 'Mahram' (prohibited degrees) for marriage?",
+          "answer": "It lists specific relatives one cannot marry, including mothers, daughters, sisters, aunts, and those related through foster-suckling (Rada'ah)."
+        },
+        {
+          "id": "ch4-q6",
+          "text": "What is the 'Nisa' inheritance share for a daughter compared to a son?",
+          "answer": "The male generally receives a share equal to that of two females, as the male is traditionally responsible for the financial maintenance of the family."
+        },
+        {
+          "id": "ch4-q7",
+          "text": "According to Verse 48, which sin will Allah never forgive if a person dies without repenting from it?",
+          "answer": "Shirk (associating partners with Allah)."
+        },
+        {
+          "id": "ch4-q8",
+          "text": "What is the 'Qawwamun' role mentioned in Verse 34?",
+          "answer": "It describes men as protectors and maintainers of women, based on the physical and financial responsibilities Allah has assigned to them."
+        },
+        {
+          "id": "ch4-q9",
+          "text": "Who are the 'Ulul-Amr' mentioned in Verse 59 regarding obedience?",
+          "answer": "They are those in authority among the believers (scholarly or political leaders), whose obedience is required as long as it aligns with Allah and His Messenger."
+        },
+        {
+          "id": "ch4-q10",
+          "text": "What does the Quran say regarding the crucifixion of Prophet Isa (Jesus)?",
+          "answer": "Verse 157 clarifies that they did not kill him nor did they crucify him, but it was made to appear so to them; rather, Allah raised him to Himself."
+        }
+      ]
+    }
+    

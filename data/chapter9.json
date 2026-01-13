@@ -1,0 +1,58 @@
+{
+  "id": 9,
+  "englishName": "At-Tawbah",
+  "arabicName": "التوبة",
+  "translation": "The Repentance",
+  "questions": [
+    {
+      "id": "ch9-q1",
+      "text": "What is unique about the beginning of Surah At-Tawbah?",
+      "answer": "It is the only Surah in the Quran that does not begin with 'Bismillah-ir-Rahman-ir-Rahim'."
+    },
+    {
+      "id": "ch9-q2",
+      "text": "Why is there no 'Bismillah' at the start of this Surah?",
+      "answer": "Mainly because it is a continuation of Surah Al-Anfal, and it begins with a declaration of 'Bar'at' (disassociation/ultimatum), which is not compatible with the theme of 'Mercy' in the Basmalah."
+    },
+    {
+      "id": "ch9-q3",
+      "text": "Which expedition (battle) does this Surah primarily discuss?",
+      "answer": "The expedition to Tabuk."
+    },
+    {
+      "id": "ch9-q4",
+      "text": "What are the eight categories of people entitled to receive Zakat (Verse 60)?",
+      "answer": "The poor, the needy, those who collect Zakat, those whose hearts are to be reconciled, for freeing slaves, those in debt, in the cause of Allah, and the traveler."
+    },
+    {
+      "id": "ch9-q5",
+      "text": "What was 'Masjid al-Dirar'?",
+      "answer": "The 'Mosque of Harm' built by hypocrites to cause division and serve as a base for enemies; Allah commanded the Prophet (SAW) never to stand in it."
+    },
+    {
+      "id": "ch9-q6",
+      "text": "What is the significance of 'The Three who were left behind'?",
+      "answer": "Three sincere believers (including Ka'b bin Malik) who missed the Tabuk expedition without a valid excuse; they were boycotted for 50 days until Allah revealed their repentance was accepted."
+    },
+    {
+      "id": "ch9-q7",
+      "text": "How does the Surah describe the relationship between male and female believers?",
+      "answer": "They are 'Auliya' (allies/protectors) of one another, enjoining right and forbidding wrong."
+    },
+    {
+      "id": "ch9-q8",
+      "text": "What is 'Al-Ghar-ul-Thani' (the second of the two) referring to in Verse 40?",
+      "answer": "The Prophet (SAW) and Abu Bakr (RA) in the cave of Thawr during the Hijrah."
+    },
+    {
+      "id": "ch9-q9",
+      "text": "What is the 'sacredness' of the four months mentioned in Verse 36?",
+      "answer": "Wrongdoing (sin) is considered more grievous during these months, and they were traditionally months of no fighting."
+    },
+    {
+      "id": "ch9-q10",
+      "text": "How does the Surah conclude in its description of Prophet Muhammad (SAW)?",
+      "answer": "As one who is deeply concerned for the believers, kind, and merciful (Ra'uf, Rahim)."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": 100,
+    "englishName": "Al-Adiyat",
+    "arabicName": "العاديات",
+    "translation": "The Courser",
+    "questions": [
+        {
+            "id": "ch100-q1",
+            "text": "What does 'Al-Adiyat' mean?",
+            "answer": "The [Steeds] that run / The Coursers."
+        },
+        {
+            "id": "ch100-q2",
+            "text": "How are the steeds described in the first verse?",
+            "answer": "They run panting (Dab-ha)."
+        },
+        {
+            "id": "ch100-q3",
+            "text": "What do the steeds produce with their hooves?",
+            "answer": "Sparks of fire (Al-Muriyat)."
+        },
+        {
+            "id": "ch100-q4",
+            "text": "When do these steeds strike their enemies?",
+            "answer": "In the morning (Al-Mughirat)."
+        },
+        {
+            "id": "ch100-q5",
+            "text": "What do the steeds stir up in their wake?",
+            "answer": "Dust (Naq'a)."
+        },
+        {
+            "id": "ch100-q6",
+            "text": "How do the steeds arrive at the enemy?",
+            "answer": "In the center / middle of the assembly (Wasat-na)."
+        },
+        {
+            "id": "ch100-q7",
+            "text": "What is the statement Allah makes after these oaths?",
+            "answer": "Indeed, mankind is ungrateful (Kanud) to his Lord."
+        },
+        {
+            "id": "ch100-q8",
+            "text": "Is the human being a witness to his own ungratefulness?",
+            "answer": "Yes, 'And indeed, he is to that a witness' (Verse 7)."
+        },
+        {
+            "id": "ch100-q9",
+            "text": "What is man 'intense' in the love of (Verse 8)?",
+            "answer": "Wealth / Good things (Al-Khayr)."
+        },
+        {
+            "id": "ch100-q10",
+            "text": "What question does Allah ask regarding the graves?",
+            "answer": "'Does he not know that when the contents of the graves are scattered/overturned...?'"
+        },
+        {
+            "id": "ch100-q11",
+            "text": "What will be 'obtained' or 'brought out' from the breasts (hearts)?",
+            "answer": "What is within the breasts (intentions/secrets)."
+        },
+        {
+            "id": "ch100-q12",
+            "text": "How is Allah described at the end of the Surah regarding His knowledge?",
+            "answer": "As 'Al-Khabir' (All-Acquainted/All-Aware)."
+        },
+        {
+            "id": "ch100-q13",
+            "text": "What is 'Kanud'?",
+            "answer": "A person who is ungrateful, focusing only on calamities and forgetting blessings."
+        },
+        {
+            "id": "ch100-q14",
+            "text": "What is the significance of the horses in the opening verses?",
+            "answer": "They represent power, speed, and loyalty to their masters, contrasting with the human's lack of loyalty to Allah."
+        },
+        {
+            "id": "ch100-q15",
+            "text": "What is 'Al-Khayr' refer to in Verse 8?",
+            "answer": "Worldly wealth and possessions."
+        },
+        {
+            "id": "ch100-q16",
+            "text": "What is the 'scattering' of the graves?",
+            "answer": "The resurrection of the bodies."
+        },
+        {
+            "id": "ch100-q17",
+            "text": "Why will the secrets of the hearts be brought out?",
+            "answer": "Because judgment is based on the reality of a person's faith and intention, not just outward show."
+        },
+        {
+            "id": "ch100-q18",
+            "text": "Does Allah know the secrets of the hearts only on the Day of Judgment?",
+            "answer": "No, He is always aware, but on that Day, the awareness will be manifested to everyone."
+        },
+        {
+            "id": "ch100-q19",
+            "text": "What is the 'Morning Strike' (Sub-ha) signifying?",
+            "answer": "The suddenness and clarity of the coming judgment or military victory."
+        },
+        {
+            "id": "ch100-q20",
+            "text": "What is the main warning of Surah Al-Adiyat?",
+            "answer": "A warning against materialism and ungratefulness, reminding us of the final accountability of the heart."
+        }
+    ]
+}

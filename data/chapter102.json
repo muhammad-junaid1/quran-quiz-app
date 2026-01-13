@@ -1,84 +1,108 @@
 {
-  "id": 102,
-  "englishName": "At-Takathur",
-  "arabicName": "التكاثر",
-  "translation": "The Piling Up",
-  "revelationType": "Meccan",
-  "questions": [
-    { 
-      "id": "ch102-q1", 
-      "text": "What does 'At-Takathur' mean in the context of modern consumerism?", 
-      "answer": "It refers to the obsession with accumulating more wealth, status, and material possessions, which distracts people from their ultimate purpose in life." 
-    },
-    { 
-      "id": "ch102-q2", 
-      "text": "Does the competition in increase refer only to wealth, or can it include knowledge?", 
-      "answer": "While it primarily refers to worldly gains like wealth and children, it can also include competitive pride in lineage, followers, or even superficial religious knowledge used for boasting." 
-    },
-    { 
-      "id": "ch102-q3", 
-      "text": "What is the 'tricky' meaning of 'Hatta zurtumul-maqabir'—did they literally visit or just die?", 
-      "answer": "It means until you die and enter the graves. The use of 'visit' (zurtum) implies that the time in the grave is temporary compared to the eternal life of the Hereafter." 
-    },
-    { 
-      "id": "ch102-q4", 
-      "text": "Explain the difference between 'Ilm al-Yaqin' and 'Ayn al-Yaqin'.", 
-      "answer": "'Ilm al-Yaqin' is certainty based on knowledge and proof, while 'Ayn al-Yaqin' is certainty based on direct observation and seeing with one's own eyes." 
-    },
-    { 
-      "id": "ch102-q5", 
-      "text": "Why is the word 'Kalla' used twice as a deterrent?", 
-      "answer": "It is used to strongly rebuke and warn the listener, emphasizing the gravity of their distraction and the reality of the coming judgment." 
-    },
-    { 
-      "id": "ch102-q6", 
-      "text": "What is the 'Jahim' and when will the people see it?", 
-      "answer": "'Jahim' refers to the blazing fire of Hell. People will see it on the Day of Judgment as a stark reality they cannot deny." 
-    },
-    { 
-      "id": "ch102-q7", 
-      "text": "In the final verse, what are the 'blessings' (Na'im) we will be questioned about?", 
-      "answer": "It includes everything Allah has provided: health, time, food, water, safety, and our senses. We will be asked how we used these favors." 
-    },
-    { 
-      "id": "ch102-q8", 
-      "text": "Does this Surah suggest that being wealthy is inherently sinful?", 
-      "answer": "No, wealth itself is not sinful; the sin lies in the obsession (Takathur) that distracts one from remembering Allah and fulfilling religious obligations." 
-    },
-    { 
-      "id": "ch102-q9", 
-      "text": "How does the sound of the Arabic words in this Surah mimic a heartbeat or ticking clock?", 
-      "answer": "The rhythmic end-rhymes (un, ir, in) and the heavy emphasis on words like 'Kalla' and 'Sawfa' create a sense of urgency and the inevitable passage of time." 
-    },
-    { 
-      "id": "ch102-q10", 
-      "text": "Is 'Takathur' a physical state or a psychological obsession?", 
-      "answer": "It is primarily a psychological obsession—the inner drive and greed for more—that manifests as the physical accumulation of worldly items." 
-    },
-    { 
-      "id": "ch102-q11", 
-      "text": "What is the historical reason for the revelation (Sabab al-Nuzul) of this Surah?", 
-      "answer": "It was revealed regarding two tribes of the Quraish who competed with each other in boasting about their numbers, even going to the graveyards to count their dead ancestors." 
-    },
-    { 
-      "id": "ch102-q12", 
-      "text": "How does this Surah serve as a psychological wake-up call?", 
-      "answer": "It forces the reader to confront the reality of death and the futility of chasing temporary worldly status at the expense of eternal success." 
-    },
-    { 
-      "id": "ch102-q13", 
-      "text": "Compare the 'certainty' mentioned here with the 'certainty' in Surah Al-Waqiah.", 
-      "answer": "Both emphasize 'Haqq al-Yaqin' (Absolute Certainty). This Surah focuses on the warning of Hell, while Al-Waqiah describes the certainty of the overall Day of Resurrection." 
-    },
-    { 
-      "id": "ch102-q14", 
-      "text": "Does 'visiting the graves' imply that the dead are still actively competing?", 
-      "answer": "No, it refers to the living who were so obsessed with numbers that they went to count the dead to prove their tribe's greatness, or simply that death stops their worldly competition." 
-    },
-    { 
-      "id": "ch102-q15", 
-      "text": "How can one practically overcome the 'Takathur' mindset in a digital age?", 
-      "answer": "By practicing gratitude (Shukr), limit-setting on social media, prioritizing spiritual goals, and regularly reflecting on death and the purpose of existence." 
-    }
-  ]
+    "id": 102,
+    "englishName": "At-Takathur",
+    "arabicName": "التكاثر",
+    "translation": "Competition in Increase",
+    "questions": [
+        {
+            "id": "ch102-q1",
+            "text": "What does 'At-Takathur' mean?",
+            "answer": "Competition in increase (of worldly things) or mutual rivalry in accumulation."
+        },
+        {
+            "id": "ch102-q2",
+            "text": "What 'distracts' the people according to Verse 1?",
+            "answer": "The mutual rivalry in seeking more wealth, status, and children."
+        },
+        {
+            "id": "ch102-q3",
+            "text": "Until when does this distraction continue for many?",
+            "answer": "Until they visit the graves (death)."
+        },
+        {
+            "id": "ch102-q4",
+            "text": "What is the repeated warning in Verses 3 and 4?",
+            "answer": "Nay, you are going to know; then nay, you are going to know (the reality of your choices)."
+        },
+        {
+            "id": "ch102-q5",
+            "text": "What is 'Ilm al-Yaqin'?",
+            "answer": "The Knowledge of Certainty (intellectual certainty through revelation)."
+        },
+        {
+            "id": "ch102-q6",
+            "text": "What will everyone surely see according to Verse 6?",
+            "answer": "Hellfire (Al-Jahim)."
+        },
+        {
+            "id": "ch102-q7",
+            "text": "What is 'Ayn al-Yaqin'?",
+            "answer": "The Eye of Certainty (seeing the reality with one's own eyes)."
+        },
+        {
+            "id": "ch102-q8",
+            "text": "What will happen on that Day regarding 'favors' (An-Na'im)?",
+            "answer": "Every person will be questioned about the blessings and favors they enjoyed in the world."
+        },
+        {
+            "id": "ch102-q9",
+            "text": "What are some examples of 'Na'im' (favors) we will be asked about?",
+            "answer": "Health, time, wealth, food, water, and our senses."
+        },
+        {
+            "id": "ch102-q10",
+            "text": "Does 'visiting the graves' mean just visiting a cemetery?",
+            "answer": "No, it is a euphemism for death and entering the grave as an inhabitant."
+        },
+        {
+            "id": "ch102-q11",
+            "text": "What is the core disease of the heart addressed in this Surah?",
+            "answer": "Materialism and being consumed by worldly competition at the expense of the Hereafter."
+        },
+        {
+            "id": "ch102-q12",
+            "text": "How does 'Ilm al-Yaqin' differ from 'Ayn al-Yaqin'?",
+            "answer": "One is knowing the truth now through faith; the other is seeing it later as a reality."
+        },
+        {
+            "id": "ch102-q13",
+            "text": "Why is 'Nay' (Kalla) used in this Surah?",
+            "answer": "To strongly rebuke and stop people from their current path of distraction."
+        },
+        {
+            "id": "ch102-q14",
+            "text": "Is seeking wealth forbidden in Islam based on this Surah?",
+            "answer": "No, it is the *rivalry* and *distraction* that leads to neglecting Allah that is condemned."
+        },
+        {
+            "id": "ch102-q15",
+            "text": "What is 'Haqq al-Yaqin' (mentioned in other Surahs) compared to these?",
+            "answer": "It is the 'Absolute Truth' of experiencing the reality, such as entering Paradise or Hell."
+        },
+        {
+            "id": "ch102-q16",
+            "text": "What should be the believer's response to the favors of Allah?",
+            "answer": "Gratitude (Shukr) and using them in ways that please Him."
+        },
+        {
+            "id": "ch102-q17",
+            "text": "Does this Surah imply that death ends the distraction?",
+            "answer": "Yes, but by then it is too late to change one's deeds."
+        },
+        {
+            "id": "ch102-q18",
+            "text": "What is the tone of the warning in the middle of the Surah?",
+            "answer": "Severe and repetitive to ensure the reader wakes up from heedlessness."
+        },
+        {
+            "id": "ch102-q19",
+            "text": "How many times will people be questioned about favors?",
+            "answer": "It will be an exhaustive questioning on the Day of Judgment."
+        },
+        {
+            "id": "ch102-q20",
+            "text": "What is the final word of the Surah?",
+            "answer": "An-Na'im (The Favors/Blessings)."
+        }
+    ]
 }
