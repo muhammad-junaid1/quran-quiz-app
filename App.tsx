@@ -32,26 +32,20 @@ const App: React.FC = () => {
   const [user, setUser] = useState<User | null>(null);
   const [isAuthLoading, setIsAuthLoading] = useState(true);
   const [isDataLoading, setIsDataLoading] = useState(false);
+  const [hasLoadedInitialData, setHasLoadedInitialData] = useState(false);
   const [state, setState] = useState<MultiSurahState>(getInitialProgress);
 
   // Load user data when user is available
   useEffect(() => {
     const loadUserData = async () => {
-      if (!user?.email) return;
+      if (!user?.email) {
+        setHasLoadedInitialData(false);
+        return;
+      }
       
       const userKey = `quran_furqan_progress_${user.email}`;
-      const saved = localStorage.getItem(userKey);
       
-      if (saved) {
-        try {
-          setState(JSON.parse(saved));
-          return;
-        } catch (e) {
-          console.error("Error parsing saved progress", e);
-        }
-      }
-
-      // If not in local storage, try fetching from Supabase
+      // Fetch from Supabase on refresh/login
       setIsDataLoading(true);
       try {
         const { data, error } = await supabase
@@ -64,18 +58,37 @@ const App: React.FC = () => {
           setState(data.progress_data);
           localStorage.setItem(userKey, JSON.stringify(data.progress_data));
         } else {
-          setState(getInitialProgress());
+          // If not in Supabase, check local storage as backup
+          const saved = localStorage.getItem(userKey);
+          if (saved) {
+            try {
+              const parsed = JSON.parse(saved);
+              setState(parsed);
+            } catch (e) {
+              setState(getInitialProgress());
+            }
+          } else {
+            setState(getInitialProgress());
+          }
         }
       } catch (err) {
         console.error("Error fetching from Supabase", err);
-        setState(getInitialProgress());
+        const saved = localStorage.getItem(userKey);
+        if (saved) {
+          try {
+            setState(JSON.parse(saved));
+          } catch (e) {
+            setState(getInitialProgress());
+          }
+        }
       } finally {
         setIsDataLoading(false);
+        setHasLoadedInitialData(true);
       }
     };
 
     loadUserData();
-  }, [user]);
+  }, [user?.email]);
 
   // Check for first-time instructions
   useEffect(() => {
@@ -106,15 +119,20 @@ const App: React.FC = () => {
 
   // Sync to Supabase every 1 minute
   useEffect(() => {
-    if (!user?.email) return;
+    if (!user?.email || !hasLoadedInitialData) return;
 
     const syncToSupabase = async () => {
+      // Fetch the latest state from local storage to ensure we're syncing what the user has locally
+      const userKey = `quran_furqan_progress_${user.email}`;
+      const saved = localStorage.getItem(userKey);
+      if (!saved) return;
+
       try {
         const { error } = await supabase
           .from('user_progress')
           .upsert({ 
             email: user.email, 
-            progress_data: state,
+            progress_data: JSON.parse(saved),
             last_synced: new Date().toISOString()
           }, { onConflict: 'email' });
         
@@ -127,11 +145,8 @@ const App: React.FC = () => {
 
     const interval = setInterval(syncToSupabase, 60000); // 60,000ms = 1 minute
     
-    // Also sync immediately when user logs in or state changes significantly
-    syncToSupabase();
-
     return () => clearInterval(interval);
-  }, [user?.email, state]);
+  }, [user?.email, hasLoadedInitialData]);
 
   useEffect(() => {
     // Check current session
@@ -177,6 +192,7 @@ const App: React.FC = () => {
   const [shareStatus, setShareStatus] = useState<'idle' | 'success'>('idle');
   const [isGeneratingReviewImage, setIsGeneratingReviewImage] = useState(false);
   const [isActionDisabled, setIsActionDisabled] = useState(false);
+  const [profileImageError, setProfileImageError] = useState(false);
   
   const dropdownRef = useRef<HTMLDivElement>(null);
   const shareCardRef = useRef<HTMLDivElement>(null);
@@ -349,8 +365,13 @@ const App: React.FC = () => {
         quality: 1, 
         pixelRatio: 3,
         backgroundColor: '#0a0a0a',
-        cacheBust: true, // Help with image caching/CORS issues
+        cacheBust: true,
+        style: {
+          transform: 'scale(1)',
+          transformOrigin: 'top left',
+        },
       });
+
       const link = document.createElement('a');
       link.download = `quranfurqan-progress.png`;
       link.href = dataUrl;
@@ -380,7 +401,12 @@ const App: React.FC = () => {
         pixelRatio: 3,
         backgroundColor: '#0a0a0a',
         cacheBust: true,
+        style: {
+          transform: 'scale(1)',
+          transformOrigin: 'top left',
+        },
       });
+
       const link = document.createElement('a');
       link.download = `quranfurqan-review-ch${currentRegistryItem.id}-q${reviewIdx + 1}.png`;
       link.href = dataUrl;
@@ -428,18 +454,25 @@ const App: React.FC = () => {
           <div className="w-full bg-[#0d0d0d] border-b border-white/[0.05] px-4 md:px-6 py-3 md:py-4 flex justify-center items-center z-[60]">
             <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 w-full relative">
               <div className="flex items-center gap-4">
-                {user.user_metadata?.avatar_url ? (
-                  <img src={user.user_metadata.avatar_url} alt="Profile" className="w-9 h-9 md:w-10 md:h-10 rounded-full border border-white/10" />
+                {user.user_metadata?.avatar_url && !profileImageError ? (
+                  <img 
+                    src={user.user_metadata.avatar_url} 
+                    alt="Profile" 
+                    className="w-9 h-9 md:w-10 md:h-10 rounded-full border border-white/10" 
+                    onError={() => setProfileImageError(true)}
+                  />
                 ) : (
                   <div className="w-9 h-9 md:w-10 md:h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center">
-                    <span className="text-xs md:text-sm font-bold text-zinc-400">{(user.email?.[0] || 'U').toUpperCase()}</span>
+                    <span className="text-xs md:text-sm font-bold text-zinc-400">{(user.user_metadata?.full_name?.[0] || user.email?.[0] || 'U').toUpperCase()}</span>
                   </div>
                 )}
                 <div className="flex flex-col">
-                  <span className="text-sm md:text-base font-premium font-semibold text-white leading-tight tracking-tight">{user.user_metadata?.full_name || user.email?.split('@')[0]}</span>
+                  <span className="text-sm md:text-base font-premium font-semibold text-white leading-tight tracking-tight">
+                    {user.user_metadata?.full_name || user.user_metadata?.name || user.email?.split('@')[0]}
+                  </span>
                   <span className="text-[10px] md:text-[11px] font-premium font-medium text-emerald-400/80 uppercase tracking-[0.15em] md:tracking-[0.2em] mt-1">
                     {globalProgress}% Completed
-        </span>
+                  </span>
                 </div>
               </div>
               
@@ -614,7 +647,7 @@ const App: React.FC = () => {
                       question-span transition-all duration-700 px-2 py-1.5 rounded-xl inline decoration-emerald-500/20 underline-offset-8
                       ${!isFuture ? 'cursor-pointer' : 'cursor-default'}
                       ${colorClass}
-                      ${isActive ? 'bg-white/10 border border-white/20 backdrop-blur-sm shadow-[0_0_25px_rgba(255,255,255,0.05)]' : ''}
+                      ${isActive ? 'bg-white/10 border border-white/20 shadow-[0_0_25px_rgba(255,255,255,0.05)]' : ''}
                       ${isSelected && !isActive ? 'bg-white/5 border border-white/30 shadow-[0_0_15px_rgba(255,255,255,0.05)]' : ''}
                     `}
                   >
@@ -685,7 +718,7 @@ const App: React.FC = () => {
                 <div className="flex items-center gap-2 w-full md:w-auto">
                   <button 
                     onClick={() => setIsReviewShareModalOpen(true)}
-                    className="flex-1 md:flex-none px-4 md:px-5 py-3 bg-emerald-500/10 border border-emerald-500/20 rounded-2xl text-emerald-400 hover:bg-emerald-500 hover:text-white transition-all flex items-center justify-center gap-2.5 group"
+                    className="flex-1 md:flex-none px-4 md:px-5 py-3 bg-white/5 border border-white/10 rounded-2xl text-zinc-300 hover:text-white hover:bg-white/10 transition-all flex items-center justify-center gap-2.5 group"
                   >
                     <svg className="w-4 h-4 group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
@@ -701,9 +734,22 @@ const App: React.FC = () => {
               <div className="flex-1 overflow-y-auto no-scrollbar mb-8 md:mb-10">
                 <div className="space-y-6 md:space-y-8">
                   <div className="p-6 md:p-8 bg-white/[0.03] border border-white/[0.05] rounded-[24px] md:rounded-[32px]">
-                    <div className="flex items-center gap-3 mb-4">
-                      <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
-                      <p className="text-xs md:text-sm font-premium font-bold uppercase tracking-[0.2em] text-white">Question {reviewIdx + 1} of {currentSurahData.questions.length}</p>
+                    <div className="flex items-center justify-between mb-4">
+                      <div className="flex items-center gap-3">
+                        <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
+                        <p className="text-xs md:text-sm font-premium font-bold uppercase tracking-[0.2em] text-white">Question {reviewIdx + 1} of {currentSurahData.questions.length}</p>
+                      </div>
+                      
+                      {/* User Status Badge */}
+                      <div className={`px-3 py-1 rounded-full border text-[9px] font-premium font-bold uppercase tracking-wider ${
+                        currentProgress.correctIds.includes(currentSurahData.questions[reviewIdx].id)
+                          ? 'bg-emerald-500/10 border-emerald-500/20 text-emerald-400'
+                          : 'bg-amber-500/10 border-amber-500/20 text-amber-400'
+                      }`}>
+                        {currentProgress.correctIds.includes(currentSurahData.questions[reviewIdx].id)
+                          ? 'You knew this answer'
+                          : 'You were not sure about this'}
+                      </div>
                     </div>
                     <p className="text-base md:text-lg text-zinc-400 font-light leading-relaxed italic">
                       "{currentSurahData.questions[reviewIdx].text}"
@@ -1048,7 +1094,7 @@ const App: React.FC = () => {
       )}
 
       {/* Hidden Share Card for Image Generation */}
-      <div className="fixed -left-[9999px] top-0">
+      <div className="fixed -left-[9999px] top-0 opacity-0 pointer-events-none">
         <div 
           ref={shareCardRef}
           className="w-[540px] p-12 bg-[#0a0a0a] text-zinc-300 font-sans relative overflow-hidden flex flex-col items-center"
@@ -1073,20 +1119,23 @@ const App: React.FC = () => {
           {/* User Profile Card */}
           {user && (
             <div className="w-full flex items-center gap-5 mb-10 bg-white/[0.02] border border-white/[0.05] p-6 rounded-[24px]">
-              {user.user_metadata?.avatar_url ? (
+              {user.user_metadata?.avatar_url && !profileImageError ? (
                 <img 
                   src={user.user_metadata.avatar_url} 
                   alt="Profile" 
                   crossOrigin="anonymous"
                   className="w-12 h-12 rounded-full border border-white/10 shadow-lg" 
+                  onError={() => setProfileImageError(true)}
                 />
               ) : (
                 <div className="w-12 h-12 rounded-full bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center">
-                  <span className="text-lg font-bold text-emerald-400">{(user.email?.[0] || 'U').toUpperCase()}</span>
+                  <span className="text-lg font-bold text-emerald-400">{(user.user_metadata?.full_name?.[0] || user.email?.[0] || 'U').toUpperCase()}</span>
                 </div>
               )}
               <div className="flex flex-col">
-                <span className="text-lg font-premium font-semibold text-white tracking-tight leading-tight">{user.user_metadata?.full_name || user.email?.split('@')[0]}</span>
+                <span className="text-lg font-premium font-semibold text-white tracking-tight leading-tight">
+                  {user.user_metadata?.full_name || user.user_metadata?.name || user.email?.split('@')[0]}
+                </span>
               </div>
             </div>
           )}
@@ -1145,7 +1194,7 @@ const App: React.FC = () => {
       </div>
 
       {/* Hidden Review Share Card for Image Generation */}
-      <div className="fixed -left-[9999px] top-0">
+      <div className="fixed -left-[9999px] top-0 opacity-0 pointer-events-none">
         <div 
           ref={reviewShareCardRef}
           className="w-[540px] p-12 bg-[#0a0a0a] text-zinc-300 font-sans relative overflow-hidden flex flex-col items-center"
