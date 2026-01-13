@@ -148,11 +148,23 @@ const App: React.FC = () => {
     supabase.auth.getSession().then(({ data: { session } }) => {
       setUser(session?.user ?? null);
       setIsAuthLoading(false);
+      // After first check, subsequent auth changes should trigger showApp
+      setTimeout(() => {
+        isFirstAuthCheck.current = false;
+      }, 500);
     });
 
     // Listen for auth changes
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
       setUser(session?.user ?? null);
+      if (session) {
+        // Only auto-open if it's a fresh login (not the initial load check)
+        if (!isFirstAuthCheck.current) {
+          setShowApp(true);
+        }
+      } else {
+        setShowApp(false);
+      }
     });
 
     return () => subscription.unsubscribe();
@@ -170,6 +182,7 @@ const App: React.FC = () => {
 
   const handleSignOut = async () => {
     await supabase.auth.signOut();
+    setShowApp(false);
   };
 
   const [currentSurahData, setCurrentSurahData] = useState<Surah | null>(null);
@@ -188,6 +201,9 @@ const App: React.FC = () => {
   const [isGeneratingReviewImage, setIsGeneratingReviewImage] = useState(false);
   const [isActionDisabled, setIsActionDisabled] = useState(false);
   const [profileImageError, setProfileImageError] = useState(false);
+  const [showApp, setShowApp] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const isFirstAuthCheck = useRef(true);
   
   const dropdownRef = useRef<HTMLDivElement>(null);
   const shareCardRef = useRef<HTMLDivElement>(null);
@@ -200,6 +216,7 @@ const App: React.FC = () => {
     const handleClickOutside = (event: MouseEvent) => {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
         setIsDropdownOpen(false);
+        setSearchQuery('');
       }
     };
 
@@ -454,13 +471,12 @@ const App: React.FC = () => {
             {isAuthLoading ? 'Loading App...' : 'Syncing Your Progress...'}
           </p>
         </div>
-      ) : !user ? (
-        <LandingPage onSignIn={handleGoogleSignIn} />
       ) : (
         <>
           {/* Top User Info Strip */}
-          <div className="w-full bg-[#0d0d0d] border-b border-white/[0.05] px-4 md:px-6 py-3 md:py-4 flex justify-center items-center z-[60]">
-            <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 w-full relative">
+          {user && (
+            <div className="w-full bg-[#0d0d0d] border-b border-white/[0.05] px-4 md:px-6 py-3 md:py-4 flex justify-center items-center z-[60] shrink-0">
+              <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8 w-full relative">
               <div className="flex items-center gap-4">
                 {user.user_metadata?.avatar_url && !profileImageError ? (
                   <img 
@@ -522,7 +538,14 @@ const App: React.FC = () => {
               </button>
             </div>
           </div>
+          )}
 
+          {!showApp ? (
+            <div className="flex-1 overflow-y-auto custom-scrollbar">
+              <LandingPage onSignIn={user ? () => setShowApp(true) : handleGoogleSignIn} user={user} />
+            </div>
+          ) : (
+            <>
       {/* Header */}
       <header className="glass-panel sticky top-0 z-50 px-4 md:px-8 py-4 md:py-5 flex items-center justify-between">
         <button onClick={() => navigateSurah('prev')} className="p-2 md:p-2.5 text-zinc-500 hover:text-white transition-all duration-300 hover:bg-white/5 rounded-full">
@@ -530,7 +553,10 @@ const App: React.FC = () => {
         </button>
 
         <div className="relative" ref={dropdownRef}>
-          <button onClick={() => setIsDropdownOpen(!isDropdownOpen)} className="flex flex-col items-center text-center group">
+          <button onClick={() => {
+            setIsDropdownOpen(!isDropdownOpen);
+            if (isDropdownOpen) setSearchQuery('');
+          }} className="flex flex-col items-center text-center group">
             <div className="flex items-center gap-2 md:gap-3">
               <span className="text-2xl md:text-3xl font-arabic text-white leading-none">{currentRegistryItem.arabicName}</span>
               <span className="text-lg md:text-xl font-premium font-medium text-white tracking-tight">{currentRegistryItem.englishName}</span>
@@ -540,34 +566,76 @@ const App: React.FC = () => {
           </button>
 
           {isDropdownOpen && (
-            <div className="absolute top-full left-1/2 -translate-x-1/2 mt-6 w-80 bg-[#0d0d0d] border border-white/[0.08] rounded-[24px] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.7)] animate-in fade-in slide-in-from-top-4 duration-300 z-[100]">
-              <div className="max-h-[60vh] overflow-y-auto custom-scrollbar">
-              {SURAHS_REGISTRY.map(s => {
-                const p = getSurahProgressPercent(s.id);
-                const isFinished = p === 100;
-                return (
-                    <button key={s.id} onClick={() => selectSurah(s.id)} className={`w-full px-6 py-5 flex items-center justify-between hover:bg-white/[0.05] transition-all border-b border-white/[0.03] last:border-0 ${s.id === state.currentSurahId ? 'bg-white/[0.03]' : ''}`}>
-                    <div className="text-left">
-                        <div className="flex items-center gap-2 mb-1">
-                          <span className={`text-[9px] px-1.5 py-0.5 rounded-md font-bold tracking-tighter transition-all ${isFinished ? 'bg-emerald-500 text-black shadow-[0_0_12px_rgba(16,185,129,0.3)]' : s.id === state.currentSurahId ? 'bg-emerald-500/20 text-emerald-400' : 'bg-zinc-800 text-zinc-400'}`}>
-                            {isFinished ? 'DONE 100%' : `${p}%`}
-                          </span>
-                          <span className="text-[8px] text-zinc-500 font-bold uppercase tracking-[0.2em]">{s.totalQuestions} Questions</span>
-                        </div>
-                        <p className={`text-base font-premium font-semibold ${s.id === state.currentSurahId ? 'text-white' : 'text-zinc-200'}`}>{s.englishName}</p>
-                        <p className={`text-[11px] font-premium uppercase tracking-wider mt-0.5 ${s.id === state.currentSurahId ? 'text-zinc-400' : 'text-zinc-500'}`}>{s.translation}</p>
-                      </div>
-                      <div className="flex items-center gap-3">
-                        {isFinished && (
-                          <svg className="w-4 h-4 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
-                          </svg>
-                        )}
-                        <span className={`text-2xl font-arabic transition-colors ${isFinished ? 'text-emerald-400' : s.id === state.currentSurahId ? 'text-white' : 'text-zinc-500'}`}>{s.arabicName}</span>
-                      </div>
-                  </button>
+            <div className="absolute top-full left-1/2 -translate-x-1/2 mt-6 w-80 bg-[#0d0d0d] border border-white/[0.08] rounded-[32px] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.7)] animate-in fade-in slide-in-from-top-4 duration-300 z-[100]">
+              <div className="p-4 border-b border-white/[0.05]">
+                <div className="relative">
+                  <svg className="absolute left-4 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                  </svg>
+                  <input 
+                    type="text"
+                    placeholder="Search chapter..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    autoFocus
+                    className="w-full bg-white/[0.03] border border-white/10 rounded-2xl py-3 pl-11 pr-4 text-xs font-premium text-white placeholder:text-zinc-600 focus:outline-none focus:border-emerald-500/30 transition-all"
+                  />
+                </div>
+              </div>
+              <div className="max-h-[50vh] overflow-y-auto custom-scrollbar pb-2">
+              {(() => {
+                const filtered = SURAHS_REGISTRY.filter(s => 
+                  s.englishName.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                  s.translation.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                  s.id.toString().includes(searchQuery)
                 );
-              })}
+                
+                if (filtered.length === 0) {
+                  return (
+                    <div className="flex flex-col items-center justify-center py-12 px-6 text-center">
+                      <div className="w-12 h-12 bg-white/[0.03] rounded-2xl flex items-center justify-center mb-4 border border-white/5">
+                        <svg className="w-5 h-5 text-zinc-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.172 9.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      </div>
+                      <p className="text-[11px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">No chapters found</p>
+                      <p className="text-[10px] text-zinc-600 mt-2 font-medium uppercase tracking-wider">Try searching name or number</p>
+                    </div>
+                  );
+                }
+
+                return filtered.map(s => {
+                  const p = getSurahProgressPercent(s.id);
+                  const isFinished = p === 100;
+                  return (
+                      <button key={s.id} onClick={() => {
+                        selectSurah(s.id);
+                        setSearchQuery('');
+                      }} className={`w-full px-6 py-4 flex items-center justify-between hover:bg-white/[0.05] transition-all border-b border-white/[0.03] last:border-0 ${s.id === state.currentSurahId ? 'bg-white/[0.03]' : ''}`}>
+                      <div className="flex items-center gap-4">
+                          <span className="text-[10px] font-premium font-bold text-zinc-500 w-4">{s.id}</span>
+                          <div className="text-left">
+                            <div className="flex items-center gap-2 mb-0.5">
+                              <span className={`text-[8px] px-1.5 py-0.5 rounded-md font-bold tracking-tighter transition-all ${isFinished ? 'bg-emerald-500 text-black shadow-[0_0_12px_rgba(16,185,129,0.3)]' : s.id === state.currentSurahId ? 'bg-emerald-500/20 text-emerald-400' : 'bg-zinc-800 text-zinc-400'}`}>
+                                {isFinished ? 'DONE 100%' : `${p}%`}
+                              </span>
+                            </div>
+                            <p className={`text-sm md:text-base font-premium font-semibold ${s.id === state.currentSurahId ? 'text-white' : 'text-zinc-200'}`}>{s.englishName}</p>
+                            <p className={`text-[10px] font-premium uppercase tracking-wider mt-0.5 ${s.id === state.currentSurahId ? 'text-zinc-400' : 'text-zinc-500'}`}>{s.translation}</p>
+                          </div>
+                        </div>
+                        <div className="flex items-center gap-3">
+                          {isFinished && (
+                            <svg className="w-3.5 h-3.5 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                            </svg>
+                          )}
+                          <span className={`text-xl font-arabic transition-colors ${isFinished ? 'text-emerald-400' : s.id === state.currentSurahId ? 'text-white' : 'text-zinc-500'}`}>{s.arabicName}</span>
+                        </div>
+                    </button>
+                  );
+                });
+              })()}
               </div>
             </div>
           )}
@@ -581,11 +649,7 @@ const App: React.FC = () => {
       {/* Stats Dashboard */}
       <div className="bg-[#080808]/80 backdrop-blur-md border-b border-white/[0.08] py-3 md:py-4 px-4 md:px-6 flex flex-wrap items-center justify-center gap-6 md:gap-16 text-[9px] md:text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-400 z-40 relative">
         <div className="flex flex-col items-center gap-1.5">
-          <span className="text-zinc-500">Chapters</span>
-          <span className="text-white text-xs md:text-sm font-bold tracking-tight">{completedChaptersCount}/114</span>
-        </div>
-        <div className="flex flex-col items-center gap-1.5">
-          <span className="text-zinc-500">Total Questions</span>
+          <span className="text-zinc-500">Total</span>
           <span className="text-white text-xs md:text-sm font-bold tracking-tight">{stats.total}</span>
         </div>
         <div className="flex flex-col items-center gap-1.5">
@@ -724,6 +788,8 @@ const App: React.FC = () => {
           </button>
         )}
       </div>
+            </>
+          )}
 
       {/* Review Modal */}
       {isReviewOpen && currentSurahData && (
