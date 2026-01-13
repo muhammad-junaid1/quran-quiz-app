@@ -1,10 +1,27 @@
-import React from 'react';
+import React, { useState } from 'react';
+import BankLogo from "../assets/bank-logo.png"; 
 
 interface LandingPageProps {
   onSignIn: () => void;
 }
 
 const LandingPage: React.FC<LandingPageProps> = ({ onSignIn }) => {
+  const [copied, setCopied] = useState(false);
+
+  const bankInfo = {
+    bank: "Allied Bank Limited",
+    accountTitle: "Muhammad Junaid",
+    accountNumber: "11130010154122580018",
+    iban: "PK24ABPA0010154122580018",
+  };
+
+  const handleCopy = () => {
+    const text = `Bank: ${bankInfo.bank}\nTitle: ${bankInfo.accountTitle}\nAccount: ${bankInfo.accountNumber}\nIBAN: ${bankInfo.iban}`;
+    navigator.clipboard.writeText(text);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
   return (
     <div className="min-h-screen w-full bg-[#0a0a0a] text-zinc-300 font-sans selection:bg-emerald-500/20 overflow-x-hidden">
       {/* Background Orbs */}
@@ -19,7 +36,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn }) => {
               <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.976 8.976 0 00-1.318.236 1 1 0 01-1.091-.637 2.993 2.993 0 00-.816-1.112c-.4-.307-.862-.533-1.352-.667z" />
             </svg>
           </div>
-          <span className="text-xl font-premium font-semibold text-white tracking-tight">QuranQuiz</span>
+          <span className="text-xl font-premium font-semibold text-white tracking-tight">QuranFurqan</span>
         </div>
       </nav>
 
@@ -87,9 +104,93 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn }) => {
         </div>
       </main>
 
+      {/* Support Section */}
+      <section className="relative z-10 px-8 py-32 max-w-5xl mx-auto border-t border-white/[0.05]">
+        <div className="flex flex-col items-center text-center">
+          <div className="w-16 h-16 bg-emerald-500/10 rounded-2xl flex items-center justify-center mb-8 ring-1 ring-emerald-500/20">
+            <svg className="w-8 h-8 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+            </svg>
+          </div>
+          
+          <h2 className="text-3xl md:text-4xl font-premium font-light text-white mb-4 tracking-tight">Support My Journey</h2>
+          <p className="text-zinc-500 max-w-xl mb-12 font-light leading-relaxed">
+            Help me perform Umrah. If this app has been meaningful to you, your support would help me reach this spiritual milestone.
+          </p>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full">
+        
+            {/* Bank Transfer Option */}
+            <div className="p-8 bg-white/[0.02] border border-white/[0.05] rounded-[32px] flex flex-col items-center justify-between transition-all">
+              <div className="text-center mb-10">
+                <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500 mb-2">Local Support (Pakistan)</p>
+                <h3 className="text-xl font-premium font-semibold text-white">Bank Transfer</h3>
+              </div>
+              
+              <div className="mb-12 flex flex-col items-center gap-4">
+                <img src={BankLogo} alt="Allied Bank Logo" className="h-14 w-auto object-contain brightness-110" />
+                <p className="text-[10px] text-zinc-500 uppercase tracking-[0.4em] font-medium">Allied Bank Limited</p>
+              </div>
+
+              <button 
+                onClick={handleCopy}
+                className="w-full py-4 bg-white/5 border border-white/10 rounded-2xl text-zinc-300 text-xs font-premium font-bold uppercase tracking-[0.2em] hover:bg-white/10 transition-all flex items-center justify-center gap-2"
+              >
+                {copied ? (
+                  <>
+                    <svg className="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Copied All Details
+                  </>
+                ) : (
+                  <>
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3" />
+                    </svg>
+                    Copy Details
+                  </>
+                )}
+              </button>
+            </div>
+
+                {/* RapidoConnect Option */}
+                <div className="p-8 bg-white/[0.02] border border-white/[0.05] rounded-[32px] flex flex-col items-center justify-between group hover:border-emerald-500/20 transition-all">
+                  <div className="text-center mb-10">
+                    <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500 mb-2">Global Support</p>
+                    <h3 className="text-xl font-premium font-semibold text-white">Direct Transfer</h3>
+                  </div>
+                  
+                  <div className="mb-12 flex flex-col items-center">
+                    <div className="flex flex-col items-center gap-1">
+                      <span className="text-4xl font-bold text-white tracking-tighter uppercase">Share</span>
+                      <div className="flex items-center gap-1.5 mt-1">
+                        <span className="text-[10px] text-zinc-500 font-medium">powered by</span>
+                        <div className="flex items-center">
+                          <span className="text-sm font-bold text-white tracking-tight">rapido</span>
+                          <span className="text-sm font-bold text-emerald-400 tracking-tight">connect</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <a 
+                    href="https://rapido.com/share/YOUR_ID" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="w-full py-4 bg-emerald-500/10 border border-emerald-500/20 rounded-2xl text-emerald-400 text-xs font-premium font-bold uppercase tracking-[0.2em] hover:bg-emerald-500 hover:text-white transition-all text-center"
+                  >
+                    Send Support
+                  </a>
+                </div>
+
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="relative z-10 py-20 px-8 border-t border-white/[0.05]">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-12">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex flex-col items-center md:items-start gap-4">
             <div className="flex items-center gap-3">
               <div className="w-8 h-8 bg-emerald-500/10 rounded-lg flex items-center justify-center ring-1 ring-emerald-500/20">
@@ -97,11 +198,8 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn }) => {
                   <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.976 8.976 0 00-1.318.236 1 1 0 01-1.091-.637 2.993 2.993 0 00-.816-1.112c-.4-.307-.862-.533-1.352-.667z" />
                 </svg>
               </div>
-              <span className="text-lg font-premium font-semibold text-white tracking-tight">QuranQuiz</span>
+              <span className="text-lg font-premium font-semibold text-white tracking-tight">QuranFurqan</span>
             </div>
-            <p className="text-[10px] font-premium font-bold uppercase tracking-[0.4em] text-zinc-600">
-              Deepen Your Understanding of the Quran
-            </p>
           </div>
 
           <div className="flex flex-col items-center md:items-end gap-6">

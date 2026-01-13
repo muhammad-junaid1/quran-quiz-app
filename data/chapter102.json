@@ -1,4 +1,3 @@
-
 {
   "id": 102,
   "englishName": "At-Takathur",
@@ -6,20 +5,80 @@
   "translation": "The Piling Up",
   "revelationType": "Meccan",
   "questions": [
-    { "id": "ch102-q1", "text": "What does 'At-Takathur' mean in the context of modern consumerism?" },
-    { "id": "ch102-q2", "text": "Does the competition in increase refer only to wealth, or can it include knowledge?" },
-    { "id": "ch102-q3", "text": "What is the 'tricky' meaning of 'Hatta zurtumul-maqabir'—did they literally visit or just die?" },
-    { "id": "ch102-q4", "text": "Explain the difference between 'Ilm al-Yaqin' and 'Ayn al-Yaqin'." },
-    { "id": "ch102-q5", "text": "Why is the word 'Kalla' used twice as a deterrent?" },
-    { "id": "ch102-q6", "text": "What is the 'Jahim' and when will the people see it?" },
-    { "id": "ch102-q7", "text": "In the final verse, what are the 'blessings' (Na'im) we will be questioned about?" },
-    { "id": "ch102-q8", "text": "Does this Surah suggest that being wealthy is inherently sinful?" },
-    { "id": "ch102-q9", "text": "How does the sound of the Arabic words in this Surah mimic a heartbeat or ticking clock?" },
-    { "id": "ch102-q10", "text": "Is 'Takathur' a physical state or a psychological obsession?" },
-    { "id": "ch102-q11", "text": "What is the historical reason for the revelation (Sabab al-Nuzul) of this Surah?" },
-    { "id": "ch102-q12", "text": "How does this Surah serve as a psychological wake-up call?" },
-    { "id": "ch102-q13", "text": "Compare the 'certainty' mentioned here with the 'certainty' in Surah Al-Waqiah." },
-    { "id": "ch102-q14", "text": "Does 'visiting the graves' imply that the dead are still actively competing?" },
-    { "id": "ch102-q15", "text": "How can one practically overcome the 'Takathur' mindset in a digital age?" }
+    { 
+      "id": "ch102-q1", 
+      "text": "What does 'At-Takathur' mean in the context of modern consumerism?", 
+      "answer": "It refers to the obsession with accumulating more wealth, status, and material possessions, which distracts people from their ultimate purpose in life." 
+    },
+    { 
+      "id": "ch102-q2", 
+      "text": "Does the competition in increase refer only to wealth, or can it include knowledge?", 
+      "answer": "While it primarily refers to worldly gains like wealth and children, it can also include competitive pride in lineage, followers, or even superficial religious knowledge used for boasting." 
+    },
+    { 
+      "id": "ch102-q3", 
+      "text": "What is the 'tricky' meaning of 'Hatta zurtumul-maqabir'—did they literally visit or just die?", 
+      "answer": "It means until you die and enter the graves. The use of 'visit' (zurtum) implies that the time in the grave is temporary compared to the eternal life of the Hereafter." 
+    },
+    { 
+      "id": "ch102-q4", 
+      "text": "Explain the difference between 'Ilm al-Yaqin' and 'Ayn al-Yaqin'.", 
+      "answer": "'Ilm al-Yaqin' is certainty based on knowledge and proof, while 'Ayn al-Yaqin' is certainty based on direct observation and seeing with one's own eyes." 
+    },
+    { 
+      "id": "ch102-q5", 
+      "text": "Why is the word 'Kalla' used twice as a deterrent?", 
+      "answer": "It is used to strongly rebuke and warn the listener, emphasizing the gravity of their distraction and the reality of the coming judgment." 
+    },
+    { 
+      "id": "ch102-q6", 
+      "text": "What is the 'Jahim' and when will the people see it?", 
+      "answer": "'Jahim' refers to the blazing fire of Hell. People will see it on the Day of Judgment as a stark reality they cannot deny." 
+    },
+    { 
+      "id": "ch102-q7", 
+      "text": "In the final verse, what are the 'blessings' (Na'im) we will be questioned about?", 
+      "answer": "It includes everything Allah has provided: health, time, food, water, safety, and our senses. We will be asked how we used these favors." 
+    },
+    { 
+      "id": "ch102-q8", 
+      "text": "Does this Surah suggest that being wealthy is inherently sinful?", 
+      "answer": "No, wealth itself is not sinful; the sin lies in the obsession (Takathur) that distracts one from remembering Allah and fulfilling religious obligations." 
+    },
+    { 
+      "id": "ch102-q9", 
+      "text": "How does the sound of the Arabic words in this Surah mimic a heartbeat or ticking clock?", 
+      "answer": "The rhythmic end-rhymes (un, ir, in) and the heavy emphasis on words like 'Kalla' and 'Sawfa' create a sense of urgency and the inevitable passage of time." 
+    },
+    { 
+      "id": "ch102-q10", 
+      "text": "Is 'Takathur' a physical state or a psychological obsession?", 
+      "answer": "It is primarily a psychological obsession—the inner drive and greed for more—that manifests as the physical accumulation of worldly items." 
+    },
+    { 
+      "id": "ch102-q11", 
+      "text": "What is the historical reason for the revelation (Sabab al-Nuzul) of this Surah?", 
+      "answer": "It was revealed regarding two tribes of the Quraish who competed with each other in boasting about their numbers, even going to the graveyards to count their dead ancestors." 
+    },
+    { 
+      "id": "ch102-q12", 
+      "text": "How does this Surah serve as a psychological wake-up call?", 
+      "answer": "It forces the reader to confront the reality of death and the futility of chasing temporary worldly status at the expense of eternal success." 
+    },
+    { 
+      "id": "ch102-q13", 
+      "text": "Compare the 'certainty' mentioned here with the 'certainty' in Surah Al-Waqiah.", 
+      "answer": "Both emphasize 'Haqq al-Yaqin' (Absolute Certainty). This Surah focuses on the warning of Hell, while Al-Waqiah describes the certainty of the overall Day of Resurrection." 
+    },
+    { 
+      "id": "ch102-q14", 
+      "text": "Does 'visiting the graves' imply that the dead are still actively competing?", 
+      "answer": "No, it refers to the living who were so obsessed with numbers that they went to count the dead to prove their tribe's greatness, or simply that death stops their worldly competition." 
+    },
+    { 
+      "id": "ch102-q15", 
+      "text": "How can one practically overcome the 'Takathur' mindset in a digital age?", 
+      "answer": "By practicing gratitude (Shukr), limit-setting on social media, prioritizing spiritual goals, and regularly reflecting on death and the purpose of existence." 
+    }
   ]
 }
