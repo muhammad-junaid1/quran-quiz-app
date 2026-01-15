@@ -171,13 +171,24 @@ const App: React.FC = () => {
   }, []);
 
   const handleGoogleSignIn = async () => {
+    setIsSigningIn(true);
+    
+    // In production, explicitly use the web.app URL with a trailing slash 
+    // to match Supabase's expected redirect format and avoid localhost fallback
+    const redirectUrl = window.location.origin.includes('localhost') 
+      ? window.location.origin 
+      : 'https://quranfurqan.web.app/';
+
     const { error } = await supabase.auth.signInWithOAuth({
       provider: 'google',
       options: {
-        redirectTo: window.location.origin
+        redirectTo: redirectUrl
       }
     });
-    if (error) console.error('Error signing in:', error.message);
+    if (error) {
+      console.error('Error signing in:', error.message);
+      setIsSigningIn(false);
+    }
   };
 
   const handleSignOut = async () => {
@@ -201,6 +212,7 @@ const App: React.FC = () => {
   const [isGeneratingReviewImage, setIsGeneratingReviewImage] = useState(false);
   const [isGeneratingReport, setIsGeneratingReport] = useState(false);
   const [reportStatus, setReportStatus] = useState<'idle' | 'success'>('idle');
+  const [isSigningIn, setIsSigningIn] = useState(false);
 
   const generateExcelReport = async () => {
     if (!user?.email || !currentSurahData) return;
@@ -375,6 +387,13 @@ const App: React.FC = () => {
     const progressPerc = Math.round((currentProgress.activeIndex / total) * 100);
     return { total, answeredCount, notSureCount, progress: Math.min(progressPerc, 100), isCompleted };
   }, [currentSurahData, currentProgress]);
+
+  const isSelectedAnswered = useMemo(() => {
+    if (selectedQuestionIndex === null || !currentSurahData) return false;
+    const q = currentSurahData.questions[selectedQuestionIndex];
+    if (!q) return false;
+    return !currentProgress.wrongIds.includes(q.id) && selectedQuestionIndex < currentProgress.activeIndex;
+  }, [selectedQuestionIndex, currentSurahData, currentProgress]);
 
   const getSurahProgressPercent = (surahId: number) => {
     const registryItem = SURAHS_REGISTRY.find(s => s.id === surahId);
@@ -697,11 +716,11 @@ const App: React.FC = () => {
   );
 
   return (
-    <div className="h-screen w-screen flex flex-col bg-[#0a0a0a] text-zinc-300 relative overflow-hidden selection:bg-emerald-500/20 font-sans tracking-tight">
+    <div className="h-screen w-screen flex flex-col bg-[#0a0a0a] text-zinc-300 relative overflow-hidden selection:bg-indigo-500/20 font-sans tracking-tight">
       
       {isAuthLoading || (user && !hasLoadedInitialData) ? (
         <div className="flex-1 flex flex-col items-center justify-center gap-6">
-          <div className="w-12 h-12 rounded-full border-2 border-emerald-500/20 border-t-emerald-500 animate-spin" />
+          <div className="w-12 h-12 rounded-full border-2 border-indigo-500/20 border-t-indigo-500 animate-spin" />
           <p className="text-[10px] font-premium font-bold uppercase tracking-[0.3em] text-zinc-500">
             {isAuthLoading ? 'Loading App...' : 'Syncing Your Progress...'}
           </p>
@@ -726,7 +745,7 @@ const App: React.FC = () => {
                     <span className="text-xs md:text-sm font-bold text-zinc-400">{(user.user_metadata?.full_name?.[0] || user.email?.[0] || 'U').toUpperCase()}</span>
                   </div>
                 )}
-                <div className="flex flex-col">
+                  <div className="flex flex-col">
                   <span className="text-sm md:text-base font-premium font-semibold text-white leading-tight tracking-tight">
                     {user.user_metadata?.full_name || user.user_metadata?.name || user.email?.split('@')[0]}
                   </span>
@@ -747,7 +766,7 @@ const App: React.FC = () => {
               <div className="flex items-center gap-2 md:gap-3">
                 <button 
                   onClick={() => setIsShareModalOpen(true)}
-                  className="px-4 md:px-5 py-2 md:py-2.5 bg-white/5 border border-white/10 text-zinc-300 hover:text-emerald-400 hover:bg-emerald-500/5 rounded-full transition-all flex items-center gap-2"
+                  className="px-4 md:px-5 py-2 md:py-2.5 bg-white/5 border border-white/10 text-zinc-300 hover:text-indigo-400 hover:bg-indigo-500/5 rounded-full transition-all flex items-center gap-2"
                 >
                   <svg className="w-3.5 h-3.5 md:w-4 md:h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
@@ -767,7 +786,7 @@ const App: React.FC = () => {
                   setCurrentSlide(0);
                   setIsInstructionsOpen(true);
                 }}
-                className="absolute right-0 top-0 text-zinc-500 hover:text-emerald-400 transition-all text-[10px] font-premium font-bold uppercase tracking-[0.2em]"
+                className="absolute right-0 top-0 text-zinc-500 hover:text-indigo-400 transition-all text-[10px] font-premium font-bold uppercase tracking-[0.2em]"
               >
                 Help
               </button>
@@ -777,7 +796,7 @@ const App: React.FC = () => {
 
           {!showApp ? (
             <div className="flex-1 overflow-y-auto custom-scrollbar">
-              <LandingPage onSignIn={user ? () => setShowApp(true) : handleGoogleSignIn} user={user} />
+              <LandingPage onSignIn={user ? () => setShowApp(true) : handleGoogleSignIn} user={user} isSigningIn={isSigningIn} />
             </div>
           ) : (
             <>
@@ -813,7 +832,7 @@ const App: React.FC = () => {
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
                     autoFocus
-                    className="w-full bg-white/[0.03] border border-white/10 rounded-2xl py-3 pl-11 pr-4 text-xs font-premium text-white placeholder:text-zinc-600 focus:outline-none focus:border-emerald-500/30 transition-all"
+                    className="w-full bg-white/[0.03] border border-white/10 rounded-2xl py-3 pl-11 pr-4 text-xs font-premium text-white placeholder:text-zinc-600 focus:outline-none focus:border-indigo-500/30 transition-all"
                   />
                 </div>
               </div>
@@ -912,7 +931,7 @@ const App: React.FC = () => {
       >
         {isLoading ? (
           <div className="h-full flex flex-col items-center justify-center animate-pulse gap-6">
-            <div className="w-10 h-10 rounded-full border border-emerald-500/20 border-t-emerald-500/80 animate-spin" />
+            <div className="w-10 h-10 rounded-full border border-indigo-500/20 border-t-indigo-500/80 animate-spin" />
             <p className="text-[10px] font-premium font-medium uppercase tracking-[0.3em] text-zinc-600">Syncing Verse Insights...</p>
           </div>
         ) : currentSurahData && (
@@ -977,7 +996,7 @@ const App: React.FC = () => {
                       }
                     }}
                     className={`
-                      question-span transition-all duration-700 px-2 py-1.5 rounded-xl inline decoration-emerald-500/20 underline-offset-8
+                      question-span transition-all duration-700 px-2 py-1.5 rounded-xl inline decoration-indigo-500/20 underline-offset-8
                       ${!isFuture ? 'cursor-pointer' : 'cursor-default'}
                       ${colorClass}
                       ${isActive ? 'bg-white/10 border border-white/20 shadow-[0_0_25px_rgba(255,255,255,0.05)]' : ''}
@@ -1013,15 +1032,15 @@ const App: React.FC = () => {
             <button
               onClick={() => openAnswerPopup(selectedQuestionIndex !== null ? selectedQuestionIndex : currentProgress.activeIndex)}
               disabled={isActionDisabled}
-              className={`flex-1 md:flex-none px-6 md:px-12 py-4 md:py-5 bg-white text-black rounded-full text-[9px] md:text-[10px] font-premium font-bold uppercase tracking-[0.2em] md:tracking-[0.3em] hover:bg-emerald-50 transition-all duration-500 active:scale-[0.98] shadow-[0_20px_40px_rgba(255,255,255,0.1)] md:min-w-[160px] ${isActionDisabled ? 'opacity-50 cursor-not-allowed' : ''}`}
+              className={`flex-1 md:flex-none px-6 md:px-12 py-4 md:py-5 bg-white text-black rounded-full text-[9px] md:text-[10px] font-premium font-bold uppercase tracking-[0.2em] md:tracking-[0.3em] hover:bg-indigo-50 transition-all duration-500 active:scale-[0.98] shadow-[0_20px_40px_rgba(255,255,255,0.1)] md:min-w-[160px] ${isActionDisabled ? 'opacity-50 cursor-not-allowed' : ''}`}
             >
-              Write Answer
+              {isSelectedAnswered ? 'Update Answer' : 'Write Answer'}
             </button>
           </>
         ) : (
           <button
             onClick={() => navigateSurah('next')}
-            className="w-full md:w-auto px-10 md:px-16 py-4 md:py-5 bg-white text-black rounded-full text-[9px] md:text-[10px] font-premium font-bold uppercase tracking-[0.2em] md:tracking-[0.3em] hover:bg-emerald-50 transition-all duration-500 active:scale-[0.98] shadow-[0_20px_40px_rgba(255,255,255,0.1)] md:min-w-[280px] flex items-center justify-center gap-3 md:gap-4"
+            className="w-full md:w-auto px-10 md:px-16 py-4 md:py-5 bg-white text-black rounded-full text-[9px] md:text-[10px] font-premium font-bold uppercase tracking-[0.2em] md:tracking-[0.3em] hover:bg-indigo-50 transition-all duration-500 active:scale-[0.98] shadow-[0_20px_40px_rgba(255,255,255,0.1)] md:min-w-[280px] flex items-center justify-center gap-3 md:gap-4"
           >
             Next Chapter
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
@@ -1040,11 +1059,11 @@ const App: React.FC = () => {
               {/* Header */}
               <div className="flex flex-col md:flex-row justify-between items-start gap-6 md:gap-0 mb-8 md:mb-10 flex-shrink-0">
                 <div className="flex flex-col">
-                  <div className="flex items-center gap-3 mb-2">
-                    <span className="text-[10px] font-premium font-bold uppercase tracking-[0.3em] text-emerald-400">
-                      {existingUserAnswer ? 'Update Answer' : 'Write Answer'}
-                    </span>
-                    <span className="w-1 h-1 rounded-full bg-white/20" />
+                        <div className="flex items-center gap-3 mb-2">
+                          <span className="text-[10px] font-premium font-bold uppercase tracking-[0.3em] text-indigo-400">
+                            {existingUserAnswer ? 'Update Answer' : 'Write Answer'}
+                          </span>
+                          <span className="w-1 h-1 rounded-full bg-white/20" />
                     <span className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Chapter {currentRegistryItem.id}</span>
                   </div>
                   <div className="flex items-center gap-3">
@@ -1059,68 +1078,68 @@ const App: React.FC = () => {
 
               <div className="flex-1 overflow-y-auto custom-scrollbar mb-8 pr-4">
                 <div className="flex flex-col min-h-full space-y-6 md:space-y-8">
-                  <div className="p-6 md:p-8 bg-white/[0.03] border border-white/[0.05] rounded-[24px] md:rounded-[32px] flex-shrink-0">
-                    <div className="flex items-center gap-3 mb-4">
-                      <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
-                      <p className="text-xs md:text-sm font-premium font-bold uppercase tracking-[0.2em] text-white">Question {answeringQuestionIdx + 1} of {currentSurahData.questions.length}</p>
+                      <div className="p-6 md:p-8 bg-white/[0.03] border border-white/[0.05] rounded-[24px] md:rounded-[32px] flex-shrink-0">
+                        <div className="flex items-center gap-3 mb-4">
+                          <span className="w-1.5 h-1.5 rounded-full bg-indigo-500" />
+                          <p className="text-xs md:text-sm font-premium font-bold uppercase tracking-[0.2em] text-white">Question {answeringQuestionIdx + 1} of {currentSurahData.questions.length}</p>
+                        </div>
+                        <p className="text-base md:text-lg text-zinc-400 font-light leading-relaxed italic">
+                          "{currentSurahData.questions[answeringQuestionIdx].text}"
+                        </p>
+                      </div>
+
+                      {isFetchingAnswer ? (
+                        <div className="flex-1 flex flex-col items-center justify-center py-12 gap-4">
+                          <div className="w-8 h-8 rounded-full border-2 border-indigo-500/20 border-t-indigo-500 animate-spin" />
+                          <p className="text-[10px] font-premium font-bold uppercase tracking-widest text-zinc-500">Loading your answer...</p>
+                        </div>
+                      ) : (
+                        <div className="flex-1 flex flex-col space-y-6">
+                          <div className="flex-1 flex flex-col space-y-4">
+                            <div className="flex items-center justify-between">
+                              <div className="flex items-center gap-3">
+                                <div className="w-8 h-px bg-indigo-500/30" />
+                                <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-500">Your Answer</p>
+                              </div>
+                              {lastUpdatedDate && (
+                                <p className="text-[9px] font-premium font-bold uppercase tracking-wider text-zinc-500">
+                                  Last Updated: {new Date(lastUpdatedDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' })}
+                                </p>
+                              )}
+                            </div>
+                            <textarea
+                              value={answerText}
+                              onChange={(e) => setAnswerText(e.target.value)}
+                              placeholder="Type your understanding of this verse here..."
+                              className="flex-1 w-full min-h-[200px] bg-white/[0.03] border border-white/10 rounded-2xl p-6 text-white placeholder:text-zinc-600 focus:outline-none focus:border-indigo-500/30 transition-all resize-none font-light leading-relaxed"
+                            />
+                          </div>
+                        </div>
+                      )}
                     </div>
-                    <p className="text-base md:text-lg text-zinc-400 font-light leading-relaxed italic">
-                      "{currentSurahData.questions[answeringQuestionIdx].text}"
-                    </p>
                   </div>
 
-                  {isFetchingAnswer ? (
-                    <div className="flex-1 flex flex-col items-center justify-center py-12 gap-4">
-                      <div className="w-8 h-8 rounded-full border-2 border-emerald-500/20 border-t-emerald-500 animate-spin" />
-                      <p className="text-[10px] font-premium font-bold uppercase tracking-widest text-zinc-500">Loading your answer...</p>
-                    </div>
-                  ) : (
-                    <div className="flex-1 flex flex-col space-y-6">
-                      <div className="flex-1 flex flex-col space-y-4">
-                        <div className="flex items-center justify-between">
-                          <div className="flex items-center gap-3">
-                            <div className="w-8 h-px bg-emerald-500/30" />
-                            <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-500">Your Answer</p>
-                          </div>
-                          {lastUpdatedDate && (
-                            <p className="text-[9px] font-premium font-bold uppercase tracking-wider text-zinc-500">
-                              Last Updated: {new Date(lastUpdatedDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' })}
-                            </p>
-                          )}
-                        </div>
-                        <textarea
-                          value={answerText}
-                          onChange={(e) => setAnswerText(e.target.value)}
-                          placeholder="Type your understanding of this verse here..."
-                          className="flex-1 w-full min-h-[200px] bg-white/[0.03] border border-white/10 rounded-2xl p-6 text-white placeholder:text-zinc-600 focus:outline-none focus:border-emerald-500/30 transition-all resize-none font-light leading-relaxed"
-                        />
-                      </div>
-                    </div>
-                  )}
-                </div>
-              </div>
-
-              <div className="flex items-center justify-between pt-6 md:pt-8 border-t border-white/[0.05] flex-shrink-0">
-                <p className="text-[9px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Your answers are private.</p>
-                <button 
-                  onClick={submitAnswer}
-                  disabled={isSavingAnswer || !answerText.trim() || isFetchingAnswer}
-                  className={`px-8 py-4 bg-emerald-500 text-white rounded-2xl text-[10px] font-premium font-bold uppercase tracking-[0.2em] hover:bg-emerald-400 transition-all shadow-xl shadow-emerald-500/20 flex items-center gap-3 disabled:opacity-50 disabled:cursor-not-allowed`}
-                >
-                  {isSavingAnswer ? (
-                    <>
-                      <div className="w-3 h-3 border-2 border-white/20 border-t-white rounded-full animate-spin" />
-                      Saving...
-                    </>
-                  ) : (
-                    'Submit Answer'
-                  )}
-                </button>
+                  <div className="flex items-center justify-between pt-6 md:pt-8 border-t border-white/[0.05] flex-shrink-0">
+                    <p className="text-[9px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Your answers are private.</p>
+                    <button
+                      onClick={submitAnswer}
+                      disabled={isSavingAnswer || !answerText.trim() || isFetchingAnswer}
+                      className={`px-8 py-4 bg-indigo-500 text-white rounded-2xl text-[10px] font-premium font-bold uppercase tracking-[0.2em] hover:bg-indigo-400 transition-all shadow-xl shadow-indigo-500/20 flex items-center gap-3 disabled:opacity-50 disabled:cursor-not-allowed`}
+                    >
+                      {isSavingAnswer ? (
+                        <>
+                          <div className="w-3 h-3 border-2 border-white/20 border-t-white rounded-full animate-spin" />
+                          Saving...
+                        </>
+                      ) : (
+                        'Submit Answer'
+                      )}
+                    </button>
               </div>
             </div>
           </div>
         </div>
-      )}
+          )}
 
       {/* Review Modal */}
       {isReviewOpen && currentSurahData && (
@@ -1132,7 +1151,7 @@ const App: React.FC = () => {
               <div className="flex flex-col md:flex-row justify-between items-start gap-6 md:gap-0 mb-8 md:mb-10 flex-shrink-0">
                 <div className="flex flex-col">
                   <div className="flex items-center gap-3 mb-2">
-                    <span className="text-[10px] font-premium font-bold uppercase tracking-[0.3em] text-emerald-400">Review Answers</span>
+                      <span className="text-[10px] font-premium font-bold uppercase tracking-[0.3em] text-indigo-400">Review Answers</span>
                     <span className="w-1 h-1 rounded-full bg-white/20" />
                     <span className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Chapter {currentRegistryItem.id}</span>
                   </div>
@@ -1162,7 +1181,7 @@ const App: React.FC = () => {
                   <div className="p-6 md:p-8 bg-white/[0.03] border border-white/[0.05] rounded-[24px] md:rounded-[32px]">
                     <div className="flex items-center justify-between mb-4">
                       <div className="flex items-center gap-3">
-                        <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
+                          <span className="w-1.5 h-1.5 rounded-full bg-indigo-500" />
                         <p className="text-xs md:text-sm font-premium font-bold uppercase tracking-[0.2em] text-white">Question {reviewIdx + 1} of {currentSurahData.questions.length}</p>
                       </div>
                       
@@ -1182,17 +1201,28 @@ const App: React.FC = () => {
                     </p>
                   </div>
 
-                  {reviewUserAnswers[currentSurahData.questions[reviewIdx].id] && (
-                    <div className="space-y-4 px-2 md:px-0 animate-in fade-in slide-in-from-top-4 duration-500">
-                      <div className="flex items-center gap-3">
-                        <div className="w-8 h-px bg-emerald-500/30" />
-                        <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-500">Your Answer</p>
+                    {isFetchingReviewAnswers ? (
+                      <div className="space-y-4 px-2 md:px-0 animate-in fade-in duration-300">
+                        <div className="flex items-center gap-3">
+                          <div className="w-8 h-px bg-indigo-500/30" />
+                          <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-500">Your Answer</p>
+                        </div>
+                        <div className="flex items-center gap-3 py-4">
+                          <div className="w-4 h-4 rounded-full border-2 border-indigo-500/20 border-t-indigo-500 animate-spin" />
+                          <p className="text-sm text-zinc-500 font-premium font-bold uppercase tracking-widest">Fetching your answer...</p>
+                        </div>
                       </div>
-                      <p className="text-lg md:text-xl text-white font-light leading-relaxed">
-                        {reviewUserAnswers[currentSurahData.questions[reviewIdx].id]}
-                      </p>
-                    </div>
-                  )}
+                    ) : reviewUserAnswers[currentSurahData.questions[reviewIdx].id] && (
+                      <div className="space-y-4 px-2 md:px-0 animate-in fade-in slide-in-from-top-4 duration-500">
+                        <div className="flex items-center gap-3">
+                          <div className="w-8 h-px bg-indigo-500/30" />
+                          <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-500">Your Answer</p>
+                        </div>
+                        <p className="text-lg md:text-xl text-white font-light leading-relaxed">
+                          {reviewUserAnswers[currentSurahData.questions[reviewIdx].id]}
+                        </p>
+                      </div>
+                    )}
 
                   <div className="space-y-4 px-2 md:px-0">
                     <div className="flex items-center gap-3">
@@ -1242,8 +1272,8 @@ const App: React.FC = () => {
             <button onClick={() => setShowCompletionPopup(false)} className="absolute top-6 right-6 p-3 text-zinc-500 hover:text-white transition-colors rounded-2xl hover:bg-white/5">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg>
             </button>
-            <div className="w-20 h-20 bg-emerald-500/10 rounded-full flex items-center justify-center mb-8 mx-auto ring-1 ring-emerald-500/20">
-              <svg className="w-10 h-10 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" /></svg>
+            <div className="w-20 h-20 bg-indigo-500/10 rounded-full flex items-center justify-center mb-8 mx-auto ring-1 ring-indigo-500/20">
+              <svg className="w-10 h-10 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" /></svg>
             </div>
             <h3 className="text-2xl font-premium font-semibold text-white mb-4 tracking-tight">BarakAllah!</h3>
             <p className="text-zinc-500 text-sm leading-relaxed mb-8">
@@ -1259,7 +1289,7 @@ const App: React.FC = () => {
         </div>
       )}
 
-      <div className="fixed -bottom-64 -left-64 w-[800px] h-[800px] bg-emerald-500/[0.03] rounded-full blur-[160px] -z-10 pointer-events-none"></div>
+      <div className="fixed -bottom-64 -left-64 w-[800px] h-[800px] bg-indigo-500/[0.03] rounded-full blur-[160px] -z-10 pointer-events-none"></div>
       <div className="fixed -top-64 -right-64 w-[800px] h-[800px] bg-white/[0.02] rounded-full blur-[160px] -z-10 pointer-events-none"></div>
 
       {/* Share Modal */}
@@ -1279,7 +1309,7 @@ const App: React.FC = () => {
                   onClick={() => handleShare()}
                   disabled={isGeneratingImage || shareStatus === 'success'}
                   className={`w-full py-4 rounded-2xl text-xs font-premium font-bold uppercase tracking-[0.2em] transition-all flex items-center justify-center gap-3 disabled:opacity-50 ${
-                    shareStatus === 'success' ? 'bg-emerald-500 text-white' : 'bg-white text-black hover:bg-zinc-200'
+                    shareStatus === 'success' ? 'bg-indigo-500 text-white' : 'bg-white text-black hover:bg-zinc-200'
                   }`}
                 >
                   {isGeneratingImage ? (
@@ -1309,7 +1339,7 @@ const App: React.FC = () => {
                     onClick={() => generateExcelReport()}
                     disabled={isGeneratingReport}
                     className={`w-full py-4 rounded-2xl text-xs font-premium font-bold uppercase tracking-[0.2em] transition-all flex items-center justify-center gap-3 disabled:opacity-50 ${
-                      reportStatus === 'success' ? 'bg-emerald-500 text-white' : 'bg-white/5 border border-white/10 text-white hover:bg-white/10'
+                      reportStatus === 'success' ? 'bg-indigo-500 text-white' : 'bg-white/5 border border-white/10 text-white hover:bg-white/10'
                     }`}
                   >
                     {isGeneratingReport ? (
@@ -1385,7 +1415,7 @@ const App: React.FC = () => {
                     onClick={() => generateExcelReport()}
                     disabled={isGeneratingReport}
                     className={`w-full py-4 rounded-2xl text-xs font-premium font-bold uppercase tracking-[0.2em] transition-all flex items-center justify-center gap-3 disabled:opacity-50 ${
-                      reportStatus === 'success' ? 'bg-emerald-500 text-white' : 'bg-white/5 border border-white/10 text-white hover:bg-white/10'
+                      reportStatus === 'success' ? 'bg-indigo-500 text-white' : 'bg-white/5 border border-white/10 text-white hover:bg-white/10'
                     }`}
                   >
                     {isGeneratingReport ? (
@@ -1435,15 +1465,15 @@ const App: React.FC = () => {
             {/* Slide Progress Dots */}
             <div className="absolute top-8 left-1/2 -translate-x-1/2 flex gap-2 z-10">
               {[0, 1, 2, 3, 4, 5, 6, 7].map((i) => (
-                <div key={i} className={`w-1.5 h-1.5 rounded-full transition-all duration-500 ${i === currentSlide ? 'bg-emerald-400 w-6' : 'bg-white/10'}`} />
+                <div key={i} className={`w-1.5 h-1.5 rounded-full transition-all duration-500 ${i === currentSlide ? 'bg-indigo-400 w-6' : 'bg-white/10'}`} />
               ))}
             </div>
 
             <div className="flex-1 p-6 md:p-10 pt-20 md:pt-32 overflow-y-auto custom-scrollbar flex flex-col items-center text-center">
               {currentSlide === 0 && (
                 <div className="animate-in fade-in slide-in-from-bottom-4 duration-700 max-w-lg">
-                  <div className="w-16 h-16 md:w-20 md:h-20 bg-emerald-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-emerald-500/20">
-                    <svg className="w-8 h-8 md:w-10 md:h-10 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <div className="w-16 h-16 md:w-20 md:h-20 bg-indigo-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-indigo-500/20">
+                    <svg className="w-8 h-8 md:w-10 md:h-10 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.584.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                     </svg>
                   </div>
@@ -1451,8 +1481,8 @@ const App: React.FC = () => {
                   <p className="text-sm md:text-lg text-zinc-400 leading-relaxed font-light mb-8 md:mb-10 px-2 md:px-0">
                     Assess and deepen your understanding of the Quran through structured quiz questions designed for meaningful reflection.
                   </p>
-                  <div className="p-3 md:p-4 bg-emerald-500/5 rounded-xl md:rounded-2xl border border-emerald-500/10 inline-block">
-                    <p className="text-[10px] md:text-[12px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-400">Deep Assessment, Not Just Reading</p>
+                  <div className="p-3 md:p-4 bg-indigo-500/5 rounded-xl md:rounded-2xl border border-indigo-500/10 inline-block">
+                    <p className="text-[10px] md:text-[12px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-400">Deep Assessment, Not Just Reading</p>
                   </div>
                 </div>
               )}
@@ -1483,19 +1513,19 @@ const App: React.FC = () => {
 
               {currentSlide === 2 && (
                 <div className="animate-in fade-in slide-in-from-bottom-4 duration-700 max-w-lg">
-                  <div className="w-16 h-16 md:w-20 md:h-20 bg-emerald-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-emerald-500/20">
-                    <svg className="w-8 h-8 md:w-10 md:h-10 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <div className="w-16 h-16 md:w-20 md:h-20 bg-indigo-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-indigo-500/20">
+                    <svg className="w-8 h-8 md:w-10 md:h-10 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
                     </svg>
                   </div>
                   <h2 className="text-2xl md:text-4xl font-premium font-light text-white mb-4 md:mb-6 tracking-tight">Write Your Answer</h2>
                   <p className="text-sm md:text-lg text-zinc-400 leading-relaxed font-light mb-8 md:mb-10 px-2 md:px-0">
-                    When you click <span className="text-white font-medium">"Write Answer"</span>, you can type your understanding of the verse. Your answers are saved securely in the cloud.
+                    When you click <span className="text-white font-medium">"Write Answer"</span> (or <span className="text-white font-medium">"Update Answer"</span>), you can type your understanding of the verse. Your answers are saved securely in the cloud.
                   </p>
                   <div className="p-5 md:p-8 bg-white/[0.03] border border-white/10 rounded-2xl md:rounded-[32px] text-left space-y-4">
                     <div className="flex items-center gap-3">
-                      <div className="w-6 md:w-8 h-px bg-emerald-500/30" />
-                      <p className="text-[10px] md:text-[12px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-400">Save Your Insights</p>
+                      <div className="w-6 md:w-8 h-px bg-indigo-500/30" />
+                      <p className="text-[10px] md:text-[12px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-400">Save Your Insights</p>
                     </div>
                     <p className="text-xs md:text-base text-zinc-400 font-light leading-relaxed">
                       Typed answers are preserved linked to your account, allowing you to build a personal journal of reflections as you progress through the Quran.
@@ -1568,8 +1598,8 @@ const App: React.FC = () => {
 
               {currentSlide === 6 && (
                 <div className="animate-in fade-in slide-in-from-bottom-4 duration-700 max-w-lg">
-                  <div className="w-16 h-16 md:w-20 md:h-20 bg-emerald-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-emerald-500/20">
-                    <svg className="w-8 h-8 md:w-10 md:h-10 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <div className="w-16 h-16 md:w-20 md:h-20 bg-indigo-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-indigo-500/20">
+                    <svg className="w-8 h-8 md:w-10 md:h-10 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
                     </svg>
                   </div>
@@ -1577,16 +1607,16 @@ const App: React.FC = () => {
                   <p className="text-sm md:text-lg text-zinc-400 leading-relaxed font-light mb-8 md:mb-10 px-2 md:px-0">
                     Inspire others by sharing your progress. Click the Share button to generate a beautiful card of your achievements.
                   </p>
-                  <div className="p-3 md:p-4 bg-emerald-500/5 rounded-xl md:rounded-2xl border border-emerald-500/10 inline-block">
-                    <p className="text-[10px] md:text-[12px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-400">Invite Others to Reflection</p>
+                  <div className="p-3 md:p-4 bg-indigo-500/5 rounded-xl md:rounded-2xl border border-indigo-500/10 inline-block">
+                    <p className="text-[10px] md:text-[12px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-400">Invite Others to Reflection</p>
                   </div>
                 </div>
               )}
 
               {currentSlide === 7 && (
                 <div className="animate-in fade-in slide-in-from-bottom-4 duration-700 max-w-lg">
-                  <div className="w-16 h-16 md:w-20 md:h-20 bg-emerald-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-emerald-500/20">
-                    <svg className="w-8 h-8 md:w-10 md:h-10 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <div className="w-16 h-16 md:w-20 md:h-20 bg-indigo-500/10 rounded-2xl md:rounded-3xl flex items-center justify-center mb-6 md:mb-8 mx-auto ring-1 ring-indigo-500/20">
+                    <svg className="w-8 h-8 md:w-10 md:h-10 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M5 13l4 4L19 7" />
                     </svg>
                   </div>
@@ -1594,8 +1624,8 @@ const App: React.FC = () => {
                   <p className="text-sm md:text-lg text-zinc-400 leading-relaxed font-light mb-8 md:mb-10 px-2 md:px-0">
                     Your progress is preserved in the cloud. Continue your journey of self-assessment and reflection every day.
                   </p>
-                  <div className="px-6 md:px-10 py-8 md:py-10 bg-emerald-500/10 border border-emerald-500/20 rounded-[28px] md:rounded-[36px]">
-                    <p className="text-2xl md:text-4xl font-arabic text-emerald-400 mb-4 md:mb-6 leading-loose">وَقُل رَّبِّ زِدْنِي عِلْمًا</p>
+                  <div className="px-6 md:px-10 py-8 md:py-10 bg-indigo-500/10 border border-indigo-500/20 rounded-[28px] md:rounded-[36px]">
+                    <p className="text-2xl md:text-4xl font-arabic text-indigo-400 mb-4 md:mb-6 leading-loose">وَقُل رَّبِّ زِدْنِي عِلْمًا</p>
                     <p className="text-[12px] md:text-[15px] font-premium text-zinc-300 font-medium uppercase tracking-[0.15em] leading-relaxed">"And say: My Lord, increase me in knowledge."</p>
                     <p className="text-[10px] md:text-[12px] text-zinc-500 mt-3 md:mt-4 tracking-[0.2em]">[Surah Taha 20:114]</p>
                   </div>
@@ -1624,7 +1654,7 @@ const App: React.FC = () => {
               ) : (
                 <button 
                   onClick={markInstructionsViewed}
-                  className="flex-[2] py-3 md:py-4 bg-emerald-500 text-white rounded-xl md:rounded-2xl text-[10px] md:text-xs font-premium font-bold uppercase tracking-[0.2em] hover:bg-emerald-400 transition-all shadow-xl shadow-emerald-500/20"
+                  className="flex-[2] py-3 md:py-4 bg-indigo-500 text-white rounded-xl md:rounded-2xl text-[10px] md:text-xs font-premium font-bold uppercase tracking-[0.2em] hover:bg-indigo-400 transition-all shadow-xl shadow-indigo-500/20"
                 >
                   Start Assessment
                 </button>
@@ -1685,14 +1715,14 @@ const App: React.FC = () => {
           className="w-[540px] p-12 bg-[#0a0a0a] text-zinc-300 font-sans relative overflow-hidden flex flex-col items-center"
         >
           {/* Background Decor */}
-          <div className="absolute top-[-50px] right-[-50px] w-[300px] h-[300px] bg-emerald-500/[0.06] rounded-full blur-[80px] -z-10" />
+          <div className="absolute top-[-50px] right-[-50px] w-[300px] h-[300px] bg-indigo-500/[0.06] rounded-full blur-[80px] -z-10" />
           <div className="absolute bottom-[-50px] left-[-50px] w-[300px] h-[300px] bg-white/[0.01] rounded-full blur-[80px] -z-10" />
           
           {/* Branding Header */}
           <div className="w-full flex justify-between items-center mb-10 pb-6 border-b border-white/[0.05]">
             <div className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-emerald-500/10 rounded-xl flex items-center justify-center">
-            <svg className="w-6 h-6 text-emerald-400" fill="currentColor" viewBox="0 0 20 20">
+            <div className="w-10 h-10 bg-indigo-500/10 rounded-xl flex items-center justify-center">
+            <svg className="w-6 h-6 text-indigo-400" fill="currentColor" viewBox="0 0 20 20">
               <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.976 8.976 0 00-1.318.236 1 1 0 01-1.091-.637 2.993 2.993 0 00-.816-1.112c-.4-.307-.862-.533-1.352-.667z" />
             </svg>
           </div>
@@ -1713,8 +1743,8 @@ const App: React.FC = () => {
                   onError={() => setProfileImageError(true)}
                 />
               ) : (
-                <div className="w-12 h-12 rounded-full bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center">
-                  <span className="text-lg font-bold text-emerald-400">{(user.user_metadata?.full_name?.[0] || user.email?.[0] || 'U').toUpperCase()}</span>
+                <div className="w-12 h-12 rounded-full bg-indigo-500/10 border border-indigo-500/20 flex items-center justify-center">
+                  <span className="text-lg font-bold text-indigo-400">{(user.user_metadata?.full_name?.[0] || user.email?.[0] || 'U').toUpperCase()}</span>
                 </div>
               )}
               <div className="flex flex-col">
@@ -1728,12 +1758,12 @@ const App: React.FC = () => {
           {/* Current Chapter Section */}
           <div className="w-full mb-10 text-center">
              <div className="inline-flex items-center gap-2 px-3 py-1 bg-emerald-500/10 border border-emerald-500/20 rounded-full mb-4">
-                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
-                <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-400">Chapter {currentRegistryItem.id}</p>
+                <span className="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse" />
+                <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-400">Chapter {currentRegistryItem.id}</p>
              </div>
              <div className="flex flex-col items-center gap-1">
                <h1 className="text-4xl font-premium font-light text-white tracking-tighter">{currentRegistryItem.englishName}</h1>
-               <span className="text-3xl font-arabic text-emerald-400/90">{currentRegistryItem.arabicName}</span>
+               <span className="text-3xl font-arabic text-indigo-400/90">{currentRegistryItem.arabicName}</span>
              </div>
           </div>
           
@@ -1785,14 +1815,14 @@ const App: React.FC = () => {
           className="w-[540px] p-12 bg-[#0a0a0a] text-zinc-300 font-sans relative overflow-hidden flex flex-col items-center"
         >
           {/* Background Decor */}
-          <div className="absolute top-[-50px] right-[-50px] w-[300px] h-[300px] bg-emerald-500/[0.06] rounded-full blur-[80px] -z-10" />
+          <div className="absolute top-[-50px] right-[-50px] w-[300px] h-[300px] bg-indigo-500/[0.06] rounded-full blur-[80px] -z-10" />
           <div className="absolute bottom-[-50px] left-[-50px] w-[300px] h-[300px] bg-white/[0.01] rounded-full blur-[80px] -z-10" />
           
           {/* Branding Header */}
           <div className="w-full flex justify-between items-center mb-10 pb-6 border-b border-white/[0.05]">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 bg-emerald-500/10 rounded-xl flex items-center justify-center">
-                <svg className="w-6 h-6 text-emerald-400" fill="currentColor" viewBox="0 0 20 20">
+              <div className="w-10 h-10 bg-indigo-500/10 rounded-xl flex items-center justify-center">
+                <svg className="w-6 h-6 text-indigo-400" fill="currentColor" viewBox="0 0 20 20">
                   <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.976 8.976 0 00-1.318.236 1 1 0 01-1.091-.637 2.993 2.993 0 00-.816-1.112c-.4-.307-.862-.533-1.352-.667z" />
                 </svg>
               </div>
@@ -1803,12 +1833,12 @@ const App: React.FC = () => {
 
           {/* Chapter Info */}
           <div className="w-full mb-12 flex flex-col items-center">
-             <div className="inline-flex items-center gap-2 px-3 py-1 bg-emerald-500/10 border border-emerald-500/20 rounded-full mb-4">
-                <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-400">Chapter {currentRegistryItem.id}</p>
+             <div className="inline-flex items-center gap-2 px-3 py-1 bg-indigo-500/10 border border-indigo-500/20 rounded-full mb-4">
+                <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-400">Chapter {currentRegistryItem.id}</p>
              </div>
              <div className="flex flex-col items-center gap-2 text-center">
                <h1 className="text-4xl font-premium font-light text-white tracking-tighter">{currentRegistryItem.englishName}</h1>
-               <span className="text-3xl font-arabic text-emerald-400/90">{currentRegistryItem.arabicName}</span>
+               <span className="text-3xl font-arabic text-indigo-400/90">{currentRegistryItem.arabicName}</span>
              </div>
           </div>
           
@@ -1822,9 +1852,9 @@ const App: React.FC = () => {
             
             <div className="px-6 space-y-5 text-center">
               <div className="flex items-center justify-center gap-4">
-                <div className="w-10 h-px bg-emerald-500/30" />
-                <p className="text-[11px] font-premium font-bold uppercase tracking-[0.3em] text-emerald-400">Original Answer</p>
-                <div className="w-10 h-px bg-emerald-500/30" />
+                <div className="w-10 h-px bg-indigo-500/30" />
+                <p className="text-[11px] font-premium font-bold uppercase tracking-[0.3em] text-indigo-400">Original Answer</p>
+                <div className="w-10 h-px bg-indigo-500/30" />
               </div>
               <p className="text-3xl font-premium font-bold text-white leading-snug tracking-tight">
                 {currentSurahData?.questions[reviewIdx]?.answer}

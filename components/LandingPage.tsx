@@ -6,9 +6,10 @@ import { User } from '@supabase/supabase-js';
 interface LandingPageProps {
   onSignIn: () => void;
   user: User | null;
+  isSigningIn?: boolean;
 }
 
-const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
+const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user, isSigningIn }) => {
   const [copied, setCopied] = useState(false);
 
   const bankInfo = {
@@ -30,16 +31,16 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
   };
 
   return (
-    <div className="min-h-screen w-full bg-[#0a0a0a] text-zinc-300 font-sans selection:bg-emerald-500/20 overflow-x-hidden">
+    <div className="min-h-screen w-full bg-[#0a0a0a] text-zinc-300 font-sans selection:bg-indigo-500/20 overflow-x-hidden">
       {/* Background Orbs */}
-      <div className="fixed -top-64 -right-64 w-[800px] h-[800px] bg-emerald-500/[0.03] rounded-full blur-[160px] pointer-events-none"></div>
+      <div className="fixed -top-64 -right-64 w-[800px] h-[800px] bg-indigo-500/[0.03] rounded-full blur-[160px] pointer-events-none"></div>
       <div className="fixed -bottom-64 -left-64 w-[800px] h-[800px] bg-white/[0.02] rounded-full blur-[160px] pointer-events-none"></div>
 
       {/* Navigation */}
       <nav className="relative z-10 px-8 py-8 flex items-center justify-between max-w-7xl mx-auto">
         <div className="flex items-center gap-3 group cursor-default">
-          <div className="w-10 h-10 bg-emerald-500/10 rounded-xl flex items-center justify-center ring-1 ring-emerald-500/20 group-hover:ring-emerald-500/40 transition-all duration-500">
-            <svg className="w-6 h-6 text-emerald-400" fill="currentColor" viewBox="0 0 20 20">
+          <div className="w-10 h-10 bg-indigo-500/10 rounded-xl flex items-center justify-center ring-1 ring-indigo-500/20 group-hover:ring-indigo-500/40 transition-all duration-500">
+            <svg className="w-6 h-6 text-indigo-400" fill="currentColor" viewBox="0 0 20 20">
               <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.976 8.976 0 00-1.318.236 1 1 0 01-1.091-.637 2.993 2.993 0 00-.816-1.112c-.4-.307-.862-.533-1.352-.667z" />
             </svg>
           </div>
@@ -48,7 +49,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
 
         <button 
           onClick={scrollToSupport}
-          className="px-6 py-2.5 bg-white/5 border border-white/10 rounded-full text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-400 hover:text-emerald-400 hover:bg-emerald-500/5 transition-all flex items-center gap-2"
+          className="px-6 py-2.5 bg-white/5 border border-white/10 rounded-full text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-400 hover:text-indigo-400 hover:bg-indigo-500/5 transition-all flex items-center gap-2"
         >
           <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
@@ -59,14 +60,14 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
 
       {/* Hero Section */}
       <main className="relative z-10 px-8 pt-20 pb-32 max-w-7xl mx-auto flex flex-col items-center text-center">
-        <div className="inline-flex items-center gap-2 px-4 py-2 bg-emerald-500/5 border border-emerald-500/10 rounded-full mb-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
-          <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
-          <span className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-emerald-400/80">Self-Assessment Journey</span>
+        <div className="inline-flex items-center gap-2 px-4 py-2 bg-indigo-500/5 border border-indigo-500/10 rounded-full mb-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
+          <span className="w-1.5 h-1.5 rounded-full bg-indigo-400 animate-pulse"></span>
+          <span className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-indigo-400/80">Self-Assessment Journey</span>
         </div>
         
         <h1 className="text-5xl md:text-7xl font-premium font-light text-white mb-8 tracking-tighter leading-[1.1] animate-in fade-in slide-in-from-bottom-6 duration-1000">
           Deepen Your Understanding of <br /> 
-          <span className="font-arabic text-emerald-400">القرآن الكريم</span>
+          <span className="font-arabic text-indigo-400">القرآن الكريم</span>
         </h1>
         
         <p className="text-zinc-500 max-w-2xl mb-12 font-light text-lg md:text-xl leading-relaxed animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-200">
@@ -75,7 +76,8 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
 
         <button 
           onClick={onSignIn}
-          className="px-12 py-5 bg-white text-black rounded-full text-sm font-premium font-bold uppercase tracking-[0.2em] hover:bg-zinc-100 transition-all shadow-[0_20px_40px_rgba(255,255,255,0.1)] flex items-center gap-3 animate-in fade-in slide-in-from-bottom-10 duration-1000 delay-300 active:scale-95"
+          disabled={isSigningIn}
+          className="px-12 py-5 bg-white text-black rounded-full text-sm font-premium font-bold uppercase tracking-[0.2em] hover:bg-zinc-100 transition-all shadow-[0_20px_40px_rgba(255,255,255,0.1)] flex items-center gap-3 animate-in fade-in slide-in-from-bottom-10 duration-1000 delay-300 active:scale-95 disabled:opacity-70 disabled:cursor-not-allowed"
         >
           {user ? (
             <>
@@ -83,6 +85,11 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
               Open App
+            </>
+          ) : isSigningIn ? (
+            <>
+              <div className="w-5 h-5 border-2 border-black/20 border-t-black rounded-full animate-spin" />
+              Signing in with Google...
             </>
           ) : (
             <>
@@ -99,9 +106,9 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
 
         {/* Features Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-40 w-full max-w-5xl animate-in fade-in slide-in-from-bottom-12 duration-1000 delay-500">
-          <div className="p-8 bg-white/[0.02] border border-white/[0.05] rounded-[32px] text-left hover:border-emerald-500/20 transition-all group">
-            <div className="w-12 h-12 bg-emerald-500/10 rounded-2xl flex items-center justify-center mb-6 ring-1 ring-emerald-500/20 group-hover:scale-110 transition-transform duration-500">
-              <svg className="w-6 h-6 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <div className="p-8 bg-white/[0.02] border border-white/[0.05] rounded-[32px] text-left hover:border-indigo-500/20 transition-all group">
+            <div className="w-12 h-12 bg-indigo-500/10 rounded-2xl flex items-center justify-center mb-6 ring-1 ring-indigo-500/20 group-hover:scale-110 transition-transform duration-500">
+              <svg className="w-6 h-6 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.584.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
               </svg>
             </div>
@@ -134,8 +141,8 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
       {/* Support Section */}
       <section id="support-section" className="relative z-10 px-8 py-32 max-w-5xl mx-auto border-t border-white/[0.05]">
         <div className="flex flex-col items-center text-center">
-          <div className="w-16 h-16 bg-emerald-500/10 rounded-2xl flex items-center justify-center mb-8 ring-1 ring-emerald-500/20">
-            <svg className="w-8 h-8 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <div className="w-16 h-16 bg-indigo-500/10 rounded-2xl flex items-center justify-center mb-8 ring-1 ring-indigo-500/20">
+            <svg className="w-8 h-8 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
             </svg>
           </div>
@@ -165,7 +172,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
               >
                 {copied ? (
                   <>
-                    <svg className="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-indigo-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     Copied All Details
@@ -220,8 +227,8 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex flex-col items-center md:items-start gap-4">
             <div className="flex items-center gap-3">
-              <div className="w-8 h-8 bg-emerald-500/10 rounded-lg flex items-center justify-center ring-1 ring-emerald-500/20">
-                <svg className="w-4 h-4 text-emerald-400" fill="currentColor" viewBox="0 0 20 20">
+              <div className="w-8 h-8 bg-indigo-500/10 rounded-lg flex items-center justify-center ring-1 ring-indigo-500/20">
+                <svg className="w-4 h-4 text-indigo-400" fill="currentColor" viewBox="0 0 20 20">
                   <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.976 8.976 0 00-1.318.236 1 1 0 01-1.091-.637 2.993 2.993 0 00-.816-1.112c-.4-.307-.862-.533-1.352-.667z" />
                 </svg>
               </div>
@@ -233,7 +240,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onSignIn, user }) => {
             <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Contact Developer</p>
             <div className="flex items-center gap-8">
               <a href="mailto:mjunaid.swe@gmail.com" className="flex items-center gap-2 text-sm text-zinc-400 hover:text-white transition-colors group">
-                <svg className="w-4 h-4 text-zinc-600 group-hover:text-emerald-400 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-zinc-600 group-hover:text-indigo-400 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
                 <span className="font-light">mjunaid.swe@gmail.com</span>
