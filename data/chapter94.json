@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch94-q1",
+            "text": "What does 'expanding the chest' teach about Allah’s support?",
+            "answer": "Allah strengthens the heart with light and resilience to carry heavy responsibilities."
+        },
+        {
+            "id": "ch94-q2",
+            "text": "True/False: The Surah teaches that hardship means Allah has abandoned a believer.",
+            "answer": "False. It teaches hardship comes with ease by Allah’s mercy."
+        },
+        {
+            "id": "ch94-q3",
+            "text": "What is one practical meaning of Allah ‘removing the burden’?",
+            "answer": "Allah lightens difficulties and gives spiritual strength and clarity to continue."
+        },
+        {
+            "id": "ch94-q4",
+            "text": "How does this Surah teach believers to interpret repeated trials?",
+            "answer": "Do not despair—relief can come in multiple forms, even alongside the same hardship."
+        },
+        {
+            "id": "ch94-q5",
+            "text": "What does the Surah teach about Allah raising the Prophet’s mention?",
+            "answer": "Allah honored the Prophet’s reputation in worship and history, showing divine support and honor."
+        },
+        {
+            "id": "ch94-q6",
+            "text": "What is one lesson from the linguistic point about ‘one hardship’ and ‘multiple eases’?",
+            "answer": "A single trial can be surrounded by several kinds of relief—spiritual, emotional, social, and practical."
+        },
+        {
+            "id": "ch94-q7",
+            "text": "True/False: The Surah teaches believers should remain idle once a task is completed.",
+            "answer": "False. It teaches moving from one good effort to another, especially worship."
+        },
+        {
+            "id": "ch94-q8",
+            "text": "What does the command to turn to Allah after finishing work teach about balance?",
+            "answer": "Work and worship should support each other; success includes returning to Allah with focus."
+        },
+        {
+            "id": "ch94-q9",
+            "text": "How can a believer apply ‘when you are free, then strive’ today?",
+            "answer": "After work or study, invest time in prayer, Quran, family rights, and beneficial service."
+        },
+        {
+            "id": "ch94-q10",
+            "text": "What does the Surah teach about where to direct hope and desire?",
+            "answer": "Direct hope and longing to Allah alone, not to people’s approval."
+        },
+        {
+            "id": "ch94-q11",
+            "text": "How can this Surah help someone who feels overwhelmed by responsibilities?",
+            "answer": "It reminds Allah can expand the chest, lighten burdens, and send ease alongside hardship."
+        },
+        {
+            "id": "ch94-q12",
+            "text": "True/False: The Surah teaches that relief only comes after hardship ends.",
+            "answer": "False. It teaches ease can accompany hardship."
+        },
+        {
+            "id": "ch94-q13",
+            "text": "What is one daily practice inspired by this Surah’s message?",
+            "answer": "When stressed, repeat the meaning: Allah brings ease with hardship, then make dua and take the next right step."
+        },
+        {
+            "id": "ch94-q14",
+            "text": "How does this Surah connect to Surah Ad-Duha in theme?",
+            "answer": "Both comfort the Prophet and remind of Allah’s care and promise of better outcomes."
+        },
+        {
+            "id": "ch94-q15",
+            "text": "What does ‘nasab’ teach about spiritual productivity?",
+            "answer": "Goodness requires effort; serving Allah involves striving, not laziness."
+        },
+        {
+            "id": "ch94-q16",
+            "text": "True/False: The Surah teaches believers should chase constant comfort as their goal.",
+            "answer": "False. It teaches resilience: strive through hardship and remain attached to Allah."
+        },
+        {
+            "id": "ch94-q17",
+            "text": "How can this Surah guide someone facing repeated setbacks?",
+            "answer": "Keep hope; setbacks can carry hidden eases, lessons, and openings from Allah."
+        },
+        {
+            "id": "ch94-q18",
+            "text": "What is one misconception corrected by this Surah about hardship?",
+            "answer": "That hardship equals divine rejection; the Surah shows hardship can coexist with mercy and honor."
+        },
+        {
+            "id": "ch94-q19",
+            "text": "How can a believer make their ‘mention’ good in Allah’s sight?",
+            "answer": "By sincerity, prayer, serving others, and avoiding hypocrisy and ظلم."
+        },
+        {
+            "id": "ch94-q20",
+            "text": "True/False: The Surah teaches that turning to Allah is only needed in crisis.",
+            "answer": "False. It teaches turning to Allah as a consistent focus, after tasks and in all states."
+        },
+        {
+            "id": "ch94-q21",
             "text": "What is the other common name for Surah Ash-Sharh?",
             "answer": "Surah Al-Inshirah."
         },
         {
-            "id": "ch94-q2",
-            "text": "What is the first favor mentioned in Verse 1?",
+            "id": "ch94-q22",
+            "text": "What is the first favor mentioned in this Surah?",
             "answer": "Expanding (opening) the chest/breast of the Prophet (SAW)."
         },
         {
-            "id": "ch94-q3",
+            "id": "ch94-q23",
             "text": "What does 'expanding the chest' signify?",
             "answer": "Filling the heart with light, wisdom, and the strength to carry the heavy burden of the message."
         },
         {
-            "id": "ch94-q4",
-            "text": "What did Allah 'remove' from the Prophet in Verse 2?",
+            "id": "ch94-q24",
+            "text": "What did Allah 'remove' from the Prophet in this Surah?",
             "answer": "His burden (Wizrak)."
         },
         {
-            "id": "ch94-q5",
-            "text": "How is the 'burden' described in Verse 3?",
+            "id": "ch94-q25",
+            "text": "How is the 'burden' described in this Surah?",
             "answer": "As that which weighed heavily upon his back."
         },
         {
-            "id": "ch94-q6",
+            "id": "ch94-q26",
             "text": "What did Allah 'raise high' for the Prophet (SAW)?",
             "answer": "His 'mention' or 'repute' (Dhikrak)."
         },
         {
-            "id": "ch94-q7",
-            "text": "What is the famous formula for ease and hardship in Verse 5?",
+            "id": "ch94-q27",
+            "text": "What is the famous formula for ease and hardship in this Surah?",
             "answer": "For indeed, with hardship [will be] ease."
         },
         {
-            "id": "ch94-q8",
-            "text": "Why is Verse 6 ('Indeed, with hardship [will be] ease') repeated?",
+            "id": "ch94-q28",
+            "text": "Why is the statement about ease with hardship repeated?",
             "answer": "To provide emphasis and a strong guarantee of relief."
         },
         {
-            "id": "ch94-q9",
+            "id": "ch94-q29",
             "text": "What should the Prophet do when he has finished his duties?",
             "answer": "Labor/stand up [in worship]."
         },
         {
-            "id": "ch94-q10",
+            "id": "ch94-q30",
             "text": "To whom should the Prophet turn his attention and desire?",
             "answer": "To his Lord alone."
         },
         {
-            "id": "ch94-q11",
+            "id": "ch94-q31",
             "text": "Linguistically, does the 'Ease' (Yusr) in these verses overcome the 'Hardship' (Al-Usr)?",
             "answer": "Yes, because the 'hardship' is mentioned with a definite article (Al-Usr, the same one), while 'ease' is indefinite (Yusr, multiple ease), implying one hardship is followed by two eases."
         },
         {
-            "id": "ch94-q12",
+            "id": "ch94-q32",
             "text": "How was the Prophet's 'mention' raised?",
             "answer": "Through the Adhan, the Tashahhud, and his name being known throughout history and the universe."
         },
         {
-            "id": "ch94-q13",
-            "text": "What is the spiritual lesson of Verse 7?",
+            "id": "ch94-q33",
+            "text": "What is the spiritual lesson of this Surah about being productive after finishing tasks?",
             "answer": "A believer should not remain idle; once one task (like dawah) is finished, they should turn to the next (like personal worship)."
         },
         {
-            "id": "ch94-q14",
+            "id": "ch94-q34",
             "text": "Is this Surah linked to the previous Surah (Ad-Duha)?",
             "answer": "Yes, both provide intense consolation and highlight Allah's personal care for the Prophet (SAW)."
         },
         {
-            "id": "ch94-q15",
+            "id": "ch94-q35",
             "text": "What does 'Waza'na' mean?",
             "answer": "We removed or We laid down."
         },
         {
-            "id": "ch94-q16",
+            "id": "ch94-q36",
             "text": "What is 'Nasab'?",
             "answer": "Tiring oneself or laboring in the service of Allah."
         },
         {
-            "id": "ch94-q17",
+            "id": "ch94-q37",
             "text": "True or False: The Surah suggests that ease is not something that comes only after hardship, but is accompanying it.",
             "answer": "True, as the Arabic word 'Ma'a' means 'with'."
         },
         {
-            "id": "ch94-q18",
+            "id": "ch94-q38",
             "text": "Does this Surah apply to all believers in times of distress?",
             "answer": "Yes, it serves as a universal promise of relief and a guide for spiritual productivity."
         },
         {
-            "id": "ch94-q19",
-            "text": "What does 'Fargh' mean in Verse 7?",
+            "id": "ch94-q39",
+            "text": "What does 'Fargh' mean in this Surah?",
             "answer": "To be empty or free from an occupation."
         },
         {
-            "id": "ch94-q20",
+            "id": "ch94-q40",
             "text": "What is the meaning of 'Ar-Raghab'?",
             "answer": "Fervent desire, hope, and turning towards Allah."
         }

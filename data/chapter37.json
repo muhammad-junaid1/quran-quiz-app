@@ -1,108 +1,358 @@
 {
-  "id": 37,
-  "englishName": "As-Saffat",
-  "arabicName": "الصافات",
-  "translation": "Those who set the Ranks",
-  "questions": [
-    {
-      "id": "ch37-q1",
-      "text": "What does 'As-Saffat' refer to in the first verse?",
-      "answer": "The angels who stand in ranks/rows for worship."
-    },
-    {
-      "id": "ch37-q2",
-      "text": "What is the core declaration of Verse 4?",
-      "answer": "Indeed, your God is One."
-    },
-    {
-      "id": "ch37-q3",
-      "text": "What is the 'lowest heaven' adorned with?",
-      "answer": "An adornment of stars."
-    },
-    {
-      "id": "ch37-q4",
-      "text": "What is the 'Tree of Zaqqum'?",
-      "answer": "A tree that grows out of the bottom of the Hellfire, serving as food for the sinners; its fruits are like the heads of devils."
-    },
-    {
-      "id": "ch37-q5",
-      "text": "What was the 'clear trial' Ibrahim (AS) faced regarding his son?",
-      "answer": "He saw in a dream that he was sacrificing his son (Isma'il)."
-    },
-    {
-      "id": "ch37-q6",
-      "text": "What was the son's response when Ibrahim (AS) told him about the dream?",
-      "answer": "'O my father, do as you are commanded. You will find me, if Allah wills, of the patient'."
-    },
-    {
-      "id": "ch37-q7",
-      "text": "What did Allah replace the son with during the sacrifice?",
-      "answer": "A great sacrifice (a ram)."
-    },
-    {
-      "id": "ch37-q8",
-      "text": "Which Prophet is mentioned as being sent to a hundred thousand or more?",
-      "answer": "Prophet Yunus (AS)."
-    },
-    {
-      "id": "ch37-q9",
-      "text": "Why was Yunus (AS) swallowed by the fish?",
-      "answer": "He fled to the laden ship and lost the draw of lots, being cast into the sea while he was blameworthy."
-    },
-    {
-      "id": "ch37-q10",
-      "text": "What saved Yunus (AS) from remaining in the belly of the fish until the Day of Resurrection?",
-      "answer": "The fact that he was 'of those who exalt Allah' (did Tasbih)."
-    },
-    {
-      "id": "ch37-q11",
-      "text": "What plant did Allah cause to grow over Yunus (AS) after he was cast onto the shore?",
-      "answer": "A gourd vine (Yaqtin)."
-    },
-    {
-      "id": "ch37-q12",
-      "text": "What did the people of Prophet Ilyas (Elias) worship?",
-      "answer": "An idol named Ba'l."
-    },
-    {
-      "id": "ch37-q13",
-      "text": "What is the status of the 'chosen servants' (Mukhlaseen) in this Surah?",
-      "answer": "They are exempted from the punishment and will have a known provision in Paradise."
-    },
-    {
-      "id": "ch37-q14",
-      "text": "How is the wine of Paradise described in Verses 45-47?",
-      "answer": "White, delicious to the drinkers, no bad effect (headache) in it, nor will they be intoxicated by it."
-    },
-    {
-      "id": "ch37-q15",
-      "text": "What is the response to the pagans' claim that Allah has daughters?",
-      "answer": "It is a lie; they attribute to Allah what they hate for themselves (daughters) and claim the angels are female without being witnesses to their creation."
-    },
-    {
-      "id": "ch37-q16",
-      "text": "Which Prophet is associated with the phrase 'Peace be upon Ilyas-in'?",
-      "answer": "Ilyas (Elias)."
-    },
-    {
-      "id": "ch37-q17",
-      "text": "What is the final word on Allah's victory in Verse 171-173?",
-      "answer": "The word has already preceded for His servants, the Messengers, that they would be the victorious and His host would be the overcomers."
-    },
-    {
-      "id": "ch37-q18",
-      "text": "How does the Surah conclude in its glorification of Allah?",
-      "answer": "'Exalted is your Lord, the Lord of might, above what they describe. And peace be upon the messengers. And praise to Allah, Lord of the worlds'."
-    },
-    {
-      "id": "ch37-q19",
-      "text": "Who were the two brothers mentioned as being given 'the clear Scripture'?",
-      "answer": "Musa and Harun."
-    },
-    {
-      "id": "ch37-q20",
-      "text": "What happened to the people of Lut in this Surah's account?",
-      "answer": "Allah saved Lut and his family, except an old woman among those who remained behind, and destroyed the others."
-    }
-  ]
+    "id": 37,
+    "englishName": "As-Saffat",
+    "arabicName": "الصافات",
+    "translation": "Those who set the Ranks",
+    "questions": [
+        {
+            "id": "ch37-q1",
+            "text": "What is the main message Surah As-Saffat repeatedly emphasizes about Allah?",
+            "answer": "That Allah is One, perfect, and far above the false claims people attribute to Him."
+        },
+        {
+            "id": "ch37-q2",
+            "text": "Why does the Surah begin by mentioning angels standing in ranks?",
+            "answer": "To show disciplined worship in the unseen world and to highlight Allah's greatness and order in creation."
+        },
+        {
+            "id": "ch37-q3",
+            "text": "True/False: The Surah teaches that there are multiple gods managing different parts of the universe.",
+            "answer": "False. It declares that the Lord of the heavens and the earth is One."
+        },
+        {
+            "id": "ch37-q4",
+            "text": "What does the Surah teach about devils trying to access heavenly information?",
+            "answer": "They are repelled and prevented, showing that the unseen is protected by Allah."
+        },
+        {
+            "id": "ch37-q5",
+            "text": "How does the Surah describe the reality of the Hereafter compared to worldly assumptions?",
+            "answer": "It portrays the Hereafter as certain and detailed, exposing worldly denial as false confidence."
+        },
+        {
+            "id": "ch37-q6",
+            "text": "What is one reason the Surah contrasts the food and drink of Paradise and Hell?",
+            "answer": "To make consequences vivid and to motivate sincere repentance and steadfast faith."
+        },
+        {
+            "id": "ch37-q7",
+            "text": "What does the mention of the Tree of Zaqqum teach about the nature of Hell?",
+            "answer": "That Hell has humiliating and painful punishment that matches the arrogance and sin of its people."
+        },
+        {
+            "id": "ch37-q8",
+            "text": "True/False: The Surah suggests that sinners in Hell will find comfort in their punishment over time.",
+            "answer": "False. It describes increasing humiliation and pain, not comfort."
+        },
+        {
+            "id": "ch37-q9",
+            "text": "What lesson does the Surah teach through the conversations of people in Paradise?",
+            "answer": "That believers remember Allah's protection from misguidance and feel deep gratitude for salvation."
+        },
+        {
+            "id": "ch37-q10",
+            "text": "What does Surah As-Saffat teach about 'chosen servants' of Allah?",
+            "answer": "They are sincere and protected from punishment, receiving known provision and honor in Paradise."
+        },
+        {
+            "id": "ch37-q11",
+            "text": "What is one misconception about angels that the Surah corrects?",
+            "answer": "That angels are female or Allah's daughters; the Surah rejects this as a false claim."
+        },
+        {
+            "id": "ch37-q12",
+            "text": "Why is it logically inconsistent to attribute to Allah what people dislike for themselves?",
+            "answer": "Because it shows hypocrisy and disrespect toward Allah, revealing the falsehood of such beliefs."
+        },
+        {
+            "id": "ch37-q13",
+            "text": "What does the Surah teach about the power of Allah's promise to His messengers?",
+            "answer": "Allah's promise of victory is certain; His messengers and His host will ultimately overcome."
+        },
+        {
+            "id": "ch37-q14",
+            "text": "How does the story of Nuh (AS) in this Surah teach reliance on Allah?",
+            "answer": "Nuh called upon Allah sincerely, and Allah saved him and his followers, showing the value of dua and patience."
+        },
+        {
+            "id": "ch37-q15",
+            "text": "What key quality of Ibrahim (AS) is highlighted by the Surah?",
+            "answer": "His sincerity and readiness to obey Allah completely, even in the hardest tests."
+        },
+        {
+            "id": "ch37-q16",
+            "text": "Why is Ibrahim's willingness to sacrifice his son considered a 'clear trial'?",
+            "answer": "Because it tests the heart at its deepest attachment, proving submission to Allah above all else."
+        },
+        {
+            "id": "ch37-q17",
+            "text": "What does the son's response in Ibrahim's trial teach about faith and character?",
+            "answer": "It shows obedience, patience, trust in Allah, and honoring one's parent in righteousness."
+        },
+        {
+            "id": "ch37-q18",
+            "text": "What does replacing the sacrifice with a ram teach about Allah's mercy?",
+            "answer": "That Allah tests sincerity but does not desire cruelty; He provides a merciful completion to the trial."
+        },
+        {
+            "id": "ch37-q19",
+            "text": "True/False: The Surah teaches that prophets were perfect without needing Allah's help.",
+            "answer": "False. Prophets are honored servants who rely on Allah, make dua, and are supported by Him."
+        },
+        {
+            "id": "ch37-q20",
+            "text": "What is one lesson from the story of Musa and Harun mentioned in the Surah?",
+            "answer": "Allah rescues His believing servants and grants clear guidance, while tyrants ultimately face justice."
+        },
+        {
+            "id": "ch37-q21",
+            "text": "What does the Surah teach about Lut (AS) and his people's corruption?",
+            "answer": "That Allah saves the believers and destroys communities that persist in shameless wrongdoing."
+        },
+        {
+            "id": "ch37-q22",
+            "text": "Why is the fate of Lut's wife a warning for people who live among believers?",
+            "answer": "Because proximity to righteousness does not save without personal faith and obedience."
+        },
+        {
+            "id": "ch37-q23",
+            "text": "What does the Surah teach about Prophet Yunus (AS) and the importance of remembering Allah?",
+            "answer": "That consistent glorification of Allah becomes a means of rescue when hardship strikes."
+        },
+        {
+            "id": "ch37-q24",
+            "text": "What is one lesson from Yunus (AS) being cast into the sea after losing lots?",
+            "answer": "That a believer should return to Allah quickly and avoid leaving responsibilities in anger or haste."
+        },
+        {
+            "id": "ch37-q25",
+            "text": "Why does the Surah mention the gourd vine given to Yunus (AS)?",
+            "answer": "To show Allah's care and mercy in healing and restoring His servant after hardship."
+        },
+        {
+            "id": "ch37-q26",
+            "text": "What does the Surah teach about Ilyas (AS) confronting idol worship?",
+            "answer": "That calling people away from false gods to Allah is a central mission of prophethood."
+        },
+        {
+            "id": "ch37-q27",
+            "text": "How does the Surah build certainty that resurrection is possible?",
+            "answer": "By reminding of Allah's creation and control, and by exposing the weakness of denial."
+        },
+        {
+            "id": "ch37-q28",
+            "text": "What is one reason the Surah describes Paradise's drink as pure and free from harm?",
+            "answer": "To contrast it with worldly intoxication and to show the perfection of the Hereafter's reward."
+        },
+        {
+            "id": "ch37-q29",
+            "text": "True/False: The Surah suggests that worldly status will make a person safe in the Hereafter.",
+            "answer": "False. It emphasizes accountability and the consequences of belief and deeds."
+        },
+        {
+            "id": "ch37-q30",
+            "text": "What does Surah As-Saffat teach about people who call themselves righteous but mock believers?",
+            "answer": "That their mockery will turn into regret, while believers will be honored and safe."
+        },
+        {
+            "id": "ch37-q31",
+            "text": "How does the Surah address the claim that Allah has children?",
+            "answer": "It refutes it as an invented lie and declares Allah far above such descriptions."
+        },
+        {
+            "id": "ch37-q32",
+            "text": "What role do 'peace' greetings play in the Surah's mentions of prophets?",
+            "answer": "They honor the prophets and show that Allah grants them lasting praise and safety."
+        },
+        {
+            "id": "ch37-q33",
+            "text": "What does the Surah teach about the long-term legacy of sincere believers?",
+            "answer": "Allah preserves their good mention and rewards them, even if they were opposed in their time."
+        },
+        {
+            "id": "ch37-q34",
+            "text": "What is one personal application lesson from the story of Ibrahim (AS)?",
+            "answer": "Put Allah first in decisions and attachments, and trust that obedience leads to mercy and honor."
+        },
+        {
+            "id": "ch37-q35",
+            "text": "How does Surah As-Saffat warn against following desires and traditions blindly?",
+            "answer": "It shows that false beliefs are often inherited and defended without proof, leading to punishment."
+        },
+        {
+            "id": "ch37-q36",
+            "text": "What does the Surah teach about Allah's ability to forgive and reward beyond expectation?",
+            "answer": "Allah grants known provision, honor, and peace to His sincere servants, far beyond what they could earn alone."
+        },
+        {
+            "id": "ch37-q37",
+            "text": "What is one reason the Surah repeats glorification of Allah near its end?",
+            "answer": "To purify belief, reject false descriptions, and conclude with praise and peace upon the messengers."
+        },
+        {
+            "id": "ch37-q38",
+            "text": "True/False: The Surah portrays the universe as morally neutral, with no accountability.",
+            "answer": "False. It connects belief, moral choices, and the Hereafter with clear consequences."
+        },
+        {
+            "id": "ch37-q39",
+            "text": "What does the Surah imply about Allah's justice toward those who persist in oppression and mockery?",
+            "answer": "They will face fitting punishment, and their claims will collapse before Allah's truth."
+        },
+        {
+            "id": "ch37-q40",
+            "text": "How can the Surah strengthen a believer's patience during opposition?",
+            "answer": "By showing that prophets faced rejection but Allah supported them and granted eventual victory."
+        },
+        {
+            "id": "ch37-q41",
+            "text": "What is one key takeaway about dua from the prophets mentioned in the Surah?",
+            "answer": "Calling upon Allah sincerely in hardship is a powerful means of rescue and honor."
+        },
+        {
+            "id": "ch37-q42",
+            "text": "What does the Surah teach about the difference between sincere faith and shallow claims?",
+            "answer": "Sincere faith shows in obedience and patience, while shallow claims collapse in the Hereafter."
+        },
+        {
+            "id": "ch37-q43",
+            "text": "How does the Surah challenge the listener to reflect on their end?",
+            "answer": "By describing Paradise and Hell vividly and reminding that the Day of Sorting is appointed."
+        },
+        {
+            "id": "ch37-q44",
+            "text": "What is the Surah's moral warning about arrogance and self-importance?",
+            "answer": "Arrogance leads to humiliation in the Hereafter and exposes a person's false sense of honor."
+        },
+        {
+            "id": "ch37-q45",
+            "text": "Why are prophets described as models worthy of peace and praise?",
+            "answer": "Because they upheld tawhid, conveyed truth, and remained patient and sincere."
+        },
+        {
+            "id": "ch37-q46",
+            "text": "What does the Surah teach about Allah's control over guidance and honor?",
+            "answer": "Allah honors whom He wills and protects His sincere servants from misguidance and punishment."
+        },
+        {
+            "id": "ch37-q47",
+            "text": "What is one modern-life application of the Surah's warning about inherited false beliefs?",
+            "answer": "Do not follow traditions blindly; evaluate beliefs and practices by revelation and sound evidence."
+        },
+        {
+            "id": "ch37-q48",
+            "text": "How does the Surah define true nobility compared to worldly nobility?",
+            "answer": "True nobility is obedience to Allah and being among His sincere servants, not worldly pride."
+        },
+        {
+            "id": "ch37-q49",
+            "text": "What is a final spiritual goal for reading Surah As-Saffat thoughtfully?",
+            "answer": "To purify tawhid, deepen certainty in the Hereafter, and adopt the patience and sincerity of the prophets."
+        },
+        {
+            "id": "ch37-q50",
+            "text": "What is one concluding message of the Surah about Allah's perfection?",
+            "answer": "Allah is exalted above what people falsely describe, and all praise belongs to Him, Lord of the worlds."
+        },
+        {
+            "id": "ch37-q51",
+            "text": "What does 'As-Saffat' refer to in the first ayah?",
+            "answer": "The angels who stand in ranks/rows for worship."
+        },
+        {
+            "id": "ch37-q52",
+            "text": "What is the core declaration of a specific ayah?",
+            "answer": "Indeed, your God is One."
+        },
+        {
+            "id": "ch37-q53",
+            "text": "What is the 'lowest heaven' adorned with?",
+            "answer": "An adornment of stars."
+        },
+        {
+            "id": "ch37-q54",
+            "text": "What is the 'Tree of Zaqqum'?",
+            "answer": "A tree that grows out of the bottom of the Hellfire, serving as food for the sinners; its fruits are like the heads of devils."
+        },
+        {
+            "id": "ch37-q55",
+            "text": "What was the 'clear trial' Ibrahim (AS) faced regarding his son?",
+            "answer": "He saw in a dream that he was sacrificing his son (Isma'il)."
+        },
+        {
+            "id": "ch37-q56",
+            "text": "What was the son's response when Ibrahim (AS) told him about the dream?",
+            "answer": "'O my father, do as you are commanded. You will find me, if Allah wills, of the patient'."
+        },
+        {
+            "id": "ch37-q57",
+            "text": "What did Allah replace the son with during the sacrifice?",
+            "answer": "A great sacrifice (a ram)."
+        },
+        {
+            "id": "ch37-q58",
+            "text": "Which Prophet is mentioned as being sent to a hundred thousand or more?",
+            "answer": "Prophet Yunus (AS)."
+        },
+        {
+            "id": "ch37-q59",
+            "text": "Why was Yunus (AS) swallowed by the fish?",
+            "answer": "He fled to the laden ship and lost the draw of lots, being cast into the sea while he was blameworthy."
+        },
+        {
+            "id": "ch37-q60",
+            "text": "What saved Yunus (AS) from remaining in the belly of the fish until the Day of Resurrection?",
+            "answer": "The fact that he was 'of those who exalt Allah' (did Tasbih)."
+        },
+        {
+            "id": "ch37-q61",
+            "text": "What plant did Allah cause to grow over Yunus (AS) after he was cast onto the shore?",
+            "answer": "A gourd vine (Yaqtin)."
+        },
+        {
+            "id": "ch37-q62",
+            "text": "What did the people of Prophet Ilyas (Elias) worship?",
+            "answer": "An idol named Ba'l."
+        },
+        {
+            "id": "ch37-q63",
+            "text": "What is the status of the 'chosen servants' (Mukhlaseen) in this Surah?",
+            "answer": "They are exempted from the punishment and will have a known provision in Paradise."
+        },
+        {
+            "id": "ch37-q64",
+            "text": "How is the wine of Paradise described in Verses 45-47?",
+            "answer": "White, delicious to the drinkers, no bad effect (headache) in it, nor will they be intoxicated by it."
+        },
+        {
+            "id": "ch37-q65",
+            "text": "What is the response to the pagans' claim that Allah has daughters?",
+            "answer": "It is a lie; they attribute to Allah what they hate for themselves (daughters) and claim the angels are female without being witnesses to their creation."
+        },
+        {
+            "id": "ch37-q66",
+            "text": "Which Prophet is associated with the phrase 'Peace be upon Ilyas-in'?",
+            "answer": "Ilyas (Elias)."
+        },
+        {
+            "id": "ch37-q67",
+            "text": "What is the final word on Allah's victory in a specific ayah?",
+            "answer": "The word has already preceded for His servants, the Messengers, that they would be the victorious and His host would be the overcomers."
+        },
+        {
+            "id": "ch37-q68",
+            "text": "How does the Surah conclude in its glorification of Allah?",
+            "answer": "'Exalted is your Lord, the Lord of might, above what they describe. And peace be upon the messengers. And praise to Allah, Lord of the worlds'."
+        },
+        {
+            "id": "ch37-q69",
+            "text": "Who were the two brothers mentioned as being given 'the clear Scripture'?",
+            "answer": "Musa and Harun."
+        },
+        {
+            "id": "ch37-q70",
+            "text": "What happened to the people of Lut in this Surah's account?",
+            "answer": "Allah saved Lut and his family, except an old woman among those who remained behind, and destroyed the others."
+        }
+    ]
 }

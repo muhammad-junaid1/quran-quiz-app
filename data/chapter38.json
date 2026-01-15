@@ -1,108 +1,358 @@
 {
-  "id": 38,
-  "englishName": "Sad",
-  "arabicName": "ص",
-  "translation": "The Letter Sad",
-  "questions": [
-    {
-      "id": "ch38-q1",
-      "text": "What is the 'Reminder' (Dhikr) mentioned in the first verse?",
-      "answer": "The Quran."
-    },
-    {
-      "id": "ch38-q2",
-      "text": "What did the disbelievers find strange about the Prophet's message of Tawhid (Verse 5)?",
-      "answer": "They asked 'Has he made the gods [into] one God? Indeed, this is a curious thing'."
-    },
-    {
-      "id": "ch38-q3",
-      "text": "Describe the dispute that came to Prophet Dawud (AS) in his prayer chamber.",
-      "answer": "Two litigants climbed over the wall; one had 99 ewes and the other had only one, but the first demanded the one ewe for himself."
-    },
-    {
-      "id": "ch38-q4",
-      "text": "What was Dawud's (AS) realization after judging the dispute?",
-      "answer": "He realized it was a test for him from Allah, so he fell down in prostration and repented."
-    },
-    {
-      "id": "ch38-q5",
-      "text": "What was the 'trial' of Sulayman (AS) mentioned in Verse 34?",
-      "answer": "Allah placed a [lifeless] body on his throne, after which he turned back to Allah in repentance."
-    },
-    {
-      "id": "ch38-q6",
-      "text": "What was Sulayman's (AS) famous prayer for a kingdom?",
-      "answer": "'My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me'."
-    },
-    {
-      "id": "ch38-q7",
-      "text": "Who were the 'Shayatin' (devils) subjected to Sulayman?",
-      "answer": "Every builder and diver, and others bound together in shackles."
-    },
-    {
-      "id": "ch38-q8",
-      "text": "Which Prophet is the example of 'patience' in this Surah?",
-      "answer": "Prophet Ayyub (Job)."
-    },
-    {
-      "id": "ch38-q9",
-      "text": "How was Ayyub (AS) told to heal himself?",
-      "answer": "'Strike [the ground] with your foot; this is a [spring for] a cool bath and drink'."
-    },
-    {
-      "id": "ch38-q10",
-      "text": "What was the 'oath' Ayyub (AS) had to fulfill using a bundle of grass?",
-      "answer": "He had sworn to strike his wife (due to a misunderstanding during his illness), so Allah showed him a way to fulfill his oath without harming her."
-    },
-    {
-      "id": "ch38-q11",
-      "text": "Who are the three Prophets mentioned as 'possessors of strength and vision' (Verse 45)?",
-      "answer": "Ibrahim, Ishaq, and Ya'qub."
-    },
-    {
-      "id": "ch38-q12",
-      "text": "What is the description of the 'Abodes of the Righteous'?",
-      "answer": "Gardens of perpetual residence, with doors opened for them, reclining therein and calling for abundant fruit and drink."
-    },
-    {
-      "id": "ch38-q13",
-      "text": "What will the people of Hell ask about those they thought were 'evil' in the world?",
-      "answer": "They will wonder why they do not see the men they used to count among the bad (the believers)."
-    },
-    {
-      "id": "ch38-q14",
-      "text": "Describe the scene of Adam's creation as narrated at the end of the Surah.",
-      "answer": "Allah informed the angels He would create a human from clay, and when fashioned, they must prostrate."
-    },
-    {
-      "id": "ch38-q15",
-      "text": "What was Iblis's specific excuse for not prostrating to Adam?",
-      "answer": "'I am better than him. You created me from fire and created him from clay'."
-    },
-    {
-      "id": "ch38-q16",
-      "text": "What is the 'Curse' upon Iblis until the Day of Recompense?",
-      "answer": "He is expelled and accursed."
-    },
-    {
-      "id": "ch38-q17",
-      "text": "How did Iblis vow to mislead mankind?",
-      "answer": "By Allah's might, he vowed to mislead them all, except the 'Mukhlaseen' (sincere servants)."
-    },
-    {
-      "id": "ch38-q18",
-      "text": "What is the Prophet's (SAW) declaration regarding his mission in Verse 86?",
-      "answer": "'I do not ask you for it any payment, and I am not of the pretenders'."
-    },
-    {
-      "id": "ch38-q19",
-      "text": "What is the 'great news' (Naba'un Azim) mentioned in Verse 67?",
-      "answer": "The Quran and the news of the Hereafter, which the people are turning away from."
-    },
-    {
-      "id": "ch38-q20",
-      "text": "What did Allah say about His purpose in creating the heavens and earth?",
-      "answer": "He did not create them 'in aimless play' (Batila); that is the assumption of those who disbelieve."
-    }
-  ]
+    "id": 38,
+    "englishName": "Sad",
+    "arabicName": "ص",
+    "translation": "The Letter Sad",
+    "questions": [
+        {
+            "id": "ch38-q1",
+            "text": "What is the central purpose of Surah Sad as a 'reminder'?",
+            "answer": "To remind people of Allah's revelation, the truth of the Hereafter, and the need for sincere worship and humility."
+        },
+        {
+            "id": "ch38-q2",
+            "text": "True/False: The Surah suggests that tawhid is a strange and unreasonable belief.",
+            "answer": "False. It shows that people called it strange out of arrogance, not because it lacks truth."
+        },
+        {
+            "id": "ch38-q3",
+            "text": "Why do arrogant people often resist the message of 'Allah is One'?",
+            "answer": "Because it challenges their pride, control, and attachment to inherited false beliefs."
+        },
+        {
+            "id": "ch38-q4",
+            "text": "What does the Surah teach about judging disputes and being fair to the weak?",
+            "answer": "That injustice and bias are major wrongs, and a believer should judge with truth and humility."
+        },
+        {
+            "id": "ch38-q5",
+            "text": "What is one spiritual lesson from Dawud (AS) realizing he was being tested?",
+            "answer": "Even righteous people must stay alert, repent quickly, and not trust their own status."
+        },
+        {
+            "id": "ch38-q6",
+            "text": "How does Surah Sad connect leadership with accountability?",
+            "answer": "It teaches that leaders are tested and will be judged, so they must rule with justice and remembrance of Allah."
+        },
+        {
+            "id": "ch38-q7",
+            "text": "True/False: Repentance is portrayed as a weakness that lowers a person's honor.",
+            "answer": "False. Repentance increases honor, purifies the heart, and brings a person closer to Allah."
+        },
+        {
+            "id": "ch38-q8",
+            "text": "What does the Surah teach about Allah creating the heavens and earth with purpose?",
+            "answer": "That creation is not meaningless play; it is built on truth and wisdom with accountability."
+        },
+        {
+            "id": "ch38-q9",
+            "text": "What is one lesson from Sulayman's prayer for a unique kingdom?",
+            "answer": "Even with power, a believer asks Allah for forgiveness and recognizes all authority comes from Him."
+        },
+        {
+            "id": "ch38-q10",
+            "text": "How does the Surah teach humility through Sulayman's trial?",
+            "answer": "It shows that even great kings are tested and must return to Allah with repentance and reliance."
+        },
+        {
+            "id": "ch38-q11",
+            "text": "What does the Surah teach about control over jinn and creation?",
+            "answer": "It is only by Allah's permission; power over creation is a gift, not independent strength."
+        },
+        {
+            "id": "ch38-q12",
+            "text": "Which quality of Ayyub (AS) is highlighted, and why is it important?",
+            "answer": "Patience and steadfastness, showing that suffering can be endured with faith and trust in Allah."
+        },
+        {
+            "id": "ch38-q13",
+            "text": "What does Ayyub's story teach about complaining to people versus turning to Allah?",
+            "answer": "A believer should turn to Allah with humility and dua, seeking relief without losing patience."
+        },
+        {
+            "id": "ch38-q14",
+            "text": "What does the Surah teach about Allah's mercy in giving solutions to difficult situations?",
+            "answer": "Allah can provide an honorable way out that preserves righteousness and avoids ظلم (injustice)."
+        },
+        {
+            "id": "ch38-q15",
+            "text": "How does the Surah honor Ibrahim, Ishaq, and Ya'qub?",
+            "answer": "It describes them as people of strength and insight, devoted to the Hereafter and remembrance of Allah."
+        },
+        {
+            "id": "ch38-q16",
+            "text": "True/False: Being 'chosen' by Allah removes the need for effort and righteousness.",
+            "answer": "False. The chosen prophets are models of effort, sincerity, and steadfast worship."
+        },
+        {
+            "id": "ch38-q17",
+            "text": "What does the Surah teach about the reward of the righteous?",
+            "answer": "They receive gardens, honor, open doors, and abundant provisions in a peaceful eternal home."
+        },
+        {
+            "id": "ch38-q18",
+            "text": "What does the Surah teach about the people of Hell blaming others?",
+            "answer": "Blame will not help; they will argue, but Allah's judgment is final and just."
+        },
+        {
+            "id": "ch38-q19",
+            "text": "Why do some people in Hell wonder about believers they mocked in the world?",
+            "answer": "Because their worldly assumptions were wrong and their arrogance blinded them to reality."
+        },
+        {
+            "id": "ch38-q20",
+            "text": "What is one spiritual danger highlighted by Iblis's refusal to prostrate to Adam?",
+            "answer": "Arrogance based on lineage, material, or status can lead to rebellion against Allah."
+        },
+        {
+            "id": "ch38-q21",
+            "text": "How does Surah Sad define Iblis's main argument and why it is false?",
+            "answer": "He claimed superiority based on being created from fire; the Surah exposes this pride as rebellion, not truth."
+        },
+        {
+            "id": "ch38-q22",
+            "text": "What does the Surah teach about sincerity (ikhlas) as protection from misguidance?",
+            "answer": "Iblis admits he cannot mislead Allah's sincere servants, showing ikhlas is a shield."
+        },
+        {
+            "id": "ch38-q23",
+            "text": "True/False: The Surah teaches that Allah is unfair in testing people.",
+            "answer": "False. Tests are part of divine wisdom, and Allah rewards sincerity and punishes injustice."
+        },
+        {
+            "id": "ch38-q24",
+            "text": "What does the Surah teach about the Quran being a reminder for all nations?",
+            "answer": "It is guidance and a reminder, and people will come to know its truth even if they deny now."
+        },
+        {
+            "id": "ch38-q25",
+            "text": "How does the Surah respond to the accusation that the Prophet is a pretender?",
+            "answer": "It emphasizes he seeks no payment and is not among those who fabricate or pretend."
+        },
+        {
+            "id": "ch38-q26",
+            "text": "What does Surah Sad teach about the relationship between humility and true honor?",
+            "answer": "True honor comes from submission and repentance, while arrogance leads to disgrace."
+        },
+        {
+            "id": "ch38-q27",
+            "text": "What is one practical lesson for leaders from Dawud and Sulayman's stories?",
+            "answer": "Power must be guided by justice, self-accountability, repentance, and remembrance of Allah."
+        },
+        {
+            "id": "ch38-q28",
+            "text": "What does the Surah teach about making judgments when one side is powerful?",
+            "answer": "It warns that power can lead to ظلم; fairness requires careful listening and resisting bias."
+        },
+        {
+            "id": "ch38-q29",
+            "text": "How does the Surah encourage self-reflection in disputes?",
+            "answer": "By showing that even prophets reflected and repented when tested, teaching humility to all."
+        },
+        {
+            "id": "ch38-q30",
+            "text": "What does the Surah imply about envy and competition among wrongdoers?",
+            "answer": "They will turn on each other and argue, showing false unity collapses in punishment."
+        },
+        {
+            "id": "ch38-q31",
+            "text": "True/False: The Surah suggests that a person can rely on their past good deeds without fearing future slips.",
+            "answer": "False. It encourages constant vigilance, repentance, and reliance on Allah."
+        },
+        {
+            "id": "ch38-q32",
+            "text": "What does the Surah teach about Allah's forgiveness for those who return to Him?",
+            "answer": "Allah forgives and honors those who repent sincerely and turn back to Him."
+        },
+        {
+            "id": "ch38-q33",
+            "text": "How does Surah Sad define the ultimate criterion that separates Paradise from Hell?",
+            "answer": "Sincere faith and righteousness versus arrogance, denial, and rebellion against Allah."
+        },
+        {
+            "id": "ch38-q34",
+            "text": "What does the Surah imply about the impact of arrogance on one's ability to accept guidance?",
+            "answer": "Arrogance blinds the heart and leads to rejecting clear truth, like Iblis and earlier nations."
+        },
+        {
+            "id": "ch38-q35",
+            "text": "Why are the stories of prophets placed alongside warnings of the Hereafter in this Surah?",
+            "answer": "To show practical models of faith under test and to remind that accountability is real."
+        },
+        {
+            "id": "ch38-q36",
+            "text": "How can a believer apply Ayyub's example during illness or loss?",
+            "answer": "By remaining patient, making dua, avoiding despair, and trusting Allah's wisdom and mercy."
+        },
+        {
+            "id": "ch38-q37",
+            "text": "What is one key message about worship implied by the Surah's repeated mention of remembrance?",
+            "answer": "Remembrance keeps the heart stable and protects from pride, forgetfulness, and misguidance."
+        },
+        {
+            "id": "ch38-q38",
+            "text": "What does the Surah teach about the fate of those who mock or oppose revelation?",
+            "answer": "They are warned of inevitable consequences and will come to know the truth they rejected."
+        },
+        {
+            "id": "ch38-q39",
+            "text": "True/False: The Surah promotes harshness in all conflicts rather than wisdom and justice.",
+            "answer": "False. It promotes justice, repentance, and wisdom, while warning against arrogance and ظلم."
+        },
+        {
+            "id": "ch38-q40",
+            "text": "What is one spiritual goal for reading Surah Sad carefully?",
+            "answer": "To purify the heart from arrogance, strengthen repentance, and commit to justice and sincere worship."
+        },
+        {
+            "id": "ch38-q41",
+            "text": "What does Surah Sad teach about Allah's knowledge of the unseen debate among angels?",
+            "answer": "That Allah knows realities humans do not, and His decree and wisdom are beyond creation."
+        },
+        {
+            "id": "ch38-q42",
+            "text": "How does the Surah warn against using lineage or material origin as a basis for superiority?",
+            "answer": "It shows this was Iblis's downfall; true honor is in obedience and humility."
+        },
+        {
+            "id": "ch38-q43",
+            "text": "What is one reminder for those tempted to despair after sin?",
+            "answer": "Repent sincerely like the righteous did; Allah's door of mercy remains open while life remains."
+        },
+        {
+            "id": "ch38-q44",
+            "text": "Why is it dangerous to argue with Allah's commands as Iblis did?",
+            "answer": "Because it turns disobedience into prideful rebellion and hardens the heart against truth."
+        },
+        {
+            "id": "ch38-q45",
+            "text": "What does the Surah teach about the certainty of Allah's promise and warning?",
+            "answer": "Allah's word is true; His promise to reward and His warning of punishment will surely occur."
+        },
+        {
+            "id": "ch38-q46",
+            "text": "How can the Surah help someone dealing with power, influence, or success?",
+            "answer": "It teaches to remain humble, repent, and use power with justice as a test from Allah."
+        },
+        {
+            "id": "ch38-q47",
+            "text": "What is one key misconception about repentance that this Surah corrects?",
+            "answer": "That repentance is only for the weak; the Surah shows it is a mark of spiritual strength and sincerity."
+        },
+        {
+            "id": "ch38-q48",
+            "text": "How does Surah Sad present the Hereafter as a motivation for ethical living now?",
+            "answer": "By describing reward and punishment clearly, it pushes people to choose humility, justice, and obedience."
+        },
+        {
+            "id": "ch38-q49",
+            "text": "What is one concluding lesson from the Surah about the Quran?",
+            "answer": "It is a reminder and a truth that people will come to recognize, so it must be approached with sincerity."
+        },
+        {
+            "id": "ch38-q50",
+            "text": "What is the Surah's deepest warning about pride?",
+            "answer": "Pride can make a person reject Allah's command and lose everything, as shown by Iblis and earlier deniers."
+        },
+        {
+            "id": "ch38-q51",
+            "text": "What is the 'Reminder' (Dhikr) mentioned in the first ayah?",
+            "answer": "The Quran."
+        },
+        {
+            "id": "ch38-q52",
+            "text": "What did the disbelievers find strange about the Prophet's message of Tawhid (a specific ayah)?",
+            "answer": "They asked 'Has he made the gods [into] one God? Indeed, this is a curious thing'."
+        },
+        {
+            "id": "ch38-q53",
+            "text": "Describe the dispute that came to Prophet Dawud (AS) in his prayer chamber.",
+            "answer": "Two litigants climbed over the wall; one had 99 ewes and the other had only one, but the first demanded the one ewe for himself."
+        },
+        {
+            "id": "ch38-q54",
+            "text": "What was Dawud's (AS) realization after judging the dispute?",
+            "answer": "He realized it was a test for him from Allah, so he fell down in prostration and repented."
+        },
+        {
+            "id": "ch38-q55",
+            "text": "What was the 'trial' of Sulayman (AS) mentioned in a specific ayah?",
+            "answer": "Allah placed a [lifeless] body on his throne, after which he turned back to Allah in repentance."
+        },
+        {
+            "id": "ch38-q56",
+            "text": "What was Sulayman's (AS) famous prayer for a kingdom?",
+            "answer": "'My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me'."
+        },
+        {
+            "id": "ch38-q57",
+            "text": "Who were the 'Shayatin' (devils) subjected to Sulayman?",
+            "answer": "Every builder and diver, and others bound together in shackles."
+        },
+        {
+            "id": "ch38-q58",
+            "text": "Which Prophet is the example of 'patience' in this Surah?",
+            "answer": "Prophet Ayyub (Job)."
+        },
+        {
+            "id": "ch38-q59",
+            "text": "How was Ayyub (AS) told to heal himself?",
+            "answer": "'Strike [the ground] with your foot; this is a [spring for] a cool bath and drink'."
+        },
+        {
+            "id": "ch38-q60",
+            "text": "What was the 'oath' Ayyub (AS) had to fulfill using a bundle of grass?",
+            "answer": "He had sworn to strike his wife (due to a misunderstanding during his illness), so Allah showed him a way to fulfill his oath without harming her."
+        },
+        {
+            "id": "ch38-q61",
+            "text": "Who are the three Prophets mentioned as 'possessors of strength and vision' (a specific ayah)?",
+            "answer": "Ibrahim, Ishaq, and Ya'qub."
+        },
+        {
+            "id": "ch38-q62",
+            "text": "What is the description of the 'Abodes of the Righteous'?",
+            "answer": "Gardens of perpetual residence, with doors opened for them, reclining therein and calling for abundant fruit and drink."
+        },
+        {
+            "id": "ch38-q63",
+            "text": "What will the people of Hell ask about those they thought were 'evil' in the world?",
+            "answer": "They will wonder why they do not see the men they used to count among the bad (the believers)."
+        },
+        {
+            "id": "ch38-q64",
+            "text": "Describe the scene of Adam's creation as narrated at the end of the Surah.",
+            "answer": "Allah informed the angels He would create a human from clay, and when fashioned, they must prostrate."
+        },
+        {
+            "id": "ch38-q65",
+            "text": "What was Iblis's specific excuse for not prostrating to Adam?",
+            "answer": "'I am better than him. You created me from fire and created him from clay'."
+        },
+        {
+            "id": "ch38-q66",
+            "text": "What is the 'Curse' upon Iblis until the Day of Recompense?",
+            "answer": "He is expelled and accursed."
+        },
+        {
+            "id": "ch38-q67",
+            "text": "How did Iblis vow to mislead mankind?",
+            "answer": "By Allah's might, he vowed to mislead them all, except the 'Mukhlaseen' (sincere servants)."
+        },
+        {
+            "id": "ch38-q68",
+            "text": "What is the Prophet's (SAW) declaration regarding his mission in a specific ayah?",
+            "answer": "'I do not ask you for it any payment, and I am not of the pretenders'."
+        },
+        {
+            "id": "ch38-q69",
+            "text": "What is the 'great news' (Naba'un Azim) mentioned in a specific ayah?",
+            "answer": "The Quran and the news of the Hereafter, which the people are turning away from."
+        },
+        {
+            "id": "ch38-q70",
+            "text": "What practical belief should change in a person when they accept that creation has purpose?",
+            "answer": "They stop living aimlessly, take accountability seriously, and align choices with worship, obedience, and the Hereafter."
+        }
+    ]
 }

@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch99-q1",
+            "text": "Why does the Surah focus on the earth shaking and speaking?",
+            "answer": "To show that even what seems inanimate will obey Allah and expose human deeds."
+        },
+        {
+            "id": "ch99-q2",
+            "text": "True/False: The Surah teaches that minor deeds are ignored by Allah.",
+            "answer": "False. Even an atom’s weight of good or evil will be seen."
+        },
+        {
+            "id": "ch99-q3",
+            "text": "What does the earth bringing out its ‘burdens’ teach about resurrection?",
+            "answer": "The dead and hidden matters will be brought out; nothing stays buried from Allah’s decree."
+        },
+        {
+            "id": "ch99-q4",
+            "text": "What does the human question 'What is wrong with it?' teach about the shock of that Day?",
+            "answer": "People will be overwhelmed because the familiar world becomes unrecognizable and exposes reality."
+        },
+        {
+            "id": "ch99-q5",
+            "text": "How does the Surah teach that the earth’s testimony is by Allah’s command?",
+            "answer": "It shows Allah inspires and commands creation; testimony is part of His perfect justice."
+        },
+        {
+            "id": "ch99-q6",
+            "text": "What is one practical meaning of people coming in scattered groups?",
+            "answer": "Each person is separated for accountability; social masks and group identity do not save."
+        },
+        {
+            "id": "ch99-q7",
+            "text": "True/False: The Surah teaches that your environment has no role in your accountability.",
+            "answer": "False. It teaches the earth itself witnesses actions and will testify."
+        },
+        {
+            "id": "ch99-q8",
+            "text": "What is one daily-life lesson from the earth being a witness?",
+            "answer": "Avoid sins in private places; nothing is truly hidden from Allah’s record."
+        },
+        {
+            "id": "ch99-q9",
+            "text": "How can this Surah motivate consistent small good deeds?",
+            "answer": "It teaches even tiny good deeds are seen, so small consistent الخير matters greatly."
+        },
+        {
+            "id": "ch99-q10",
+            "text": "What is one example of an ‘atom’s weight’ of good?",
+            "answer": "A kind word, removing harm from the road, or a sincere dua for someone."
+        },
+        {
+            "id": "ch99-q11",
+            "text": "What is one example of an ‘atom’s weight’ of evil?",
+            "answer": "A small lie, a hurtful comment, or a minor ظلم that people dismiss as ‘nothing’."
+        },
+        {
+            "id": "ch99-q12",
+            "text": "True/False: The Surah teaches that only public crimes are accountable.",
+            "answer": "False. It implies all deeds, even tiny and hidden ones, are shown."
+        },
+        {
+            "id": "ch99-q13",
+            "text": "How does the Surah teach precision of divine justice?",
+            "answer": "By stating the smallest measurable deeds will be shown without loss."
+        },
+        {
+            "id": "ch99-q14",
+            "text": "How can this Surah help someone who feels their good deeds are insignificant?",
+            "answer": "It reassures that Allah sees every good deed, no matter how small."
+        },
+        {
+            "id": "ch99-q15",
+            "text": "How can this Surah help someone who takes small sins lightly?",
+            "answer": "It warns that every deed will be shown, so small sins still require repentance."
+        },
+        {
+            "id": "ch99-q16",
+            "text": "True/False: The Surah suggests the Day of Judgment is only about major events, not personal deeds.",
+            "answer": "False. It focuses on personal deeds down to the smallest weight."
+        },
+        {
+            "id": "ch99-q17",
+            "text": "What is one daily practice inspired by this Surah?",
+            "answer": "Do a nightly micro-audit: repent for one small wrong and do one small good deed intentionally."
+        },
+        {
+            "id": "ch99-q18",
+            "text": "How does this Surah connect fear and hope?",
+            "answer": "Fear: every sin is seen. Hope: every good deed is seen and rewarded."
+        },
+        {
+            "id": "ch99-q19",
+            "text": "What does the Surah teach about Allah’s power over creation?",
+            "answer": "Allah can command earth itself to testify, proving His absolute authority."
+        },
+        {
+            "id": "ch99-q20",
+            "text": "True/False: The Surah teaches that people can escape by blending into crowds.",
+            "answer": "False. People are shown their deeds and judged individually."
+        },
+        {
+            "id": "ch99-q21",
             "text": "What does 'Az-Zalzalah' mean?",
             "answer": "The Earthquake / The Shaking."
         },
         {
-            "id": "ch99-q2",
-            "text": "How is the earthquake of the Final Day described in Verse 1?",
+            "id": "ch99-q22",
+            "text": "How is the earthquake of the Final Day described in this Surah?",
             "answer": "As a 'final/utmost' shaking (Zilzalaha)."
         },
         {
-            "id": "ch99-q3",
+            "id": "ch99-q23",
             "text": "What will the earth bring out from within itself?",
             "answer": "Its 'burdens' (Athqalaha) - meaning the dead or its hidden secrets."
         },
         {
-            "id": "ch99-q4",
-            "text": "What will the human being ask in wonder (Verse 3)?",
+            "id": "ch99-q24",
+            "text": "What will the human being ask in wonder according to this Surah?",
             "answer": "What is [wrong] with it (the earth)?"
         },
         {
-            "id": "ch99-q5",
-            "text": "What will the earth do on that Day (Verse 4)?",
+            "id": "ch99-q25",
+            "text": "What will the earth do on that Day according to this Surah?",
             "answer": "It will report its news / tell its stories."
         },
         {
-            "id": "ch99-q6",
+            "id": "ch99-q26",
             "text": "Why will the earth be able to speak or report news?",
             "answer": "Because your Lord has inspired (commanded) it to do so."
         },
         {
-            "id": "ch99-q7",
-            "text": "How will mankind proceed on that Day (Verse 6)?",
+            "id": "ch99-q27",
+            "text": "How will mankind proceed on that Day according to this Surah?",
             "answer": "In 'scattered groups' (Ashtatan)."
         },
         {
-            "id": "ch99-q8",
+            "id": "ch99-q28",
             "text": "What is the purpose of people being in groups/scattered?",
             "answer": "To be shown [the result of] their deeds."
         },
         {
-            "id": "ch99-q9",
+            "id": "ch99-q29",
             "text": "What happens to the one who does an atom's weight of good?",
             "answer": "He will see it (and be rewarded)."
         },
         {
-            "id": "ch99-q10",
+            "id": "ch99-q30",
             "text": "What happens to the one who does an atom's weight of evil?",
             "answer": "He will see it (and be held accountable)."
         },
         {
-            "id": "ch99-q11",
+            "id": "ch99-q31",
             "text": "What is a 'Mithqala Dharratin'?",
             "answer": "The weight of an atom, a tiny ant, or the smallest particle imaginable."
         },
         {
-            "id": "ch99-q12",
+            "id": "ch99-q32",
             "text": "Does any deed go missing in Allah's account?",
             "answer": "No, even the smallest act is recorded."
         },
         {
-            "id": "ch99-q13",
+            "id": "ch99-q33",
             "text": "What is the significance of the earth 'reporting news'?",
             "answer": "The earth witnesses every action committed upon it and will testify for or against people."
         },
         {
-            "id": "ch99-q14",
+            "id": "ch99-q34",
             "text": "How does this Surah evoke a sense of accountability?",
             "answer": "By showing that the very ground we walk on is a silent observer that will eventually speak."
         },
         {
-            "id": "ch99-q15",
+            "id": "ch99-q35",
             "text": "What is the 'burden' (Athqal) referring to?",
             "answer": "The bodies of the dead being resurrected and the treasures/secrets of the earth."
         },
         {
-            "id": "ch99-q16",
+            "id": "ch99-q36",
             "text": "True or False: On the Day of Judgment, people will be separated according to their deeds.",
             "answer": "True (Ashtatan)."
         },
         {
-            "id": "ch99-q17",
+            "id": "ch99-q37",
             "text": "What is the emotional impact of the question 'What is wrong with it?'",
             "answer": "It captures the shock and total confusion of humans when the world they knew begins to disintegrate."
         },
         {
-            "id": "ch99-q18",
+            "id": "ch99-q38",
             "text": "Is there any 'neutral' deed that isn't rewarded or punished?",
             "answer": "The Surah implies all deeds fall into either good or evil and will be shown."
         },
         {
-            "id": "ch99-q19",
+            "id": "ch99-q39",
             "text": "Why did Allah inspire the earth to speak?",
             "answer": "To show His supreme power over all of creation, even inanimate matter."
         },
         {
-            "id": "ch99-q20",
+            "id": "ch99-q40",
             "text": "What is the primary message of Surah Az-Zalzalah?",
             "answer": "The absolute precision of divine justice and the reality of resurrection."
         }

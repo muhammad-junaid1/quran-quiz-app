@@ -6,101 +6,196 @@
     "questions": [
         {
             "id": "ch92-q1",
+            "text": "Why does the Surah begin with the contrast of night and day?",
+            "answer": "To illustrate that just as night and day differ, human efforts and outcomes differ too."
+        },
+        {
+            "id": "ch92-q2",
+            "text": "True/False: The Surah teaches everyone’s effort leads to the same result.",
+            "answer": "False. It teaches efforts are diverse and lead to different outcomes."
+        },
+        {
+            "id": "ch92-q3",
+            "text": "What is one daily-life example of 'diverse effort' (shatta)?",
+            "answer": "Two people may work hard—one for Allah and honesty, another for ego and الدنيا—so outcomes differ."
+        },
+        {
+            "id": "ch92-q4",
+            "text": "How does the Surah define the successful path in simple traits?",
+            "answer": "Giving, fearing Allah, and believing the best promise (reward and truth)."
+        },
+        {
+            "id": "ch92-q5",
+            "text": "How does the Surah define the unsuccessful path in simple traits?",
+            "answer": "Stinginess, self-sufficiency pride, and denial of the best promise."
+        },
+        {
+            "id": "ch92-q6",
+            "text": "Why is 'thinking oneself free of need' spiritually dangerous?",
+            "answer": "It creates arrogance and makes a person stingy and resistant to guidance."
+        },
+        {
+            "id": "ch92-q7",
+            "text": "True/False: The Surah teaches wealth can save someone even if they deny Allah.",
+            "answer": "False. It teaches wealth will not benefit when a person falls into destruction."
+        },
+        {
+            "id": "ch92-q8",
+            "text": "What does the Surah mean by being eased toward the easy path versus the difficult path?",
+            "answer": "Easy path: Allah facilitates the path of goodness for those who choose faith, charity, and taqwa. Difficult path: Those who choose denial and greed find themselves pushed deeper into hardship and sin."
+        },
+        {
+            "id": "ch92-q9",
+            "text": "How does Surah Al-Layl teach that guidance ultimately belongs to Allah?",
+            "answer": "It states Allah owns guidance and outcomes while still holding humans accountable for choices."
+        },
+        {
+            "id": "ch92-q10",
+            "text": "How can a believer avoid giving charity for social credit?",
+            "answer": "Give secretly, avoid reminding others, and make intention only for Allah’s pleasure."
+        },
+        {
+            "id": "ch92-q11",
+            "text": "True/False: The Surah teaches the most righteous give to repay favors.",
+            "answer": "False. It teaches they give without seeking repayment or thanks."
+        },
+        {
+            "id": "ch92-q12",
+            "text": "What does ‘seeking the countenance of his Lord’ mean in charity?",
+            "answer": "Giving purely to please Allah, not to impress people or gain influence."
+        },
+        {
+            "id": "ch92-q13",
+            "text": "How can the Surah guide someone who is becoming stingy due to fear of the future?",
+            "answer": "Remember Allah owns the Hereafter and dunya; give with trust and you will be eased."
+        },
+        {
+            "id": "ch92-q14",
+            "text": "What is one practical habit to fight stinginess?",
+            "answer": "Set an automatic daily or weekly charity amount, even if small, and never skip it."
+        },
+        {
+            "id": "ch92-q15",
+            "text": "How does Surah Al-Layl balance hope and fear?",
+            "answer": "It offers ease for the giver with taqwa and warns of blazing fire for the denier and miser."
+        },
+        {
+            "id": "ch92-q16",
+            "text": "True/False: The Surah teaches that the path to Allah is vague and unclear.",
+            "answer": "False. It outlines clear traits for each path."
+        },
+        {
+            "id": "ch92-q17",
+            "text": "How can someone move from the ‘difficult way’ to the ‘easy way’?",
+            "answer": "Repent sincerely, begin giving, build taqwa, and believe Allah’s promises."
+        },
+        {
+            "id": "ch92-q18",
+            "text": "What does the Surah teach about who is kept away from the Fire?",
+            "answer": "The most righteous—those who give to purify themselves for Allah alone."
+        },
+        {
+            "id": "ch92-q19",
+            "text": "True/False: The Surah suggests good character is separate from belief.",
+            "answer": "False. It links belief with generosity and taqwa."
+        },
+        {
+            "id": "ch92-q20",
             "text": "What are the three oaths Allah takes at the beginning of Surah Al-Layl?",
             "answer": "The night as it covers, the day as it appears/shines, and the creation of the male and female."
         },
         {
-            "id": "ch92-q2",
-            "text": "How does Allah describe human effort in Verse 4?",
+            "id": "ch92-q21",
+            "text": "How does Allah describe human effort in this Surah?",
             "answer": "As being 'diverse' (Shatta) - varying in nature and goal."
         },
         {
-            "id": "ch92-q3",
-            "text": "What three things does the 'successful' person do (Verses 5-6)?",
+            "id": "ch92-q22",
+            "text": "What three things does the 'successful' person do in this Surah?",
             "answer": "Gives [in charity], fears Allah (Taqwa), and believes in the 'Best' (Al-Husna/Paradise)."
         },
         {
-            "id": "ch92-q4",
+            "id": "ch92-q23",
             "text": "What will Allah ease for this successful person?",
             "answer": "Toward the 'Easy Way' (Al-Yusra)."
         },
         {
-            "id": "ch92-q5",
-            "text": "What three things does the 'unsuccessful' person do (Verses 8-9)?",
+            "id": "ch92-q24",
+            "text": "What three things does the 'unsuccessful' person do in this Surah?",
             "answer": "Is stingy, considers himself free of need, and denies the 'Best' (Paradise)."
         },
         {
-            "id": "ch92-q6",
+            "id": "ch92-q25",
             "text": "What will Allah ease for this unsuccessful person?",
             "answer": "Toward the 'Difficult Way' (Al-'Usra)."
         },
         {
-            "id": "ch92-q7",
+            "id": "ch92-q26",
             "text": "Will wealth benefit a person when he falls into destruction?",
             "answer": "No."
         },
         {
-            "id": "ch92-q8",
-            "text": "Whose responsibility is 'guidance' (Verse 12)?",
+            "id": "ch92-q27",
+            "text": "Whose responsibility is guidance according to this Surah?",
             "answer": "Indeed, upon Allah is guidance."
         },
         {
-            "id": "ch92-q9",
+            "id": "ch92-q28",
             "text": "To whom belongs the Hereafter and the first [life]?",
             "answer": "To Allah."
         },
         {
-            "id": "ch92-q10",
-            "text": "What is the 'Fire' described as in Verse 14?",
+            "id": "ch92-q29",
+            "text": "How does this Surah describe the Fire?",
             "answer": "A Fire that blazes (Naran taladh-dha)."
         },
         {
-            "id": "ch92-q11",
+            "id": "ch92-q30",
             "text": "Who will enter this blazing Fire?",
             "answer": "The 'most wretched' (Al-Ashqa)."
         },
         {
-            "id": "ch92-q12",
-            "text": "What two traits define the 'most wretched' person in Verse 16?",
+            "id": "ch92-q31",
+            "text": "What two traits define the 'most wretched' person in this Surah?",
             "answer": "He denied the truth and turned away."
         },
         {
-            "id": "ch92-q13",
+            "id": "ch92-q32",
             "text": "Who will be 'kept away' from the Fire?",
             "answer": "The 'most righteous' (Al-Atqa)."
         },
         {
-            "id": "ch92-q14",
+            "id": "ch92-q33",
             "text": "What does the 'most righteous' person do with his wealth?",
             "answer": "He gives his wealth to purify himself."
         },
         {
-            "id": "ch92-q15",
+            "id": "ch92-q34",
             "text": "Does the righteous person give charity to repay a favor?",
             "answer": "No, he gives 'not for any favor to be compensated'."
         },
         {
-            "id": "ch92-q16",
+            "id": "ch92-q35",
             "text": "What is the only motivation for the righteous person's charity?",
             "answer": "Seeking the countenance of his Lord, the Most High."
         },
         {
-            "id": "ch92-q17",
+            "id": "ch92-q36",
             "text": "What is the final promise for the most righteous person?",
-            "answer": "He will surely be satisfied/well-pleased (Verse 21)."
+            "answer": "He will surely be satisfied/well-pleased."
         },
         {
-            "id": "ch92-q18",
+            "id": "ch92-q37",
             "text": "What is 'Al-Husna'?",
             "answer": "It is interpreted as 'The Best Word' (Lailaha illa Allah) or the 'Best Reward' (Paradise)."
         },
         {
-            "id": "ch92-q19",
+            "id": "ch92-q38",
             "text": "Does Allah force a person to be wretched or righteous?",
             "answer": "No, He eases them toward what they have already chosen through their actions and beliefs."
         },
         {
-            "id": "ch92-q20",
+            "id": "ch92-q39",
             "text": "What is the link between 'Stinginess' and 'Self-Sufficiency' in this Surah?",
             "answer": "Thinking one is 'free of need' (Istaghna) of Allah leads directly to stinginess and denial of the truth."
         }

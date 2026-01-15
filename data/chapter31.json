@@ -1,108 +1,403 @@
 {
-  "id": 31,
-  "englishName": "Luqman",
-  "arabicName": "لقمان",
-  "translation": "Luqman",
-  "questions": [
-    {
-      "id": "ch31-q1",
-      "text": "Who was Luqman according to Islamic tradition?",
-      "answer": "A wise man (Hakim) who was given wisdom by Allah, though scholars differ on whether he was a Prophet (most say he was a righteous servant)."
-    },
-    {
-      "id": "ch31-q2",
-      "text": "What is the first piece of advice Luqman gave to his son?",
-      "answer": "'O my son, do not associate [anything] with Allah. Indeed, association [with Him] is great injustice (Shirk)'."
-    },
-    {
-      "id": "ch31-q3",
-      "text": "How does the Quran describe the pain of a mother in this Surah?",
-      "answer": "She carried the child in 'weakness upon weakness' (Wahn) and his weaning is in two years."
-    },
-    {
-      "id": "ch31-q4",
-      "text": "What is the 'limit' of obedience to parents mentioned in Verse 15?",
-      "answer": "If they strive to make you associate partners with Allah of which you have no knowledge, do not obey them, but accompany them in this world with kindness."
-    },
-    {
-      "id": "ch31-q5",
-      "text": "What was Luqman's advice regarding the scale of Allah's knowledge (the mustard seed)?",
-      "answer": "If a deed is the weight of a mustard seed inside a rock or in the heavens or earth, Allah will bring it forth."
-    },
-    {
-      "id": "ch31-q6",
-      "text": "What are the four commands Luqman gave his son in Verse 17?",
-      "answer": "Establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you."
-    },
-    {
-      "id": "ch31-q7",
-      "text": "What social etiquette did Luqman teach regarding walking and speaking?",
-      "answer": "Do not turn your cheek away from people in arrogance, do not walk insolently, be moderate in your pace, and lower your voice."
-    },
-    {
-      "id": "ch31-q8",
-      "text": "Which sound is described as the 'most disagreeable of sounds'?",
-      "answer": "The voice of donkeys."
-    },
-    {
-      "id": "ch31-q9",
-      "text": "What is 'Lahwal-Hadith' (idle talk) mentioned in Verse 6?",
-      "answer": "Distracting speech, music, or stories used to mislead people from the path of Allah without knowledge."
-    },
-    {
-      "id": "ch31-q10",
-      "text": "If all the trees on earth were pens and the sea supplemented by seven more seas were ink, would they exhaust the words of Allah?",
-      "answer": "No, the words of Allah would not be exhausted."
-    },
-    {
-      "id": "ch31-q11",
-      "text": "How does Allah describe the creation and resurrection of all of humanity in Verse 28?",
-      "answer": "It is but as a single soul (it is effortless for Him)."
-    },
-    {
-      "id": "ch31-q12",
-      "text": "What happens to the 'firmest handhold' (Al-Urwatul Wuthqa)?",
-      "answer": "Whoever submits his face to Allah while he is a doer of good has grasped the firmest handhold."
-    },
-    {
-      "id": "ch31-q13",
-      "text": "What are the 'five things' whose knowledge belongs only to Allah (Verse 34)?",
-      "answer": "The Hour, the falling of rain, what is in the wombs, what a soul will earn tomorrow, and in what land a soul will die."
-    },
-    {
-      "id": "ch31-q14",
-      "text": "Does any soul know what it will earn tomorrow?",
-      "answer": "No soul knows what it will earn tomorrow."
-    },
-    {
-      "id": "ch31-q15",
-      "text": "Does any soul know in which land it will die?",
-      "answer": "No soul knows in what land it will die."
-    },
-    {
-      "id": "ch31-q16",
-      "text": "What is the status of the 'Muhsin' (doer of good) in this Surah?",
-      "answer": "He has grasped the firmest handhold."
-    },
-    {
-      "id": "ch31-q17",
-      "text": "What is the 'great injustice' according to Luqman?",
-      "answer": "Shirk (associating partners with Allah)."
-    },
-    {
-      "id": "ch31-q18",
-      "text": "How does Allah describe the heavens in Verse 10?",
-      "answer": "He created them without pillars that you can see."
-    },
-    {
-      "id": "ch31-q19",
-      "text": "What is the purpose of the 'firm mountains' in Verse 10?",
-      "answer": "To prevent the earth from shaking with the people."
-    },
-    {
-      "id": "ch31-q20",
-      "text": "How is the 'Ar-Rahman' described in the context of the Five Keys of the Unseen?",
-      "answer": "As Indeed, Allah is Knowing and Acquainted."
-    }
-  ]
+    "id": 31,
+    "englishName": "Luqman",
+    "arabicName": "لقمان",
+    "translation": "Luqman",
+    "questions": [
+        {
+            "id": "ch31-q1",
+            "text": "How does Surah Luqman describe the Quran in its opening verses?",
+            "answer": "As verses of the Wise Book, serving as guidance and mercy for the doers of good (Muhsinin)."
+        },
+        {
+            "id": "ch31-q2",
+            "text": "What are the three main characteristics of the 'Muhsinin' mentioned in the beginning of the Surah?",
+            "answer": "They establish prayer, give Zakat, and have firm certainty in the Hereafter."
+        },
+        {
+            "id": "ch31-q3",
+            "text": "What is 'Lahwal-Hadith' (idle talk) and what is its consequence?",
+            "answer": "It refers to distracting speech or entertainment used to mislead people from Allah's path; those who use it will face a humiliating punishment."
+        },
+        {
+            "id": "ch31-q4",
+            "text": "How does a person who rejects the signs of Allah react when they are recited to him?",
+            "answer": "He turns away in arrogance as if he did not hear them, as if there were deafness in his ears."
+        },
+        {
+            "id": "ch31-q5",
+            "text": "What reward is promised to those who believe and do righteous deeds?",
+            "answer": "The Gardens of Pleasure, where they will abide forever according to the true promise of Allah."
+        },
+        {
+            "id": "ch31-q6",
+            "text": "How does Allah describe the creation of the heavens in this Surah?",
+            "answer": "He created the heavens without any pillars that you can see."
+        },
+        {
+            "id": "ch31-q7",
+            "text": "What is the function of the mountains on earth according to this Surah?",
+            "answer": "They are placed as firm stabilizers so the earth does not shake with its inhabitants."
+        },
+        {
+            "id": "ch31-q8",
+            "text": "What does the diversity of plants and animals on earth signify?",
+            "answer": "They are part of Allah's creation; He challenges others to show what their 'partners' have created, proving they have created nothing."
+        },
+        {
+            "id": "ch31-q9",
+            "text": "Who was Luqman and what was he given by Allah?",
+            "answer": "He was a wise man who was given wisdom (Hikmah) and commanded to be grateful to Allah."
+        },
+        {
+            "id": "ch31-q10",
+            "text": "What is the first and most important piece of advice Luqman gave to his son?",
+            "answer": "'O my son, do not associate [anything] with Allah. Indeed, association [with Him] is a great injustice (Shirk).'"
+        },
+        {
+            "id": "ch31-q11",
+            "text": "What does Allah command mankind regarding their parents?",
+            "answer": "To be good and grateful to them, acknowledging the mother's hardship in carrying and weaning the child."
+        },
+        {
+            "id": "ch31-q12",
+            "text": "How long is the period of weaning mentioned in the context of parental rights?",
+            "answer": "Two years."
+        },
+        {
+            "id": "ch31-q13",
+            "text": "Is there an exception to the command of obeying parents?",
+            "answer": "Yes, if they strive to make you associate partners with Allah of which you have no knowledge, you must not obey them in that."
+        },
+        {
+            "id": "ch31-q14",
+            "text": "How should a child treat disbelieving parents who pressure them toward Shirk?",
+            "answer": "One should not obey them in Shirk, but must still accompany them in this world with kindness."
+        },
+        {
+            "id": "ch31-q15",
+            "text": "Whose path should a believer follow according to the advice on parents?",
+            "answer": "The path of those who turn back to Allah in repentance."
+        },
+        {
+            "id": "ch31-q16",
+            "text": "What was Luqman's lesson about the 'mustard seed'?",
+            "answer": "That even a deed as small as a mustard seed, hidden in a rock or anywhere in the universe, will be brought forth by Allah for judgment."
+        },
+        {
+            "id": "ch31-q17",
+            "text": "What four religious and social duties did Luqman command his son to perform?",
+            "answer": "Establish prayer, enjoin what is right, forbid what is wrong, and be patient over whatever befalls you."
+        },
+        {
+            "id": "ch31-q18",
+            "text": "How did Luqman describe the importance of patience in his advice?",
+            "answer": "He said that patience in the face of trials is among the matters of 'firm determination' or great importance."
+        },
+        {
+            "id": "ch31-q19",
+            "text": "What was Luqman's advice regarding arrogance and social behavior?",
+            "answer": "Do not turn your cheek away from people in contempt and do not walk insolently upon the earth."
+        },
+        {
+            "id": "ch31-q20",
+            "text": "What did Luqman say about Allah's view of the arrogant and boastful?",
+            "answer": "Indeed, Allah does not like everyone who is self-deluded and boastful."
+        },
+        {
+            "id": "ch31-q21",
+            "text": "What advice did Luqman give regarding the manner of walking and speaking?",
+            "answer": "Be moderate in your pace and lower your voice."
+        },
+        {
+            "id": "ch31-q22",
+            "text": "Which animal's voice is used as a negative example for loud speech?",
+            "answer": "The donkey; its voice is described as the most disagreeable of sounds."
+        },
+        {
+            "id": "ch31-q23",
+            "text": "How has Allah made the universe subservient to humans?",
+            "answer": "He has made subservient to us whatever is in the heavens and whatever is on the earth and showered us with His visible and invisible favors."
+        },
+        {
+            "id": "ch31-q24",
+            "text": "What is the excuse of those who argue about Allah without knowledge?",
+            "answer": "They say, 'We follow that which we found our fathers upon,' even if Shaitan is inviting them to the punishment of the Blaze."
+        },
+        {
+            "id": "ch31-q25",
+            "text": "What does it mean to 'submit one's face to Allah' while doing good?",
+            "answer": "It means total sincere submission and excellence in action; such a person has grasped the firmest handhold (Al-Urwatul Wuthqa)."
+        },
+        {
+            "id": "ch31-q26",
+            "text": "What is the 'firmest handhold' (Al-Urwatul Wuthqa)?",
+            "answer": "A metaphor for the strongest, unbreakable bond of faith and success with Allah."
+        },
+        {
+            "id": "ch31-q27",
+            "text": "Should the Prophet be grieved by the disbelief of the people?",
+            "answer": "No, for to Allah is their return, and He will inform them of what they did; He knows what is within the breasts."
+        },
+        {
+            "id": "ch31-q28",
+            "text": "How long will the disbelievers be allowed to enjoy this life?",
+            "answer": "Allah gives them enjoyment for a little while, then He will drive them to a massive punishment."
+        },
+        {
+            "id": "ch31-q29",
+            "text": "What do the polytheists admit when asked about the creator of the heavens and earth?",
+            "answer": "They admit and say, 'Allah,' yet they still fail to worship Him alone."
+        },
+        {
+            "id": "ch31-q30",
+            "text": "Describe the parable of the trees and the seas regarding Allah's words.",
+            "answer": "If all trees were pens and the sea with seven more seas were ink, they would all be exhausted before the words of Allah are finished."
+        },
+        {
+            "id": "ch31-q31",
+            "text": "How does Allah describe the difficulty of creating and resurrecting all of mankind?",
+            "answer": "It is but as the creation and resurrection of a single soul; He is the Hearing, the Seeing."
+        },
+        {
+            "id": "ch31-q32",
+            "text": "What is the sign of Allah's power in the movement of the sun and moon?",
+            "answer": "He causes the night to enter the day and the day to enter the night, and subjected the sun and moon to run for a specified term."
+        },
+        {
+            "id": "ch31-q33",
+            "text": "What is the 'Truth' (Al-Haqq) mentioned in the context of Allah's sovereignty?",
+            "answer": "That Allah is the only Reality, and whatever they call upon besides Him is falsehood."
+        },
+        {
+            "id": "ch31-q34",
+            "text": "What is the sign of Allah's mercy regarding ships in the sea?",
+            "answer": "The ships sail through the sea by the favor of Allah so that He may show you His signs."
+        },
+        {
+            "id": "ch31-q35",
+            "text": "Who are the ones who truly benefit from the signs of ships at sea?",
+            "answer": "Everyone who is constantly patient and deeply grateful."
+        },
+        {
+            "id": "ch31-q36",
+            "text": "How do people react when a wave like a canopy covers them at sea?",
+            "answer": "They call upon Allah, being sincere to Him in religion; but when He brings them safely to land, some of them falter."
+        },
+        {
+            "id": "ch31-q37",
+            "text": "What warning is given to mankind regarding the Day of Judgment?",
+            "answer": "Fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all."
+        },
+        {
+            "id": "ch31-q38",
+            "text": "What should people not be deceived by in this life?",
+            "answer": "They should not be deceived by the worldly life, nor should the Deceiver (Shaitan) deceive them about Allah."
+        },
+        {
+            "id": "ch31-q39",
+            "text": "What are the 'Five Keys of the Unseen' mentioned at the end of the Surah?",
+            "answer": "Knowledge of the Hour, the falling of rain, what is in the wombs, what a soul will earn tomorrow, and in what land a soul will die."
+        },
+        {
+            "id": "ch31-q40",
+            "text": "Does anyone besides Allah know what they will earn tomorrow or where they will die?",
+            "answer": "No soul knows what it will earn tomorrow, and no soul knows in what land it will die."
+        },
+        {
+            "id": "ch31-q41",
+            "text": "What is the meaning of the word 'Hikmah' in the context of Luqman?",
+            "answer": "Wisdom, which includes correct understanding, sound judgment, and acting upon the truth."
+        },
+        {
+            "id": "ch31-q42",
+            "text": "What is the 'visible and invisible favor' (Ni'mah)?",
+            "answer": "Visible favors are physical blessings like health and wealth; invisible favors are spiritual ones like faith and guidance."
+        },
+        {
+            "id": "ch31-q43",
+            "text": "Why is Shirk called a 'Great Injustice' (Zulmun Azim)?",
+            "answer": "Because it is giving the right of the Creator to the created, which is the most misplaced and unfair act possible."
+        },
+        {
+            "id": "ch31-q44",
+            "text": "What is the 'Praise' (Al-Hamd) that Allah claims for Himself in this Surah?",
+            "answer": "The recognition that all gratitude and worship belong to Him as the Master of the heavens and earth."
+        },
+        {
+            "id": "ch31-q45",
+            "text": "What is the 'Specified Term' (Ajal Musamma) for the sun and moon?",
+            "answer": "The fixed time until which they will continue to function before the Day of Resurrection."
+        },
+        {
+            "id": "ch31-q46",
+            "text": "What is the 'Blaze' (Sa'ir)?",
+            "answer": "A name for the intense fire of Hell prepared for the disbelievers."
+        },
+        {
+            "id": "ch31-q47",
+            "text": "What is the 'Deceiver' (Al-Gharur)?",
+            "answer": "Shaitan, who tricks people into prioritizing the world over the Hereafter."
+        },
+        {
+            "id": "ch31-q48",
+            "text": "How does Allah describe His own nature at the very end of the Surah?",
+            "answer": "As Indeed, Allah is Knowing and Acquainted (Alimun Khabir)."
+        },
+        {
+            "id": "ch31-q49",
+            "text": "What is the lesson from the 'waves' at sea?",
+            "answer": "That humans often only recognize their total dependence on Allah when they are in extreme danger."
+        },
+        {
+            "id": "ch31-q50",
+            "text": "What is the 'True Promise' (Wa'dullahi Haqq)?",
+            "answer": "The certainty of the resurrection and the accounting for all deeds."
+        },
+        {
+            "id": "ch31-q51",
+            "text": "What is the significance of the mention of 'ink' and 'seas'?",
+            "answer": "To illustrate the infinite nature of Allah's knowledge and wisdom compared to human understanding."
+        },
+        {
+            "id": "ch31-q52",
+            "text": "What is the 'Path of the Prophets' mentioned implicitly?",
+            "answer": "The way of wisdom, patience, and absolute monotheism taught by Luqman and the messengers."
+        },
+        {
+            "id": "ch31-q53",
+            "text": "What is the 'Insolent' walk?",
+            "answer": "Walking with pride, vanity, and a sense of superiority over others."
+        },
+        {
+            "id": "ch31-q54",
+            "text": "Why does Luqman advise his son to lower his voice?",
+            "answer": "To maintain modesty, respect, and avoid being compared to the disagreeable sound of a donkey."
+        },
+        {
+            "id": "ch31-q55",
+            "text": "What is the 'Weakness upon weakness'?",
+            "answer": "The physical and emotional toll of pregnancy on a mother."
+        },
+        {
+            "id": "ch31-q56",
+            "text": "What is the 'Return to Allah' mentioned throughout the Surah?",
+            "answer": "The inevitable meeting with the Creator for judgment."
+        },
+        {
+            "id": "ch31-q57",
+            "text": "What is the 'Correct religion' mentioned in other Surahs as the 'firmest handhold' here?",
+            "answer": "Islam, the path of complete submission to the One God."
+        },
+        {
+            "id": "ch31-q58",
+            "text": "What is the 'Visible sign' in the ships?",
+            "answer": "The buoyancy and movement of vessels over water as a gift for human travel and trade."
+        },
+        {
+            "id": "ch31-q59",
+            "text": "What is the 'Knowledge of the Wombs'?",
+            "answer": "Allah's perfect knowledge of the gender, destiny, and character of every unborn child."
+        },
+        {
+            "id": "ch31-q60",
+            "text": "What is the final summary of Luqman's character?",
+            "answer": "A man of profound wisdom who recognized that the essence of wisdom is gratitude and worship of Allah."
+        },
+        {
+            "id": "ch31-q61",
+            "text": "What is the 'Great injustice' (Shirk)?",
+            "answer": "Associating partners with Allah."
+        },
+        {
+            "id": "ch31-q62",
+            "text": "What is the 'Words of Allah' metaphor?",
+            "answer": "The infinite knowledge and decrees of the Creator."
+        },
+        {
+            "id": "ch31-q63",
+            "text": "What is the 'Mustard seed' metaphor?",
+            "answer": "Smallest possible thing being within Allah's knowledge."
+        },
+        {
+            "id": "ch31-q64",
+            "text": "What is the 'Voice of donkeys' metaphor?",
+            "answer": "Example of loud and annoying speech."
+        },
+        {
+            "id": "ch31-q65",
+            "text": "What is the 'Wait of parents'?",
+            "answer": "Hardship and patience in raising children."
+        },
+        {
+            "id": "ch31-q66",
+            "text": "What is the 'Sanctuary' mentioned implicitly?",
+            "answer": "The protection of faith in a world of trials."
+        },
+        {
+            "id": "ch31-q67",
+            "text": "What is the 'Day of Judgment' description?",
+            "answer": "A day where no kinship or worldly bond can save anyone."
+        },
+        {
+            "id": "ch31-q68",
+            "text": "What is the 'Acquainted' (Khabir) attribute?",
+            "answer": "Allah knowing the finest and deepest details of all things."
+        },
+        {
+            "id": "ch31-q69",
+            "text": "What is the 'Guidance and Mercy'?",
+            "answer": "The role of the Quran for those who are Muhsinin."
+        },
+        {
+            "id": "ch31-q70",
+            "text": "What is the 'Zakat'?",
+            "answer": "Obligatory charity for the poor."
+        },
+        {
+            "id": "ch31-q71",
+            "text": "What is the 'Certainty' (Yaqin)?",
+            "answer": "Unshakeable belief in the Hereafter."
+        },
+        {
+            "id": "ch31-q72",
+            "text": "What is the 'Submission' (Islam)?",
+            "answer": "Total surrender to Allah's will."
+        },
+        {
+            "id": "ch31-q73",
+            "text": "What is the 'Patience' (Sabr)?",
+            "answer": "Endurance and steadfastness in faith."
+        },
+        {
+            "id": "ch31-q74",
+            "text": "What is the 'Enjoining what is right' (Amr bil Ma'ruf)?",
+            "answer": "Encouraging others to do good."
+        },
+        {
+            "id": "ch31-q75",
+            "text": "What is the 'Forbidding what is wrong' (Nahi anil Munkar)?",
+            "answer": "Discouraging others from doing evil."
+        },
+        {
+            "id": "ch31-q76",
+            "text": "What is the 'Moderation' in walking?",
+            "answer": "Balanced and humble movement without arrogance."
+        },
+        {
+            "id": "ch31-q77",
+            "text": "What is the 'Lowering of the voice'?",
+            "answer": "Speaking calmly and respectfully."
+        },
+        {
+            "id": "ch31-q78",
+            "text": "What is the 'Gratefulness' (Shukr)?",
+            "answer": "Recognizing and thanking Allah for His blessings."
+        },
+        {
+            "id": "ch31-q79",
+            "text": "What is the 'Successful' outcome (Muflihun)?",
+            "answer": "Achieving Allah's pleasure and Paradise."
+        }
+    ]
 }

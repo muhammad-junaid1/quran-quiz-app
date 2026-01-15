@@ -6,101 +6,156 @@
     "questions": [
         {
             "id": "ch110-q1",
+            "text": "Why does the Surah connect victory with seeking forgiveness?",
+            "answer": "So believers stay humble and remember that any shortcoming needs Allah’s pardon."
+        },
+        {
+            "id": "ch110-q2",
+            "text": "True/False: The Surah teaches success should make a believer proud and harsh.",
+            "answer": "False. It teaches humility and increased worship."
+        },
+        {
+            "id": "ch110-q3",
+            "text": "What does ‘people entering in crowds’ teach about Allah’s power to change society?",
+            "answer": "Allah can open hearts widely after long resistance, changing history quickly."
+        },
+        {
+            "id": "ch110-q4",
+            "text": "What is one practical lesson for leaders from this Surah?",
+            "answer": "After achievements, increase humility, gratitude, and repentance instead of self-celebration."
+        },
+        {
+            "id": "ch110-q5",
+            "text": "How does this Surah guide someone after personal success (job, exam, business)?",
+            "answer": "Thank Allah, keep worship strong, and seek forgiveness for mistakes and arrogance."
+        },
+        {
+            "id": "ch110-q6",
+            "text": "What does Allah being ‘At-Tawwab’ teach about repentance?",
+            "answer": "Allah repeatedly accepts repentance, so believers should return to Him often."
+        },
+        {
+            "id": "ch110-q7",
+            "text": "True/False: The Surah suggests worship is less important once goals are achieved.",
+            "answer": "False. It commands increased worship after victory."
+        },
+        {
+            "id": "ch110-q8",
+            "text": "What is one danger after victory that this Surah protects against?",
+            "answer": "Arrogance, forgetting Allah, and relying on self rather than on Allah."
+        },
+        {
+            "id": "ch110-q9",
+            "text": "How does this Surah hint at the completion of the Prophet’s mission?",
+            "answer": "It signals the public triumph of Islam and that the mission’s major phase is complete."
+        },
+        {
+            "id": "ch110-q10",
+            "text": "How can a believer combine tasbih and istighfar daily as taught by this Surah?",
+            "answer": "Make regular dhikr and istighfar after prayers and during calm moments."
+        },
+        {
+            "id": "ch110-q11",
+            "text": "True/False: The Surah teaches that victory belongs to the strongest army, not to Allah.",
+            "answer": "False. It explicitly attributes victory and help to Allah."
+        },
+        {
+            "id": "ch110-q12",
             "text": "What does 'An-Nasr' mean?",
             "answer": "The Help or The Divine Support."
         },
         {
-            "id": "ch110-q2",
+            "id": "ch110-q13",
             "text": "What are the two things mentioned in the first verse?",
             "answer": "The Help of Allah (Nasrullah) and the Victory/Conquest (Fath)."
         },
         {
-            "id": "ch110-q3",
+            "id": "ch110-q14",
             "text": "What 'Conquest' does the Surah refer to?",
             "answer": "The Conquest of Makkah (Fath Makkah)."
         },
         {
-            "id": "ch110-q4",
-            "text": "What will the Prophet see the people doing in Verse 2?",
+            "id": "ch110-q15",
+            "text": "What will the Prophet see the people doing in this Surah?",
             "answer": "Entering the religion of Allah in crowds (Afwaja)."
         },
         {
-            "id": "ch110-q5",
+            "id": "ch110-q16",
             "text": "What three things is the Prophet commanded to do when victory comes?",
             "answer": "Glorify (Tasbih), Praise (Hamd), and Ask for Forgiveness (Istighfar)."
         },
         {
-            "id": "ch110-q6",
+            "id": "ch110-q17",
             "text": "How is Allah described in the final verse?",
             "answer": "As the 'At-Tawwab' (The Accepter of Repentance)."
         },
         {
-            "id": "ch110-q7",
+            "id": "ch110-q18",
             "text": "What was the deeper meaning of this Surah regarding the Prophet's life?",
             "answer": "It was a sign that his mission was complete and his death was near."
         },
         {
-            "id": "ch110-q8",
+            "id": "ch110-q19",
             "text": "Who correctly understood the sign of the Prophet's approaching death from this Surah?",
             "answer": "Ibn Abbas (RA) and Umar ibn al-Khattab (RA)."
         },
         {
-            "id": "ch110-q9",
+            "id": "ch110-q20",
             "text": "Is this a Makkan or Madinan Surah?",
             "answer": "Madinan (it was one of the last Surahs revealed)."
         },
         {
-            "id": "ch110-q10",
+            "id": "ch110-q21",
             "text": "How many verses are in Surah An-Nasr?",
             "answer": "Three verses."
         },
         {
-            "id": "ch110-q11",
+            "id": "ch110-q22",
             "text": "What does 'Afwaja' mean?",
             "answer": "In crowds / in multitudes."
         },
         {
-            "id": "ch110-q12",
+            "id": "ch110-q23",
             "text": "Why is the Prophet told to ask for forgiveness after a great victory?",
             "answer": "To maintain humility, acknowledge that victory is from Allah alone, and to set an example for the Ummah."
         },
         {
-            "id": "ch110-q13",
+            "id": "ch110-q24",
             "text": "What did the Prophet (SAW) say frequently in his Ruku and Sajdah after this Surah?",
             "answer": "'Subhanaka Allahumma Rabbana wa bihamdika, Allahumma-ghfirli'."
         },
         {
-            "id": "ch110-q14",
+            "id": "ch110-q25",
             "text": "Does 'Nasrullah' apply only to Fath Makkah?",
             "answer": "It applied specifically then, but it is a universal concept of Allah's support for the truth."
         },
         {
-            "id": "ch110-q15",
+            "id": "ch110-q26",
             "text": "What is the meaning of 'Sab-bih'?",
             "answer": "Glorify / Exalt."
         },
         {
-            "id": "ch110-q16",
+            "id": "ch110-q27",
             "text": "What is the significance of Allah being 'Tawwab'?",
             "answer": "He is always ready to accept the repentance of those who turn to Him."
         },
         {
-            "id": "ch110-q17",
+            "id": "ch110-q28",
             "text": "What happened to the Arab tribes after the conquest of Makkah?",
             "answer": "They realized the truth of Islam and sent delegations from all over Arabia to pledge allegiance."
         },
         {
-            "id": "ch110-q18",
+            "id": "ch110-q29",
             "text": "True or False: Surah An-Nasr is the final Surah of the Quran in terms of its position.",
             "answer": "False, it is the 110th."
         },
         {
-            "id": "ch110-q19",
+            "id": "ch110-q30",
             "text": "What is the relationship between 'Praise' and 'Forgiveness' in this Surah?",
             "answer": "Praise is for the blessing of victory, and forgiveness is for any human shortcoming in the service of Allah."
         },
         {
-            "id": "ch110-q20",
+            "id": "ch110-q31",
             "text": "How does the Surah conclude?",
             "answer": "With the assurance that Allah accepts repentance."
         }

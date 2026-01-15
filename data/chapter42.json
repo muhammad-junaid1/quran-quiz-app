@@ -1,108 +1,353 @@
 {
-  "id": 42,
-  "englishName": "Ash-Shura",
-  "arabicName": "الشورى",
-  "translation": "Consultation",
-  "questions": [
-    {
-      "id": "ch42-q1",
-      "text": "What is the meaning of 'Ash-Shura'?",
-      "answer": "Consultation."
-    },
-    {
-      "id": "ch42-q2",
-      "text": "What almost happens to the heavens out of awe of Allah (Verse 5)?",
-      "answer": "They almost part from above as the angels exalt Allah and ask forgiveness for those on earth."
-    },
-    {
-      "id": "ch42-q3",
-      "text": "Why was the Quran revealed in Arabic as stated in Verse 7?",
-      "answer": "To warn the 'Mother of Cities' (Makkah) and those around it of the Day of Assembly."
-    },
-    {
-      "id": "ch42-q4",
-      "text": "Does Allah have any likeness in His creation?",
-      "answer": "No, 'There is nothing like unto Him' (Laysa kamithlihi shay)."
-    },
-    {
-      "id": "ch42-q5",
-      "text": "What was the command given to all Prophets regarding the religion (Deen)?",
-      "answer": "To establish the religion and not be divided therein."
-    },
-    {
-      "id": "ch42-q6",
-      "text": "What is the reward for those who desire the harvest of the Hereafter?",
-      "answer": "Allah increases for them their harvest."
-    },
-    {
-      "id": "ch42-q7",
-      "text": "What happens to the harvest of those who only desire the world?",
-      "answer": "Allah gives them some of it, but they will have no share in the Hereafter."
-    },
-    {
-      "id": "ch42-q8",
-      "text": "Does Allah accept repentance from His servants?",
-      "answer": "Yes, He accepts repentance and pardons misdeeds."
-    },
-    {
-      "id": "ch42-q9",
-      "text": "What is the reason for the calamities that strike people (Verse 30)?",
-      "answer": "Because of what their own hands have earned, yet He pardons much."
-    },
-    {
-      "id": "ch42-q10",
-      "text": "What is a sign of Allah in the sea mentioned in Verse 32?",
-      "answer": "The ships that run like mountains."
-    },
-    {
-      "id": "ch42-q11",
-      "text": "What are the qualities of those who rely on Allah (Verses 36-39)?",
-      "answer": "They avoid major sins, forgive when angry, establish prayer, conduct affairs by consultation, and spend from their provision."
-    },
-    {
-      "id": "ch42-q12",
-      "text": "How should believers handle an injury or oppression?",
-      "answer": "The retribution for an injury is one like it, but whoever pardons and makes reconciliation—his reward is with Allah."
-    },
-    {
-      "id": "ch42-q13",
-      "text": "Is there any blame on those who defend themselves after being wronged?",
-      "answer": "No, the blame is only upon those who oppress people and tyrannize the earth unjustly."
-    },
-    {
-      "id": "ch42-q14",
-      "text": "To whom does the dominion of the heavens and earth belong?",
-      "answer": "To Allah alone; He creates what He wills."
-    },
-    {
-      "id": "ch42-q15",
-      "text": "How does Allah grant children to whom He wills?",
-      "answer": "He gives females to whom He wills, males to whom He wills, or both, or leaves whom He wills barren."
-    },
-    {
-      "id": "ch42-q16",
-      "text": "In what three ways does Allah speak to a human (Verse 51)?",
-      "answer": "By inspiration (Wahi), from behind a veil, or by sending a messenger (angel) to reveal what He wills."
-    },
-    {
-      "id": "ch42-q17",
-      "text": "What did the Prophet (SAW) not know before the Quran (Verse 52)?",
-      "answer": "He did not know what the Book was nor what faith (Iman) was, but Allah made the Quran a light."
-    },
-    {
-      "id": "ch42-q18",
-      "text": "Where do all matters eventually return?",
-      "answer": "To Allah."
-    },
-    {
-      "id": "ch42-q19",
-      "text": "What is the 'Straight Path' mentioned at the end of the Surah?",
-      "answer": "The path of Allah, to whom belongs whatever is in the heavens and earth."
-    },
-    {
-      "id": "ch42-q20",
-      "text": "Why is consultation (Shura) emphasized for the believers?",
-      "answer": "It is a characteristic of their community and a means of making balanced, collective decisions."
-    }
-  ]
+    "id": 42,
+    "englishName": "Ash-Shura",
+    "arabicName": "الشورى",
+    "translation": "Consultation",
+    "questions": [
+        {
+            "id": "ch42-q1",
+            "text": "What is the central theme of Surah Ash-Shura regarding revelation and guidance?",
+            "answer": "That Allah guides through revelation, calling to tawhid, unity in religion, and righteous conduct."
+        },
+        {
+            "id": "ch42-q2",
+            "text": "Why does the Surah mention the heavens almost splitting from awe of Allah?",
+            "answer": "To show Allah's عظَمة (greatness) and to humble human pride before the Creator."
+        },
+        {
+            "id": "ch42-q3",
+            "text": "What do angels do for the people of earth according to this Surah?",
+            "answer": "They exalt Allah and seek forgiveness, highlighting Allah's mercy and the honor of repentance."
+        },
+        {
+            "id": "ch42-q4",
+            "text": "True/False: The Surah teaches that Allah resembles His creation in any way.",
+            "answer": "False. It states there is nothing like Him, and He is the All-Hearing, All-Seeing."
+        },
+        {
+            "id": "ch42-q5",
+            "text": "How does Surah Ash-Shura balance Allah's transcendence and His nearness to creation?",
+            "answer": "It says nothing is like Him, yet He hears and sees all and controls the affairs of His servants."
+        },
+        {
+            "id": "ch42-q6",
+            "text": "What does the Surah teach about unity among believers in the religion of Allah?",
+            "answer": "That the core religion is one and believers must establish it and avoid division."
+        },
+        {
+            "id": "ch42-q7",
+            "text": "Why do people often divide after knowledge comes to them?",
+            "answer": "Because of ظلم and rivalry—wanting dominance rather than submitting to truth."
+        },
+        {
+            "id": "ch42-q8",
+            "text": "What is one major principle of inter-faith history mentioned by the Surah?",
+            "answer": "Allah sent the same core message to prophets: worship Allah, establish religion, and avoid sectarian division."
+        },
+        {
+            "id": "ch42-q9",
+            "text": "What does the Surah teach about the Quran being in Arabic in terms of responsibility?",
+            "answer": "Clarity removes excuses; people are warned in a language they can understand."
+        },
+        {
+            "id": "ch42-q10",
+            "text": "What is the meaning of the Day of Assembly as described in this Surah?",
+            "answer": "The Day of Judgment when humanity will be gathered and their outcomes will be decided."
+        },
+        {
+            "id": "ch42-q11",
+            "text": "True/False: The Surah suggests that Allah's mercy is narrow and only for a few.",
+            "answer": "False. It emphasizes Allah's واسع الرحمة (vast mercy) and acceptance of repentance."
+        },
+        {
+            "id": "ch42-q12",
+            "text": "What does the Surah teach about repentance and Allah's response to it?",
+            "answer": "Allah accepts repentance and pardons many misdeeds when people turn back sincerely."
+        },
+        {
+            "id": "ch42-q13",
+            "text": "How should believers view calamities according to the Surah?",
+            "answer": "As partly a consequence of deeds and also as a mercy because Allah pardons much and gives chances to reform."
+        },
+        {
+            "id": "ch42-q14",
+            "text": "Does the Surah teach that every hardship is pure punishment with no mercy in it?",
+            "answer": "No. It indicates Allah pardons much and hardship can serve as correction and reminder."
+        },
+        {
+            "id": "ch42-q15",
+            "text": "How does the Surah connect personal actions to social consequences?",
+            "answer": "It teaches that people's choices can bring wider consequences, and that reform begins with personal accountability."
+        },
+        {
+            "id": "ch42-q16",
+            "text": "What is one sign mentioned in the sea that invites reflection?",
+            "answer": "Great ships moving like mountains, showing Allah's control over nature and human benefit."
+        },
+        {
+            "id": "ch42-q17",
+            "text": "What does the Surah teach about Allah's ability to stop the wind and halt ships?",
+            "answer": "That everything depends on Allah; He can change conditions instantly, so people should be humble and grateful."
+        },
+        {
+            "id": "ch42-q18",
+            "text": "How does Surah Ash-Shura define a mature believing community?",
+            "answer": "They establish prayer, avoid major sins, forgive, consult each other, and spend from what Allah provides."
+        },
+        {
+            "id": "ch42-q19",
+            "text": "What is the role of consultation (shura) in a believer's life?",
+            "answer": "It helps decisions be balanced and just, preventing tyranny and selfishness."
+        },
+        {
+            "id": "ch42-q20",
+            "text": "True/False: Shura replaces revelation and makes everything purely democratic.",
+            "answer": "False. Shura is used within Allah's guidance, not against it."
+        },
+        {
+            "id": "ch42-q21",
+            "text": "What does the Surah teach about anger management?",
+            "answer": "Believers forgive when angry, showing strength of character and reliance on Allah."
+        },
+        {
+            "id": "ch42-q22",
+            "text": "Is forgiving always required, even when oppression continues?",
+            "answer": "No. The Surah allows just self-defense; forgiveness is praised when it leads to reconciliation and stops wrongdoing."
+        },
+        {
+            "id": "ch42-q23",
+            "text": "What is the Surah's principle regarding justice and retaliation?",
+            "answer": "Retaliation should be equal to the harm, but forgiveness and reconciliation are rewarded by Allah."
+        },
+        {
+            "id": "ch42-q24",
+            "text": "How does the Surah define who is truly blameworthy in conflicts?",
+            "answer": "Those who oppress people and commit tyranny unjustly; defending oneself from injustice carries no blame."
+        },
+        {
+            "id": "ch42-q25",
+            "text": "What does the Surah teach about worldly life compared to the Hereafter?",
+            "answer": "Worldly benefits are temporary, while the Hereafter is lasting and should be the believer's priority."
+        },
+        {
+            "id": "ch42-q26",
+            "text": "What is meant by 'harvest' of the Hereafter in this Surah?",
+            "answer": "The reward of faith and righteous deeds that Allah multiplies beyond expectation."
+        },
+        {
+            "id": "ch42-q27",
+            "text": "What happens to someone who only seeks the harvest of this world?",
+            "answer": "They may receive some worldly benefit, but they lose their share in the Hereafter."
+        },
+        {
+            "id": "ch42-q28",
+            "text": "True/False: The Surah encourages Muslims to abandon worldly responsibilities completely.",
+            "answer": "False. It teaches balance: do good, spend, consult, and seek the Hereafter without neglecting duties."
+        },
+        {
+            "id": "ch42-q29",
+            "text": "What does the Surah teach about Allah granting children?",
+            "answer": "Allah gives daughters, sons, both, or none according to His wisdom; it is part of His decree."
+        },
+        {
+            "id": "ch42-q30",
+            "text": "How does this teaching protect believers from arrogance or despair regarding family matters?",
+            "answer": "It reminds them that outcomes are in Allah's hands, so they should be grateful and patient."
+        },
+        {
+            "id": "ch42-q31",
+            "text": "What does the Surah teach about the ways Allah communicates revelation?",
+            "answer": "Through inspiration, from behind a veil, or by sending an angelic messenger."
+        },
+        {
+            "id": "ch42-q32",
+            "text": "Why is this important for understanding prophethood?",
+            "answer": "It clarifies that revelation is real and comes through defined means, not imagination or invention."
+        },
+        {
+            "id": "ch42-q33",
+            "text": "What does the Surah teach about the Quran being a 'light'?",
+            "answer": "It guides hearts and societies out of confusion and misguidance into clarity and faith."
+        },
+        {
+            "id": "ch42-q34",
+            "text": "How does the Surah teach humility about guidance?",
+            "answer": "It shows guidance is a gift from Allah; no one guides themselves purely by their own power."
+        },
+        {
+            "id": "ch42-q35",
+            "text": "What does the Surah imply about arguing in religion for ego or dominance?",
+            "answer": "It is condemned; it produces division and ظلم and wastes the purpose of revelation."
+        },
+        {
+            "id": "ch42-q36",
+            "text": "True/False: The Surah teaches that Allah's judgment can be escaped by alliances or status.",
+            "answer": "False. All matters return to Allah, and no protector can replace Him."
+        },
+        {
+            "id": "ch42-q37",
+            "text": "How can a community apply shura in modern settings while staying within Islamic principles?",
+            "answer": "By consulting sincere, knowledgeable people, seeking justice, and keeping decisions aligned with Allah's guidance."
+        },
+        {
+            "id": "ch42-q38",
+            "text": "What is one personal habit encouraged by this Surah to prevent division?",
+            "answer": "Purify intentions, avoid envy, and prioritize truth over winning arguments."
+        },
+        {
+            "id": "ch42-q39",
+            "text": "What does the Surah teach about Allah being the final return of all matters?",
+            "answer": "That all decisions, outcomes, and judgments end with Allah, so people should live with accountability."
+        },
+        {
+            "id": "ch42-q40",
+            "text": "How does the Surah encourage emotional strength without being oppressive?",
+            "answer": "It allows just defense but praises forgiveness, balancing strength with mercy."
+        },
+        {
+            "id": "ch42-q41",
+            "text": "What does the Surah teach about Allah's kindness in pardoning 'much'?",
+            "answer": "That Allah does not seize people for every mistake; He gives room to repent and grow."
+        },
+        {
+            "id": "ch42-q42",
+            "text": "Why is it important that believers avoid major sins according to this Surah's profile of faith?",
+            "answer": "Because major sins ruin the heart and community, while avoiding them preserves spiritual health."
+        },
+        {
+            "id": "ch42-q43",
+            "text": "What is one daily-life application of the Surah's teaching on spending?",
+            "answer": "Spend responsibly for Allah's sake, support family and community, and avoid stinginess."
+        },
+        {
+            "id": "ch42-q44",
+            "text": "What does the Surah teach about the link between prayer and community decision-making?",
+            "answer": "Prayer builds God-consciousness, and shura channels that consciousness into just decisions."
+        },
+        {
+            "id": "ch42-q45",
+            "text": "True/False: The Surah teaches that forgiveness means denying that injustice happened.",
+            "answer": "False. Forgiveness can acknowledge wrongdoing while choosing reconciliation when wise."
+        },
+        {
+            "id": "ch42-q46",
+            "text": "How does the Surah shape a believer's mindset toward setbacks and hardship?",
+            "answer": "By encouraging self-accountability, repentance, patience, and hope in Allah's pardon."
+        },
+        {
+            "id": "ch42-q47",
+            "text": "What is one misconception about guidance that the Surah corrects?",
+            "answer": "That guidance is purely inherited; the Surah shows it is from Allah and must be chosen sincerely."
+        },
+        {
+            "id": "ch42-q48",
+            "text": "What does the Surah teach about arrogance in debates about religion?",
+            "answer": "It leads to division and injustice; believers should seek truth and unity, not ego."
+        },
+        {
+            "id": "ch42-q49",
+            "text": "What is the Surah's strongest call to action for the reader today?",
+            "answer": "Worship Allah alone, build a just character, keep unity, consult wisely, and prepare for the Day of Assembly."
+        },
+        {
+            "id": "ch42-q50",
+            "text": "What is the meaning of 'Ash-Shura'?",
+            "answer": "Consultation."
+        },
+        {
+            "id": "ch42-q51",
+            "text": "What does the Surah say almost happens to the heavens out of awe of Allah?",
+            "answer": "They almost part from above as the angels exalt Allah and ask forgiveness for those on earth."
+        },
+        {
+            "id": "ch42-q52",
+            "text": "Why does the Surah mention the Quran being revealed in Arabic?",
+            "answer": "To warn the 'Mother of Cities' (Makkah) and those around it of the Day of Assembly."
+        },
+        {
+            "id": "ch42-q53",
+            "text": "Does Allah have any likeness in His creation?",
+            "answer": "No, 'There is nothing like unto Him' (Laysa kamithlihi shay)."
+        },
+        {
+            "id": "ch42-q54",
+            "text": "What was the command given to all Prophets regarding the religion (Deen)?",
+            "answer": "To establish the religion and not be divided therein."
+        },
+        {
+            "id": "ch42-q55",
+            "text": "What is the reward for those who desire the harvest of the Hereafter?",
+            "answer": "Allah increases for them their harvest."
+        },
+        {
+            "id": "ch42-q56",
+            "text": "What happens to the harvest of those who only desire the world?",
+            "answer": "Allah gives them some of it, but they will have no share in the Hereafter."
+        },
+        {
+            "id": "ch42-q57",
+            "text": "Does Allah accept repentance from His servants?",
+            "answer": "Yes, He accepts repentance and pardons misdeeds."
+        },
+        {
+            "id": "ch42-q58",
+            "text": "What does the Surah teach is a reason calamities strike people?",
+            "answer": "Because of what their own hands have earned, yet He pardons much."
+        },
+        {
+            "id": "ch42-q59",
+            "text": "What sign of Allah in the sea does the Surah mention?",
+            "answer": "The ships that run like mountains."
+        },
+        {
+            "id": "ch42-q60",
+            "text": "What qualities does the Surah mention for those who rely on Allah and live faithfully?",
+            "answer": "They avoid major sins, forgive when angry, establish prayer, conduct affairs by consultation, and spend from their provision."
+        },
+        {
+            "id": "ch42-q61",
+            "text": "How should believers handle an injury or oppression?",
+            "answer": "The retribution for an injury is one like it, but whoever pardons and makes reconciliation—his reward is with Allah."
+        },
+        {
+            "id": "ch42-q62",
+            "text": "Is there any blame on those who defend themselves after being wronged?",
+            "answer": "No, the blame is only upon those who oppress people and tyrannize the earth unjustly."
+        },
+        {
+            "id": "ch42-q63",
+            "text": "To whom does the dominion of the heavens and earth belong?",
+            "answer": "To Allah alone; He creates what He wills."
+        },
+        {
+            "id": "ch42-q64",
+            "text": "How does Allah grant children to whom He wills?",
+            "answer": "He gives females to whom He wills, males to whom He wills, or both, or leaves whom He wills barren."
+        },
+        {
+            "id": "ch42-q65",
+            "text": "In what three ways does the Surah describe Allah communicating revelation to humans?",
+            "answer": "By inspiration (Wahi), from behind a veil, or by sending a messenger (angel) to reveal what He wills."
+        },
+        {
+            "id": "ch42-q66",
+            "text": "What does the Surah say about the Prophet's state before revelation?",
+            "answer": "He did not know what the Book was nor what faith (Iman) was, but Allah made the Quran a light."
+        },
+        {
+            "id": "ch42-q67",
+            "text": "Where do all matters eventually return?",
+            "answer": "To Allah."
+        },
+        {
+            "id": "ch42-q68",
+            "text": "What is the 'Straight Path' mentioned at the end of the Surah?",
+            "answer": "The path of Allah, to whom belongs whatever is in the heavens and earth."
+        },
+        {
+            "id": "ch42-q69",
+            "text": "Why is consultation (Shura) emphasized for the believers?",
+            "answer": "It is a characteristic of their community and a means of making balanced, collective decisions."
+        }
+    ]
 }

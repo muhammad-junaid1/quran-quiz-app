@@ -1,108 +1,408 @@
 {
-  "id": 22,
-  "englishName": "Al-Hajj",
-  "arabicName": "الحج",
-  "translation": "The Pilgrimage",
-  "questions": [
-    {
-      "id": "ch22-q1",
-      "text": "How does the Surah describe the 'Earthquake of the Hour'?",
-      "answer": "As a terrible thing that will make every nursing mother forget her child and every pregnant woman miscarry."
-    },
-    {
-      "id": "ch22-q2",
-      "text": "What are the stages of human creation mentioned in Verse 5?",
-      "answer": "Dust, then a sperm-drop (Nutfah), then a clinging clot (Alaqah), then a lump of flesh (Mudghah), partly formed and partly unformed."
-    },
-    {
-      "id": "ch22-q3",
-      "text": "Describe the person who worships Allah 'on the edge' (Verse 11).",
-      "answer": "If good befalls him, he is content; but if a trial strikes him, he turns on his face, losing both this world and the Hereafter."
-    },
-    {
-      "id": "ch22-q4",
-      "text": "Does everything in the universe prostrate to Allah?",
-      "answer": "Yes, including the sun, moon, stars, mountains, trees, animals, and many of mankind."
-    },
-    {
-      "id": "ch22-q5",
-      "text": "What was the command given to Ibrahim (AS) regarding the Kaaba?",
-      "answer": "To purify His House for those who perform Tawaf, those who stand in prayer, and those who bow and prostrate."
-    },
-    {
-      "id": "ch22-q6",
-      "text": "What is the significance of the 'Adhan' for Hajj as mentioned in Verse 27?",
-      "answer": "Allah commanded Ibrahim to proclaim the Hajj so people would come on foot and on every lean camel from every distant pass."
-    },
-    {
-      "id": "ch22-q7",
-      "text": "What reaches Allah from the animal sacrifice (Qurbani)?",
-      "answer": "Neither their meat nor their blood reaches Allah; what reaches Him is the 'Taqwa' (piety) from the hearts."
-    },
-    {
-      "id": "ch22-q8",
-      "text": "When was the first permission to fight given to the Muslims?",
-      "answer": "In Verse 39: 'Permission [to fight] has been given to those who are being fought, because they were wronged'."
-    },
-    {
-      "id": "ch22-q9",
-      "text": "What would happen if Allah did not check one set of people by means of another?",
-      "answer": "Monasteries, churches, synagogues, and mosques—in which the name of Allah is much mentioned—would have been demolished."
-    },
-    {
-      "id": "ch22-q10",
-      "text": "How long is a 'Day' with your Lord according to Verse 47?",
-      "answer": "Like a thousand years of those which you count."
-    },
-    {
-      "id": "ch22-q11",
-      "text": "What does Allah do with the suggestions Satan throws into the revelations of Prophets?",
-      "answer": "Allah eliminates what Satan throws in and then makes His verses precise."
-    },
-    {
-      "id": "ch22-q12",
-      "text": "What is the 'Blindness' described in Verse 46?",
-      "answer": "It is not the eyes that are blind, but the hearts within the breasts."
-    },
-    {
-      "id": "ch22-q13",
-      "text": "What is the parable of the 'Fly' mentioned in Verse 73?",
-      "answer": "If all those called upon besides Allah gathered, they could not create a fly, and if a fly took something from them, they could not recover it."
-    },
-    {
-      "id": "ch22-q14",
-      "text": "What title did Allah give to the followers of the Prophet (SAW) from before?",
-      "answer": "Muslims."
-    },
-    {
-      "id": "ch22-q15",
-      "text": "What is the purpose of being 'witnesses over mankind'?",
-      "answer": "The Messenger is a witness over the Muslims, and the Muslims are witnesses over mankind."
-    },
-    {
-      "id": "ch22-q16",
-      "text": "What are the symbols (Sha'a'ir) of Allah?",
-      "answer": "The rites and places of worship (like Hajj rituals), and honoring them is from the piety of hearts."
-    },
-    {
-      "id": "ch22-q17",
-      "text": "What happens to the 'wrongdoing towns' that Allah gives respite to?",
-      "answer": "He seizes them eventually, and to Him is the final return."
-    },
-    {
-      "id": "ch22-q18",
-      "text": "What is the reward for those who emigrated for the cause of Allah and were then killed or died?",
-      "answer": "Allah will surely provide for them a good provision."
-    },
-    {
-      "id": "ch22-q19",
-      "text": "How does Allah describe His power over the night and day in this Surah?",
-      "answer": "He causes the night to enter the day and the day to enter the night."
-    },
-    {
-      "id": "ch22-q20",
-      "text": "What are the final commands in the last verse of Surah Al-Hajj?",
-      "answer": "Bow, prostrate, worship your Lord, and do good—that you may succeed."
-    }
-  ]
+    "id": 22,
+    "englishName": "Al-Hajj",
+    "arabicName": "الحج",
+    "translation": "The Pilgrimage",
+    "questions": [
+        {
+            "id": "ch22-q1",
+            "text": "How does the Surah describe the 'Earthquake of the Hour' in terms of its effect on people?",
+            "answer": "As a terrible thing that will make every nursing mother forget her child and every pregnant woman miscarry; people will appear drunk but they are not."
+        },
+        {
+            "id": "ch22-q2",
+            "text": "Who are those who argue about Allah without knowledge and follow every rebellious devil?",
+            "answer": "Those who are destined to be led astray by the devil and guided to the punishment of the Blaze."
+        },
+        {
+            "id": "ch22-q3",
+            "text": "What are the stages of human creation from the earth mentioned in this Surah?",
+            "answer": "Dust, then a sperm-drop (Nutfah), then a clinging clot (Alaqah), then a lump of flesh (Mudghah), partly formed and partly unformed."
+        },
+        {
+            "id": "ch22-q4",
+            "text": "How does Allah describe the life cycle of the earth when rain falls on a dead land?",
+            "answer": "The earth quivers, swells, and grows every kind of beautiful growth."
+        },
+        {
+            "id": "ch22-q5",
+            "text": "What are the five certainties mentioned after the description of creation and the earth?",
+            "answer": "That Allah is the Truth, He gives life to the dead, He is over all things competent, the Hour is coming, and He will resurrect those in the graves."
+        },
+        {
+            "id": "ch22-q6",
+            "text": "Describe the person who worships Allah 'on the edge'.",
+            "answer": "If good befalls him, he is content; but if a trial strikes him, he turns back on his face, losing both this world and the Hereafter."
+        },
+        {
+            "id": "ch22-q7",
+            "text": "Can those whom people call upon besides Allah bring any benefit or harm?",
+            "answer": "No, they call upon that which neither harms nor benefits them; that is extreme error."
+        },
+        {
+            "id": "ch22-q8",
+            "text": "Does everything in the heavens and the earth prostrate to Allah?",
+            "answer": "Yes, including the sun, moon, stars, mountains, trees, animals, and many of mankind."
+        },
+        {
+            "id": "ch22-q9",
+            "text": "What will be the clothing of the disbelievers in the Fire?",
+            "answer": "Garments of fire will be cut out for them, and boiling water will be poured over their heads."
+        },
+        {
+            "id": "ch22-q10",
+            "text": "What will happen to the skins and internal organs of those in Hell when boiling water is poured?",
+            "answer": "They will be melted by it."
+        },
+        {
+            "id": "ch22-q11",
+            "text": "What are 'maces of iron' used for in the description of Hell?",
+            "answer": "For punishing the inhabitants whenever they try to escape the anguish."
+        },
+        {
+            "id": "ch22-q12",
+            "text": "What ornaments and clothing are promised to the believers in Paradise?",
+            "answer": "Bracelets of gold and pearls, and their clothing will be of silk."
+        },
+        {
+            "id": "ch22-q13",
+            "text": "What is the 'good speech' and the 'path of the Praiseworthy' the believers were guided to?",
+            "answer": "The declaration of faith (Tawhid) and the path of Islam."
+        },
+        {
+            "id": "ch22-q14",
+            "text": "Who is the Sacred Mosque (Al-Masjid al-Haram) for, according to this Surah?",
+            "answer": "For all people equally—both the resident and the visitor."
+        },
+        {
+            "id": "ch22-q15",
+            "text": "What was the command given to Ibrahim (AS) regarding the site of the House (Kaaba)?",
+            "answer": "Not to associate anything with Allah and to purify His House for those who perform Tawaf, stand in prayer, and prostrate."
+        },
+        {
+            "id": "ch22-q16",
+            "text": "What is the significance of the 'Adhan' for Hajj mentioned in the story of Ibrahim?",
+            "answer": "Allah commanded him to proclaim the Hajj so people would come on foot and on every lean camel from every distant pass."
+        },
+        {
+            "id": "ch22-q17",
+            "text": "What is the purpose of the Hajj according to this Surah?",
+            "answer": "That people may witness benefits for themselves and mention the name of Allah over the sacrificial animals He has provided."
+        },
+        {
+            "id": "ch22-q18",
+            "text": "What should the pilgrims do after performing their rites and sacrifice?",
+            "answer": "They should complete their prescribed duties, fulfill their vows, and perform Tawaf around the Ancient House."
+        },
+        {
+            "id": "ch22-q19",
+            "text": "What are the 'Sha'a'ir' (Symbols) of Allah?",
+            "answer": "The rites and signs of Allah's religion (like the sacrifice during Hajj); honoring them is from the piety of hearts."
+        },
+        {
+            "id": "ch22-q20",
+            "text": "What reach Allah from the animal sacrifice (Qurbani)?",
+            "answer": "Neither their meat nor their blood reaches Allah; what reaches Him is the 'Taqwa' (piety) from your hearts."
+        },
+        {
+            "id": "ch22-q21",
+            "text": "What is the ruling regarding the meat of the sacrificed animals?",
+            "answer": "The people should eat from it and feed the miserable and the poor."
+        },
+        {
+            "id": "ch22-q22",
+            "text": "Does Allah defend the believers?",
+            "answer": "Yes, 'Indeed, Allah defends those who have believed. Indeed, Allah does not like everyone treacherous and ungrateful.'"
+        },
+        {
+            "id": "ch22-q23",
+            "text": "When was the first permission to fight given to the Muslims and why?",
+            "answer": "It was given because they were wronged and driven from their homes only because they said, 'Our Lord is Allah.'"
+        },
+        {
+            "id": "ch22-q24",
+            "text": "What would happen if Allah did not check one set of people by means of another?",
+            "answer": "Monasteries, churches, synagogues, and mosques—where the name of Allah is mentioned much—would have been demolished."
+        },
+        {
+            "id": "ch22-q25",
+            "text": "What are the qualities of those whom Allah gives authority in the land?",
+            "answer": "They establish prayer, give Zakat, enjoin what is right, and forbid what is wrong."
+        },
+        {
+            "id": "ch22-q26",
+            "text": "Which previous nations were mentioned as having denied their messengers?",
+            "answer": "The people of Nuh, 'Ad, Thamud, Ibrahim, Lut, and Madyan, as well as the people of Musa."
+        },
+        {
+            "id": "ch22-q27",
+            "text": "How long is a 'Day' with your Lord as mentioned in this Surah?",
+            "answer": "Like a thousand years of those which you count."
+        },
+        {
+            "id": "ch22-q28",
+            "text": "What happens to the 'wrongdoing towns' that Allah gives respite to?",
+            "answer": "He seizes them eventually with a terrible punishment."
+        },
+        {
+            "id": "ch22-q29",
+            "text": "What is the 'Blindness' described in this Surah?",
+            "answer": "It is not the physical eyes that are blind, but the hearts within the breasts."
+        },
+        {
+            "id": "ch22-q30",
+            "text": "What is the reward for those who emigrated for the cause of Allah and were then killed or died?",
+            "answer": "Allah will surely provide for them a good provision, and He is the best of providers."
+        },
+        {
+            "id": "ch22-q31",
+            "text": "How does Allah describe His power over the night and day?",
+            "answer": "He causes the night to enter the day and the day to enter the night, and He is Hearing and Seeing."
+        },
+        {
+            "id": "ch22-q32",
+            "text": "What is the proof of Allah's power regarding the sky and the earth?",
+            "answer": "He holds the sky from falling upon the earth except by His permission."
+        },
+        {
+            "id": "ch22-q33",
+            "text": "What is the 'Mansak' mentioned that Allah has appointed for every nation?",
+            "answer": "A rite of sacrifice or worship so they may mention the name of Allah over what He provided them."
+        },
+        {
+            "id": "ch22-q34",
+            "text": "What does Allah do with the suggestions Shaitan throws into the recitation of Prophets?",
+            "answer": "Allah eliminates what Shaitan throws in and then makes His verses precise."
+        },
+        {
+            "id": "ch22-q35",
+            "text": "Who are the ones whose hearts become hardened by Shaitan's suggestions?",
+            "answer": "Those who have a disease in their hearts and whose hearts are hard."
+        },
+        {
+            "id": "ch22-q36",
+            "text": "What is the reaction of the disbelievers when the clear verses of Allah are recited to them?",
+            "answer": "You can recognize defiance in their faces; they almost attack those who recite the verses."
+        },
+        {
+            "id": "ch22-q37",
+            "text": "What is the parable of the 'Fly' mentioned at the end of the Surah?",
+            "answer": "If all those called upon besides Allah gathered together, they could not create even a fly; and if a fly took something from them, they could not recover it."
+        },
+        {
+            "id": "ch22-q38",
+            "text": "What is the conclusion about the power of the idols and their worshippers from the fly parable?",
+            "answer": "'Weak are the seeker and the sought.'"
+        },
+        {
+            "id": "ch22-q39",
+            "text": "Does Allah choose messengers from both angels and mankind?",
+            "answer": "Yes, 'Allah chooses from the angels messengers and from the people.'"
+        },
+        {
+            "id": "ch22-q40",
+            "text": "What are the final commands given to the believers in the last ayah?",
+            "answer": "Bow, prostrate, worship your Lord, and do good—that you may succeed."
+        },
+        {
+            "id": "ch22-q41",
+            "text": "What is the 'religion of your father Ibrahim' referred to in the end?",
+            "answer": "Pure monotheism (Haneefiyyah) and total submission to Allah."
+        },
+        {
+            "id": "ch22-q42",
+            "text": "What title did Allah give to the believers from before and in this Quran?",
+            "answer": "Muslims."
+        },
+        {
+            "id": "ch22-q43",
+            "text": "What is the purpose of being 'witnesses over mankind' as mentioned in the conclusion?",
+            "answer": "The Messenger is a witness over the Muslims, and the Muslims are witnesses over mankind."
+        },
+        {
+            "id": "ch22-q44",
+            "text": "What is the final advice regarding holding fast to Allah?",
+            "answer": "Hold fast to Allah; He is your protector—and an excellent protector and excellent helper."
+        },
+        {
+            "id": "ch22-q45",
+            "text": "What is the meaning of the name 'Al-Hajj'?",
+            "answer": "The Pilgrimage."
+        },
+        {
+            "id": "ch22-q46",
+            "text": "What is the 'Ancient House' (Al-Bayt al-Atiq)?",
+            "answer": "The Kaaba in Makkah."
+        },
+        {
+            "id": "ch22-q47",
+            "text": "What is the 'abject' state of man mentioned in the creation passage?",
+            "answer": "Old age, where a person knows nothing after having had knowledge."
+        },
+        {
+            "id": "ch22-q48",
+            "text": "What is the 'Disease of the heart'?",
+            "answer": "Doubt, hypocrisy, and lack of sincere faith."
+        },
+        {
+            "id": "ch22-q49",
+            "text": "What is the 'True Sovereign' (Al-Malik al-Haqq)?",
+            "answer": "An attribute of Allah, meaning the only real and permanent King."
+        },
+        {
+            "id": "ch22-q50",
+            "text": "What are the 'signs' in the falling of rain on dead land?",
+            "answer": "Proofs of Allah's ability to resurrect the dead."
+        },
+        {
+            "id": "ch22-q51",
+            "text": "Why does Allah mention 'monasteries and churches'?",
+            "answer": "To show that His protection of religious freedom through struggle preserves places where He is worshipped."
+        },
+        {
+            "id": "ch22-q52",
+            "text": "What is the 'Great Bounty' (Al-Fadl al-Kabir)?",
+            "answer": "The rewards of Paradise for the believers."
+        },
+        {
+            "id": "ch22-q53",
+            "text": "What is the 'Humble' (Al-Mukhbitin) heart?",
+            "answer": "A heart that is submissive, fearful, and tranquil in the remembrance of Allah."
+        },
+        {
+            "id": "ch22-q54",
+            "text": "What are the 'Camels' (Budn) in the context of Hajj?",
+            "answer": "Large animals made as symbols of Allah's bounty for sacrifice."
+        },
+        {
+            "id": "ch22-q55",
+            "text": "What is the 'Right Path' (Siratin Mustaqim)?",
+            "answer": "The way of life that leads to Allah's pleasure and success."
+        },
+        {
+            "id": "ch22-q56",
+            "text": "What is the 'Anguish' (Ghamm) of Hell?",
+            "answer": "The intense physical and mental suffering of the disbelievers."
+        },
+        {
+            "id": "ch22-q57",
+            "text": "What is the 'Truth' (Al-Haqq) that Allah is?",
+            "answer": "The ultimate Reality and the only one worthy of worship."
+        },
+        {
+            "id": "ch22-q58",
+            "text": "What is the 'Specified Term' (Ajal Musamma)?",
+            "answer": "The fixed time for everything, including the Hour."
+        },
+        {
+            "id": "ch22-q59",
+            "text": "What is the 'Submission' (Aslimu) required of people?",
+            "answer": "Total surrender to the will of the one God."
+        },
+        {
+            "id": "ch22-q60",
+            "text": "What is the 'Good News' for those who are humble?",
+            "answer": "The promise of Paradise and Allah's approval."
+        },
+        {
+            "id": "ch22-q61",
+            "text": "What is the 'Sacred House'?",
+            "answer": "The Kaaba, which is the center of Hajj."
+        },
+        {
+            "id": "ch22-q62",
+            "text": "What is the 'Ancient' attribute of the House?",
+            "answer": "It signifies its long history since the time of Ibrahim and its noble status."
+        },
+        {
+            "id": "ch22-q63",
+            "text": "What is the 'Vow' (Nudhur) in Hajj?",
+            "answer": "Personal commitments made to Allah during the pilgrimage."
+        },
+        {
+            "id": "ch22-q64",
+            "text": "What is the 'Stumbling' of the person who worships on the edge?",
+            "answer": "His quick departure from faith when things go wrong."
+        },
+        {
+            "id": "ch22-q65",
+            "text": "What is the 'Boiling Water' (Hamim)?",
+            "answer": "A punishment in Hell that melts what is inside and outside."
+        },
+        {
+            "id": "ch22-q66",
+            "text": "What is the 'Broccoli' (Mudghah) stage?",
+            "answer": "A lump of flesh in embryonic development, literally meaning 'something chewed'."
+        },
+        {
+            "id": "ch22-q67",
+            "text": "What is the 'Clot' (Alaqah) stage?",
+            "answer": "A stage in human development where the embryo clings to the womb."
+        },
+        {
+            "id": "ch22-q68",
+            "text": "What is the 'Sperm-drop' (Nutfah) stage?",
+            "answer": "The initial stage of biological human life."
+        },
+        {
+            "id": "ch22-q69",
+            "text": "What is the 'Dust' (Turab) origin?",
+            "answer": "The chemical components of the earth from which Adam was created."
+        },
+        {
+            "id": "ch22-q70",
+            "text": "What is the 'Distraction' of the Hour?",
+            "answer": "The sheer terror that will make people forget their most precious bonds."
+        },
+        {
+            "id": "ch22-q71",
+            "text": "What is the 'Drunkenness' without alcohol?",
+            "answer": "The state of confusion and shock people will be in on the Day of Judgment."
+        },
+        {
+            "id": "ch22-q72",
+            "text": "What is the 'rebellious devil'?",
+            "answer": "Any force or being that leads people away from the truth."
+        },
+        {
+            "id": "ch22-q73",
+            "text": "What is the 'Balance' (Qawwam)?",
+            "answer": "The perfect ecological harmony in nature created by Allah."
+        },
+        {
+            "id": "ch22-q74",
+            "text": "What is the 'Certainty' regarding the Hour?",
+            "answer": "That its arrival is a factual reality beyond any doubt."
+        },
+        {
+            "id": "ch22-q75",
+            "text": "What is the 'Resurrection' (Ba'th)?",
+            "answer": "The bringing of the dead back to life for judgment."
+        },
+        {
+            "id": "ch22-q76",
+            "text": "What is the 'Edge' (Harf)?",
+            "answer": "A weak and unstable position in faith."
+        },
+        {
+            "id": "ch22-q77",
+            "text": "What is the 'Extreme Error' (Dalal al-Ba'id)?",
+            "answer": "Worshipping idols instead of the Creator."
+        },
+        {
+            "id": "ch22-q78",
+            "text": "What is the 'Great Anguish'?",
+            "answer": "The suffering of the people in Hell."
+        },
+        {
+            "id": "ch22-q79",
+            "text": "What is the ' ancient House' Tawaf?",
+            "answer": "The ritual of walking around the Kaaba during Hajj and Umrah."
+        },
+        {
+            "id": "ch22-q80",
+            "text": "What is the 'Success' (Falah)?",
+            "answer": "The ultimate achievement of Paradise and Allah's pleasure."
+        }
+    ]
 }

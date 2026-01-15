@@ -1,108 +1,348 @@
 {
-  "id": 45,
-  "englishName": "Al-Jathiyah",
-  "arabicName": "الجاثية",
-  "translation": "The Kneeling",
-  "questions": [
-    {
-      "id": "ch45-q1",
-      "text": "What does 'Al-Jathiyah' mean?",
-      "answer": "The Kneeling."
-    },
-    {
-      "id": "ch45-q2",
-      "text": "Where are the signs of Allah found according to the opening verses?",
-      "answer": "In the heavens, the earth, the creation of humans, the animals, and the alternation of night and day."
-    },
-    {
-      "id": "ch45-q3",
-      "text": "Woe is to which type of person (Verse 7)?",
-      "answer": "Every sinful liar (Affakin athim)."
-    },
-    {
-      "id": "ch45-q4",
-      "text": "How does the arrogant person react when he hears Allah's verses?",
-      "answer": "He persists in arrogance as if he had not heard them."
-    },
-    {
-      "id": "ch45-q5",
-      "text": "What is the reward for the believers who forgive those who do not expect the days of Allah?",
-      "answer": "Allah will recompense every people for what they used to earn."
-    },
-    {
-      "id": "ch45-q6",
-      "text": "What was given to the Children of Israel (Verse 16)?",
-      "answer": "The Scripture, wisdom, prophethood, and good provisions."
-    },
-    {
-      "id": "ch45-q7",
-      "text": "What is the 'Shariah' mentioned in Verse 18?",
-      "answer": "A clear way/law of religion that the Prophet was commanded to follow."
-    },
-    {
-      "id": "ch45-q8",
-      "text": "Can the wrongdoers protect each other against Allah?",
-      "answer": "No, they are allies only to one another, while Allah is the ally of the righteous."
-    },
-    {
-      "id": "ch45-q9",
-      "text": "Are those who commit evil and those who believe equal in life and death?",
-      "answer": "No, 'Evil is what they judge' (Verse 21)."
-    },
-    {
-      "id": "ch45-q10",
-      "text": "What happens to the one who takes his 'desire' as his god?",
-      "answer": "Allah sends him astray, seals his hearing and heart, and puts a veil over his vision."
-    },
-    {
-      "id": "ch45-q11",
-      "text": "What is the common claim of those who deny the Hereafter (Verse 24)?",
-      "answer": "They say, 'There is not but our worldly life; we die and live, and nothing destroys us except time (Dahr)'."
-    },
-    {
-      "id": "ch45-q12",
-      "text": "What will happen to every nation on the Day of Judgment (Verse 28)?",
-      "answer": "Every nation will be seen 'kneeling' (Jathiyah), and called to its record."
-    },
-    {
-      "id": "ch45-q13",
-      "text": "Does Allah's record skip any deeds?",
-      "answer": "No, 'Indeed, We were having transcribed whatever you used to do' (Verse 29)."
-    },
-    {
-      "id": "ch45-q14",
-      "text": "What will be said to those who 'forgot' the Day of Judgment?",
-      "answer": "'This day We will forget you as you forgot the meeting of this Day of yours'."
-    },
-    {
-      "id": "ch45-q15",
-      "text": "Why will the disbelievers' refuge be the Fire?",
-      "answer": "Because they took the verses of Allah in ridicule and the worldly life deluded them."
-    },
-    {
-      "id": "ch45-q16",
-      "text": "To whom belongs all praise at the end of the Surah?",
-      "answer": "To Allah, Lord of the heavens, Lord of the earth, Lord of the worlds."
-    },
-    {
-      "id": "ch45-q17",
-      "text": "To whom belongs 'Grandeur' (Kibriya) in the heavens and earth?",
-      "answer": "To Allah, the Exalted in Might, the Wise."
-    },
-    {
-      "id": "ch45-q18",
-      "text": "What is the purpose of the 'signs' mentioned in the Surah?",
-      "answer": "To provide proof for a people who have certainty (Yaqin)."
-    },
-    {
-      "id": "ch45-q19",
-      "text": "What is the fate of the 'sinful liar'?",
-      "answer": "A painful punishment."
-    },
-    {
-      "id": "ch45-q20",
-      "text": "How does Allah describe the 'Truth' in the context of the Hour?",
-      "answer": "That the Hour is coming, there is no doubt about it."
-    }
-  ]
+    "id": 45,
+    "englishName": "Al-Jathiyah",
+    "arabicName": "الجاثية",
+    "translation": "The Kneeling",
+    "questions": [
+        {
+            "id": "ch45-q1",
+            "text": "True/False: The Surah teaches that nature has no spiritual meaning.",
+            "answer": "False. It presents natural signs as evidence for people of certainty."
+        },
+        {
+            "id": "ch45-q2",
+            "text": "Why does the Surah repeatedly mention the heavens, earth, animals, and night/day as signs?",
+            "answer": "Because they are constant reminders that the Creator is One and that resurrection is possible."
+        },
+        {
+            "id": "ch45-q3",
+            "text": "What kind of person is condemned as an 'affak athim' in this Surah?",
+            "answer": "A habitual liar and sinner who hears Allah's verses and persists arrogantly."
+        },
+        {
+            "id": "ch45-q4",
+            "text": "What does the Surah teach about arrogance when hearing revelation?",
+            "answer": "Arrogance blocks guidance; a person behaves as if they never heard the verses and becomes deserving of punishment."
+        },
+        {
+            "id": "ch45-q5",
+            "text": "What is one practical sign that someone is taking Allah's verses seriously?",
+            "answer": "They respond with humility, reflection, and change in behavior rather than mocking or ignoring."
+        },
+        {
+            "id": "ch45-q6",
+            "text": "How does the Surah teach believers to deal with people who deny accountability?",
+            "answer": "It encourages patience and forgiveness while trusting Allah to recompense everyone for what they earned."
+        },
+        {
+            "id": "ch45-q7",
+            "text": "What does Surah Al-Jathiyah teach about the danger of making desires a 'god'?",
+            "answer": "A person becomes spiritually blind and misled, following cravings instead of truth and guidance."
+        },
+        {
+            "id": "ch45-q8",
+            "text": "True/False: The Surah suggests that following desires is harmless if it feels good.",
+            "answer": "False. It treats desire-worship as a cause of misguidance and sealing of the heart."
+        },
+        {
+            "id": "ch45-q9",
+            "text": "What does the Surah teach about those who deny the Hereafter by blaming 'time' (dahr)?",
+            "answer": "It exposes their claim as baseless, because Allah controls life, death, and resurrection."
+        },
+        {
+            "id": "ch45-q10",
+            "text": "What is one misconception corrected by the Surah about life and death?",
+            "answer": "That death is the final end and time is the only force; the Surah affirms resurrection and judgment."
+        },
+        {
+            "id": "ch45-q11",
+            "text": "Why does the Surah mention that the Children of Israel were given scripture and wisdom?",
+            "answer": "To show that guidance is a gift, and losing unity after receiving knowledge is a serious moral failure."
+        },
+        {
+            "id": "ch45-q12",
+            "text": "What does the Surah teach about following a divinely revealed law (shariah)?",
+            "answer": "That it is a clear path from Allah, and believers should not follow desires or ignorant opinions against it."
+        },
+        {
+            "id": "ch45-q13",
+            "text": "True/False: The Surah encourages building religion on guesses and social trends.",
+            "answer": "False. It warns against following desires and emphasizes following Allah's guidance."
+        },
+        {
+            "id": "ch45-q14",
+            "text": "What does the Surah teach about fairness: are good and evil people treated the same?",
+            "answer": "No. Allah's justice distinguishes between those who believe and do righteousness and those who commit evil."
+        },
+        {
+            "id": "ch45-q15",
+            "text": "What does the image of every nation 'kneeling' teach about the Day of Judgment?",
+            "answer": "It conveys complete humility and fear when nations are called to their records and cannot deny their deeds."
+        },
+        {
+            "id": "ch45-q16",
+            "text": "Why is the record (kitab) emphasized in this Surah?",
+            "answer": "To show that deeds are preserved with precision and that judgment is based on documented truth."
+        },
+        {
+            "id": "ch45-q17",
+            "text": "What does the Surah teach about people who 'forgot' the Day of Judgment?",
+            "answer": "They will be treated according to their neglect; their chosen forgetfulness leads to abandonment in punishment."
+        },
+        {
+            "id": "ch45-q18",
+            "text": "How does mocking Allah's verses affect a person's spiritual state?",
+            "answer": "It hardens the heart, increases arrogance, and leads to punishment and humiliation."
+        },
+        {
+            "id": "ch45-q19",
+            "text": "True/False: The Surah suggests the world is enough and the Hereafter is optional belief.",
+            "answer": "False. It insists the Hour is coming without doubt."
+        },
+        {
+            "id": "ch45-q20",
+            "text": "What does Surah Al-Jathiyah teach about gratitude and recognizing Allah's favors?",
+            "answer": "Reflecting on signs should produce gratitude, humility, and obedience instead of denial."
+        },
+        {
+            "id": "ch45-q21",
+            "text": "How can a person protect themselves from desire-worship practically?",
+            "answer": "By seeking knowledge, controlling impulses, remembering the Hereafter, and following Allah's guidance."
+        },
+        {
+            "id": "ch45-q22",
+            "text": "What does the Surah teach about true knowledge versus mere information?",
+            "answer": "True knowledge leads to humility and obedience, while false 'knowledge' supports arrogance and denial."
+        },
+        {
+            "id": "ch45-q23",
+            "text": "Why does the Surah end with praise of Allah as Lord of the heavens and earth?",
+            "answer": "To conclude that only Allah deserves praise, worship, and submission because He governs all existence."
+        },
+        {
+            "id": "ch45-q24",
+            "text": "What does the Surah teach about Allah's grandeur (kibriya')?",
+            "answer": "That grandeur belongs only to Allah; human pride is false and dangerous."
+        },
+        {
+            "id": "ch45-q25",
+            "text": "True/False: The Surah encourages a believer to be impressed by arrogant displays of power.",
+            "answer": "False. It teaches that arrogance is blameworthy and will be humbled."
+        },
+        {
+            "id": "ch45-q26",
+            "text": "What is one modern-life application of reflecting on night/day and creation as signs?",
+            "answer": "Use daily rhythms as reminders to pray, repent, and remember Allah rather than living heedlessly."
+        },
+        {
+            "id": "ch45-q27",
+            "text": "How does the Surah strengthen belief in resurrection without requiring ayah memorization?",
+            "answer": "By pointing to Allah's signs in creation and stressing the certainty of the coming Hour and judgment."
+        },
+        {
+            "id": "ch45-q28",
+            "text": "What does the Surah teach about social pressure to deny the Hereafter?",
+            "answer": "Denial may be common, but it remains baseless; believers should remain firm and seek certainty."
+        },
+        {
+            "id": "ch45-q29",
+            "text": "How does Surah Al-Jathiyah define who benefits from signs?",
+            "answer": "Those who have certainty (yaqin) and humility benefit most from reflecting on Allah's signs."
+        },
+        {
+            "id": "ch45-q30",
+            "text": "What is one warning about letting cynicism shape your view of religion?",
+            "answer": "Cynicism can turn revelation into a joke, leading to loss and punishment."
+        },
+        {
+            "id": "ch45-q31",
+            "text": "What does the Surah imply about accountability for private attitudes like arrogance and mockery?",
+            "answer": "Even internal attitudes matter; they shape deeds and will be judged by Allah."
+        },
+        {
+            "id": "ch45-q32",
+            "text": "True/False: The Surah suggests that morality is relative and there is no real right or wrong.",
+            "answer": "False. It clearly distinguishes truth from falsehood and righteousness from sin."
+        },
+        {
+            "id": "ch45-q33",
+            "text": "How does the Surah help a believer remain calm when seeing sinners prosper temporarily?",
+            "answer": "By reminding that the final judgment is certain and that every deed is recorded."
+        },
+        {
+            "id": "ch45-q34",
+            "text": "What does the Surah teach about the relationship between belief and behavior?",
+            "answer": "Belief in Allah and the Hereafter should transform actions; denial often leads to arrogance and injustice."
+        },
+        {
+            "id": "ch45-q35",
+            "text": "What is the Surah's warning about treating truth as entertainment?",
+            "answer": "Taking Allah's verses in ridicule leads to the Fire and to being deluded by worldly life."
+        },
+        {
+            "id": "ch45-q36",
+            "text": "What is one ethical lesson from the Surah about listening?",
+            "answer": "Listening with sincerity is part of guidance; refusing to listen is a form of arrogance."
+        },
+        {
+            "id": "ch45-q37",
+            "text": "How does Surah Al-Jathiyah define the certainty of the Hour?",
+            "answer": "It states the Hour is coming and there is no doubt about it."
+        },
+        {
+            "id": "ch45-q38",
+            "text": "What is one spiritual goal for reading Surah Al-Jathiyah?",
+            "answer": "To build certainty through Allah's signs and to reject desire-worship and arrogance."
+        },
+        {
+            "id": "ch45-q39",
+            "text": "What is the Surah's strongest call to action for modern readers?",
+            "answer": "Reflect on Allah's signs, submit to His guidance, and prepare for the Day when nations will kneel to their records."
+        },
+        {
+            "id": "ch45-q40",
+            "text": "How does the Surah teach that justice includes emotional and spiritual accountability?",
+            "answer": "It condemns arrogance and mockery, showing judgment includes inner states, not only outward acts."
+        },
+        {
+            "id": "ch45-q41",
+            "text": "What does the Surah teach about the danger of living as if the Hereafter will never come?",
+            "answer": "It leads to heedlessness, moral decay, and a shocking regret when judgment becomes real."
+        },
+        {
+            "id": "ch45-q42",
+            "text": "True/False: The Surah implies that Allah's laws can be replaced by human whims without consequences.",
+            "answer": "False. It warns against following desires and commands adherence to Allah's way."
+        },
+        {
+            "id": "ch45-q43",
+            "text": "What is one lesson about humility from the phrase 'every nation will be kneeling'?",
+            "answer": "Human pride collapses when reality becomes clear and everyone stands before Allah's judgment."
+        },
+        {
+            "id": "ch45-q44",
+            "text": "How does Surah Al-Jathiyah teach that proof is abundant?",
+            "answer": "By pointing to countless signs in the universe and within life, leaving denial without excuse."
+        },
+        {
+            "id": "ch45-q45",
+            "text": "What does the Surah teach about the value of praising Allah at the end?",
+            "answer": "Praise completes faith by acknowledging Allah's lordship and rejecting arrogance."
+        },
+        {
+            "id": "ch45-q46",
+            "text": "How does the Surah warn against intellectual arrogance?",
+            "answer": "It condemns those who hear Allah's verses and persist in pride as if they never heard."
+        },
+        {
+            "id": "ch45-q47",
+            "text": "What is one practical habit to build certainty recommended by this Surah's approach?",
+            "answer": "Regular reflection on creation and deliberate remembrance of the Hour and accountability."
+        },
+        {
+            "id": "ch45-q48",
+            "text": "What does the Surah imply about Allah's wisdom in making signs diverse?",
+            "answer": "Different signs reach different hearts; together they form a complete proof for the sincere."
+        },
+        {
+            "id": "ch45-q49",
+            "text": "What does 'Al-Jathiyah' mean?",
+            "answer": "The Kneeling."
+        },
+        {
+            "id": "ch45-q50",
+            "text": "Where are the signs of Allah found according to the opening verses?",
+            "answer": "In the heavens, the earth, the creation of humans, the animals, and the alternation of night and day."
+        },
+        {
+            "id": "ch45-q51",
+            "text": "Woe is to which type of person mentioned in this Surah?",
+            "answer": "Every sinful liar (Affakin athim)."
+        },
+        {
+            "id": "ch45-q52",
+            "text": "How does the arrogant person react when he hears Allah's verses?",
+            "answer": "He persists in arrogance as if he had not heard them."
+        },
+        {
+            "id": "ch45-q53",
+            "text": "What is the reward for the believers who forgive those who do not expect the days of Allah?",
+            "answer": "Allah will recompense every people for what they used to earn."
+        },
+        {
+            "id": "ch45-q54",
+            "text": "What does the Surah mention was given to the Children of Israel?",
+            "answer": "The Scripture, wisdom, prophethood, and good provisions."
+        },
+        {
+            "id": "ch45-q55",
+            "text": "What is the 'Shariah' mentioned in this Surah?",
+            "answer": "A clear way/law of religion that the Prophet was commanded to follow."
+        },
+        {
+            "id": "ch45-q56",
+            "text": "Can the wrongdoers protect each other against Allah?",
+            "answer": "No, they are allies only to one another, while Allah is the ally of the righteous."
+        },
+        {
+            "id": "ch45-q57",
+            "text": "Are those who commit evil and those who believe and do righteousness equal?",
+            "answer": "No. The Surah condemns the idea that the two groups are equal in life and in the Hereafter."
+        },
+        {
+            "id": "ch45-q58",
+            "text": "What happens to the one who takes his 'desire' as his god?",
+            "answer": "Allah sends him astray, seals his hearing and heart, and puts a veil over his vision."
+        },
+        {
+            "id": "ch45-q59",
+            "text": "What is the common claim of those who deny the Hereafter described in this Surah?",
+            "answer": "They say, 'There is not but our worldly life; we die and live, and nothing destroys us except time (Dahr)'."
+        },
+        {
+            "id": "ch45-q60",
+            "text": "What will happen to every nation on the Day of Judgment according to this Surah?",
+            "answer": "Every nation will be seen 'kneeling' (Jathiyah), and called to its record."
+        },
+        {
+            "id": "ch45-q61",
+            "text": "Does Allah's record skip any deeds?",
+            "answer": "No. The Surah teaches that everything people did was being recorded."
+        },
+        {
+            "id": "ch45-q62",
+            "text": "What will be said to those who 'forgot' the Day of Judgment?",
+            "answer": "'This day We will forget you as you forgot the meeting of this Day of yours'."
+        },
+        {
+            "id": "ch45-q63",
+            "text": "Why will the disbelievers' refuge be the Fire?",
+            "answer": "Because they took the verses of Allah in ridicule and the worldly life deluded them."
+        },
+        {
+            "id": "ch45-q64",
+            "text": "To whom belongs all praise at the end of the Surah?",
+            "answer": "To Allah, Lord of the heavens, Lord of the earth, Lord of the worlds."
+        },
+        {
+            "id": "ch45-q65",
+            "text": "To whom belongs 'Grandeur' (Kibriya) in the heavens and earth?",
+            "answer": "To Allah, the Exalted in Might, the Wise."
+        },
+        {
+            "id": "ch45-q66",
+            "text": "What is the purpose of the 'signs' mentioned in the Surah?",
+            "answer": "To provide proof for a people who have certainty (Yaqin)."
+        },
+        {
+            "id": "ch45-q67",
+            "text": "What is the fate of the 'sinful liar'?",
+            "answer": "A painful punishment."
+        },
+        {
+            "id": "ch45-q68",
+            "text": "How does Allah describe the 'Truth' in the context of the Hour?",
+            "answer": "That the Hour is coming, there is no doubt about it."
+        }
+    ]
 }

@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch82-q1",
+            "text": "Why does the Surah mention the sky cleaving, stars scattering, seas bursting, and graves overturning?",
+            "answer": "To show the end of worldly order and the beginning of full exposure of deeds."
+        },
+        {
+            "id": "ch82-q2",
+            "text": "True/False: The Surah teaches that the unseen record of deeds will stay hidden forever.",
+            "answer": "False. It teaches deeds will be exposed and known."
+        },
+        {
+            "id": "ch82-q3",
+            "text": "What does the Surah teach about a soul knowing what it sent ahead and left behind?",
+            "answer": "A person will realize both their actions and their neglected responsibilities when accountability arrives."
+        },
+        {
+            "id": "ch82-q4",
+            "text": "How does calling Allah 'Al-Karim' (The Most Generous) shame the sinner?",
+            "answer": "It highlights that rebellion is against a Lord who gave many gifts, making ingratitude more blameworthy."
+        },
+        {
+            "id": "ch82-q5",
+            "text": "What is one reason people become ‘deluded’ about Allah according to the Surah’s message?",
+            "answer": "They mistake Allah’s patience and worldly ease for approval and forget the coming reckoning."
+        },
+        {
+            "id": "ch82-q6",
+            "text": "True/False: The Surah suggests that Allah’s generosity means there will be no judgment.",
+            "answer": "False. It combines Allah’s generosity with firm accountability."
+        },
+        {
+            "id": "ch82-q7",
+            "text": "What does the Surah teach about Allah’s role in shaping the human body?",
+            "answer": "Allah created, proportioned, balanced, and assembled humans in forms He willed."
+        },
+        {
+            "id": "ch82-q8",
+            "text": "What is one lesson from Allah proportioning and balancing the human?",
+            "answer": "Human life is designed with wisdom; arrogance and denial contradict the reality of being created."
+        },
+        {
+            "id": "ch82-q9",
+            "text": "What does Surah Al-Infitar teach about the recording angels (Kiraman Katibin)?",
+            "answer": "They are noble scribes appointed to record deeds accurately."
+        },
+        {
+            "id": "ch82-q10",
+            "text": "How can awareness of recording angels improve daily behavior?",
+            "answer": "It increases self-control, honesty, and sincerity even when no humans are watching."
+        },
+        {
+            "id": "ch82-q11",
+            "text": "True/False: The Surah teaches that private sins are less important because they are unseen by people.",
+            "answer": "False. Private deeds are recorded and will be shown."
+        },
+        {
+            "id": "ch82-q12",
+            "text": "What does the Surah teach about the final split between Abrar and Fujjar?",
+            "answer": "The righteous enter نعيم, and the wicked enter جحيم; outcomes match the life choices."
+        },
+        {
+            "id": "ch82-q13",
+            "text": "What is one practical difference between Abrar and Fujjar in daily life?",
+            "answer": "Abrar are truthful and God-conscious, while Fujjar persist in sin and denial."
+        },
+        {
+            "id": "ch82-q14",
+            "text": "How does the Surah teach individual responsibility on Judgment Day?",
+            "answer": "No soul can help another; authority and judgment belong to Allah alone."
+        },
+        {
+            "id": "ch82-q15",
+            "text": "True/False: The Surah teaches that family and friends will solve your accountability problems.",
+            "answer": "False. No soul possesses power to help another on that Day."
+        },
+        {
+            "id": "ch82-q16",
+            "text": "What does Surah Al-Infitar teach about people who deny the Day of Recompense?",
+            "answer": "Denial is the root reason for moral collapse and leads to punishment."
+        },
+        {
+            "id": "ch82-q17",
+            "text": "How can a believer use this Surah to fight spiritual procrastination?",
+            "answer": "By remembering the sudden upheaval and exposure of deeds, then repenting and correcting one habit immediately."
+        },
+        {
+            "id": "ch82-q18",
+            "text": "How does the Surah connect gratitude to belief in accountability?",
+            "answer": "Gratitude recognizes Allah’s generosity and leads to obedience; denial leads to ingratitude and rebellion."
+        },
+        {
+            "id": "ch82-q19",
+            "text": "What is one daily practice to strengthen gratitude based on this Surah?",
+            "answer": "Name three blessings each day and respond with one act of obedience (prayer, charity, honesty)."
+        },
+        {
+            "id": "ch82-q20",
+            "text": "True/False: The Surah teaches that shame and guilt are always negative emotions.",
+            "answer": "False. Proper shame can awaken repentance when directed toward Allah’s generosity and our failures."
+        },
+        {
+            "id": "ch82-q21",
             "text": "What does 'Al-Infitar' mean?",
             "answer": "The Cleaving or Splitting asunder of the sky."
         },
         {
-            "id": "ch82-q2",
+            "id": "ch82-q22",
             "text": "What will happen to the planets/stars (Al-Kawakib)?",
             "answer": "They will scatter and fall."
         },
         {
-            "id": "ch82-q3",
+            "id": "ch82-q23",
             "text": "What will happen to the seas (Al-Bihar)?",
             "answer": "They will be erupted or made to burst forth."
         },
         {
-            "id": "ch82-q4",
+            "id": "ch82-q24",
             "text": "What will happen to the graves (Al-Qubur)?",
             "answer": "They will be overturned or ransacked."
         },
         {
-            "id": "ch82-q5",
-            "text": "What is the question Allah asks to the ungrateful human in Verse 6?",
+            "id": "ch82-q25",
+            "text": "What is the question Allah asks to the ungrateful human in this Surah?",
             "answer": "What has deluded you concerning your Lord, the Generous?"
         },
         {
-            "id": "ch82-q6",
-            "text": "What did Allah do for the human after creating him (Verse 7)?",
+            "id": "ch82-q26",
+            "text": "What does this Surah mention Allah did for the human after creating him?",
             "answer": "He proportioned him and balanced him."
         },
         {
-            "id": "ch82-q7",
+            "id": "ch82-q27",
             "text": "How did Allah choose the human form?",
             "answer": "He assembled the human in whatever form He willed."
         },
         {
-            "id": "ch82-q8",
-            "text": "What is the core reason people deny the judgment (Verse 9)?",
+            "id": "ch82-q28",
+            "text": "What is the core reason people deny the judgment according to this Surah?",
             "answer": "They deny the Recompense (the Day of Judgment)."
         },
         {
-            "id": "ch82-q9",
+            "id": "ch82-q29",
             "text": "Who are the 'Kiraman Katibin'?",
             "answer": "Noble recording angels appointed over every human."
         },
         {
-            "id": "ch82-q10",
+            "id": "ch82-q30",
             "text": "Do the recording angels know what we do?",
             "answer": "Yes, they know whatever you do."
         },
         {
-            "id": "ch82-q11",
+            "id": "ch82-q31",
             "text": "Where will the 'Abrar' (the righteous) be?",
             "answer": "In 'Na'im' (Pleasure/Paradise)."
         },
         {
-            "id": "ch82-q12",
+            "id": "ch82-q32",
             "text": "Where will the 'Fujjar' (the wicked) be?",
             "answer": "In 'Jahim' (Hellfire)."
         },
         {
-            "id": "ch82-q13",
+            "id": "ch82-q33",
             "text": "When will the wicked enter the Fire?",
             "answer": "On the Day of Recompense."
         },
         {
-            "id": "ch82-q14",
+            "id": "ch82-q34",
             "text": "Can the wicked ever leave the Hellfire once they enter?",
-            "answer": "No, they will not be absent from it (Verse 16)."
+            "answer": "No, they will not be absent from it."
         },
         {
-            "id": "ch82-q15",
+            "id": "ch82-q35",
             "text": "What is the 'Day of Recompense'?",
             "answer": "The day when every soul is rewarded or punished for its deeds."
         },
         {
-            "id": "ch82-q16",
+            "id": "ch82-q36",
             "text": "Can one soul benefit another on that Day?",
             "answer": "No, no soul will possess power to help another soul at all."
         },
         {
-            "id": "ch82-q17",
+            "id": "ch82-q37",
             "text": "To whom belongs the command on the Day of Judgment?",
             "answer": "The command entirely belongs to Allah."
         },
         {
-            "id": "ch82-q18",
-            "text": "How does Allah describe Himself in Verse 6 to evoke shame in the sinner?",
+            "id": "ch82-q38",
+            "text": "How does this Surah describe Allah to evoke shame in the sinner?",
             "answer": "Al-Karim (The Most Generous)."
         },
         {
-            "id": "ch82-q19",
+            "id": "ch82-q39",
             "text": "What is 'Ad-Din' in the context of this Surah?",
             "answer": "It refers to the Reckoning or the Recompense."
         },
         {
-            "id": "ch82-q20",
+            "id": "ch82-q40",
             "text": "Does this Surah emphasize individual responsibility?",
             "answer": "Yes, by highlighting that records are kept and no one can assist another on that Day."
         }

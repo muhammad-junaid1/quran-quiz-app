@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch84-q1",
+            "text": "Why does the Surah emphasize the sky and earth ‘listening’ to Allah?",
+            "answer": "To show creation submits perfectly, while humans are tested by choice and accountability."
+        },
+        {
+            "id": "ch84-q2",
+            "text": "True/False: The Surah teaches that meeting Allah is optional depending on a person’s belief.",
+            "answer": "False. It teaches meeting Allah is inevitable for everyone."
+        },
+        {
+            "id": "ch84-q3",
+            "text": "What does ‘laboring toward your Lord’ teach about daily life?",
+            "answer": "Life is effort and movement toward Allah; every action shapes the final meeting."
+        },
+        {
+            "id": "ch84-q4",
+            "text": "How does the Surah teach that spiritual outcomes are connected to records?",
+            "answer": "It ties receiving the record to either joy (right hand) or regret (behind the back)."
+        },
+        {
+            "id": "ch84-q5",
+            "text": "What is one practical way to prepare for receiving the record with ease?",
+            "answer": "Be consistent in prayer, repent quickly, and avoid ظلم and hidden sins."
+        },
+        {
+            "id": "ch84-q6",
+            "text": "True/False: The Surah teaches that worldly celebration proves a person is safe from accountability.",
+            "answer": "False. It criticizes those who rejoice thinking they will not return."
+        },
+        {
+            "id": "ch84-q7",
+            "text": "What does the Surah teach about the danger of assuming ‘no return’?",
+            "answer": "It leads to careless sin and arrogance; Allah sees and will judge."
+        },
+        {
+            "id": "ch84-q8",
+            "text": "What does ‘stage after stage’ teach about human existence?",
+            "answer": "Humans pass through changing states—life, death, barzakh, resurrection—toward final judgment."
+        },
+        {
+            "id": "ch84-q9",
+            "text": "How can reflecting on stages reduce anxiety about change?",
+            "answer": "It reminds that change is part of Allah’s plan; the real goal is meeting Allah with faith."
+        },
+        {
+            "id": "ch84-q10",
+            "text": "Why does the Surah criticize people who do not prostrate when Quran is recited?",
+            "answer": "Because refusal to submit is a sign of pride and denial of Allah’s authority."
+        },
+        {
+            "id": "ch84-q11",
+            "text": "What is one practical way to show submission to Quran today?",
+            "answer": "Accept its guidance in behavior—truthfulness, prayer, and leaving haram—even when it challenges desires."
+        },
+        {
+            "id": "ch84-q12",
+            "text": "True/False: The Surah teaches that Allah only knows public actions, not what hearts hide.",
+            "answer": "False. It affirms Allah knows what people keep within themselves."
+        },
+        {
+            "id": "ch84-q13",
+            "text": "What is one moral lesson from the earth ‘throwing out’ what is inside it?",
+            "answer": "Hidden things are exposed; the Day removes all cover and forces honesty."
+        },
+        {
+            "id": "ch84-q14",
+            "text": "How does the Surah balance warning and hope?",
+            "answer": "It warns of painful punishment but promises uninterrupted reward to believers who do righteous deeds."
+        },
+        {
+            "id": "ch84-q15",
+            "text": "What does ‘uninterrupted reward’ teach about Allah’s generosity?",
+            "answer": "Allah’s reward is lasting and not cut off, unlike worldly pleasures."
+        },
+        {
+            "id": "ch84-q16",
+            "text": "True/False: The Surah teaches that faith without righteous deeds is enough for reward.",
+            "answer": "False. It links belief with righteous deeds."
+        },
+        {
+            "id": "ch84-q17",
+            "text": "How does this Surah help someone who feels burnt out by hardship?",
+            "answer": "It reframes struggle as a journey toward Allah, with reward for faith and endurance."
+        },
+        {
+            "id": "ch84-q18",
+            "text": "What is one daily habit inspired by ‘meeting Allah’?",
+            "answer": "Daily muhasabah: review one deed, repent for one wrong, and plan one good action."
+        },
+        {
+            "id": "ch84-q19",
+            "text": "How does the Surah use oaths (twilight, night, full moon) as a teaching method?",
+            "answer": "It points to changing scenes as evidence of stages and the certainty of transformation toward judgment."
+        },
+        {
+            "id": "ch84-q20",
+            "text": "True/False: The Surah teaches that change in life is random and meaningless.",
+            "answer": "False. It points to purposeful stages under Allah’s command."
+        },
+        {
+            "id": "ch84-q21",
             "text": "What does 'Al-Inshiqaq' mean?",
             "answer": "The Splitting Open (of the sky)."
         },
         {
-            "id": "ch84-q2",
+            "id": "ch84-q22",
             "text": "What is the sky's response to its Lord's command?",
             "answer": "It listens/obeys and is obligated to do so (Adhinat)."
         },
         {
-            "id": "ch84-q3",
-            "text": "What will happen to the earth in Verse 3?",
+            "id": "ch84-q23",
+            "text": "What does this Surah mention will happen to the earth?",
             "answer": "It will be stretched out (Muddat)."
         },
         {
-            "id": "ch84-q4",
+            "id": "ch84-q24",
             "text": "What will the earth do with what is inside it?",
             "answer": "It will throw out what is in it and become empty."
         },
         {
-            "id": "ch84-q5",
-            "text": "How is the human's life journey described in Verse 6?",
+            "id": "ch84-q25",
+            "text": "How does this Surah describe the human's life journey toward Allah?",
             "answer": "As a 'laboring toward your Lord with [great] exertion' until you meet Him."
         },
         {
-            "id": "ch84-q6",
+            "id": "ch84-q26",
             "text": "What is the sign of a 'light' reckoning for a person?",
             "answer": "He will be given his record in his right hand."
         },
         {
-            "id": "ch84-q7",
+            "id": "ch84-q27",
             "text": "Where will the one given his book in the right hand return?",
             "answer": "To his people (in Paradise) rejoicing."
         },
         {
-            "id": "ch84-q8",
+            "id": "ch84-q28",
             "text": "How will the 'unsuccessful' person receive his record?",
             "answer": "Behind his back."
         },
         {
-            "id": "ch84-q9",
+            "id": "ch84-q29",
             "text": "What will the person who receives his book behind his back cry out for?",
             "answer": "Destruction (Thubura)."
         },
         {
-            "id": "ch84-q10",
+            "id": "ch84-q30",
             "text": "Why did the loser think he would never return to Allah?",
             "answer": "Because he was rejoicing among his people in the world and thought he would not be held accountable."
         },
         {
-            "id": "ch84-q11",
+            "id": "ch84-q31",
             "text": "Allah swears by the 'twilight'. What is the Arabic term used?",
             "answer": "Al-Shafaq."
         },
         {
-            "id": "ch84-q12",
-            "text": "What does 'the moon when it becomes full' symbolize in Verse 18?",
+            "id": "ch84-q32",
+            "text": "What does the Surah’s mention of the full moon symbolize?",
             "answer": "The completion of stages or the transition of states."
         },
         {
-            "id": "ch84-q13",
+            "id": "ch84-q33",
             "text": "What is meant by 'you will embark upon stage after stage' (Tabaqan 'an Tabaq)?",
             "answer": "Mankind will pass through various states: from life to death, to the grave, to resurrection."
         },
         {
-            "id": "ch84-q14",
+            "id": "ch84-q34",
             "text": "Why does Allah criticize the disbelievers regarding the Quran?",
             "answer": "Because they do not prostrate when the Quran is recited to them."
         },
         {
-            "id": "ch84-q15",
+            "id": "ch84-q35",
             "text": "Does Allah know what the disbelievers keep within themselves?",
-            "answer": "Yes, 'Allah is most knowing of what they keep within themselves' (Verse 23)."
+            "answer": "Yes, Allah is most knowing of what they keep within themselves."
         },
         {
-            "id": "ch84-q16",
+            "id": "ch84-q36",
             "text": "What 'tidings' are given to the disbelievers?",
             "answer": "Tidings of a painful punishment."
         },
         {
-            "id": "ch84-q17",
+            "id": "ch84-q37",
             "text": "Who is exempted from the painful punishment?",
             "answer": "Those who believe and do righteous deeds."
         },
         {
-            "id": "ch84-q18",
+            "id": "ch84-q38",
             "text": "What is the reward for the believers mentioned at the end?",
             "answer": "A reward uninterrupted (Ghayru Mamnun)."
         },
         {
-            "id": "ch84-q19",
+            "id": "ch84-q39",
             "text": "What is the spiritual significance of the sky 'listening' to Allah?",
             "answer": "It shows that inanimate creation is perfectly submissive to Allah, while humans have been given a choice."
         },
         {
-            "id": "ch84-q20",
+            "id": "ch84-q40",
             "text": "How does the Surah describe the meeting with Allah?",
             "answer": "As an inevitable conclusion to the human's hard work and effort in this life."
         }

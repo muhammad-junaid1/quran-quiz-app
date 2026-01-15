@@ -1,0 +1,338 @@
+{
+    "id": 58,
+    "englishName": "Al-Mujadila",
+    "arabicName": "المجادلة",
+    "translation": "The Pleading Woman",
+    "questions": [
+        {
+            "id": "ch58-q1",
+            "text": "What is the central theme of Surah Al-Mujadila?",
+            "answer": "It teaches that Allah hears grievances, sets social and family justice, and warns against hypocrisy and secret harmful plotting."
+        },
+        {
+            "id": "ch58-q2",
+            "text": "Why is it significant that the Surah opens with Allah hearing a woman's complaint?",
+            "answer": "It shows Allah hears the oppressed and cares about justice, even in private domestic matters."
+        },
+        {
+            "id": "ch58-q3",
+            "text": "True/False: The Surah suggests Allah only hears public prayers, not private complaints.",
+            "answer": "False. It shows Allah hears private conversation and sees all circumstances."
+        },
+        {
+            "id": "ch58-q4",
+            "text": "What does Surah Al-Mujadila teach about Allah's knowledge of secret talk?",
+            "answer": "Allah knows every private conversation and is present by His knowledge wherever people are."
+        },
+        {
+            "id": "ch58-q5",
+            "text": "What social problem does the Surah address regarding unfair words in marriage?",
+            "answer": "It corrects an unjust pre-Islamic practice and sets a fair path of expiation and responsibility."
+        },
+        {
+            "id": "ch58-q6",
+            "text": "What is the Surah's message about careless speech harming families?",
+            "answer": "Words have legal and moral consequences; careless speech can oppress others and must be corrected."
+        },
+        {
+            "id": "ch58-q7",
+            "text": "True/False: The Surah teaches that family oppression is a private issue with no accountability.",
+            "answer": "False. It shows Allah hears and sets justice, making it a matter of accountability."
+        },
+        {
+            "id": "ch58-q8",
+            "text": "How does Surah Al-Mujadila teach a believer to respond to injustice?",
+            "answer": "Seek justice through lawful means, speak truth, and trust that Allah hears and supports the oppressed."
+        },
+        {
+            "id": "ch58-q9",
+            "text": "What does the Surah teach about harmful secret meetings (najwa)?",
+            "answer": "Secret talk used for sin, aggression, or disobedience is condemned."
+        },
+        {
+            "id": "ch58-q10",
+            "text": "What kind of secret talk is encouraged instead?",
+            "answer": "Private counsel that promotes righteousness, taqwa, and reconciliation."
+        },
+        {
+            "id": "ch58-q11",
+            "text": "How does the Surah teach that Satan uses secret whispers?",
+            "answer": "To grieve believers and spread fear or doubt, but it cannot harm without Allah's permission."
+        },
+        {
+            "id": "ch58-q12",
+            "text": "True/False: The Surah teaches believers should be paranoid about every private conversation.",
+            "answer": "False. It teaches wisdom: avoid sinful secrecy and build trust and taqwa."
+        },
+        {
+            "id": "ch58-q13",
+            "text": "What does Surah Al-Mujadila teach about making space in gatherings?",
+            "answer": "Believers should make room and show good manners; Allah raises those who believe and have knowledge."
+        },
+        {
+            "id": "ch58-q14",
+            "text": "What is the spiritual lesson behind making space for others?",
+            "answer": "It trains humility and brotherhood and removes selfishness and pride."
+        },
+        {
+            "id": "ch58-q15",
+            "text": "How does the Surah describe Allah raising people in rank?",
+            "answer": "Allah elevates those with faith and knowledge, showing true status is spiritual."
+        },
+        {
+            "id": "ch58-q16",
+            "text": "True/False: The Surah teaches that knowledge without faith is the highest honor.",
+            "answer": "False. It connects honor to faith and knowledge together."
+        },
+        {
+            "id": "ch58-q17",
+            "text": "What does Surah Al-Mujadila teach about obeying Allah and His Messenger?",
+            "answer": "Obedience brings honor and success, while opposition brings humiliation and loss."
+        },
+        {
+            "id": "ch58-q18",
+            "text": "What does the Surah teach about people who oppose Allah and His Messenger?",
+            "answer": "They are humiliated and will face a clear punishment; their schemes do not save them."
+        },
+        {
+            "id": "ch58-q19",
+            "text": "How does the Surah teach the seriousness of oaths and religious language?",
+            "answer": "Using oaths to cover wrongdoing is condemned; sincerity and truthfulness are required."
+        },
+        {
+            "id": "ch58-q20",
+            "text": "What does Surah Al-Mujadila teach about Allah recording deeds and speech?",
+            "answer": "Allah counts everything precisely; nothing is forgotten, even private words."
+        },
+        {
+            "id": "ch58-q21",
+            "text": "Why does the Surah emphasize Allah's knowledge in group settings?",
+            "answer": "To correct hypocrisy and remind that Allah knows intentions even when people hide behind crowds."
+        },
+        {
+            "id": "ch58-q22",
+            "text": "What is one practical lesson about meetings and communication today from this Surah?",
+            "answer": "Avoid secret chats for gossip or harm; use private communication for advice, الخير, and reconciliation."
+        },
+        {
+            "id": "ch58-q23",
+            "text": "True/False: The Surah teaches that social etiquette is separate from religion.",
+            "answer": "False. It makes etiquette part of faith and community righteousness."
+        },
+        {
+            "id": "ch58-q24",
+            "text": "How does the Surah encourage respect in gatherings?",
+            "answer": "By commanding people to make room and to respond politely when told to rise."
+        },
+        {
+            "id": "ch58-q25",
+            "text": "What does the Surah teach about Satan's goal with secret whispers?",
+            "answer": "To create sadness and doubt among believers, weakening unity and trust."
+        },
+        {
+            "id": "ch58-q26",
+            "text": "How can believers protect themselves from Satan's whispers in social settings?",
+            "answer": "Maintain taqwa, avoid sinful secrecy, and keep relationships based on honesty and good assumptions."
+        },
+        {
+            "id": "ch58-q27",
+            "text": "True/False: The Surah teaches that the oppressed should stay silent and accept injustice.",
+            "answer": "False. It shows the oppressed can complain to Allah and seek justice."
+        },
+        {
+            "id": "ch58-q28",
+            "text": "What does Surah Al-Mujadila teach about Allah's mercy in correcting harmful customs?",
+            "answer": "Allah replaces ظلم-based customs with fair rules and paths of expiation and reform."
+        },
+        {
+            "id": "ch58-q29",
+            "text": "What is one lesson about repentance from the Surah's rules of expiation?",
+            "answer": "Wrong actions require real correction and responsibility, not empty words."
+        },
+        {
+            "id": "ch58-q30",
+            "text": "How does the Surah teach believers to prioritize loyalty?",
+            "answer": "Loyalty is to Allah and His Messenger above alliances that undermine faith and justice."
+        },
+        {
+            "id": "ch58-q31",
+            "text": "True/False: The Surah teaches believers should compromise truth to maintain social approval.",
+            "answer": "False. It warns against siding with wrongdoing and hypocrisy."
+        },
+        {
+            "id": "ch58-q32",
+            "text": "What does the Surah teach about the psychology of hypocrisy?",
+            "answer": "Hypocrites use words, oaths, and gatherings to hide reality, but Allah exposes them."
+        },
+        {
+            "id": "ch58-q33",
+            "text": "How does the Surah teach self-discipline in speech within marriage and family?",
+            "answer": "Avoid oppressive speech and treat words as accountable actions before Allah."
+        },
+        {
+            "id": "ch58-q34",
+            "text": "What is one daily-life application of Allah hearing private complaints?",
+            "answer": "Be careful in private behavior; treat family with justice because Allah hears what happens behind doors."
+        },
+        {
+            "id": "ch58-q35",
+            "text": "True/False: The Surah suggests Allah's justice is only for public crimes, not household ظلم.",
+            "answer": "False. It explicitly addresses private household injustice."
+        },
+        {
+            "id": "ch58-q36",
+            "text": "How does Surah Al-Mujadila honor women and the vulnerable?",
+            "answer": "By highlighting a woman's voice, showing Allah hears and validates her concern and provides justice."
+        },
+        {
+            "id": "ch58-q37",
+            "text": "What does the Surah teach about the value of knowledge in the community?",
+            "answer": "Knowledge raises ranks when paired with faith and is essential for just living."
+        },
+        {
+            "id": "ch58-q38",
+            "text": "How can a believer avoid becoming part of harmful social whisper networks?",
+            "answer": "Refuse gossip, avoid secret planning for harm, and seek open, honest communication."
+        },
+        {
+            "id": "ch58-q39",
+            "text": "True/False: The Surah teaches that Allah does not know how people treat others when no one is watching.",
+            "answer": "False. It emphasizes Allah's complete knowledge of all hidden talk and deeds."
+        },
+        {
+            "id": "ch58-q40",
+            "text": "What does the Surah teach about being careful with 'religious talk' used for manipulation?",
+            "answer": "Using oaths and pious language to mislead is condemned; sincerity is required."
+        },
+        {
+            "id": "ch58-q41",
+            "text": "What is one ethical lesson about social power from this Surah?",
+            "answer": "Do not use networks and secrecy to harm others; use influence to promote justice and good."
+        },
+        {
+            "id": "ch58-q42",
+            "text": "How does the Surah teach community cohesion in gatherings?",
+            "answer": "By commanding manners like making room and respecting others, reducing ego-driven conflict."
+        },
+        {
+            "id": "ch58-q43",
+            "text": "What does Surah Al-Mujadila teach about honor and humiliation?",
+            "answer": "Honor is with Allah through obedience; opposing Allah leads to humiliation regardless of social power."
+        },
+        {
+            "id": "ch58-q44",
+            "text": "True/False: The Surah teaches that sincerity is optional if one is socially powerful.",
+            "answer": "False. Allah's record and judgment apply to all."
+        },
+        {
+            "id": "ch58-q45",
+            "text": "What is one spiritual benefit of remembering Allah hears every conversation?",
+            "answer": "It increases sincerity, reduces gossip, and strengthens fear of committing hidden ظلم."
+        },
+        {
+            "id": "ch58-q46",
+            "text": "How can this Surah guide online behavior and group chats today?",
+            "answer": "Avoid secret chats used to mock or harm; use messages for good counsel and truth."
+        },
+        {
+            "id": "ch58-q47",
+            "text": "What does the Surah teach about Allah's help to those who remain loyal to Him?",
+            "answer": "Allah supports believers and makes truth prevail, even when hypocrites plot."
+        },
+        {
+            "id": "ch58-q48",
+            "text": "True/False: The Surah teaches that repentance is only between a person and Allah, not involving repairing harm.",
+            "answer": "False. It implies real correction and responsibility, especially in family rights."
+        },
+        {
+            "id": "ch58-q49",
+            "text": "How does the Surah teach believers to treat grievances seriously?",
+            "answer": "By showing Allah listens, it teaches believers to listen, empathize, and solve issues justly."
+        },
+        {
+            "id": "ch58-q50",
+            "text": "What is one daily habit inspired by this Surah to improve family life?",
+            "answer": "Control speech, avoid oppressive words, and choose fairness and mercy in conflicts."
+        },
+        {
+            "id": "ch58-q51",
+            "text": "How does the Surah teach that true piety includes social responsibility?",
+            "answer": "It includes honesty, avoiding harmful secrecy, and supporting justice in community interactions."
+        },
+        {
+            "id": "ch58-q52",
+            "text": "True/False: The Surah teaches that ethics do not matter as long as someone prays.",
+            "answer": "False. It directly addresses ethical behavior in family, speech, and community."
+        },
+        {
+            "id": "ch58-q53",
+            "text": "What does the Surah teach about internal loyalty when facing pressure from groups?",
+            "answer": "Believers must maintain loyalty to Allah above social alliances that contradict faith."
+        },
+        {
+            "id": "ch58-q54",
+            "text": "How does Surah Al-Mujadila correct the misuse of cultural customs in religion?",
+            "answer": "It replaces harmful customs with divine law and accountability."
+        },
+        {
+            "id": "ch58-q55",
+            "text": "What is one misconception corrected by the Surah about 'privacy'?",
+            "answer": "Privacy does not mean absence of accountability; Allah still hears and sees."
+        },
+        {
+            "id": "ch58-q56",
+            "text": "True/False: The Surah teaches that secret planning is always evil.",
+            "answer": "False. It condemns secret talk for sin and aggression but permits counsel for righteousness and taqwa."
+        },
+        {
+            "id": "ch58-q57",
+            "text": "What is a concluding takeaway from Surah Al-Mujadila?",
+            "answer": "Allah hears and records everything; live with justice, honest speech, and taqwa."
+        },
+        {
+            "id": "ch58-q58",
+            "text": "What is a final call to action inspired by this Surah?",
+            "answer": "Stop harmful secrecy, repair ظلم, and build communities on truth, manners, and loyalty to Allah."
+        },
+        {
+            "id": "ch58-q59",
+            "text": "How does the Surah teach the value of listening to the vulnerable?",
+            "answer": "Allah listened to a woman's complaint; believers should also listen and respond with justice."
+        },
+        {
+            "id": "ch58-q60",
+            "text": "What is one ethical lesson from the Surah about social influence?",
+            "answer": "Influence should be used to protect rights and stop harm, not to form whisper networks that oppress."
+        },
+        {
+            "id": "ch58-q61",
+            "text": "How does Surah Al-Mujadila teach that true rank is spiritual, not social?",
+            "answer": "Allah raises those with faith and knowledge, not those with popularity or manipulation."
+        },
+        {
+            "id": "ch58-q62",
+            "text": "True/False: The Surah teaches that knowledge can be used to justify ظلم.",
+            "answer": "False. Knowledge is linked to faith and should support justice."
+        },
+        {
+            "id": "ch58-q63",
+            "text": "How can believers make their gatherings more blessed based on this Surah?",
+            "answer": "Make room, respect others, avoid gossip, and speak for righteousness."
+        },
+        {
+            "id": "ch58-q64",
+            "text": "What does the Surah teach about the relationship between hypocrisy and speech?",
+            "answer": "Hypocrisy often reveals itself through manipulative talk and false oaths."
+        },
+        {
+            "id": "ch58-q65",
+            "text": "What is one practical way to avoid being pulled into hypocritical environments?",
+            "answer": "Choose friends who speak truth, avoid toxic group chats, and prioritize taqwa."
+        },
+        {
+            "id": "ch58-q66",
+            "text": "How does this Surah strengthen awareness of Allah (muraqabah)?",
+            "answer": "By repeatedly emphasizing Allah hears, sees, and records even private conversations."
+        }
+    ]
+}

@@ -6,101 +6,136 @@
     "questions": [
         {
             "id": "ch100-q1",
+            "text": "Why does the Surah begin with vivid images of charging steeds?",
+            "answer": "To create a powerful contrast: animals show loyalty and effort, while humans often fail in loyalty to Allah."
+        },
+        {
+            "id": "ch100-q2",
+            "text": "True/False: The Surah teaches that energy and courage in worldly pursuits prove gratitude to Allah.",
+            "answer": "False. It warns that people can be intense in dunya while being ungrateful to their Lord."
+        },
+        {
+            "id": "ch100-q3",
+            "text": "What does 'kanud' describe about human character?",
+            "answer": "A person who is ungrateful—dwelling on hardships and forgetting Allah’s blessings."
+        },
+        {
+            "id": "ch100-q4",
+            "text": "How does Surah Al-'Adiyat teach that people know their own flaws?",
+            "answer": "It states humans witness their own ingratitude, even if they deny it publicly."
+        },
+        {
+            "id": "ch100-q5",
+            "text": "What does intense love of wealth do to the heart spiritually?",
+            "answer": "It can produce greed, distraction from worship, and a cold attitude toward gratitude and the needy."
+        },
+        {
+            "id": "ch100-q6",
+            "text": "True/False: The Surah teaches that loving wealth is always evil.",
+            "answer": "False. Wealth is a test; the problem is intense, selfish attachment and ingratitude."
+        },
+        {
+            "id": "ch100-q7",
+            "text": "What does the Surah teach about resurrection using the image of graves being scattered?",
+            "answer": "Bodies will be brought out; death is not the end, and accountability is coming."
+        },
+        {
+            "id": "ch100-q8",
+            "text": "What does it mean that what is in the breasts will be brought out?",
+            "answer": "Hidden intentions, secrets, and motives will be exposed clearly."
+        },
+        {
+            "id": "ch100-q9",
+            "text": "How can a believer purify intentions based on this Surah’s warning?",
+            "answer": "Make sincere repentance, avoid showing off, and regularly renew intention for Allah in deeds."
+        },
+        {
+            "id": "ch100-q10",
+            "text": "What is one modern example of being ‘intense’ in love of wealth?",
+            "answer": "Compromising halal/haram for money, neglecting prayer for work, or obsessing over status and possessions."
+        },
+        {
+            "id": "ch100-q11",
+            "text": "What is one practical way to fight ingratitude (kanud)?",
+            "answer": "Daily gratitude: name blessings, thank Allah, and use one blessing in an act of obedience."
+        },
+        {
+            "id": "ch100-q12",
+            "text": "True/False: The Surah suggests that gratitude is mainly feelings, not actions.",
+            "answer": "False. Gratitude includes loyalty, obedience, and using blessings responsibly."
+        },
+        {
+            "id": "ch100-q13",
+            "text": "What does Allah being 'Al-Khabir' add to the Surah’s warning?",
+            "answer": "Allah is fully aware of inner and outer realities; nothing escapes His knowledge."
+        },
+        {
+            "id": "ch100-q14",
+            "text": "How does this Surah teach accountability for private life?",
+            "answer": "It emphasizes intentions will be revealed, so private sincerity matters greatly."
+        },
+        {
+            "id": "ch100-q15",
+            "text": "How can a believer convert love of wealth into something healthy?",
+            "answer": "Earn halal, spend in charity, support family obligations, and keep wealth as a tool, not a master."
+        },
+        {
+            "id": "ch100-q16",
+            "text": "True/False: The Surah teaches that Allah will judge only outward actions, not motives.",
+            "answer": "False. It highlights what is within hearts will be brought out."
+        },
+        {
+            "id": "ch100-q17",
+            "text": "What is one daily habit inspired by the Surah’s theme of accountability?",
+            "answer": "Before sleep, repent for one act of ingratitude and plan one act of gratitude for tomorrow."
+        },
+        {
+            "id": "ch100-q18",
+            "text": "How does the Surah create urgency without mentioning long details?",
+            "answer": "It uses short, vivid oaths and direct reminders of resurrection and exposure of hearts."
+        },
+        {
+            "id": "ch100-q19",
+            "text": "What is one misconception corrected by this Surah about ‘good people’?",
+            "answer": "People can appear strong and active yet still be ungrateful—character is judged by loyalty to Allah."
+        },
+        {
+            "id": "ch100-q20",
+            "text": "True/False: The Surah teaches that being loyal to Allah is less important than being loyal to people.",
+            "answer": "False. It criticizes humans for lacking loyalty to their Lord."
+        },
+        {
+            "id": "ch100-q21",
             "text": "What does 'Al-Adiyat' mean?",
             "answer": "The [Steeds] that run / The Coursers."
         },
         {
-            "id": "ch100-q2",
-            "text": "How are the steeds described in the first verse?",
-            "answer": "They run panting (Dab-ha)."
+            "id": "ch100-q22",
+            "text": "Mention several key images used to describe the charging steeds at the start of the Surah.",
+            "answer": "They run panting (Dab-ha).; Sparks of fire (Al-Muriyat).; In the morning (Al-Mughirat).; Dust (Naq'a).; In the center / middle of the assembly (Wasat-na)."
         },
         {
-            "id": "ch100-q3",
-            "text": "What do the steeds produce with their hooves?",
-            "answer": "Sparks of fire (Al-Muriyat)."
-        },
-        {
-            "id": "ch100-q4",
-            "text": "When do these steeds strike their enemies?",
-            "answer": "In the morning (Al-Mughirat)."
-        },
-        {
-            "id": "ch100-q5",
-            "text": "What do the steeds stir up in their wake?",
-            "answer": "Dust (Naq'a)."
-        },
-        {
-            "id": "ch100-q6",
-            "text": "How do the steeds arrive at the enemy?",
-            "answer": "In the center / middle of the assembly (Wasat-na)."
-        },
-        {
-            "id": "ch100-q7",
+            "id": "ch100-q23",
             "text": "What is the statement Allah makes after these oaths?",
             "answer": "Indeed, mankind is ungrateful (Kanud) to his Lord."
         },
         {
-            "id": "ch100-q8",
-            "text": "Is the human being a witness to his own ungratefulness?",
-            "answer": "Yes, 'And indeed, he is to that a witness' (Verse 7)."
-        },
-        {
-            "id": "ch100-q9",
-            "text": "What is man 'intense' in the love of (Verse 8)?",
+            "id": "ch100-q24",
+            "text": "What is man 'intense' in the love of according to this Surah?",
             "answer": "Wealth / Good things (Al-Khayr)."
         },
         {
-            "id": "ch100-q10",
-            "text": "What question does Allah ask regarding the graves?",
-            "answer": "'Does he not know that when the contents of the graves are scattered/overturned...?'"
-        },
-        {
-            "id": "ch100-q11",
-            "text": "What will be 'obtained' or 'brought out' from the breasts (hearts)?",
-            "answer": "What is within the breasts (intentions/secrets)."
-        },
-        {
-            "id": "ch100-q12",
-            "text": "How is Allah described at the end of the Surah regarding His knowledge?",
-            "answer": "As 'Al-Khabir' (All-Acquainted/All-Aware)."
-        },
-        {
-            "id": "ch100-q13",
-            "text": "What is 'Kanud'?",
-            "answer": "A person who is ungrateful, focusing only on calamities and forgetting blessings."
-        },
-        {
-            "id": "ch100-q14",
-            "text": "What is the significance of the horses in the opening verses?",
-            "answer": "They represent power, speed, and loyalty to their masters, contrasting with the human's lack of loyalty to Allah."
-        },
-        {
-            "id": "ch100-q15",
-            "text": "What is 'Al-Khayr' refer to in Verse 8?",
-            "answer": "Worldly wealth and possessions."
-        },
-        {
-            "id": "ch100-q16",
-            "text": "What is the 'scattering' of the graves?",
-            "answer": "The resurrection of the bodies."
-        },
-        {
-            "id": "ch100-q17",
-            "text": "Why will the secrets of the hearts be brought out?",
-            "answer": "Because judgment is based on the reality of a person's faith and intention, not just outward show."
-        },
-        {
-            "id": "ch100-q18",
+            "id": "ch100-q25",
             "text": "Does Allah know the secrets of the hearts only on the Day of Judgment?",
             "answer": "No, He is always aware, but on that Day, the awareness will be manifested to everyone."
         },
         {
-            "id": "ch100-q19",
+            "id": "ch100-q26",
             "text": "What is the 'Morning Strike' (Sub-ha) signifying?",
             "answer": "The suddenness and clarity of the coming judgment or military victory."
         },
         {
-            "id": "ch100-q20",
+            "id": "ch100-q27",
             "text": "What is the main warning of Surah Al-Adiyat?",
             "answer": "A warning against materialism and ungratefulness, reminding us of the final accountability of the heart."
         }

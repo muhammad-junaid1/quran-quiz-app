@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch89-q1",
+            "text": "Why does the Surah begin with oaths like dawn and the ten nights?",
+            "answer": "To emphasize the seriousness of the message and draw attention to Allah’s signs and sacred times."
+        },
+        {
+            "id": "ch89-q2",
+            "text": "True/False: The Surah teaches that power and civilization guarantee safety from Allah’s judgment.",
+            "answer": "False. It mentions powerful nations that were destroyed due to transgression."
+        },
+        {
+            "id": "ch89-q3",
+            "text": "What is one lesson from the mention of 'Ad, Thamud, and Pharaoh?",
+            "answer": "When ظلم and corruption spread, Allah’s punishment can end even the strongest powers."
+        },
+        {
+            "id": "ch89-q4",
+            "text": "What does 'your Lord is in observation' teach about hidden ظلم?",
+            "answer": "Allah watches and will judge; injustice is never truly unnoticed."
+        },
+        {
+            "id": "ch89-q5",
+            "text": "How does Surah Al-Fajr correct the idea that wealth means Allah honors someone?",
+            "answer": "It shows wealth and restriction are both tests; honor comes from obedience, not possessions."
+        },
+        {
+            "id": "ch89-q6",
+            "text": "True/False: The Surah teaches that poverty means Allah humiliates a person.",
+            "answer": "False. Restriction is a test, not proof of humiliation."
+        },
+        {
+            "id": "ch89-q7",
+            "text": "What four social sins does the Surah highlight to expose moral decay?",
+            "answer": "Neglecting orphans, not encouraging feeding the poor, greedy consumption of inheritance, and obsessive love of wealth."
+        },
+        {
+            "id": "ch89-q8",
+            "text": "Why is neglecting the orphan a major spiritual failure?",
+            "answer": "It shows a hard heart and lack of mercy, contradicting faith and accountability."
+        },
+        {
+            "id": "ch89-q9",
+            "text": "What is one modern example of failing to honor orphans or vulnerable people?",
+            "answer": "Ignoring their rights, exploiting them financially, or leaving them unsupported while having ability to help."
+        },
+        {
+            "id": "ch89-q10",
+            "text": "How does the Surah treat love of wealth as a danger?",
+            "answer": "It shows excessive love of wealth leads to greed, injustice, and forgetting the Hereafter."
+        },
+        {
+            "id": "ch89-q11",
+            "text": "True/False: The Surah teaches that inheritance is only a legal topic, not a moral one.",
+            "answer": "False. It criticizes greedy consumption as a moral failure."
+        },
+        {
+            "id": "ch89-q12",
+            "text": "What does the Surah’s scene of the earth being crushed teach about dunya?",
+            "answer": "Worldly stability ends; the Hereafter exposes the true value of deeds."
+        },
+        {
+            "id": "ch89-q13",
+            "text": "What does the human regret in the Surah when Hell is brought near?",
+            "answer": "They regret not sending forward good deeds for their real life."
+        },
+        {
+            "id": "ch89-q14",
+            "text": "How can a believer avoid that regret practically?",
+            "answer": "Repent now, fulfill obligations, restore rights, and build consistent charity and prayer."
+        },
+        {
+            "id": "ch89-q15",
+            "text": "True/False: The Surah teaches that regret alone on Judgment Day can change the outcome.",
+            "answer": "False. Regret without earlier repentance comes too late."
+        },
+        {
+            "id": "ch89-q16",
+            "text": "What is the 'soul at peace' (nafs mutma'innah) described at the end?",
+            "answer": "A righteous soul satisfied with Allah, steady in faith, and ready to return to Him."
+        },
+        {
+            "id": "ch89-q17",
+            "text": "How does a person develop a tranquil soul over time?",
+            "answer": "Through faith, consistent worship, repentance, trust in Allah, and good character."
+        },
+        {
+            "id": "ch89-q18",
+            "text": "What does the call 'return to your Lord, pleased and pleasing' teach about the best ending?",
+            "answer": "The best ending is to meet Allah with acceptance, having lived in a way that pleases Him."
+        },
+        {
+            "id": "ch89-q19",
+            "text": "How can this Surah guide someone who feels proud of their success?",
+            "answer": "It warns that success is a test; gratitude and justice prove faith, not pride."
+        },
+        {
+            "id": "ch89-q20",
+            "text": "True/False: The Surah teaches that mercy to the poor is optional extra credit.",
+            "answer": "False. It criticizes failing to encourage feeding the poor."
+        },
+        {
+            "id": "ch89-q21",
             "text": "What does Allah swear by in the first two verses?",
             "answer": "The Dawn and the ten nights (generally understood as the first ten days of Dhul-Hijjah)."
         },
         {
-            "id": "ch89-q2",
-            "text": "What are 'the even and the odd' mentioned in Verse 3?",
+            "id": "ch89-q22",
+            "text": "What are 'the even and the odd' mentioned in this Surah?",
             "answer": "Scholars say it refers to all of creation (even/pairs) and the Creator (Odd/One), or specific days of Hajj."
         },
         {
-            "id": "ch89-q3",
+            "id": "ch89-q23",
             "text": "Who were the people of 'Iram'?",
             "answer": "The people of 'Ad, who possessed lofty pillars/cities the likes of which were not created in the lands."
         },
         {
-            "id": "ch89-q4",
+            "id": "ch89-q24",
             "text": "What were the people of Thamud famous for?",
             "answer": "Carving rocks/homes in the valley."
         },
         {
-            "id": "ch89-q5",
-            "text": "How is Pharaoh described in Verse 10?",
+            "id": "ch89-q25",
+            "text": "How is Pharaoh described in this Surah?",
             "answer": "As 'the owner of the stakes' (Dhul-Awtad)."
         },
         {
-            "id": "ch89-q6",
+            "id": "ch89-q26",
             "text": "What did these three nations ('Ad, Thamud, Pharaoh) do in the lands?",
             "answer": "They transgressed and increased corruption."
         },
         {
-            "id": "ch89-q7",
+            "id": "ch89-q27",
             "text": "What was the result of their corruption?",
             "answer": "Allah poured upon them a 'scourge of punishment'."
         },
         {
-            "id": "ch89-q8",
+            "id": "ch89-q28",
             "text": "Is your Lord ever unaware of human actions?",
             "answer": "No, 'Indeed, your Lord is in observation/ambush (Mirṣād)'."
         },
         {
-            "id": "ch89-q9",
+            "id": "ch89-q29",
             "text": "How does the 'man' react when Allah tests him with honor and blessings?",
             "answer": "He says: 'My Lord has honored me'."
         },
         {
-            "id": "ch89-q10",
+            "id": "ch89-q30",
             "text": "How does the 'man' react when Allah tests him by restricting his provision?",
             "answer": "He says: 'My Lord has humiliated me'."
         },
         {
-            "id": "ch89-q11",
-            "text": "What are the four social failures Allah criticizes in Verses 17-20?",
+            "id": "ch89-q31",
+            "text": "What are the four social failures Allah criticizes in this Surah?",
             "answer": "Not honoring the orphan, not encouraging the feeding of the poor, consuming inheritance greedily, and loving wealth excessively."
         },
         {
-            "id": "ch89-q12",
+            "id": "ch89-q32",
             "text": "What will happen to the earth on the Day of Judgment?",
             "answer": "It will be crushed with a 'crushing, crushing' (Dakkan Dakka)."
         },
         {
-            "id": "ch89-q13",
+            "id": "ch89-q33",
             "text": "Who will come with the angels rank upon rank?",
             "answer": "Your Lord (meaning His command or manifestation)."
         },
         {
-            "id": "ch89-q14",
+            "id": "ch89-q34",
             "text": "What will be brought forth on that Day?",
             "answer": "Hell (Jahannam)."
         },
         {
-            "id": "ch89-q15",
+            "id": "ch89-q35",
             "text": "What will the human wish for when he sees Hell?",
             "answer": "He will say: 'Oh, I wish I had sent forth [some good] for my life'."
         },
         {
-            "id": "ch89-q16",
+            "id": "ch89-q36",
             "text": "Can anyone punish like Allah's punishment or bind like His binding on that Day?",
-            "answer": "No (Verses 25-26)."
+            "answer": "No."
         },
         {
-            "id": "ch89-q17",
+            "id": "ch89-q37",
             "text": "Who is addressed as 'An-Nafs al-Mutma'innah'?",
             "answer": "The 'soul at peace' (the righteous soul)."
         },
         {
-            "id": "ch89-q18",
+            "id": "ch89-q38",
             "text": "What is the command to the soul at peace?",
             "answer": "'Return to your Lord, well-pleased and pleasing [to Him]'."
         },
         {
-            "id": "ch89-q19",
+            "id": "ch89-q39",
             "text": "Where is the soul at peace told to enter?",
             "answer": "'Enter among My [righteous] servants and enter My Paradise'."
         },
         {
-            "id": "ch89-q20",
+            "id": "ch89-q40",
             "text": "What is the main message of this Surah regarding wealth?",
             "answer": "Wealth is a test, not necessarily a sign of Allah's love, and its misuse leads to destruction."
         }

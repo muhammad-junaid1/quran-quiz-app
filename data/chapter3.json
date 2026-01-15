@@ -1,158 +1,408 @@
 {
-    "id": 3,
-    "englishName": "Ali 'Imran",
-    "arabicName": "آل عمران",
-    "translation": "The Family of Imran",
-    "questions": [
-        {
-            "id": "ch3-q1",
-            "text": "What is the primary theme of the first half of Surah Ali 'Imran?",
-            "answer": "The Oneness of Allah and the clarification of the nature of Prophet Isa (Jesus) and Maryam, specifically addressing the misconceptions of the People of the Book."
-        },
-        {
-            "id": "ch3-q2",
-            "text": "According to Verse 7, what are the two categories of verses in the Quran?",
-            "answer": "Muhkamat (clear, fundamental verses) and Mutashabihat (allegorical or multi-meaning verses)."
-        },
-        {
-            "id": "ch3-q3",
-            "text": "What is the motive of those who focus only on the 'Mutashabihat' (allegorical) verses?",
-            "answer": "They seek to cause confusion (fitnah) and to find their own interpretations rather than following the clear guidance."
-        },
-        {
-            "id": "ch3-q4",
-            "text": "State the supplication (Dua) of the 'people of knowledge' mentioned in Verse 8 regarding their hearts.",
-            "answer": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower."
-        },
-        {
-            "id": "ch3-q5",
-            "text": "In Verse 19, what is the only religion (Deen) accepted in the sight of Allah?",
-            "answer": "Islam (Submission to the will of Allah)."
-        },
-        {
-            "id": "ch3-q6",
-            "text": "Who was the wife of Imran and what was her vow regarding her unborn child?",
-            "answer": "The mother of Maryam; she vowed to dedicate her child exclusively to the service of Allah (in the Temple)."
-        },
-        {
-            "id": "ch3-q7",
-            "text": "Who was the guardian of Maryam (AS) while she served in the sanctuary?",
-            "answer": "Prophet Zakariyya (AS)."
-        },
-        {
-            "id": "ch3-q8",
-            "text": "What miracle did Zakariyya witness in Maryam’s chamber that inspired him to pray for a child?",
-            "answer": "He found her with out-of-season provisions and fruits provided directly by Allah."
-        },
-        {
-            "id": "ch3-q9",
-            "text": "What was the name of the son given to Zakariyya (AS) in his old age?",
-            "answer": "Yahya (John the Baptist)."
-        },
-        {
-            "id": "ch3-q10",
-            "text": "How does Allah describe the status of Maryam (AS) in Verse 42?",
-            "answer": "She was chosen, purified, and chosen above all the women of the worlds."
-        },
-        {
-            "id": "ch3-q11",
-            "text": "Name three miracles of Isa (AS) mentioned in this Surah.",
-            "answer": "Speaking in the cradle, creating a bird from clay and breathing life into it by Allah's leave, and healing the blind and the leper."
-        },
-        {
-            "id": "ch3-q12",
-            "text": "What is the significance of the comparison between Isa (AS) and Adam (AS) in Verse 59?",
-            "answer": "It refutes the claim of Isa's divinity by showing that if being born without a father makes one divine, then Adam, who had neither father nor mother, would have a greater claim. Both were created by Allah's command: 'Be,' and they were."
-        },
-        {
-            "id": "ch3-q13",
-            "text": "What was the 'Mubahala' mentioned in Verse 61?",
-            "answer": "A challenge to the Christians of Najran to call their families and invoke the curse of Allah upon those who lie regarding the nature of Isa (AS)."
-        },
-        {
-            "id": "ch3-q14",
-            "text": "True or False: Prophet Ibrahim (AS) was a Jew or a Christian according to this Surah.",
-            "answer": "False. He was a 'Hanif' (pure monotheist) and a Muslim."
-        },
-        {
-            "id": "ch3-q15",
-            "text": "What is the condition for attaining 'Al-Birr' (true righteousness) mentioned in Verse 92?",
-            "answer": "Spending from that which you love."
-        },
-        {
-            "id": "ch3-q16",
-            "text": "What is the 'first house' established for mankind for worship, and what is the city mentioned?",
-            "answer": "The Kaaba, located in Bakkah (Makkah)."
-        },
-        {
-            "id": "ch3-q17",
-            "text": "What is the 'Rope of Allah' (Habli-Llah) that the believers are commanded to hold onto together?",
-            "answer": "The Quran and the Deen of Islam."
-        },
-        {
-            "id": "ch3-q18",
-            "text": "How does Allah describe the Muslim Ummah in Verse 110?",
-            "answer": "The best nation produced for mankind, because they enjoin what is right, forbid what is wrong, and believe in Allah."
-        },
-        {
-            "id": "ch3-q19",
-            "text": "Which battle is the main focus of the second half of this Surah?",
-            "answer": "The Battle of Uhud."
-        },
-        {
-            "id": "ch3-q20",
-            "text": "What was the primary reason for the setback the Muslims faced during the Battle of Uhud?",
-            "answer": "Disobedience of the Prophet's command by the archers and the desire for worldly spoils."
-        },
-        {
-            "id": "ch3-q21",
-            "text": "What is the 'Ghamma' (distress) mentioned in the context of the battle?",
-            "answer": "The distress of the defeat and the false rumor that Prophet Muhammad (SAW) had been killed."
-        },
-        {
-            "id": "ch3-q22",
-            "text": "What does Allah say about those who are killed in His way (martyrs)?",
-            "answer": "They are not dead, but alive with their Lord, receiving provision and rejoicing in His bounty."
-        },
-        {
-            "id": "ch3-q23",
-            "text": "How did Prophet Muhammad (SAW) treat the companions who erred during the Battle of Uhud?",
-            "answer": "He was gentle with them, as a mercy from Allah. Allah commanded him to forgive them, ask for their forgiveness, and still consult them in matters."
-        },
-        {
-            "id": "ch3-q24",
-            "text": "What is the 'Ali 'Imran' referred to in the title?",
-            "answer": "The family of Imran, which includes Maryam, Isa, Zakariyya, and Yahya."
-        },
-        {
-            "id": "ch3-q25",
-            "text": "In Verse 144, what is the reminder given to the believers regarding the mortality of the Prophet?",
-            "answer": "That Muhammad is only a Messenger, and Messengers before him have passed away; if he dies or is killed, the believers must not turn back on their heels."
-        },
-        {
-            "id": "ch3-q26",
-            "text": "What are the characteristics of the 'Ulul-Albab' (People of Understanding) in the final verses?",
-            "answer": "They remember Allah while standing, sitting, and lying on their sides, and they reflect upon the creation of the heavens and the earth."
-        },
-        {
-            "id": "ch3-q27",
-            "text": "What is the reward for those who remain patient and keep their duty to Allah (Taqwa)?",
-            "answer": "Success (Falah)."
-        },
-        {
-            "id": "ch3-q28",
-            "text": "How does the Surah describe the life of this world in Verse 185?",
-            "answer": "As nothing but the enjoyment of delusion (Mata'ul Ghurur)."
-        },
-        {
-            "id": "ch3-q29",
-            "text": "Why does Allah mention the transition of day and night in the closing sections?",
-            "answer": "As signs for the People of Understanding to recognize that nothing was created without purpose."
-        },
-        {
-            "id": "ch3-q30",
-            "text": "What are the four commands given in the very last verse (200) of the Surah?",
-            "answer": "Be patient (Isbiru), excel in patience (Sabiru), stand on guard/be constant (Rabitu), and fear Allah (Wattaqu-Llah)."
-        }
-    ]
+  "id": 3,
+  "englishName": "Ali 'Imran",
+  "arabicName": "آل عمران",
+  "translation": "The Family of Imran",
+  "questions": [
+    {
+      "id": "ch3-q1",
+      "text": "What is the primary theme of the first half of Surah Ali 'Imran?",
+      "answer": "The Oneness of Allah and the clarification of the nature of Prophet Isa (Jesus) and Maryam, specifically addressing the misconceptions of the People of the Book."
+    },
+    {
+      "id": "ch3-q2",
+      "text": "What are the two Names of Allah mentioned at the very beginning of the Surah that emphasize His eternal nature?",
+      "answer": "Al-Hayy (The Ever-Living) and Al-Qayyum (The Sustainer of all existence)."
+    },
+    {
+      "id": "ch3-q3",
+      "text": "What are the two categories of verses in the Quran as described in this Surah?",
+      "answer": "Muhkamat (clear, fundamental verses) and Mutashabihat (allegorical or multi-meaning verses)."
+    },
+    {
+      "id": "ch3-q4",
+      "text": "What is the motive of those who focus only on the 'Mutashabihat' (allegorical) verses?",
+      "answer": "They seek to cause confusion (fitnah) and to find their own interpretations rather than following the clear guidance."
+    },
+    {
+      "id": "ch3-q5",
+      "text": "State the supplication (Dua) of the 'people of knowledge' regarding their hearts mentioned early in the Surah.",
+      "answer": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower."
+    },
+    {
+      "id": "ch3-q6",
+      "text": "How does Allah describe His role in the womb of a mother in this Surah?",
+      "answer": "He is the one who shapes you in the wombs however He wills; there is no deity except Him, the Exalted in Might, the Wise."
+    },
+    {
+      "id": "ch3-q7",
+      "text": "What will happen to the wealth and children of the disbelievers on the Day of Judgment according to this Surah?",
+      "answer": "Neither their wealth nor their children will avail them against Allah at all; they will be fuel for the Fire."
+    },
+    {
+      "id": "ch3-q8",
+      "text": "What is the 'clear sign' mentioned regarding the battle between two groups (referring to Badr)?",
+      "answer": "One group fought in the cause of Allah and the other was disbelieving; the believers saw the disbelievers as twice their own number, yet Allah supported them with His victory."
+    },
+    {
+      "id": "ch3-q9",
+      "text": "What are the worldly attractions mentioned that are made beautiful for mankind but are only temporary enjoyments?",
+      "answer": "Women, children, heaped-up sums of gold and silver, fine branded horses, cattle, and tilled land."
+    },
+    {
+      "id": "ch3-q10",
+      "text": "What is better than the temporary enjoyments of this world according to the Surah?",
+      "answer": "Gardens beneath which rivers flow, purified spouses, and the pleasure of Allah for those who have Taqwa (God-consciousness)."
+    },
+    {
+      "id": "ch3-q11",
+      "text": "What is the only religion (Deen) accepted in the sight of Allah?",
+      "answer": "Islam (Submission to the will of Allah)."
+    },
+    {
+      "id": "ch3-q12",
+      "text": "How does Allah describe the change of power and sovereignty among people?",
+      "answer": "He gives sovereignty to whom He wills and takes it away from whom He wills; He honors whom He wills and humbles whom He wills. In His hand is all good."
+    },
+    {
+      "id": "ch3-q13",
+      "text": "What is the warning given to believers regarding taking disbelievers as close allies instead of believers?",
+      "answer": "Whoever does that has nothing to do with Allah, unless it is to protect oneself against them in a time of danger."
+    },
+    {
+      "id": "ch3-q14",
+      "text": "What is the condition mentioned for humans to truly love Allah?",
+      "answer": "They must follow the Prophet Muhammad (SAW); then Allah will love them and forgive their sins."
+    },
+    {
+      "id": "ch3-q15",
+      "text": "Who was the wife of Imran and what was her vow regarding her unborn child?",
+      "answer": "The mother of Maryam; she vowed to dedicate her child exclusively to the service of Allah (in the Temple)."
+    },
+    {
+      "id": "ch3-q16",
+      "text": "What was the reaction of Maryam's mother when she gave birth to a female child?",
+      "answer": "She said, 'My Lord, I have delivered a female,' and Allah knew best what she delivered. She named her Maryam and sought Allah's protection for her and her offspring from Satan."
+    },
+    {
+      "id": "ch3-q17",
+      "text": "Who was the guardian of Maryam (AS) while she served in the sanctuary?",
+      "answer": "Prophet Zakariyya (AS)."
+    },
+    {
+      "id": "ch3-q18",
+      "text": "What miracle did Zakariyya witness in Maryam’s chamber that inspired him to pray for a child?",
+      "answer": "He found her with out-of-season provisions and fruits provided directly by Allah."
+    },
+    {
+      "id": "ch3-q19",
+      "text": "What was the name of the son given to Zakariyya (AS) in his old age, and what was his primary characteristic mentioned?",
+      "answer": "Yahya (John); he was a confirmer of a word from Allah, honorable, abstinent, and a prophet from among the righteous."
+    },
+    {
+      "id": "ch3-q20",
+      "text": "What sign was given to Zakariyya (AS) when he asked how he could have a son in his old age?",
+      "answer": "He was told he would not be able to speak to people for three days except by gesture, and he was to remember Allah much."
+    },
+    {
+      "id": "ch3-q21",
+      "text": "How does Allah describe the status of Maryam (AS) when the angels addressed her?",
+      "answer": "She was chosen, purified, and chosen above all the women of the worlds."
+    },
+    {
+      "id": "ch3-q22",
+      "text": "What did the angels tell Maryam about the name and status of her future son?",
+      "answer": "His name would be the Messiah, Isa, son of Maryam—distinguished in this world and the Hereafter and among those brought near to Allah."
+    },
+    {
+      "id": "ch3-q23",
+      "text": "Name three miracles of Isa (AS) mentioned in this Surah.",
+      "answer": "Speaking in the cradle, creating a bird from clay and breathing life into it by Allah's leave, and healing the blind and the leper."
+    },
+    {
+      "id": "ch3-q24",
+      "text": "What was the response of the disciples (Al-Hawariyyun) when Isa (AS) asked who would be his helpers for Allah?",
+      "answer": "They said, 'We are helpers for Allah; we have believed in Allah and testify that we are Muslims.'"
+    },
+    {
+      "id": "ch3-q25",
+      "text": "What is the 'best of planners' attribute of Allah referring to in the context of Isa (AS)?",
+      "answer": "It refers to how the enemies plotted against Isa (AS), but Allah planned his rescue and raised him to Himself."
+    },
+    {
+      "id": "ch3-q26",
+      "text": "What is the significance of the comparison between Isa (AS) and Adam (AS)?",
+      "answer": "It refutes the claim of Isa's divinity by showing that if being born without a father makes one divine, then Adam, who had neither father nor mother, would have a greater claim. Both were created by Allah's command: 'Be,' and they were."
+    },
+    {
+      "id": "ch3-q27",
+      "text": "What was the 'Mubahala' challenge mentioned in this Surah?",
+      "answer": "A challenge to the Christians of Najran to call their families and invoke the curse of Allah upon those who lie regarding the nature of Isa (AS)."
+    },
+    {
+      "id": "ch3-q28",
+      "text": "What 'common word' are the People of the Book invited to in this Surah?",
+      "answer": "That we worship none but Allah, associate no partners with Him, and that none of us take others as lords instead of Allah."
+    },
+    {
+      "id": "ch3-q29",
+      "text": "True or False: Prophet Ibrahim (AS) was a Jew or a Christian according to this Surah.",
+      "answer": "False. He was a 'Hanif' (pure monotheist) and a Muslim."
+    },
+    {
+      "id": "ch3-q30",
+      "text": "Why does Allah say Ibrahim (AS) has the best claim to be followed by the believers?",
+      "answer": "Because he was the one who truly submitted to Allah, and the Prophet Muhammad and the believers follow his way of pure monotheism."
+    },
+    {
+      "id": "ch3-q31",
+      "text": "What does the Surah say about those who trade their covenant with Allah for a small price?",
+      "answer": "They will have no share in the Hereafter; Allah will not speak to them, look at them on the Day of Resurrection, or purify them, and they will have a painful punishment."
+    },
+    {
+      "id": "ch3-q32",
+      "text": "What covenant did Allah take from the Prophets regarding the coming of Prophet Muhammad (SAW)?",
+      "answer": "That they must believe in him and support him when he comes to confirm what was with them."
+    },
+    {
+      "id": "ch3-q33",
+      "text": "Can any religion other than Islam be accepted by Allah after the message has reached a person?",
+      "answer": "No, whoever desires other than Islam as religion—never will it be accepted from him, and he, in the Hereafter, will be among the losers."
+    },
+    {
+      "id": "ch3-q34",
+      "text": "What is the condition for attaining 'Al-Birr' (true righteousness)?",
+      "answer": "Spending from that which you love."
+    },
+    {
+      "id": "ch3-q35",
+      "text": "What food was forbidden for the Children of Israel before the Torah was revealed?",
+      "answer": "Only that which Israel (Prophet Yaqub) had forbidden for himself."
+    },
+    {
+      "id": "ch3-q36",
+      "text": "What is the 'first house' established for mankind for worship, and what is the city mentioned?",
+      "answer": "The Kaaba, located in Bakkah (Makkah)."
+    },
+    {
+      "id": "ch3-q37",
+      "text": "What is the obligation of Hajj as mentioned in this Surah?",
+      "answer": "Hajj to the House is a duty that mankind owes to Allah—for those who are able to find a way there."
+    },
+    {
+      "id": "ch3-q38",
+      "text": "What is the warning against division among the believers after they have received clear signs?",
+      "answer": "They are commanded not to be like those who divided and differed after the clear proofs had come to them; for such people, there is a great punishment."
+    },
+    {
+      "id": "ch3-q39",
+      "text": "What is the 'Rope of Allah' (Habli-Llah) that the believers are commanded to hold onto together?",
+      "answer": "The Quran and the Deen of Islam."
+    },
+    {
+      "id": "ch3-q40",
+      "text": "How were the believers' hearts unified by Allah according to this Surah?",
+      "answer": "They were enemies, and He brought their hearts together so that by His favor they became brothers."
+    },
+    {
+      "id": "ch3-q41",
+      "text": "How does Allah describe the Muslim Ummah in this Surah?",
+      "answer": "The best nation produced for mankind, because they enjoin what is right, forbid what is wrong, and believe in Allah."
+    },
+    {
+      "id": "ch3-q42",
+      "text": "What is the description of the 'darkened faces' on the Day of Judgment?",
+      "answer": "They are the faces of those who disbelieved after their belief; they will be told to taste the punishment for what they used to reject."
+    },
+    {
+      "id": "ch3-q43",
+      "text": "Which battle is the main focus of the second half of this Surah?",
+      "answer": "The Battle of Uhud."
+    },
+    {
+      "id": "ch3-q44",
+      "text": "How many angels did Allah initially promise to reinforce the believers with during the battle?",
+      "answer": "Three thousand, and then five thousand if they remained patient and conscious of Allah."
+    },
+    {
+      "id": "ch3-q45",
+      "text": "What is the reason Allah grants victory in battles?",
+      "answer": "Victory is only from Allah, the Exalted in Might, the Wise; it is not just by numbers or strength."
+    },
+    {
+      "id": "ch3-q46",
+      "text": "What is the prohibition regarding 'Riba' (usury) mentioned in the middle of the discussion about battle?",
+      "answer": "Believers are commanded not to consume usury, doubled and multiplied, but to fear Allah so they may succeed."
+    },
+    {
+      "id": "ch3-q47",
+      "text": "What should believers hasten towards according to the Surah?",
+      "answer": "Forgiveness from their Lord and a Garden as wide as the heavens and the earth, prepared for the righteous (Muttaqin)."
+    },
+    {
+      "id": "ch3-q48",
+      "text": "What are the qualities of the righteous mentioned in the context of spending?",
+      "answer": "They spend in ease and in hardship, restrain their anger, and pardon people."
+    },
+    {
+      "id": "ch3-q49",
+      "text": "What should a believer do immediately after committing an immoral deed or wronging themselves?",
+      "answer": "They should remember Allah and seek forgiveness for their sins, realizing that no one forgives sins except Allah, and they should not persist in what they did."
+    },
+    {
+      "id": "ch3-q50",
+      "text": "What was the primary reason for the setback the Muslims faced during the Battle of Uhud?",
+      "answer": "Disobedience of the Prophet's command by the archers and the desire for worldly spoils."
+    },
+    {
+      "id": "ch3-q51",
+      "text": "Does Allah allow the believers to be tested with trials and setbacks?",
+      "answer": "Yes, to distinguish those who are true in faith from the hypocrites and to take martyrs from among the believers."
+    },
+    {
+      "id": "ch3-q52",
+      "text": "What is the reminder given to the believers regarding the mortality of the Prophet?",
+      "answer": "That Muhammad is only a Messenger, and Messengers before him have passed away; if he dies or is killed, the believers must not turn back on their heels."
+    },
+    {
+      "id": "ch3-q53",
+      "text": "What is the 'Ali 'Imran' referred to in the title?",
+      "answer": "The family of Imran, which includes Maryam, Isa, Zakariyya, and Yahya."
+    },
+    {
+      "id": "ch3-q54",
+      "text": "What did the previous prophets' followers say when they were struck by disaster in the cause of Allah?",
+      "answer": "They did not lose heart, nor did they weaken or submit; they prayed for forgiveness and steadfastness."
+    },
+    {
+      "id": "ch3-q55",
+      "text": "What will Allah cast into the hearts of the disbelievers to help the believers?",
+      "answer": "Terror, because they associated partners with Allah for which He had sent down no authority."
+    },
+    {
+      "id": "ch3-q56",
+      "text": "How did Prophet Muhammad (SAW) treat the companions who erred during the Battle of Uhud?",
+      "answer": "He was gentle with them, as a mercy from Allah. Allah commanded him to forgive them, ask for their forgiveness, and still consult them in matters."
+    },
+    {
+      "id": "ch3-q57",
+      "text": "What is the consequence of being harsh or hard-hearted for a leader like the Prophet?",
+      "answer": "The people would have dispersed from around him."
+    },
+    {
+      "id": "ch3-q58",
+      "text": "What is 'Ghulul' (misappropriating war booty) and what is said about it?",
+      "answer": "It is not for a prophet to take illegally from the booty; whoever takes something illegally will come with it on the Day of Resurrection."
+    },
+    {
+      "id": "ch3-q59",
+      "text": "Is the favor of Allah in sending the Prophet limited to only one group?",
+      "answer": "No, but it is a great favor upon the believers that He sent a Messenger from among themselves to recite His verses, purify them, and teach them the Book and wisdom."
+    },
+    {
+      "id": "ch3-q60",
+      "text": "What is the 'Ghamma' (distress) mentioned in the context of the battle?",
+      "answer": "The distress of the defeat and the false rumor that Prophet Muhammad (SAW) had been killed."
+    },
+    {
+      "id": "ch3-q61",
+      "text": "What did the hypocrites say about those who were killed in the battle?",
+      "answer": "They said if they had stayed with them and not gone out to fight, they would not have died or been killed."
+    },
+    {
+      "id": "ch3-q62",
+      "text": "What does Allah say about those who are killed in His way (martyrs)?",
+      "answer": "They are not dead, but alive with their Lord, receiving provision and rejoicing in His bounty."
+    },
+    {
+      "id": "ch3-q63",
+      "text": "What was the response of the believers when they were told that a great army had gathered against them (at Hamra al-Asad)?",
+      "answer": "Their faith increased, and they said, 'Sufficient for us is Allah, and [He is] the best Disposer of affairs.'"
+    },
+    {
+      "id": "ch3-q64",
+      "text": "How does Allah describe the reality of Shaitan's influence over his allies?",
+      "answer": "Shaitan only frightens his allies; the believers are told not to fear them but to fear Allah if they are truly believers."
+    },
+    {
+      "id": "ch3-q65",
+      "text": "What is the fate of those who are stingy with what Allah has given them of His bounty?",
+      "answer": "They should not think it is good for them; rather it is bad for them. What they were stingy with will be tied around their necks on the Day of Resurrection."
+    },
+    {
+      "id": "ch3-q66",
+      "text": "What did some of the People of the Book say mockingly about Allah's wealth?",
+      "answer": "They said, 'Allah is poor and we are rich.' Allah recorded their words and their killing of the prophets without right."
+    },
+    {
+      "id": "ch3-q67",
+      "text": "What is the reality of every soul regarding death?",
+      "answer": "Every soul shall taste death, and you will only be given your full compensation on the Day of Resurrection."
+    },
+    {
+      "id": "ch3-q68",
+      "text": "How does the Surah describe the life of this world?",
+      "answer": "As nothing but the enjoyment of delusion (Mata'ul Ghurur)."
+    },
+    {
+      "id": "ch3-q69",
+      "text": "What trials will the believers face regarding their wealth and themselves?",
+      "answer": "They will surely be tested in their possessions and in themselves, and they will hear much abuse from those who were given the Scripture before and from those who associate others with Allah."
+    },
+    {
+      "id": "ch3-q70",
+      "text": "What was the covenant taken from the People of the Book regarding the Scripture?",
+      "answer": "That they must make it clear to the people and not conceal it."
+    },
+    {
+      "id": "ch3-q71",
+      "text": "Should believers be deceived by the relative prosperity and freedom of disbelievers in the land?",
+      "answer": "No, it is only a brief enjoyment; then their ultimate refuge is Hell, an evil resting place."
+    },
+    {
+      "id": "ch3-q72",
+      "text": "What are the characteristics of the 'Ulul-Albab' (People of Understanding) in the final verses?",
+      "answer": "They remember Allah while standing, sitting, and lying on their sides, and they reflect upon the creation of the heavens and the earth."
+    },
+    {
+      "id": "ch3-q73",
+      "text": "What do the People of Understanding conclude after reflecting on creation?",
+      "answer": "They say, 'Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.'"
+    },
+    {
+      "id": "ch3-q74",
+      "text": "Why does Allah mention the transition of day and night in the closing sections?",
+      "answer": "As signs for the People of Understanding to recognize that nothing was created without purpose."
+    },
+    {
+      "id": "ch3-q75",
+      "text": "What is the prayer of the believers regarding their sins and the Day of Judgment?",
+      "answer": "They ask Allah to forgive their sins, remove their evil deeds, and let them die with the righteous, and to grant them what He promised through His Messengers."
+    },
+    {
+      "id": "ch3-q76",
+      "text": "How does Allah respond to the prayers of those who do good deeds, whether male or female?",
+      "answer": "He never allows the work of any worker among them to be lost; they are of one another."
+    },
+    {
+      "id": "ch3-q77",
+      "text": "What is the reward for those who emigrated, were driven out of their homes, and fought in the cause of Allah?",
+      "answer": "Allah will surely remove their evil deeds and admit them into gardens beneath which rivers flow."
+    },
+    {
+      "id": "ch3-q78",
+      "text": "Are all of the People of the Book the same in their faith?",
+      "answer": "No, among them is a community that is upright, reciting the verses of Allah during the night and prostrating."
+    },
+    {
+      "id": "ch3-q79",
+      "text": "What is the reward for those who remain patient and keep their duty to Allah (Taqwa)?",
+      "answer": "Success (Falah)."
+    },
+    {
+      "id": "ch3-q80",
+      "text": "What are the four commands given in the very last Ayah of the Surah?",
+      "answer": "Be patient (Isbiru), excel in patience (Sabiru), stand on guard/be constant (Rabitu), and fear Allah (Wattaqu-Llah)."
+    }
+  ]
 }

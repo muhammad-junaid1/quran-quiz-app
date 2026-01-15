@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch86-q1",
+            "text": "Why does the Surah open with an oath by the nightcomer star?",
+            "answer": "To draw attention and symbolize watchfulness and the piercing clarity of truth."
+        },
+        {
+            "id": "ch86-q2",
+            "text": "True/False: Surah At-Tariq teaches that humans are unobserved and unaccountable.",
+            "answer": "False. It teaches every soul has a guardian and deeds are not ignored."
+        },
+        {
+            "id": "ch86-q3",
+            "text": "What does the Surah teach by asking humans to look at their origin?",
+            "answer": "Humility and certainty: the One who created from a humble origin can resurrect."
+        },
+        {
+            "id": "ch86-q4",
+            "text": "How does Surah At-Tariq connect resurrection to accountability of the heart?",
+            "answer": "It says secrets will be exposed, showing judgment is based on inner reality and intention."
+        },
+        {
+            "id": "ch86-q5",
+            "text": "What is one practical way to prepare for the exposure of secrets?",
+            "answer": "Purify intentions, avoid hidden sins, and make sincere repentance regularly."
+        },
+        {
+            "id": "ch86-q6",
+            "text": "True/False: The Surah teaches that a person will have helpers that can cancel their sins on the Day of Judgment.",
+            "answer": "False. It says a person will have no power or helper in that moment."
+        },
+        {
+            "id": "ch86-q7",
+            "text": "What does the Surah teach about the sky that ‘returns’ and earth that ‘splits’?",
+            "answer": "They are signs of Allah’s repeated provision and power, supporting faith and reflection."
+        },
+        {
+            "id": "ch86-q8",
+            "text": "How does calling the Quran a ‘decisive word’ change how we treat it?",
+            "answer": "We must take it seriously as guidance and judgment, not as entertainment or opinion."
+        },
+        {
+            "id": "ch86-q9",
+            "text": "What is one modern example of treating the Quran as ‘amusement’?",
+            "answer": "Consuming it only for aesthetics while refusing to follow its commands or reform behavior."
+        },
+        {
+            "id": "ch86-q10",
+            "text": "True/False: The Surah teaches that opponents of truth may plot, but Allah’s plan prevails.",
+            "answer": "True."
+        },
+        {
+            "id": "ch86-q11",
+            "text": "How does Surah At-Tariq comfort the Prophet and believers facing opposition?",
+            "answer": "It reminds that enemies plot, but Allah also plans, and Allah’s plan is stronger."
+        },
+        {
+            "id": "ch86-q12",
+            "text": "What does the command to ‘give them respite’ teach about da'wah strategy?",
+            "answer": "Remain patient and trust Allah’s timing; guidance and judgment are not rushed by emotion."
+        },
+        {
+            "id": "ch86-q13",
+            "text": "How can a believer apply patience when facing mockery or pressure?",
+            "answer": "Stay calm, keep obedience, avoid reactive sin, and continue with wisdom and good character."
+        },
+        {
+            "id": "ch86-q14",
+            "text": "How does the Surah strengthen belief in Allah’s power over life and death?",
+            "answer": "It shows Allah creates, provides, observes, and can resurrect with ease."
+        },
+        {
+            "id": "ch86-q15",
+            "text": "True/False: The Surah teaches that human dignity comes from self-made achievement, not from being created by Allah.",
+            "answer": "False. It points to creation as a reason for humility and dependence."
+        },
+        {
+            "id": "ch86-q16",
+            "text": "What is one lesson about intention (niyyah) from the Surah’s focus on secrets?",
+            "answer": "Intentions matter greatly; Allah judges inner motives alongside outward deeds."
+        },
+        {
+            "id": "ch86-q17",
+            "text": "How can someone strengthen sincerity based on this Surah?",
+            "answer": "Increase private worship, avoid showing off, and regularly ask Allah to purify the heart."
+        },
+        {
+            "id": "ch86-q18",
+            "text": "What does the Surah teach about human overconfidence in power or allies?",
+            "answer": "On the Day of exposure, no worldly power or helper can save a person."
+        },
+        {
+            "id": "ch86-q19",
+            "text": "How does Surah At-Tariq teach the believer to value truth over popularity?",
+            "answer": "It calls the Quran decisive and shows plots against truth fail before Allah."
+        },
+        {
+            "id": "ch86-q20",
+            "text": "True/False: The Surah teaches that Allah’s watchfulness should lead to despair.",
+            "answer": "False. It should lead to accountability, repentance, and hope in Allah’s guidance."
+        },
+        {
+            "id": "ch86-q21",
             "text": "What does 'At-Tariq' mean?",
             "answer": "The Nightcomer or the Bright Star that appears at night."
         },
         {
-            "id": "ch86-q2",
+            "id": "ch86-q22",
             "text": "What is the 'Piercing Star' (An-Najm al-Thaqib)?",
             "answer": "It is the interpretation of At-Tariq; a star so bright it seems to pierce through the darkness."
         },
         {
-            "id": "ch86-q3",
+            "id": "ch86-q23",
             "text": "Is there any soul without a guardian/protector over it?",
-            "answer": "No, 'There is no soul but that it has over it a protector' (Verse 4)."
+            "answer": "No, every soul has over it a protector/guardian by Allah’s command."
         },
         {
-            "id": "ch86-q4",
-            "text": "What does Allah ask man to observe in Verse 5?",
+            "id": "ch86-q24",
+            "text": "What does Allah ask man to observe in this Surah?",
             "answer": "To observe from what he was created."
         },
         {
-            "id": "ch86-q5",
+            "id": "ch86-q25",
             "text": "What liquid was man created from?",
             "answer": "From a 'gushing fluid' (Ma'in dafiq)."
         },
         {
-            "id": "ch86-q6",
-            "text": "From where does this fluid emerge according to Verse 7?",
+            "id": "ch86-q26",
+            "text": "From where does this fluid emerge according to this Surah?",
             "answer": "From between the backbone and the ribs."
         },
         {
-            "id": "ch86-q7",
+            "id": "ch86-q27",
             "text": "Is Allah able to return the human to life after death?",
-            "answer": "Yes, 'Indeed, He is able to return him [to life]' (Verse 8)."
+            "answer": "Yes, Allah is able to return him to life."
         },
         {
-            "id": "ch86-q8",
+            "id": "ch86-q28",
             "text": "What will happen to 'secrets' on the Day of Judgment?",
             "answer": "The secrets will be 'put to trial' or exposed (Tubla al-Sara'ir)."
         },
         {
-            "id": "ch86-q9",
+            "id": "ch86-q29",
             "text": "Will man have any power or helper on that Day?",
             "answer": "No, he will have neither power nor helper."
         },
         {
-            "id": "ch86-q10",
+            "id": "ch86-q30",
             "text": "Allah swears by the 'sky which returns'. What does 'returning' refer to?",
             "answer": "It refers to the rain that returns repeatedly, or the celestial bodies returning to their orbits."
         },
         {
-            "id": "ch86-q11",
+            "id": "ch86-q31",
             "text": "Allah swears by the 'earth which cracks open'. What does this refer to?",
             "answer": "The earth splitting to allow plants to grow."
         },
         {
-            "id": "ch86-q12",
-            "text": "How is the Quran described in Verse 13?",
+            "id": "ch86-q32",
+            "text": "How is the Quran described in this Surah?",
             "answer": "As a 'decisive word' (Qawlun Fasl)."
         },
         {
-            "id": "ch86-q13",
+            "id": "ch86-q33",
             "text": "Is the Quran 'amusement' or 'frivolous'?",
-            "answer": "No, 'it is not amusement' (Verse 14)."
+            "answer": "No, it is not amusement."
         },
         {
-            "id": "ch86-q14",
+            "id": "ch86-q34",
             "text": "What are the disbelievers doing regarding the truth?",
             "answer": "They are 'plotting a plot' (Yakiduna Kayda)."
         },
         {
-            "id": "ch86-q15",
+            "id": "ch86-q35",
             "text": "What is Allah's response to the plots of the disbelievers?",
             "answer": "Allah is also 'planning a plan' (Akidu Kayda)."
         },
         {
-            "id": "ch86-q16",
+            "id": "ch86-q36",
             "text": "What instruction is given to the Prophet (SAW) regarding the disbelievers?",
             "answer": "Give them respite and leave them for a little while."
         },
         {
-            "id": "ch86-q17",
+            "id": "ch86-q37",
             "text": "What is the relationship between the creation of man and his resurrection in this Surah?",
             "answer": "Allah uses the miracle of man's first creation from a fluid to prove that reviving him is easy for Him."
         },
         {
-            "id": "ch86-q18",
+            "id": "ch86-q38",
             "text": "What is 'Sada'?",
             "answer": "The cracking or splitting of the earth for vegetation."
         },
         {
-            "id": "ch86-q19",
-            "text": "Why are 'secrets' emphasized in Verse 9?",
+            "id": "ch86-q39",
+            "text": "Why are 'secrets' emphasized in this Surah?",
             "answer": "To show that the judgment is not just on outward actions but on the intentions of the heart."
         },
         {
-            "id": "ch86-q20",
+            "id": "ch86-q40",
             "text": "Does this Surah provide comfort to the Prophet?",
             "answer": "Yes, by reminding him that Allah's plan is superior to the enemies' plots."
         }

@@ -1,108 +1,403 @@
 {
-  "id": 23,
-  "englishName": "Al-Mu'minun",
-  "arabicName": "المؤمنون",
-  "translation": "The Believers",
-  "questions": [
-    {
-      "id": "ch23-q1",
-      "text": "What is the opening declaration of this Surah?",
-      "answer": "Certainly, the believers have succeeded (Qad aflahal mu'minun)."
-    },
-    {
-      "id": "ch23-q2",
-      "text": "List five characteristics of the successful believers mentioned in the first 10 verses.",
-      "answer": "Humble in prayer, turning away from ill speech, observant of Zakat, guarding their private parts, and being true to their trusts and covenants."
-    },
-    {
-      "id": "ch23-q3",
-      "text": "What is the reward for the believers who possess these qualities?",
-      "answer": "They will inherit Al-Firdaws (the highest Paradise), to dwell therein forever."
-    },
-    {
-      "id": "ch23-q4",
-      "text": "Describe the stages of the development of the embryo in Verses 12-14.",
-      "answer": "Nutfah (sperm-drop), Alaqah (clot), Mudghah (lump of flesh), bones, then clothing the bones with flesh, then a new creation."
-    },
-    {
-      "id": "ch23-q5",
-      "text": "What did Allah create above us in Verse 17?",
-      "answer": "Seven paths (heavens), and He is never unaware of the creation."
-    },
-    {
-      "id": "ch23-q6",
-      "text": "What was the command to Nuh (AS) regarding the construction of the Ark?",
-      "answer": "To construct it 'under Our eyes and Our inspiration'."
-    },
-    {
-      "id": "ch23-q7",
-      "text": "What happened to the 'generations after Nuh' who rejected their Messengers?",
-      "answer": "They were seized by the 'Shaykhah' (blast/shout) and made into rubbish/scum."
-    },
-    {
-      "id": "ch23-q8",
-      "text": "Did the various Messengers bring different religions?",
-      "answer": "No, Verse 52 states: 'And indeed this, your religion, is one religion, and I am your Lord, so fear Me'."
-    },
-    {
-      "id": "ch23-q9",
-      "text": "What is the state of those who give what they give while their hearts are 'fearful' (Verse 60)?",
-      "answer": "They are fearful because they know they will return to their Lord, so they hasten to do good deeds."
-    },
-    {
-      "id": "ch23-q10",
-      "text": "How does Allah respond to the disbelievers' claim that there is only the life of this world?",
-      "answer": "He asks if they thought He created them in play (without purpose) and that they would not be returned to Him."
-    },
-    {
-      "id": "ch23-q11",
-      "text": "What is the best way to repel evil according to Verse 96?",
-      "answer": "Repel evil with that which is better."
-    },
-    {
-      "id": "ch23-q12",
-      "text": "What is the 'Barzakh' mentioned in Verse 100?",
-      "answer": "A barrier behind the dead until the Day they are resurrected."
-    },
-    {
-      "id": "ch23-q13",
-      "text": "Will family ties matter on the Day of Judgment?",
-      "answer": "No, when the Trumpet is blown, there will be no relationship between them, nor will they ask about each other (Verse 101)."
-    },
-    {
-      "id": "ch23-q14",
-      "text": "What determines success on the Scale (Mizan)?",
-      "answer": "Those whose scales are heavy (with good deeds) are the successful; those whose scales are light have lost their souls."
-    },
-    {
-      "id": "ch23-q15",
-      "text": "How long will the inhabitants of Hell think they stayed on Earth?",
-      "answer": "A day or part of a day."
-    },
-    {
-      "id": "ch23-q16",
-      "text": "What will Allah say to the disbelievers when they ask to be taken out of Hell?",
-      "answer": "'Remain despised therein and do not speak to Me'."
-    },
-    {
-      "id": "ch23-q17",
-      "text": "How does the Surah describe the 'Most Merciful' in its final verse?",
-      "answer": "As the best of those who show mercy."
-    },
-    {
-      "id": "ch23-q18",
-      "text": "What is the 'sign' regarding the ships (vessels) mentioned in this Surah?",
-      "answer": "They carry you across the seas, just as cattle carry you on land."
-    },
-    {
-      "id": "ch23-q19",
-      "text": "How did the disbelievers mock the idea of resurrection?",
-      "answer": "They said, 'When we have died and become dust and bones, are we indeed to be resurrected?'"
-    },
-    {
-      "id": "ch23-q20",
-      "text": "What is the 'truth' that the disbelievers' hearts are in 'confusion' about (Verse 63)?",
-      "answer": "The message of the Quran and the deeds they are doing."
-    }
-  ]
+    "id": 23,
+    "englishName": "Al-Mu'minun",
+    "arabicName": "المؤمنون",
+    "translation": "The Believers",
+    "questions": [
+        {
+            "id": "ch23-q1",
+            "text": "What is the opening declaration of Surah Al-Mu'minun?",
+            "answer": "Certainly, the believers have succeeded (Qad aflahal mu'minun)."
+        },
+        {
+            "id": "ch23-q2",
+            "text": "What is the first characteristic of successful believers mentioned in the opening?",
+            "answer": "They are humble and submissive in their prayers (Khashi'un)."
+        },
+        {
+            "id": "ch23-q3",
+            "text": "How do the successful believers react to 'Laghw' (vain or ill speech)?",
+            "answer": "They turn away from it and do not engage in it."
+        },
+        {
+            "id": "ch23-q4",
+            "text": "What is the third quality of successful believers regarding their wealth?",
+            "answer": "They are observant of the Zakat (obligatory charity)."
+        },
+        {
+            "id": "ch23-q5",
+            "text": "What is the fourth quality of successful believers regarding their chastity?",
+            "answer": "They guard their private parts, except with their spouses or those their right hands possess."
+        },
+        {
+            "id": "ch23-q6",
+            "text": "What is the fifth quality of successful believers regarding social responsibility?",
+            "answer": "They are true to their trusts (Amanat) and their covenants."
+        },
+        {
+            "id": "ch23-q7",
+            "text": "What is the final quality mentioned in the opening list of successful believers?",
+            "answer": "They strictly guard their five daily prayers."
+        },
+        {
+            "id": "ch23-q8",
+            "text": "What is the reward for the believers who possess these seven qualities?",
+            "answer": "They will inherit Al-Firdaws (the highest Paradise), to dwell therein forever."
+        },
+        {
+            "id": "ch23-q9",
+            "text": "Describe the creation of man from the earth as mentioned in this Surah.",
+            "answer": "Man was created from an extract of clay (Sulalatin min Tin)."
+        },
+        {
+            "id": "ch23-q10",
+            "text": "List the biological stages of human development mentioned in this Surah.",
+            "answer": "Nutfah (sperm-drop), then Alaqah (clot), then Mudghah (lump of flesh), then bones, then clothing the bones with flesh, then a new creation."
+        },
+        {
+            "id": "ch23-q11",
+            "text": "What did Allah create above mankind as 'paths'?",
+            "answer": "Seven paths (heavens), and He is never unaware of His creation."
+        },
+        {
+            "id": "ch23-q12",
+            "text": "What are the benefits of the rain sent down by Allah in a measured amount?",
+            "answer": "It provides water for drinking and for the growth of gardens of date-palms and grapevines with abundant fruit."
+        },
+        {
+            "id": "ch23-q13",
+            "text": "Which specific tree is mentioned that grows from Mount Sinai and produces oil?",
+            "answer": "The Olive tree, which provides oil and a relish for those who eat."
+        },
+        {
+            "id": "ch23-q14",
+            "text": "What lesson is mentioned regarding cattle in this Surah?",
+            "answer": "In them is a lesson: Allah gives people to drink of what is in their bellies, and they have in them many benefits and food."
+        },
+        {
+            "id": "ch23-q15",
+            "text": "What is the 'sign' regarding ships and cattle mentioned together?",
+            "answer": "That you are carried upon ships in the sea and upon cattle on land."
+        },
+        {
+            "id": "ch23-q16",
+            "text": "Briefly describe the story of Nuh (AS) in this Surah.",
+            "answer": "He called his people to worship Allah alone, but they accused him of being a mere man seeking superiority and called him mad."
+        },
+        {
+            "id": "ch23-q17",
+            "text": "What was the command to Nuh (AS) regarding the construction of the Ark?",
+            "answer": "To construct it 'under Our eyes and Our inspiration' and to take two of every kind along with his family."
+        },
+        {
+            "id": "ch23-q18",
+            "text": "What prayer was Nuh (AS) told to say once he was settled on the Ark?",
+            "answer": "'Praise to Allah who has saved us from the wrongdoing people' and 'My Lord, let me land at a blessed landing place, for You are the best to accommodate [us].'"
+        },
+        {
+            "id": "ch23-q19",
+            "text": "What happened to the 'generations after Nuh' who were given wealth and ease but still rejected their Messengers?",
+            "answer": "They were seized by the 'Saihah' (blast/shout) in justice and were made into rubbish/scum."
+        },
+        {
+            "id": "ch23-q20",
+            "text": "Did the various Messengers bring different religions according to this Surah?",
+            "answer": "No, 'And indeed this, your religion, is one religion, and I am your Lord, so fear Me.'"
+        },
+        {
+            "id": "ch23-q21",
+            "text": "What is the state of those who give what they give (charity/deeds) while their hearts are 'fearful'?",
+            "answer": "They are fearful because they know they will return to their Lord, so they hasten to do good deeds."
+        },
+        {
+            "id": "ch23-q22",
+            "text": "Does Allah charge any soul beyond its capacity?",
+            "answer": "No, and with Him is a Record which speaks the truth, and they will not be wronged."
+        },
+        {
+            "id": "ch23-q23",
+            "text": "How did the disbelievers react when they were seized with punishment in this life?",
+            "answer": "They would cry out for help, but they were told: 'Do not cry out today. Indeed, you will not be helped by Us.'"
+        },
+        {
+            "id": "ch23-q24",
+            "text": "What is the reason the disbelievers rejected the message of the Quran according to the Surah?",
+            "answer": "They did not ponder the Word, or they found it strange, or they accused the Prophet of being mad, when in fact he brought them the truth they disliked."
+        },
+        {
+            "id": "ch23-q25",
+            "text": "What would happen if the Truth had followed the desires of the people?",
+            "answer": "The heavens, the earth, and all who are in them would have been ruined."
+        },
+        {
+            "id": "ch23-q26",
+            "text": "Did the Prophet Muhammad (SAW) ask for any payment for his message?",
+            "answer": "No, his Lord's recompense is better, and He is the best of providers."
+        },
+        {
+            "id": "ch23-q27",
+            "text": "Does suffering always lead the disbelievers to humility?",
+            "answer": "No, even when Allah seized them with punishment, they did not yield to their Lord, nor did they humble themselves."
+        },
+        {
+            "id": "ch23-q28",
+            "text": "To whom belong the earth and whoever is in it according to the questioning of the disbelievers?",
+            "answer": "To Allah, if they only knew."
+        },
+        {
+            "id": "ch23-q29",
+            "text": "Who is the Lord of the seven heavens and the Lord of the Great Throne?",
+            "answer": "Allah."
+        },
+        {
+            "id": "ch23-q30",
+            "text": "In whose hand is the 'Malakut' (sovereignty) of all things, and who protects while none can protect against Him?",
+            "answer": "Allah."
+        },
+        {
+            "id": "ch23-q31",
+            "text": "What is the response to those who claim Allah has taken a son or that there are other gods with Him?",
+            "answer": "Allah has not taken a son, nor is there any god with Him; otherwise, every god would have taken what it created and some would have sought to overcome others."
+        },
+        {
+            "id": "ch23-q32",
+            "text": "What prayer is the Prophet (SAW) told to make regarding the punishment of the wrongdoers?",
+            "answer": "'My Lord, if You should show me that which they are promised, then, my Lord, do not place me among the wrongdoing people.'"
+        },
+        {
+            "id": "ch23-q33",
+            "text": "What is the best way to repel evil according to this Surah?",
+            "answer": "Repel evil with that which is better."
+        },
+        {
+            "id": "ch23-q34",
+            "text": "What prayer is given for seeking refuge from the whispers of the devils?",
+            "answer": "'My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me.'"
+        },
+        {
+            "id": "ch23-q35",
+            "text": "What will the disbeliever say when death comes to him?",
+            "answer": "'My Lord, send me back that I might do righteousness in that which I left behind.'"
+        },
+        {
+            "id": "ch23-q36",
+            "text": "What is the 'Barzakh' mentioned in this Surah?",
+            "answer": "A barrier behind the dead until the Day they are resurrected, preventing their return to the world."
+        },
+        {
+            "id": "ch23-q37",
+            "text": "Will family ties or kinship matter when the Trumpet is blown?",
+            "answer": "No, there will be no relationship between them that Day, nor will they ask about each other."
+        },
+        {
+            "id": "ch23-q38",
+            "text": "What determines success on the Scale (Mizan)?",
+            "answer": "Those whose scales are heavy with good deeds are the successful; those whose scales are light have lost their souls."
+        },
+        {
+            "id": "ch23-q39",
+            "text": "What will be the state of the faces of those in Hell?",
+            "answer": "The Fire will burn their faces, and they will grin therein with their lips displaced."
+        },
+        {
+            "id": "ch23-q40",
+            "text": "What will be the response to those in Hell when they are asked if the verses were recited to them?",
+            "answer": "They will admit that they were recited but they denied them, and that their wretchedness overcame them."
+        },
+        {
+            "id": "ch23-q41",
+            "text": "What will Allah say to the disbelievers when they ask to be taken out of Hell one last time?",
+            "answer": "'Remain despised therein and do not speak to Me.'"
+        },
+        {
+            "id": "ch23-q42",
+            "text": "What did the disbelievers use to do to the group of servants who prayed for mercy?",
+            "answer": "They used to take them in mockery and laugh at them."
+        },
+        {
+            "id": "ch23-q43",
+            "text": "What is the reward for those who were mocked but remained patient?",
+            "answer": "Allah has rewarded them this Day for their patience—that they are the attainers [of success]."
+        },
+        {
+            "id": "ch23-q44",
+            "text": "How long will the inhabitants of Hell think they stayed on earth when asked?",
+            "answer": "They will say, 'We remained a day or part of a day; so ask those who enumerate.'"
+        },
+        {
+            "id": "ch23-q45",
+            "text": "How does Allah respond to the idea that He created mankind without a purpose?",
+            "answer": "'Then did you think that We created you in play (uselessly) and that you would not be returned to Us?'"
+        },
+        {
+            "id": "ch23-q46",
+            "text": "What is the final summary of Allah's status at the end of the Surah?",
+            "answer": "He is the True Sovereign (Al-Malik al-Haqq); there is no deity except Him, Lord of the Noble Throne."
+        },
+        {
+            "id": "ch23-q47",
+            "text": "What happens to someone who invokes another deity along with Allah without proof?",
+            "answer": "His account is only with his Lord; indeed, the disbelievers will not succeed."
+        },
+        {
+            "id": "ch23-q48",
+            "text": "What is the final prayer/Ayah of the Surah?",
+            "answer": "'My Lord, forgive and have mercy, and You are the best of those who show mercy.'"
+        },
+        {
+            "id": "ch23-q49",
+            "text": "What is the meaning of the name 'Al-Mu'minun'?",
+            "answer": "The Believers."
+        },
+        {
+            "id": "ch23-q50",
+            "text": "What is 'Al-Firdaws'?",
+            "answer": "The highest and best part of Paradise promised to the successful believers."
+        },
+        {
+            "id": "ch23-q51",
+            "text": "What is the 'extract of clay' symbolic of?",
+            "answer": "The physical components of the earth from which the human body is formed."
+        },
+        {
+            "id": "ch23-q52",
+            "text": "What is the 'new creation' (Khalqan akhar) mentioned in the development of the embryo?",
+            "answer": "It refers to the breathing of the soul into the body and its development into a distinct human being."
+        },
+        {
+            "id": "ch23-q53",
+            "text": "What is the 'blessed' attribute of Allah mentioned after the stages of creation?",
+            "answer": "Blessed is Allah, the best of creators."
+        },
+        {
+            "id": "ch23-q54",
+            "text": "What is the 'measured' rain?",
+            "answer": "Precipitation that is sent down in the exact amount needed for life without causing total destruction."
+        },
+        {
+            "id": "ch23-q55",
+            "text": "Why does Allah mention the 'gardens' and 'oil' after the rain?",
+            "answer": "To show the direct benefits and provision He provides for human survival and enjoyment."
+        },
+        {
+            "id": "ch23-q56",
+            "text": "What was the 'clear sign' in the cattle?",
+            "answer": "The production of milk and the various uses they provide for mankind."
+        },
+        {
+            "id": "ch23-q57",
+            "text": "Why did the chiefs of Nuh's people reject him?",
+            "answer": "Because he was 'just a human like them' and they thought he wanted to become their leader."
+        },
+        {
+            "id": "ch23-q58",
+            "text": "What is the 'Shaykhah' (blast)?",
+            "answer": "A divine sound or vibration used to destroy disobedient nations."
+        },
+        {
+            "id": "ch23-q59",
+            "text": "What is the 'one religion' (Ummatan Wahidah)?",
+            "answer": "The core message of Islam (submission to Allah) preached by all prophets."
+        },
+        {
+            "id": "ch23-q60",
+            "text": "Why do people divide into sects?",
+            "answer": "Due to pride and following their own interpretations over the clear truth."
+        },
+        {
+            "id": "ch23-q61",
+            "text": "What is the 'confusion' (Ghamrah) of the disbelievers?",
+            "answer": "A state of spiritual ignorance and being lost in worldly pursuits."
+        },
+        {
+            "id": "ch23-q62",
+            "text": "Does wealth and children mean Allah is pleased with someone?",
+            "answer": "No, they are often a test or a means of gradual leading toward their own end (Istidraj)."
+        },
+        {
+            "id": "ch23-q63",
+            "text": "What is the 'fear' of the righteous?",
+            "answer": "A deep respect and awe of Allah that makes them cautious about their deeds."
+        },
+        {
+            "id": "ch23-q64",
+            "text": "What is the 'Record' (Kitab) that speaks the truth?",
+            "answer": "The comprehensive book of deeds that records everything accurately."
+        },
+        {
+            "id": "ch23-q65",
+            "text": "What is the 'shouting' (Ja'ar) of the disbelievers when punished?",
+            "answer": "Their desperate cries for help when it is too late."
+        },
+        {
+            "id": "ch23-q66",
+            "text": "Why is the Prophet called a 'Warner'?",
+            "answer": "To alert people to the consequences of their actions and the reality of the Hereafter."
+        },
+        {
+            "id": "ch23-q67",
+            "text": "What is the 'incitement' (Hamazat) of devils?",
+            "answer": "Their whispers and attempts to stir up evil thoughts and actions in people."
+        },
+        {
+            "id": "ch23-q68",
+            "text": "What is the 'word' (Kalimah) the disbeliever says at death?",
+            "answer": "The plea to be sent back, which Allah describes as just a word he says—it has no reality or chance of being granted."
+        },
+        {
+            "id": "ch23-q69",
+            "text": "What is the 'despised' state in Hell?",
+            "answer": "A condition of extreme humiliation and distance from Allah's mercy."
+        },
+        {
+            "id": "ch23-q70",
+            "text": "What is the 'Noble Throne' (Al-Arsh al-Karim)?",
+            "answer": "The majestic throne of Allah, signifying His honor and power."
+        },
+        {
+            "id": "ch23-q71",
+            "text": "What is the 'True Promise' mentioned earlier in the Surah?",
+            "answer": "The inevitability of the Day of Judgment."
+        },
+        {
+            "id": "ch23-q72",
+            "text": "What is the 'relish' (Sibgh) of olive oil?",
+            "answer": "A flavoring and nutritional supplement for food."
+        },
+        {
+            "id": "ch23-q73",
+            "text": "What is the 'blessed landing place' (Munzalan Mubarakan)?",
+            "answer": "A place of safety, peace, and abundance after a trial."
+        },
+        {
+            "id": "ch23-q74",
+            "text": "What is the 'rubbish' (Ghuthah) nations become?",
+            "answer": "Useless and insignificant remains after their destruction."
+        },
+        {
+            "id": "ch23-q75",
+            "text": "Why does Allah mention 'hearing, sight, and hearts' together?",
+            "answer": "As the primary tools for human perception, understanding, and gratitude."
+        },
+        {
+            "id": "ch23-q76",
+            "text": "What is the 'shadow' of the mountains?",
+            "answer": "A sign of Allah's control over physical laws."
+        },
+        {
+            "id": "ch23-q77",
+            "text": "What is the 'straight path' the Prophet calls people to?",
+            "answer": "The way of life consistent with the truth of Tawhid."
+        },
+        {
+            "id": "ch23-q78",
+            "text": "What is the 'mercy' requested in the the closing ayah?",
+            "answer": "Allah's forgiveness and His encompassing kindness."
+        },
+        {
+            "id": "ch23-q79",
+            "text": "What is the 'success' (Falah) at the end?",
+            "answer": "Being among those who are saved from the Fire and admitted to Al-Firdaws."
+        }
+    ]
 }

@@ -6,101 +6,226 @@
     "questions": [
         {
             "id": "ch74-q1",
+            "text": "Why does the Surah begin with urgent commands like 'arise and warn'?",
+            "answer": "Because the message is serious and time is short; guidance must be delivered clearly."
+        },
+        {
+            "id": "ch74-q2",
+            "text": "True/False: The Surah teaches that da'wah should be delayed until conditions are comfortable.",
+            "answer": "False. It commands immediate warning and action."
+        },
+        {
+            "id": "ch74-q3",
+            "text": "What does 'magnify your Lord' teach about the heart’s focus in da'wah?",
+            "answer": "Keep Allah central—His greatness, not people’s reactions or status."
+        },
+        {
+            "id": "ch74-q4",
+            "text": "How does Surah Al-Muddaththir connect outward purity and inward purity?",
+            "answer": "It calls to purification and also to avoiding idolatry and spiritual filth."
+        },
+        {
+            "id": "ch74-q5",
+            "text": "What is one practical meaning of avoiding 'rujz' today?",
+            "answer": "Avoid shirk and sinful impurities—anything that corrupts worship and character."
+        },
+        {
+            "id": "ch74-q6",
+            "text": "What does the Surah teach about patience in the face of rejection?",
+            "answer": "Remain patient for Allah’s sake; do not let rejection break your mission or sincerity."
+        },
+        {
+            "id": "ch74-q7",
+            "text": "Why is the Hereafter introduced early through the image of the Trumpet?",
+            "answer": "To make accountability vivid and urgent, so people do not live heedlessly."
+        },
+        {
+            "id": "ch74-q8",
+            "text": "True/False: The Surah suggests that denying the Hereafter is a harmless opinion.",
+            "answer": "False. It presents denial as a path to severe punishment."
+        },
+        {
+            "id": "ch74-q9",
+            "text": "What does the story of the wealthy denier teach about arrogance toward revelation?",
+            "answer": "Wealth and influence can fuel pride, leading people to label truth as false to protect ego."
+        },
+        {
+            "id": "ch74-q10",
+            "text": "How does the Surah expose the psychology of someone who calls revelation 'magic'?",
+            "answer": "It shows calculated thinking and plotting, not honest confusion."
+        },
+        {
+            "id": "ch74-q11",
+            "text": "What does Saqar represent in the Surah’s warning?",
+            "answer": "A severe Hellfire punishment that exposes worldly pride as worthless."
+        },
+        {
+            "id": "ch74-q12",
+            "text": "Why does the Surah mention a specific number of angels guarding Hell?",
+            "answer": "As a test for deniers and a confirmation for sincere believers, showing the unseen is real."
+        },
+        {
+            "id": "ch74-q13",
+            "text": "True/False: The Surah teaches that the details of the unseen are meant for mockery.",
+            "answer": "False. Mockery is condemned; details are meant as warning and proof."
+        },
+        {
+            "id": "ch74-q14",
+            "text": "What does the Surah teach about personal responsibility for deeds?",
+            "answer": "Each soul is held for what it earns; excuses do not remove accountability."
+        },
+        {
+            "id": "ch74-q15",
+            "text": "What does Surah Al-Muddaththir teach about the importance of prayer?",
+            "answer": "Neglecting prayer is listed among major reasons criminals enter punishment."
+        },
+        {
+            "id": "ch74-q16",
+            "text": "What does the Surah teach about feeding the poor as part of faith?",
+            "answer": "Neglecting the poor is a serious moral failure tied to punishment."
+        },
+        {
+            "id": "ch74-q17",
+            "text": "How does the Surah connect social morality with belief in the Hereafter?",
+            "answer": "Those who deny the Hereafter often neglect prayer, charity, and fall into vain talk."
+        },
+        {
+            "id": "ch74-q18",
+            "text": "True/False: The Surah teaches that vain talk is spiritually neutral.",
+            "answer": "False. It lists vain talk as part of the path to punishment."
+        },
+        {
+            "id": "ch74-q19",
+            "text": "What is one practical way to reduce vain talk in daily life?",
+            "answer": "Choose purposeful speech: remembrance, learning, honest work, and avoiding gossip."
+        },
+        {
+            "id": "ch74-q20",
+            "text": "Why does the Surah say intercession will not help the criminals?",
+            "answer": "Because they destroyed their faith through major neglect and denial; they come with no sincere foundation."
+        },
+        {
+            "id": "ch74-q21",
+            "text": "What does the Surah teach about people fleeing the reminder like frightened donkeys?",
+            "answer": "It exposes irrational fear of guidance and refusal to listen."
+        },
+        {
+            "id": "ch74-q22",
+            "text": "How can a believer avoid becoming someone who flees reminders?",
+            "answer": "Keep a humble heart, attend reminders, and act on small teachings consistently."
+        },
+        {
+            "id": "ch74-q23",
+            "text": "What does the Surah teach about demanding personal special proof (pages for me)?",
+            "answer": "It shows arrogance—people want customized proof instead of submitting to clear guidance."
+        },
+        {
+            "id": "ch74-q24",
+            "text": "True/False: The Surah teaches that the Quran is only for a specific group.",
+            "answer": "False. It is a reminder, but only those Allah wills truly benefit by remembering."
+        },
+        {
+            "id": "ch74-q25",
+            "text": "What does 'worthy of fear and worthy of forgiveness' teach about Allah?",
+            "answer": "Allah deserves awe and obedience, and He also forgives those who repent sincerely."
+        },
+        {
+            "id": "ch74-q26",
             "text": "What does 'Al-Muddaththir' mean?",
             "answer": "The Cloaked One or The Covered One (another address to the Prophet SAW)."
         },
         {
-            "id": "ch74-q2",
+            "id": "ch74-q27",
             "text": "What are the first three commands given to the Prophet in this Surah?",
             "answer": "Arise and warn, magnify your Lord, and purify your clothing."
         },
         {
-            "id": "ch74-q3",
-            "text": "What should the Prophet avoid according to Verse 5?",
+            "id": "ch74-q28",
+            "text": "What should the Prophet avoid according to this Surah?",
             "answer": "'Ar-Rujz' (idolatry or uncleanness)."
         },
         {
-            "id": "ch74-q4",
-            "text": "What is the 'Trumpet' called in Verse 8?",
+            "id": "ch74-q29",
+            "text": "What is the 'Trumpet' called in this Surah?",
             "answer": "The 'Naqur'."
         },
         {
-            "id": "ch74-q5",
-            "text": "Describe the man mentioned in Verses 11-25 (Al-Walid bin al-Mughirah).",
+            "id": "ch74-q30",
+            "text": "Describe the type of man mentioned who was wealthy but rejected the Quran after thinking and plotting.",
             "answer": "A wealthy and powerful man who was given much, but when he heard the Quran, he plotted and said it was 'nothing but magic'."
         },
         {
-            "id": "ch74-q6",
+            "id": "ch74-q31",
             "text": "What will Allah throw this man into?",
             "answer": "Saqar (a level of Hellfire)."
         },
         {
-            "id": "ch74-q7",
+            "id": "ch74-q32",
             "text": "How is 'Saqar' described?",
             "answer": "It leaves nothing and spares nothing, and it blackens/scorches the skin."
         },
         {
-            "id": "ch74-q8",
+            "id": "ch74-q33",
             "text": "How many angels are in charge of Saqar?",
             "answer": "Nineteen."
         },
         {
-            "id": "ch74-q9",
+            "id": "ch74-q34",
             "text": "Why did Allah specify the number nineteen for the angels of Hell?",
             "answer": "As a trial for the disbelievers, to convince the people of the Book, and to increase the believers in faith."
         },
         {
-            "id": "ch74-q10",
-            "text": "What is 'one of the greatest signs' mentioned in Verse 35?",
+            "id": "ch74-q35",
+            "text": "What is described as 'one of the greatest signs' in this Surah?",
             "answer": "Saqar (Hellfire)."
         },
         {
-            "id": "ch74-q11",
+            "id": "ch74-q36",
             "text": "Is every soul a pledge for its own deeds?",
             "answer": "Yes, 'Every soul, for what it has earned, will be retained'."
         },
         {
-            "id": "ch74-q12",
+            "id": "ch74-q37",
             "text": "Who are the exception to being 'retained' for their deeds?",
             "answer": "The companions of the right (Ashab al-Yamin)."
         },
         {
-            "id": "ch74-q13",
+            "id": "ch74-q38",
             "text": "What four reasons will the criminals give for entering Saqar?",
             "answer": "They were not among those who prayed, they did not feed the poor, they used to talk vainly with vain talkers, and they denied the Day of Recompense."
         },
         {
-            "id": "ch74-q14",
+            "id": "ch74-q39",
             "text": "Will the intercession of intercessors benefit the criminals?",
             "answer": "No."
         },
         {
-            "id": "ch74-q15",
+            "id": "ch74-q40",
             "text": "To what are the disbelievers compared as they flee from the reminder?",
             "answer": "Frightened donkeys fleeing from a lion."
         },
         {
-            "id": "ch74-q16",
-            "text": "What does every man among the disbelievers want to be given (Verse 52)?",
+            "id": "ch74-q41",
+            "text": "What does this Surah say some disbelievers want to be given personally?",
             "answer": "Pages (of scripture) spread open specifically for him."
         },
         {
-            "id": "ch74-q17",
+            "id": "ch74-q42",
             "text": "Is the Quran a reminder for everyone?",
             "answer": "Yes, but only those will remember whom Allah wills."
         },
         {
-            "id": "ch74-q18",
+            "id": "ch74-q43",
             "text": "How is Allah described at the end of the Surah?",
             "answer": "As the Worthy of fear and the Worthy of forgiveness (Ahlut-Taqwa wa Ahlul-Maghfirah)."
         },
         {
-            "id": "ch74-q19",
-            "text": "What is the warning regarding the Day of Resurrection in Verse 9?",
+            "id": "ch74-q44",
+            "text": "What warning does the Surah give about the Day of Resurrection for disbelievers?",
             "answer": "That it will be a difficult day, not easy for the disbelievers."
         },
         {
-            "id": "ch74-q20",
+            "id": "ch74-q45",
             "text": "What does the Surah teach about the choice to 'proceed or stay behind' in faith?",
             "answer": "That the warning of Saqar is for whoever wills to advance in goodness or stay behind in disbelief."
         }

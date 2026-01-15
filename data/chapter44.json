@@ -1,108 +1,358 @@
 {
-  "id": 44,
-  "englishName": "Ad-Dukhan",
-  "arabicName": "الدخان",
-  "translation": "The Smoke",
-  "questions": [
-    {
-      "id": "ch44-q1",
-      "text": "What does 'Ad-Dukhan' mean?",
-      "answer": "The Smoke."
-    },
-    {
-      "id": "ch44-q2",
-      "text": "On which night was the Quran revealed (Verse 3)?",
-      "answer": "On a blessed night (Laylat al-Qadr)."
-    },
-    {
-      "id": "ch44-q3",
-      "text": "What happens in the 'Blessed Night' regarding the affairs of the world?",
-      "answer": "Every matter of wisdom is made distinct."
-    },
-    {
-      "id": "ch44-q4",
-      "text": "What is the 'visible smoke' mentioned in Verse 10?",
-      "answer": "A sign that will envelop the people as a painful punishment."
-    },
-    {
-      "id": "ch44-q5",
-      "text": "How did the disbelievers react after seeing signs?",
-      "answer": "They would say, 'Our Lord, remove from us the punishment; indeed, we are believers,' but then they would return to disbelief."
-    },
-    {
-      "id": "ch44-q6",
-      "text": "What was the 'Message' Musa (AS) brought to the people of Pharaoh?",
-      "answer": "'Render to me the servants of Allah (Bani Israel). Indeed, I am to you a trustworthy messenger'."
-    },
-    {
-      "id": "ch44-q7",
-      "text": "What happened to the Egyptian army in the sea?",
-      "answer": "They were drowned while the sea was 'parted and still' (Verse 24)."
-    },
-    {
-      "id": "ch44-q8",
-      "text": "Did the heavens and earth weep for the destroyed people of Pharaoh?",
-      "answer": "No, 'the heaven and earth wept not for them, nor were they given respite' (Verse 29)."
-    },
-    {
-      "id": "ch44-q9",
-      "text": "Who are the 'People of Tubba' mentioned in Verse 37?",
-      "answer": "A powerful ancient civilization in Yemen that was destroyed for their sins."
-    },
-    {
-      "id": "ch44-q10",
-      "text": "What is the 'Day of Sorting' (Yawm al-Fasl)?",
-      "answer": "The Day of Judgment, the appointed time for everyone."
-    },
-    {
-      "id": "ch44-q11",
-      "text": "What will be the food of the sinners in Hell?",
-      "answer": "The tree of Zaqqum."
-    },
-    {
-      "id": "ch44-q12",
-      "text": "How is the effect of Zaqqum described in the belly?",
-      "answer": "Like murky oil, it boils in the bellies like the boiling of scalding water."
-    },
-    {
-      "id": "ch44-q13",
-      "text": "What will be said to the sinner while being punished in Hell?",
-      "answer": "'Taste! Indeed, you are the mighty, the noble!' (sarcastic reference to their worldly pride)."
-    },
-    {
-      "id": "ch44-q14",
-      "text": "Where will the righteous (Muttaqin) be on the Day of Judgment?",
-      "answer": "In a secure place, among gardens and springs."
-    },
-    {
-      "id": "ch44-q15",
-      "text": "What will the dwellers of Paradise wear?",
-      "answer": "Garments of fine silk and brocade."
-    },
-    {
-      "id": "ch44-q16",
-      "text": "Will the people in Paradise taste death again?",
-      "answer": "No, they will not taste death therein except for the first death (in the world)."
-    },
-    {
-      "id": "ch44-q17",
-      "text": "What is the 'Great Success' mentioned at the end of the Surah?",
-      "answer": "Being protected by Allah from the punishment of Hellfire."
-    },
-    {
-      "id": "ch44-q18",
-      "text": "Why did Allah make the Quran easy in the language of the Prophet?",
-      "answer": "So that people might be reminded (Verse 58)."
-    },
-    {
-      "id": "ch44-q19",
-      "text": "What should the Prophet do at the end of the Surah?",
-      "answer": "Wait and watch, for the disbelievers are also waiting."
-    },
-    {
-      "id": "ch44-q20",
-      "text": "Was the universe created for 'play'?",
-      "answer": "No, Allah created the heavens and earth in truth, but most people do not know."
-    }
-  ]
+    "id": 44,
+    "englishName": "Ad-Dukhan",
+    "arabicName": "الدخان",
+    "translation": "The Smoke",
+    "questions": [
+        {
+            "id": "ch44-q1",
+            "text": "What is the main theme of Surah Ad-Dukhan regarding warning and mercy?",
+            "answer": "It warns of punishment for denial while reminding that Allah sends revelation as mercy and guidance."
+        },
+        {
+            "id": "ch44-q2",
+            "text": "Why does the Surah emphasize a 'blessed night' connected to revelation?",
+            "answer": "To show the honor of revelation and that Allah decrees wise matters with perfect knowledge."
+        },
+        {
+            "id": "ch44-q3",
+            "text": "What does the Surah teach about Allah's control over major decisions in creation?",
+            "answer": "Allah decrees matters with wisdom, and nothing happens outside His knowledge and command."
+        },
+        {
+            "id": "ch44-q4",
+            "text": "True/False: The Surah suggests the universe exists without truth or purpose.",
+            "answer": "False. It states Allah created the heavens and earth in truth, though many people do not realize."
+        },
+        {
+            "id": "ch44-q5",
+            "text": "What does the Surah teach about people who only 'believe' when punishment becomes visible?",
+            "answer": "They may promise belief under pressure, but many return to denial, showing insincerity."
+        },
+        {
+            "id": "ch44-q6",
+            "text": "What is the lesson from asking for punishment to be removed and then returning to disbelief?",
+            "answer": "That temporary fear is not real faith; true faith requires sincerity and lasting change."
+        },
+        {
+            "id": "ch44-q7",
+            "text": "What does the Surah teach about Musa (AS) confronting Pharaoh?",
+            "answer": "That Musa came with a trustworthy message calling to free the believers and submit to Allah."
+        },
+        {
+            "id": "ch44-q8",
+            "text": "How does the Surah portray Pharaoh's people as a warning for tyrants?",
+            "answer": "Their worldly power did not save them; Allah drowned them and removed their legacy."
+        },
+        {
+            "id": "ch44-q9",
+            "text": "Why does the Surah mention the heavens and earth not weeping for Pharaoh's people?",
+            "answer": "To show how insignificant and rejected they became due to their ظلم and denial."
+        },
+        {
+            "id": "ch44-q10",
+            "text": "What is one reflection-based lesson about legacy from this Surah?",
+            "answer": "Worldly possessions and buildings can be left behind instantly; only faith and deeds endure."
+        },
+        {
+            "id": "ch44-q11",
+            "text": "What does Surah Ad-Dukhan teach about signs like the 'smoke'?",
+            "answer": "They are warnings meant to awaken people before final accountability, not entertainment or rumors."
+        },
+        {
+            "id": "ch44-q12",
+            "text": "True/False: The Surah teaches that Allah's warnings come without any prior mercy.",
+            "answer": "False. It shows warnings are sent so people can repent before judgment."
+        },
+        {
+            "id": "ch44-q13",
+            "text": "What is the 'Day of Sorting' (Yawm al-Fasl) in this Surah's message?",
+            "answer": "The Day of Judgment when truth is separated from falsehood and every person is recompensed."
+        },
+        {
+            "id": "ch44-q14",
+            "text": "Why is the Day of Sorting described as appointed for everyone?",
+            "answer": "To emphasize certainty: no one escapes it, and no one can delay it once it arrives."
+        },
+        {
+            "id": "ch44-q15",
+            "text": "How does the Surah describe the humiliation of sinners in Hell?",
+            "answer": "They are fed bitter punishment and addressed sarcastically for the pride they had in the world."
+        },
+        {
+            "id": "ch44-q16",
+            "text": "What is the spiritual lesson from the sarcastic phrase 'mighty, noble' said to a sinner?",
+            "answer": "Worldly arrogance is exposed as false; true honor comes from obedience to Allah."
+        },
+        {
+            "id": "ch44-q17",
+            "text": "What does the Surah teach about the Tree of Zaqqum?",
+            "answer": "It is a painful food for sinners, showing punishment is real and fitting for rebellion."
+        },
+        {
+            "id": "ch44-q18",
+            "text": "True/False: The Surah portrays Hell as symbolic and not real.",
+            "answer": "False. It describes Hell vividly as real punishment."
+        },
+        {
+            "id": "ch44-q19",
+            "text": "How does Surah Ad-Dukhan motivate hope for the righteous?",
+            "answer": "It describes them in secure places with gardens, springs, and honor."
+        },
+        {
+            "id": "ch44-q20",
+            "text": "What does the Surah teach about safety and security for the muttaqin?",
+            "answer": "They are in a secure place and protected from fear and punishment."
+        },
+        {
+            "id": "ch44-q21",
+            "text": "What does it mean that the people of Paradise will not taste death except the first death?",
+            "answer": "They will live eternally; death will not return after entering Paradise."
+        },
+        {
+            "id": "ch44-q22",
+            "text": "How does the Surah connect 'great success' to the Hereafter?",
+            "answer": "Great success is being saved from Hell and granted Allah's protection and Paradise."
+        },
+        {
+            "id": "ch44-q23",
+            "text": "What does this Surah teach about the danger of being deceived by worldly life?",
+            "answer": "People can ignore warnings and mock truth until sudden punishment exposes their loss."
+        },
+        {
+            "id": "ch44-q24",
+            "text": "Why does the Surah include examples like Tubba and earlier peoples?",
+            "answer": "To show patterns of denial and to warn that power without righteousness ends in destruction."
+        },
+        {
+            "id": "ch44-q25",
+            "text": "True/False: The Surah implies that being a 'strong civilization' guarantees Allah's protection.",
+            "answer": "False. Strength without faith and justice does not protect from Allah's punishment."
+        },
+        {
+            "id": "ch44-q26",
+            "text": "How does Surah Ad-Dukhan teach patience to the Prophet and believers?",
+            "answer": "It commands waiting and watching, trusting Allah's timing and the certainty of the outcome."
+        },
+        {
+            "id": "ch44-q27",
+            "text": "What does the Surah teach about the Quran being 'made easy'?",
+            "answer": "That Allah made it accessible so people can remember and take guidance seriously."
+        },
+        {
+            "id": "ch44-q28",
+            "text": "What is one practical way to benefit from the Quran being made easy?",
+            "answer": "Recite it with reflection, learn its meanings, and apply its teachings in daily life."
+        },
+        {
+            "id": "ch44-q29",
+            "text": "How does the Surah frame revelation as mercy?",
+            "answer": "Revelation is sent to warn and guide before punishment, giving people a chance to repent."
+        },
+        {
+            "id": "ch44-q30",
+            "text": "What is one key lesson about sincerity in faith from this Surah?",
+            "answer": "Real faith remains after hardship passes; it is not only words spoken in fear."
+        },
+        {
+            "id": "ch44-q31",
+            "text": "How does the Surah teach the seriousness of lying and denying the message?",
+            "answer": "It links denial to punishment and shows that warnings were clear and repeated."
+        },
+        {
+            "id": "ch44-q32",
+            "text": "What does the Surah imply about Allah's justice in historical punishment?",
+            "answer": "Punishments are not random; they are tied to persistent injustice, arrogance, and rejection of truth."
+        },
+        {
+            "id": "ch44-q33",
+            "text": "True/False: The Surah teaches that people can rely on second chances after death.",
+            "answer": "False. It highlights an appointed time and irreversible consequences after judgment."
+        },
+        {
+            "id": "ch44-q34",
+            "text": "What is one daily-life lesson from the Surah about pride and status?",
+            "answer": "Do not let status make you arrogant; Allah can remove everything instantly."
+        },
+        {
+            "id": "ch44-q35",
+            "text": "How can the Surah help someone who fears their sins and consequences?",
+            "answer": "By pushing them toward repentance now and reminding them of the reality of judgment and mercy."
+        },
+        {
+            "id": "ch44-q36",
+            "text": "What does Surah Ad-Dukhan teach about the link between knowledge and accountability?",
+            "answer": "Since the message is clear and easy, rejection becomes a deliberate choice with consequences."
+        },
+        {
+            "id": "ch44-q37",
+            "text": "Why is the contrast between Hell's food and Paradise's comfort important?",
+            "answer": "It highlights the moral seriousness of choices and motivates people to seek Allah's pleasure."
+        },
+        {
+            "id": "ch44-q38",
+            "text": "What is the Surah's warning about delaying repentance?",
+            "answer": "Punishment and the Hour can come suddenly, and regret afterward may not benefit."
+        },
+        {
+            "id": "ch44-q39",
+            "text": "What is one concluding takeaway from Surah Ad-Dukhan?",
+            "answer": "Take revelation seriously, repent sincerely, and prepare for the Day of Sorting."
+        },
+        {
+            "id": "ch44-q40",
+            "text": "What is the Surah's strongest call to action for a modern reader?",
+            "answer": "Reflect on Allah's warnings, abandon arrogance and denial, and commit to faith and righteousness before it is too late."
+        },
+        {
+            "id": "ch44-q41",
+            "text": "How does the Surah teach that Allah's control extends over history and nations?",
+            "answer": "By showing how entire civilizations rose and fell by Allah's decree due to their choices."
+        },
+        {
+            "id": "ch44-q42",
+            "text": "What does the Surah teach about the honor of the righteous beyond worldly honor?",
+            "answer": "Their honor is security and eternal life, not temporary power."
+        },
+        {
+            "id": "ch44-q43",
+            "text": "True/False: The Surah implies the Prophet should compromise the message to reduce conflict.",
+            "answer": "False. It tells him to remain firm and wait, trusting Allah's outcome."
+        },
+        {
+            "id": "ch44-q44",
+            "text": "What does Surah Ad-Dukhan teach about Allah's mercy in giving reminders repeatedly?",
+            "answer": "Repeated reminders are opportunities to return; ignoring them increases blame."
+        },
+        {
+            "id": "ch44-q45",
+            "text": "How can this Surah affect a believer's relationship with luxury and comfort?",
+            "answer": "It pushes them to value the Hereafter over comfort and to use blessings with gratitude and obedience."
+        },
+        {
+            "id": "ch44-q46",
+            "text": "What is one misconception about punishment that this Surah corrects?",
+            "answer": "That punishment is distant or unlikely; the Surah shows it can be near and sudden."
+        },
+        {
+            "id": "ch44-q47",
+            "text": "How does the Surah strengthen certainty (yaqin) about the Hereafter?",
+            "answer": "Through vivid descriptions of judgment, Hell, Paradise, and historical examples."
+        },
+        {
+            "id": "ch44-q48",
+            "text": "What is one ethical lesson from Musa's message 'deliver to me the servants of Allah'?",
+            "answer": "Oppression of believers and denial of truth are major wrongs that Allah does not ignore."
+        },
+        {
+            "id": "ch44-q49",
+            "text": "What does the Surah teach about real safety compared to worldly safety?",
+            "answer": "Real safety is being protected from Allah's punishment, not merely being comfortable in the world."
+        },
+        {
+            "id": "ch44-q50",
+            "text": "What is the Surah's overall spiritual goal?",
+            "answer": "To awaken hearts to revelation, warn against denial, and guide toward repentance and salvation."
+        },
+        {
+            "id": "ch44-q51",
+            "text": "What does 'Ad-Dukhan' mean?",
+            "answer": "The Smoke."
+        },
+        {
+            "id": "ch44-q52",
+            "text": "On which blessed night does the Surah mention the Quran being sent down?",
+            "answer": "On a blessed night (Laylat al-Qadr)."
+        },
+        {
+            "id": "ch44-q53",
+            "text": "What happens in the 'Blessed Night' regarding the affairs of the world?",
+            "answer": "Every matter of wisdom is made distinct."
+        },
+        {
+            "id": "ch44-q54",
+            "text": "What is the 'visible smoke' mentioned in this Surah?",
+            "answer": "A sign that will envelop the people as a painful punishment."
+        },
+        {
+            "id": "ch44-q55",
+            "text": "How did the disbelievers react after seeing signs?",
+            "answer": "They would say, 'Our Lord, remove from us the punishment; indeed, we are believers,' but then they would return to disbelief."
+        },
+        {
+            "id": "ch44-q56",
+            "text": "What was the 'Message' Musa (AS) brought to the people of Pharaoh?",
+            "answer": "'Render to me the servants of Allah (Bani Israel). Indeed, I am to you a trustworthy messenger'."
+        },
+        {
+            "id": "ch44-q57",
+            "text": "What happened to Pharaoh's army in the sea according to this Surah?",
+            "answer": "They were drowned after pursuing Musa (AS) and the believers."
+        },
+        {
+            "id": "ch44-q58",
+            "text": "Did the heavens and earth weep for the destroyed people of Pharaoh?",
+            "answer": "No. The Surah states the heaven and earth did not weep for them, and they were not given respite."
+        },
+        {
+            "id": "ch44-q59",
+            "text": "Who are the 'People of Tubba' mentioned in this Surah?",
+            "answer": "A powerful ancient civilization in Yemen that was destroyed for their sins."
+        },
+        {
+            "id": "ch44-q60",
+            "text": "What is the 'Day of Sorting' (Yawm al-Fasl)?",
+            "answer": "The Day of Judgment, the appointed time for everyone."
+        },
+        {
+            "id": "ch44-q61",
+            "text": "What will be the food of the sinners in Hell?",
+            "answer": "The tree of Zaqqum."
+        },
+        {
+            "id": "ch44-q62",
+            "text": "How is the effect of Zaqqum described in the belly?",
+            "answer": "Like murky oil, it boils in the bellies like the boiling of scalding water."
+        },
+        {
+            "id": "ch44-q63",
+            "text": "What will be said to the sinner while being punished in Hell?",
+            "answer": "'Taste! Indeed, you are the mighty, the noble!' (sarcastic reference to their worldly pride)."
+        },
+        {
+            "id": "ch44-q64",
+            "text": "Where will the righteous (Muttaqin) be on the Day of Judgment?",
+            "answer": "In a secure place, among gardens and springs."
+        },
+        {
+            "id": "ch44-q65",
+            "text": "What will the dwellers of Paradise wear?",
+            "answer": "Garments of fine silk and brocade."
+        },
+        {
+            "id": "ch44-q66",
+            "text": "Will the people in Paradise taste death again?",
+            "answer": "No, they will not taste death therein except for the first death (in the world)."
+        },
+        {
+            "id": "ch44-q67",
+            "text": "What is the 'Great Success' mentioned at the end of the Surah?",
+            "answer": "Being protected by Allah from the punishment of Hellfire."
+        },
+        {
+            "id": "ch44-q68",
+            "text": "Why did Allah make the Quran easy in the Prophet's language according to this Surah?",
+            "answer": "So that people might be reminded and take heed."
+        },
+        {
+            "id": "ch44-q69",
+            "text": "What should the Prophet do at the end of the Surah?",
+            "answer": "Wait and watch, for the disbelievers are also waiting."
+        },
+        {
+            "id": "ch44-q70",
+            "text": "Was the universe created for 'play'?",
+            "answer": "No, Allah created the heavens and earth in truth, but most people do not know."
+        }
+    ]
 }

@@ -1,108 +1,348 @@
 {
-  "id": 48,
-  "englishName": "Al-Fath",
-  "arabicName": "الفتح",
-  "translation": "The Victory",
-  "questions": [
-    {
-      "id": "ch48-q1",
-      "text": "What does 'Al-Fath' refer to in this Surah?",
-      "answer": "The Treaty of Hudaybiyyah, which Allah calls a 'Clear Victory'."
-    },
-    {
-      "id": "ch48-q2",
-      "text": "What was a purpose of this victory for the Prophet (SAW) (Verse 2)?",
-      "answer": "That Allah may forgive his past and future sins and complete His favor upon him."
-    },
-    {
-      "id": "ch48-q3",
-      "text": "What does Allah send down into the hearts of the believers?",
-      "answer": "Tranquility (Sakinah), so they may increase in faith."
-    },
-    {
-      "id": "ch48-q4",
-      "text": "Who are the 'Soldiers of the heavens and earth'?",
-      "answer": "They belong to Allah; He uses them as He wills."
-    },
-    {
-      "id": "ch48-q5",
-      "text": "What was the mission of the Prophet as described in Verse 8?",
-      "answer": "As a witness, a bringer of glad tidings, and a warner."
-    },
-    {
-      "id": "ch48-q6",
-      "text": "What is 'Bay'at al-Ridwan' (The Pledge of Allegiance)?",
-      "answer": "The pledge the companions took under the tree at Hudaybiyyah; Allah was pleased with them."
-    },
-    {
-      "id": "ch48-q7",
-      "text": "What is the significance of 'Allah's Hand is over their hands' (Verse 10)?",
-      "answer": "It signifies Allah's presence, support, and acceptance of the pledge given to the Prophet."
-    },
-    {
-      "id": "ch48-q8",
-      "text": "What excuse did the 'desert Arabs' (bedouins) give for not joining the expedition?",
-      "answer": "They said, 'Our properties and our families occupied us, so ask forgiveness for us'."
-    },
-    {
-      "id": "ch48-q9",
-      "text": "Why were the believers prevented from entering Makkah at Hudaybiyyah?",
-      "answer": "Partly to protect unknown believing men and women living in Makkah from being accidentally killed by the Muslim army."
-    },
-    {
-      "id": "ch48-q10",
-      "text": "What did the Prophet (SAW) see in his vision (dream)?",
-      "answer": "That he and the believers would enter Al-Masjid al-Haram, in safety, with heads shaved or hair cut short."
-    },
-    {
-      "id": "ch48-q11",
-      "text": "What is the religion that Allah sent His Messenger to make superior over all religions?",
-      "answer": "The religion of Truth (Islam)."
-    },
-    {
-      "id": "ch48-q12",
-      "text": "How are the companions of Muhammad (SAW) described in Verse 29?",
-      "answer": "Forceful against the disbelievers, merciful among themselves."
-    },
-    {
-      "id": "ch48-q13",
-      "text": "What are the physical signs of the companions' prostration?",
-      "answer": "Their mark is on their faces from the trace of prostration."
-    },
-    {
-      "id": "ch48-q14",
-      "text": "What is the 'Parable of the Seed' mentioned regarding the companions?",
-      "answer": "They are like a seed that sends forth its sprout, then strengthens it, then becomes thick and stands upon its stem, delighting the sowers."
-    },
-    {
-      "id": "ch48-q15",
-      "text": "What did the disbelievers have in their hearts during the treaty negotiations?",
-      "answer": "Chauvinism/Zealotry (Hamiyyah), the zealotry of the time of ignorance."
-    },
-    {
-      "id": "ch48-q16",
-      "text": "What did Allah grant the believers besides the 'Victory'?",
-      "answer": "Great spoils (wealth) that they would take."
-    },
-    {
-      "id": "ch48-q17",
-      "text": "Who is exempted from the obligation of fighting?",
-      "answer": "The blind, the lame, and the sick."
-    },
-    {
-      "id": "ch48-q18",
-      "text": "What is the punishment for those who do not believe in Allah and His Messenger?",
-      "answer": "A blazing Fire (Sa'ira)."
-    },
-    {
-      "id": "ch48-q19",
-      "text": "Is Allah's promise of victory true?",
-      "answer": "Yes, Allah's promise is always true, and He is the Witness."
-    },
-    {
-      "id": "ch48-q20",
-      "text": "Why is the Prophet Muhammad (SAW) called 'Rasulullah' at the start of the final verse?",
-      "answer": "To emphasize his divine authority and the truth of his mission."
-    }
-  ]
+    "id": 48,
+    "englishName": "Al-Fath",
+    "arabicName": "الفتح",
+    "translation": "The Victory",
+    "questions": [
+        {
+            "id": "ch48-q1",
+            "text": "What is the main meaning of 'Al-Fath' (victory) highlighted in this Surah?",
+            "answer": "That Allah can grant a clear victory through outcomes that appear difficult, like the Treaty of Hudaybiyyah."
+        },
+        {
+            "id": "ch48-q2",
+            "text": "True/False: The Surah teaches that every victory must look like immediate military conquest.",
+            "answer": "False. It shows victory can come through treaties, patience, and long-term opening."
+        },
+        {
+            "id": "ch48-q3",
+            "text": "What does the Surah teach about Allah sending tranquility (sakinah) into believers' hearts?",
+            "answer": "Allah strengthens believers inwardly, increasing faith and steadiness during tense moments."
+        },
+        {
+            "id": "ch48-q4",
+            "text": "How does 'sakinah' help believers in situations of fear or uncertainty?",
+            "answer": "It calms the heart, strengthens trust in Allah, and prevents panic-driven decisions."
+        },
+        {
+            "id": "ch48-q5",
+            "text": "What does the Surah teach about Allah's 'soldiers'?",
+            "answer": "All forces in the heavens and earth belong to Allah; He supports whom He wills in ways people may not see."
+        },
+        {
+            "id": "ch48-q6",
+            "text": "What is the Prophet's mission described in this Surah in one line?",
+            "answer": "A witness, a bringer of glad tidings, and a warner calling people to Allah."
+        },
+        {
+            "id": "ch48-q7",
+            "text": "Why is loyalty to the Prophet linked to loyalty to Allah in this Surah?",
+            "answer": "Because the Prophet conveys Allah's message; pledging to him is pledging to follow Allah's guidance."
+        },
+        {
+            "id": "ch48-q8",
+            "text": "What does the phrase 'Allah's Hand is over their hands' teach about the pledge?",
+            "answer": "That Allah honored and accepted the pledge, and that breaking it is a betrayal of oneself."
+        },
+        {
+            "id": "ch48-q9",
+            "text": "What is one lesson from Bay'at al-Ridwan about faith under pressure?",
+            "answer": "Sincere believers remain loyal even in uncertainty, and Allah is pleased with steadfast commitment."
+        },
+        {
+            "id": "ch48-q10",
+            "text": "True/False: The Surah praises making excuses to avoid sacrifices for Islam.",
+            "answer": "False. It exposes insincere excuses and distinguishes them from true commitment."
+        },
+        {
+            "id": "ch48-q11",
+            "text": "What does the Surah teach about the Bedouins who made excuses for staying behind?",
+            "answer": "Their words did not match their hearts, and Allah knows what they hide."
+        },
+        {
+            "id": "ch48-q12",
+            "text": "What is one spiritual danger of saying 'make dua for us' while refusing sincere effort?",
+            "answer": "It can become hypocrisy—using religious language to cover laziness or fear."
+        },
+        {
+            "id": "ch48-q13",
+            "text": "Why were believers prevented from entering Makkah at that time according to the Surah's lesson?",
+            "answer": "Allah's wisdom included protecting hidden believers and arranging a greater opening later."
+        },
+        {
+            "id": "ch48-q14",
+            "text": "How does Surah Al-Fath teach trust in Allah's unseen wisdom?",
+            "answer": "It shows Allah may block something temporarily for a better outcome and hidden mercy."
+        },
+        {
+            "id": "ch48-q15",
+            "text": "What does the Surah teach about dreams or visions of the Prophet?",
+            "answer": "They are truthful and from Allah; fulfillment may come with timing and conditions Allah knows."
+        },
+        {
+            "id": "ch48-q16",
+            "text": "What is one lesson about patience from the delayed entry into Al-Masjid al-Haram?",
+            "answer": "Delay is not defeat; patience can be part of victory and a test of sincerity."
+        },
+        {
+            "id": "ch48-q17",
+            "text": "True/False: The Surah teaches that Allah's promise can fail if circumstances are hard.",
+            "answer": "False. It emphasizes Allah's promise is true and His decree is wise."
+        },
+        {
+            "id": "ch48-q18",
+            "text": "What does the Surah teach about Islam being the religion of truth made superior?",
+            "answer": "That Allah supports the truth until it prevails, even if enemies oppose it."
+        },
+        {
+            "id": "ch48-q19",
+            "text": "How does the Surah describe the companions' character toward outsiders and among themselves?",
+            "answer": "Strong against hostile disbelief and merciful, united, and compassionate among believers."
+        },
+        {
+            "id": "ch48-q20",
+            "text": "What is one balance lesson from being 'strong' and 'merciful' at the same time?",
+            "answer": "Strength is used against injustice and hostility, while mercy governs relationships within the believing community."
+        },
+        {
+            "id": "ch48-q21",
+            "text": "What does the Surah teach about the companions' devotion in worship?",
+            "answer": "They are described as frequent in prayer and prostration, seeking Allah's pleasure."
+        },
+        {
+            "id": "ch48-q22",
+            "text": "How should the 'mark of prostration' be understood in a balanced way?",
+            "answer": "As a sign of worship and humility, not a tool for pride or judging others."
+        },
+        {
+            "id": "ch48-q23",
+            "text": "What does the parable of the seed teach about the growth of the believing community?",
+            "answer": "It grows gradually—starting small, strengthening over time, and becoming stable through Allah's support."
+        },
+        {
+            "id": "ch48-q24",
+            "text": "How can the seed parable be applied to personal faith growth?",
+            "answer": "Faith starts with small habits and consistent worship, then strengthens through patience and discipline."
+        },
+        {
+            "id": "ch48-q25",
+            "text": "What does the Surah teach about zealotry (hamiyyah) of ignorance?",
+            "answer": "It is stubborn pride that blocks justice and truth, and it contrasts with believers' tranquility and submission."
+        },
+        {
+            "id": "ch48-q26",
+            "text": "True/False: The Surah praises stubborn pride as a sign of courage.",
+            "answer": "False. It condemns جاهلية pride and highlights Allah-given tranquility instead."
+        },
+        {
+            "id": "ch48-q27",
+            "text": "What is one lesson from Allah granting spoils after victory?",
+            "answer": "Provision is from Allah; obedience and patience can lead to unexpected material openings."
+        },
+        {
+            "id": "ch48-q28",
+            "text": "What does the Surah teach about exemptions from fighting obligations?",
+            "answer": "Islam recognizes hardship and disability, and Allah does not burden beyond ability."
+        },
+        {
+            "id": "ch48-q29",
+            "text": "How does Surah Al-Fath encourage optimism during setbacks?",
+            "answer": "By calling the outcome a clear victory and showing Allah's plan is greater than immediate appearances."
+        },
+        {
+            "id": "ch48-q30",
+            "text": "What is one misconception corrected by the Surah about 'winning'?",
+            "answer": "That winning is only immediate dominance; true victory is Allah's pleasure, guidance, and lasting outcomes."
+        },
+        {
+            "id": "ch48-q31",
+            "text": "What does the Surah teach about trustworthiness in leadership and pledges?",
+            "answer": "Pledges are serious commitments before Allah; breaking them harms the one who breaks."
+        },
+        {
+            "id": "ch48-q32",
+            "text": "How does the Surah teach that Allah knows inner intentions?",
+            "answer": "It exposes excuses and hypocrisy by emphasizing that Allah knows what hearts conceal."
+        },
+        {
+            "id": "ch48-q33",
+            "text": "True/False: The Surah suggests outward participation is the only measure of sincerity.",
+            "answer": "False. It repeatedly emphasizes intentions and inner truthfulness."
+        },
+        {
+            "id": "ch48-q34",
+            "text": "What is one practical way to gain 'sakinah' during stressful decisions?",
+            "answer": "Increase remembrance, prayer, and trust in Allah while taking lawful means."
+        },
+        {
+            "id": "ch48-q35",
+            "text": "What does Surah Al-Fath teach about Allah completing His favor on the Prophet?",
+            "answer": "That Allah protects, guides, and supports the Prophet, fulfilling the mission with increasing openings."
+        },
+        {
+            "id": "ch48-q36",
+            "text": "How does the Surah connect forgiveness with victory and leadership?",
+            "answer": "It shows spiritual success and Allah's favor go together: forgiveness, guidance, and support."
+        },
+        {
+            "id": "ch48-q37",
+            "text": "What is one community lesson from the companions being merciful among themselves?",
+            "answer": "Unity and mercy are essential for strength; internal cruelty weakens the community."
+        },
+        {
+            "id": "ch48-q38",
+            "text": "How does the Surah encourage believers to avoid judging outcomes too quickly?",
+            "answer": "It frames an apparently difficult situation as victory, teaching patience with Allah's timing."
+        },
+        {
+            "id": "ch48-q39",
+            "text": "What is the Surah's strongest call to action for modern readers?",
+            "answer": "Be sincere, keep commitments, trust Allah in delays, and seek victory through obedience and patience."
+        },
+        {
+            "id": "ch48-q40",
+            "text": "What does the Surah teach about da'wah outcomes and long-term strategy?",
+            "answer": "Allah may open doors through peace and patience, leading to broader guidance than force would."
+        },
+        {
+            "id": "ch48-q41",
+            "text": "Why does the Surah emphasize the Prophet's title 'Rasulullah' in the the closing ayah?",
+            "answer": "To affirm his divine mission and to ground the companions' virtues in following true revelation."
+        },
+        {
+            "id": "ch48-q42",
+            "text": "How does the Surah correct the idea that believers must imitate جاهلية pride to be strong?",
+            "answer": "It shows true strength comes from faith, tranquility, and obedience—not stubborn pride."
+        },
+        {
+            "id": "ch48-q43",
+            "text": "True/False: The Surah teaches that mercy among believers is a weakness.",
+            "answer": "False. Mercy is presented as a defining strength of the community."
+        },
+        {
+            "id": "ch48-q44",
+            "text": "What is one daily-life application of Bay'ah lessons for modern commitments (contracts, promises)?",
+            "answer": "Honor commitments with honesty, remembering Allah witnesses promises and betrayal harms the soul."
+        },
+        {
+            "id": "ch48-q45",
+            "text": "How can this Surah reshape a believer's view of setbacks in personal goals?",
+            "answer": "It teaches that apparent blocks may be Allah's protection or preparation for a better opening."
+        },
+        {
+            "id": "ch48-q46",
+            "text": "What does the Surah teach about pleasing Allah versus pleasing people?",
+            "answer": "Sincerity with Allah is the goal; excuses to satisfy people while neglecting duty are exposed."
+        },
+        {
+            "id": "ch48-q47",
+            "text": "What is one key misconception about 'peace treaties' corrected by this Surah?",
+            "answer": "That they are always weakness; the Surah shows a treaty can be a strategic, faith-strengthening victory."
+        },
+        {
+            "id": "ch48-q48",
+            "text": "How does the Surah teach the believer to handle community criticism and rumors?",
+            "answer": "By relying on Allah's knowledge, staying sincere, and not being driven by fear or ego."
+        },
+        {
+            "id": "ch48-q49",
+            "text": "What does 'Al-Fath' refer to in this Surah?",
+            "answer": "The Treaty of Hudaybiyyah, which Allah calls a 'Clear Victory'."
+        },
+        {
+            "id": "ch48-q50",
+            "text": "What was a purpose of this victory for the Prophet (SAW) mentioned in this Surah?",
+            "answer": "That Allah may forgive his past and future sins and complete His favor upon him."
+        },
+        {
+            "id": "ch48-q51",
+            "text": "What does Allah send down into the hearts of the believers?",
+            "answer": "Tranquility (Sakinah), so they may increase in faith."
+        },
+        {
+            "id": "ch48-q52",
+            "text": "Who are the 'Soldiers of the heavens and earth'?",
+            "answer": "They belong to Allah; He uses them as He wills."
+        },
+        {
+            "id": "ch48-q53",
+            "text": "What was the mission of the Prophet described in this Surah?",
+            "answer": "As a witness, a bringer of glad tidings, and a warner."
+        },
+        {
+            "id": "ch48-q54",
+            "text": "What is 'Bay'at al-Ridwan' (The Pledge of Allegiance)?",
+            "answer": "The pledge the companions took under the tree at Hudaybiyyah; Allah was pleased with them."
+        },
+        {
+            "id": "ch48-q55",
+            "text": "What is the significance of 'Allah's Hand is over their hands'?",
+            "answer": "It signifies Allah's presence, support, and acceptance of the pledge given to the Prophet."
+        },
+        {
+            "id": "ch48-q56",
+            "text": "What excuse did the 'desert Arabs' (bedouins) give for not joining the expedition?",
+            "answer": "They said, 'Our properties and our families occupied us, so ask forgiveness for us'."
+        },
+        {
+            "id": "ch48-q57",
+            "text": "Why were the believers prevented from entering Makkah at Hudaybiyyah?",
+            "answer": "Partly to protect unknown believing men and women living in Makkah from being accidentally killed by the Muslim army."
+        },
+        {
+            "id": "ch48-q58",
+            "text": "What did the Prophet (SAW) see in his vision (dream)?",
+            "answer": "That he and the believers would enter Al-Masjid al-Haram, in safety, with heads shaved or hair cut short."
+        },
+        {
+            "id": "ch48-q59",
+            "text": "What is the religion that Allah sent His Messenger to make superior over all religions?",
+            "answer": "The religion of Truth (Islam)."
+        },
+        {
+            "id": "ch48-q60",
+            "text": "How does the Surah describe the companions of Muhammad (SAW)?",
+            "answer": "Forceful against the disbelievers, merciful among themselves."
+        },
+        {
+            "id": "ch48-q61",
+            "text": "What are the physical signs of the companions' prostration?",
+            "answer": "Their mark is on their faces from the trace of prostration."
+        },
+        {
+            "id": "ch48-q62",
+            "text": "What is the 'Parable of the Seed' mentioned regarding the companions?",
+            "answer": "They are like a seed that sends forth its sprout, then strengthens it, then becomes thick and stands upon its stem, delighting the sowers."
+        },
+        {
+            "id": "ch48-q63",
+            "text": "What did the disbelievers have in their hearts during the treaty negotiations?",
+            "answer": "Chauvinism/Zealotry (Hamiyyah), the zealotry of the time of ignorance."
+        },
+        {
+            "id": "ch48-q64",
+            "text": "What did Allah grant the believers besides the 'Victory'?",
+            "answer": "Great spoils (wealth) that they would take."
+        },
+        {
+            "id": "ch48-q65",
+            "text": "Who is exempted from the obligation of fighting?",
+            "answer": "The blind, the lame, and the sick."
+        },
+        {
+            "id": "ch48-q66",
+            "text": "What is the punishment for those who do not believe in Allah and His Messenger?",
+            "answer": "A blazing Fire (Sa'ira)."
+        },
+        {
+            "id": "ch48-q67",
+            "text": "Is Allah's promise of victory true?",
+            "answer": "Yes, Allah's promise is always true, and He is the Witness."
+        },
+        {
+            "id": "ch48-q68",
+            "text": "Why is the Prophet Muhammad (SAW) called 'Rasulullah' at the start of the the closing ayah?",
+            "answer": "To emphasize his divine authority and the truth of his mission."
+        }
+    ]
 }

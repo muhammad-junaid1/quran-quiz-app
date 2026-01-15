@@ -6,101 +6,236 @@
     "questions": [
         {
             "id": "ch71-q1",
+            "text": "Why is Nuh’s da'wah described as day and night, public and private?",
+            "answer": "To show persistence, wisdom in approach, and that guidance was offered in every reasonable way."
+        },
+        {
+            "id": "ch71-q2",
+            "text": "True/False: Surah Nuh teaches that a caller to Allah should quit quickly when people resist.",
+            "answer": "False. It shows long patience and repeated effort despite rejection."
+        },
+        {
+            "id": "ch71-q3",
+            "text": "What does Surah Nuh teach about the link between istighfar and Allah’s provision?",
+            "answer": "Seeking forgiveness can open doors of rain, wealth, children, and general blessings by Allah’s mercy."
+        },
+        {
+            "id": "ch71-q4",
+            "text": "How does Surah Nuh correct the idea that sins only affect the Hereafter, not worldly life?",
+            "answer": "It shows wrongdoing can also block blessings and bring worldly consequences."
+        },
+        {
+            "id": "ch71-q5",
+            "text": "What is one psychological tactic of denial shown by Nuh’s people?",
+            "answer": "They blocked their senses—covering themselves and refusing to listen—so they would not be changed."
+        },
+        {
+            "id": "ch71-q6",
+            "text": "Why is arrogance described as a root problem in the story of Nuh?",
+            "answer": "Because arrogance prevents listening, repentance, and humble submission to Allah."
+        },
+        {
+            "id": "ch71-q7",
+            "text": "What does the Surah teach about the danger of blindly following leaders in religion?",
+            "answer": "Leaders can mislead through plots and propaganda; followers are still responsible for choosing truth."
+        },
+        {
+            "id": "ch71-q8",
+            "text": "How does Surah Nuh teach that shirk can start from something that looks ‘good’?",
+            "answer": "It shows how honoring righteous people can become idol worship over time when boundaries are crossed."
+        },
+        {
+            "id": "ch71-q9",
+            "text": "True/False: The Surah teaches that idol worship often begins as open hatred of righteous people.",
+            "answer": "False. It can begin from exaggeration and gradual distortion of respect."
+        },
+        {
+            "id": "ch71-q10",
+            "text": "What does Surah Nuh teach about using signs of creation in da'wah?",
+            "answer": "Nuh used signs like the heavens, sun, moon, and human creation to awaken reflection and humility."
+        },
+        {
+            "id": "ch71-q11",
+            "text": "What is one lesson from the Surah’s mention of humans being created in stages?",
+            "answer": "Human weakness and development should produce humility and gratitude, not pride."
+        },
+        {
+            "id": "ch71-q12",
+            "text": "How does Surah Nuh teach that Allah’s creation is purposeful?",
+            "answer": "It points to ordered heavens and provision as signs that life is meaningful and accountable."
+        },
+        {
+            "id": "ch71-q13",
+            "text": "What does Surah Nuh teach about the reality of punishment for persistent denial?",
+            "answer": "That denial can lead to destruction in this world and punishment in the next."
+        },
+        {
+            "id": "ch71-q14",
+            "text": "Why is Nuh’s final supplication against the disbelievers described as severe?",
+            "answer": "Because after long effort, he feared continued denial would only spread misguidance and فساد."
+        },
+        {
+            "id": "ch71-q15",
+            "text": "True/False: The Surah teaches that making dua against oppressors is always wrong.",
+            "answer": "False. It shows that after exhausting da'wah, a prophet may ask Allah for decisive justice."
+        },
+        {
+            "id": "ch71-q16",
+            "text": "What does Surah Nuh teach about praying for believers at the end?",
+            "answer": "It highlights concern for the believing community—seeking forgiveness and mercy for all believers."
+        },
+        {
+            "id": "ch71-q17",
+            "text": "How can a believer apply Surah Nuh’s message about istighfar today?",
+            "answer": "Make istighfar consistently, correct sins, and trust Allah to bring relief and blessing."
+        },
+        {
+            "id": "ch71-q18",
+            "text": "What does the Surah teach about the relationship between sin and social corruption?",
+            "answer": "Persistent sin and shirk spread through society, harming future generations and weakening truth."
+        },
+        {
+            "id": "ch71-q19",
+            "text": "What is one lesson about parenting implied by Nuh’s fear of future generations being misled?",
+            "answer": "Protect the next generation through teaching tawhid and resisting normalization of falsehood."
+        },
+        {
+            "id": "ch71-q20",
+            "text": "True/False: The Surah suggests that da'wah should ignore people’s emotions and social realities.",
+            "answer": "False. Nuh varied his approach—public, private, day, night—showing wisdom and awareness."
+        },
+        {
+            "id": "ch71-q21",
+            "text": "What does Surah Nuh teach about the earth being an expanse?",
+            "answer": "It reminds that the earth is made livable and usable by Allah, pointing to His mercy and lordship."
+        },
+        {
+            "id": "ch71-q22",
+            "text": "How does reflecting on the sun and moon help strengthen tawhid?",
+            "answer": "It shows precise order and design, leading to recognition that only Allah deserves worship."
+        },
+        {
+            "id": "ch71-q23",
+            "text": "What is one way to avoid turning respect for scholars into exaggeration and شبه‑shirk?",
+            "answer": "Respect them, but keep worship and ultimate reliance only for Allah and avoid exaggeration."
+        },
+        {
+            "id": "ch71-q24",
+            "text": "What does Surah Nuh teach about social pressure as a barrier to guidance?",
+            "answer": "People can be pressured by leaders and groups to remain on falsehood even when truth is clear."
+        },
+        {
+            "id": "ch71-q25",
+            "text": "How can someone respond when they feel tempted to ‘block out’ reminders like Nuh’s people?",
+            "answer": "Do the opposite: listen, reflect, and make a small practical change immediately."
+        },
+        {
+            "id": "ch71-q26",
+            "text": "What is one ethical lesson from the Surah about arrogance toward advice?",
+            "answer": "Arrogance makes people reject help; humility opens the door to reform and mercy."
+        },
+        {
+            "id": "ch71-q27",
+            "text": "What is the Surah’s message about the long-term result of stubbornness?",
+            "answer": "Stubbornness ends in destruction and regret, while repentance leads to mercy and blessing."
+        },
+        {
+            "id": "ch71-q28",
             "text": "What was the initial command given to Nuh (AS) regarding his people?",
             "answer": "To warn his people before there comes to them a painful punishment."
         },
         {
-            "id": "ch71-q2",
+            "id": "ch71-q29",
             "text": "How long and in what ways did Nuh (AS) call his people?",
             "answer": "He called them day and night, in private and in public, for 950 years."
         },
         {
-            "id": "ch71-q3",
+            "id": "ch71-q30",
             "text": "What was the reaction of the people when Nuh (AS) call them to forgiveness?",
             "answer": "They put their fingers in their ears, covered themselves with their garments, and persisted in arrogance."
         },
         {
-            "id": "ch71-q4",
+            "id": "ch71-q31",
             "text": "What did Nuh (AS) promise his people would happen if they asked for forgiveness?",
             "answer": "Allah would send rain in abundance, increase their wealth and children, and provide them with gardens and rivers."
         },
         {
-            "id": "ch71-q5",
+            "id": "ch71-q32",
             "text": "What signs of Allah's creation did Nuh (AS) point out to his people?",
             "answer": "The seven heavens in layers, the moon as a light, the sun as a lamp, and the growth of humans from the earth."
         },
         {
-            "id": "ch71-q6",
+            "id": "ch71-q33",
             "text": "What did the people say to each other to ensure they didn't leave their idols?",
             "answer": "'Never leave your gods and never leave Wadd or Suwa' or Yaghuth and Ya'uq and Nasr'."
         },
         {
-            "id": "ch71-q7",
+            "id": "ch71-q34",
             "text": "Were the names mentioned (Wadd, Suwa, etc.) actually names of idols?",
             "answer": "Yes, they were originally righteous men who were later turned into idols and worshipped."
         },
         {
-            "id": "ch71-q8",
+            "id": "ch71-q35",
             "text": "What happened to the people of Nuh because of their sins?",
             "answer": "They were drowned and then admitted into the Fire."
         },
         {
-            "id": "ch71-q9",
+            "id": "ch71-q36",
             "text": "What was Nuh's (AS) final prayer regarding the disbelievers on earth?",
             "answer": "'My Lord, do not leave upon the earth from among the disbelievers even one inhabitant'."
         },
         {
-            "id": "ch71-q10",
+            "id": "ch71-q37",
             "text": "Why did Nuh (AS) pray for the destruction of the disbelievers?",
             "answer": "Because he feared they would mislead Allah's servants and only give birth to wicked disbelievers."
         },
         {
-            "id": "ch71-q11",
-            "text": "Who did Nuh (AS) pray for in the final verse of the Surah?",
+            "id": "ch71-q38",
+            "text": "Himself, his parents, whoever entered his house as a believer, and all believing men and women.",
             "answer": "Himself, his parents, whoever entered his house as a believer, and all believing men and women."
         },
         {
-            "id": "ch71-q12",
-            "text": "What did Nuh (AS) ask for the wrongdoers in the final verse?",
+            "id": "ch71-q39",
+            "text": "Nothing but destruction.",
             "answer": "Nothing but destruction."
         },
         {
-            "id": "ch71-q13",
+            "id": "ch71-q40",
             "text": "True or False: Surah Nuh is entirely focused on the story of Nuh's call and his struggle.",
             "answer": "True."
         },
         {
-            "id": "ch71-q14",
+            "id": "ch71-q41",
             "text": "What is the 'light' and the 'lamp' mentioned in the sky?",
             "answer": "The moon is the light and the sun is the lamp."
         },
         {
-            "id": "ch71-q15",
-            "text": "How does Allah describe the earth in Verse 19?",
+            "id": "ch71-q42",
+            "text": "How does Surah Nuh describe the earth for humans?",
             "answer": "As an 'expanse' (bisatan) for humans."
         },
         {
-            "id": "ch71-q16",
+            "id": "ch71-q43",
             "text": "Why is the Surah titled 'Nuh'?",
             "answer": "Because it relates his specific narrative and dawah (calling to faith)."
         },
         {
-            "id": "ch71-q17",
+            "id": "ch71-q44",
             "text": "What does Nuh (AS) say about the 'stages' of human creation?",
             "answer": "He reminds his people that Allah created them in stages (atwaran)."
         },
         {
-            "id": "ch71-q18",
+            "id": "ch71-q45",
             "text": "What does the Surah teach about the relationship between Istighfar (seeking forgiveness) and worldly blessings?",
             "answer": "That seeking forgiveness from Allah opens the doors of worldly sustenance and prosperity."
         },
         {
-            "id": "ch71-q19",
-            "text": "What was the 'great conspiracy' mentioned in Verse 22?",
+            "id": "ch71-q46",
+            "text": "What was the 'great conspiracy' mentioned in this Surah?",
             "answer": "The leaders of the disbelievers conspired a 'mighty plot' to keep the people in misguidance."
         },
         {
-            "id": "ch71-q20",
+            "id": "ch71-q47",
             "text": "Did the people of Nuh find any helpers against Allah?",
             "answer": "No, they found no helpers besides Allah."
         }

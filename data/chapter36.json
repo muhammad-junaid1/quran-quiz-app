@@ -1,108 +1,358 @@
 {
-  "id": 36,
-  "englishName": "Ya-Sin",
-  "arabicName": "يس",
-  "translation": "Ya-Sin",
-  "questions": [
-    {
-      "id": "ch36-q1",
-      "text": "How is Surah Ya-Sin often described in Prophetic traditions?",
-      "answer": "It is referred to as the 'Heart of the Quran' (Qalb al-Quran)."
-    },
-    {
-      "id": "ch36-q2",
-      "text": "What is the oath at the beginning of the Surah used to confirm?",
-      "answer": "That Muhammad (SAW) is indeed among the Messengers, on a straight path."
-    },
-    {
-      "id": "ch36-q3",
-      "text": "What is the state of the disbelievers described in Verse 8-9?",
-      "answer": "They have shackles around their necks up to their chins, and barriers before and behind them, so they cannot see."
-    },
-    {
-      "id": "ch36-q4",
-      "text": "What is written in the 'Imam-im-Mubin' (Clear Ledger)?",
-      "answer": "Everything: the deeds of people and the traces they leave behind."
-    },
-    {
-      "id": "ch36-q5",
-      "text": "In the story of the town, how many Messengers were originally sent and how many was it reinforced to?",
-      "answer": "Two were sent, and they were reinforced with a third."
-    },
-    {
-      "id": "ch36-q6",
-      "text": "Who came running from the farthest part of the city to support the Messengers?",
-      "answer": "A man (Habib al-Najjar) who urged his people to follow the Messengers."
-    },
-    {
-      "id": "ch36-q7",
-      "text": "What was the man's reward for his faith after his people killed him?",
-      "answer": "He was told 'Enter Paradise,' and he wished his people knew how his Lord had forgiven him."
-    },
-    {
-      "id": "ch36-q8",
-      "text": "How were the people of the city destroyed after rejecting the Messengers?",
-      "answer": "By a single 'Saykhah' (blast), after which they were extinguished."
-    },
-    {
-      "id": "ch36-q9",
-      "text": "What is the 'Sign' regarding the night and day mentioned in Verse 37?",
-      "answer": "Allah strips the day from the night, and suddenly they are in darkness."
-    },
-    {
-      "id": "ch36-q10",
-      "text": "What is said about the Sun and the Moon in their orbits?",
-      "answer": "The sun runs toward its stopping point, and the moon has been ordained phases until it returns like an old dried curved date stalk; each is swimming in an orbit."
-    },
-    {
-      "id": "ch36-q11",
-      "text": "What was the 'laden ship' that carried the ancestors (Verse 41)?",
-      "answer": "The Ark of Nuh (AS)."
-    },
-    {
-      "id": "ch36-q12",
-      "text": "What will happen when the Trumpet is blown (the second time)?",
-      "answer": "They will emerge from the graves and race toward their Lord."
-    },
-    {
-      "id": "ch36-q13",
-      "text": "What is the greeting from the Merciful Lord to the inhabitants of Paradise?",
-      "answer": "'Salam' (Peace)."
-    },
-    {
-      "id": "ch36-q14",
-      "text": "What command will be given to the 'criminals' on the Day of Judgment?",
-      "answer": "'Stand apart today, O criminals'."
-    },
-    {
-      "id": "ch36-q15",
-      "text": "What will happen to the mouths, hands, and feet of people on the Last Day?",
-      "answer": "Allah will seal their mouths, and their hands will speak to Him, and their feet will testify to what they earned."
-    },
-    {
-      "id": "ch36-q16",
-      "text": "Is the Prophet (SAW) a poet?",
-      "answer": "No; Verse 69 says 'We did not teach him poetry, nor is it befitting for him'."
-    },
-    {
-      "id": "ch36-q17",
-      "text": "What parable is used for the revival of the dead at the end of the Surah?",
-      "answer": "The One who created them the first time will revive them; He who produces fire for you from the green tree."
-    },
-    {
-      "id": "ch36-q18",
-      "text": "How does Allah create something when He intends it?",
-      "answer": "He only says to it 'Kun' (Be), and it is."
-    },
-    {
-      "id": "ch36-q19",
-      "text": "Who has the dominion (Malakut) of all things in His hand?",
-      "answer": "Allah, the Exalted."
-    },
-    {
-      "id": "ch36-q20",
-      "text": "What is the primary purpose of the Quran according to Verse 70?",
-      "answer": "To warn whoever is alive and that the word (decree) may be justified against the disbelievers."
-    }
-  ]
+    "id": 36,
+    "englishName": "Ya-Sin",
+    "arabicName": "يس",
+    "translation": "Ya-Sin",
+    "questions": [
+        {
+            "id": "ch36-q1",
+            "text": "What is the overall purpose of Surah Ya-Sin for the listener?",
+            "answer": "To affirm the truth of the Messenger and the Quran, warn of accountability, and awaken hearts to resurrection and gratitude."
+        },
+        {
+            "id": "ch36-q2",
+            "text": "True/False: Surah Ya-Sin teaches that guidance is only for people who already agree.",
+            "answer": "False. It is a reminder and warning, but only sincere hearts benefit from it."
+        },
+        {
+            "id": "ch36-q3",
+            "text": "What does the Surah teach about the Prophet's role in guiding people?",
+            "answer": "He conveys and warns with the Quran; guidance is from Allah, and people remain responsible for their response."
+        },
+        {
+            "id": "ch36-q4",
+            "text": "How does Surah Ya-Sin portray the spiritual effect of stubborn rejection?",
+            "answer": "It describes hearts and perception being blocked, as if barriers prevent them from seeing the truth."
+        },
+        {
+            "id": "ch36-q5",
+            "text": "What is one lesson from the Surah's mention that deeds and traces are recorded?",
+            "answer": "Actions have lasting consequences, including what we leave behind, so we must be mindful of both."
+        },
+        {
+            "id": "ch36-q6",
+            "text": "What does the story of the town teach about the pattern of rejecting messengers?",
+            "answer": "People often accuse messengers and resist truth, but rejection ultimately leads to loss and punishment."
+        },
+        {
+            "id": "ch36-q7",
+            "text": "Why is the believing man in the town story a model of courage?",
+            "answer": "He defended the messengers publicly, called his people to follow guidance, and accepted personal risk for truth."
+        },
+        {
+            "id": "ch36-q8",
+            "text": "What does the believing man's reaction after entering Paradise teach about sincere concern for others?",
+            "answer": "Even after being honored, he wished his people knew the mercy Allah showed him, showing compassion not revenge."
+        },
+        {
+            "id": "ch36-q9",
+            "text": "What does the Surah teach about Allah's power to destroy a community?",
+            "answer": "Allah can bring punishment swiftly; it may take only a single command for a people to be ended."
+        },
+        {
+            "id": "ch36-q10",
+            "text": "How does the Surah use the revival of dead earth as an argument for resurrection?",
+            "answer": "It shows that Allah brings life from what seems dead, proving He can raise the dead as well."
+        },
+        {
+            "id": "ch36-q11",
+            "text": "What does Surah Ya-Sin teach about daily provisions like crops and fruits?",
+            "answer": "They are signs of Allah's mercy and power, meant to increase gratitude and recognition of the Giver."
+        },
+        {
+            "id": "ch36-q12",
+            "text": "True/False: The Surah treats the alternation of night and day as random.",
+            "answer": "False. It presents it as a deliberate sign showing Allah's control and wisdom."
+        },
+        {
+            "id": "ch36-q13",
+            "text": "What does the Surah teach through the sun and moon moving in an ordered way?",
+            "answer": "That the universe runs by Allah's precise decree, pointing to His knowledge and authority."
+        },
+        {
+            "id": "ch36-q14",
+            "text": "Why does the Surah mention ships and travel across water as a sign?",
+            "answer": "To remind that Allah enables human benefit through creation and safety, and can remove that safety if He wills."
+        },
+        {
+            "id": "ch36-q15",
+            "text": "What does Surah Ya-Sin teach about livestock and human benefit from them?",
+            "answer": "Allah created them for people to use for transport, food, and other benefits, so people should be thankful."
+        },
+        {
+            "id": "ch36-q16",
+            "text": "What is one warning in the Surah about spending and selfishness?",
+            "answer": "Some people mock calls to charity, but the Surah exposes their arrogance and warns of accountability."
+        },
+        {
+            "id": "ch36-q17",
+            "text": "True/False: The Surah says that mockery of believers is harmless.",
+            "answer": "False. Mockery reflects arrogance and can be a reason for punishment and regret."
+        },
+        {
+            "id": "ch36-q18",
+            "text": "What does the Surah teach about the suddenness of the Hour?",
+            "answer": "It can come unexpectedly, leaving no time for excuses, so preparation must happen before it arrives."
+        },
+        {
+            "id": "ch36-q19",
+            "text": "What is one key image used to describe people emerging after resurrection?",
+            "answer": "They come out from their graves and rush toward their Lord, realizing the reality they denied."
+        },
+        {
+            "id": "ch36-q20",
+            "text": "How does the Surah describe the atmosphere in Paradise for the believers?",
+            "answer": "Peace, honor, and a direct greeting of peace, with comfort and joy without fear."
+        },
+        {
+            "id": "ch36-q21",
+            "text": "What does the Surah teach about the separation between believers and criminals on the Last Day?",
+            "answer": "Criminals will be told to stand apart, showing the clear distinction between paths and outcomes."
+        },
+        {
+            "id": "ch36-q22",
+            "text": "Why will people's own bodies testify against them in the Hereafter?",
+            "answer": "To establish undeniable proof of what they did, showing that nothing was hidden from Allah."
+        },
+        {
+            "id": "ch36-q23",
+            "text": "What does the Surah teach about friendship and influence on the Day of Judgment?",
+            "answer": "Relationships built on misguidance will not save; people will regret following those who led them away."
+        },
+        {
+            "id": "ch36-q24",
+            "text": "What does Surah Ya-Sin teach about Satan's role in misguiding people?",
+            "answer": "Satan invites to wrong paths, and people are warned not to follow him and to worship Allah alone."
+        },
+        {
+            "id": "ch36-q25",
+            "text": "How does the Surah respond to denial of resurrection using the example of decayed bones?",
+            "answer": "It teaches that the One who created the first time can recreate again, and nothing is difficult for Him."
+        },
+        {
+            "id": "ch36-q26",
+            "text": "What does the Surah teach through the example of producing fire from a green tree?",
+            "answer": "That Allah brings opposites from one another, showing His power to do what people find unlikely."
+        },
+        {
+            "id": "ch36-q27",
+            "text": "What is the meaning of Allah creating by the command 'Be'?",
+            "answer": "That Allah's will is decisive; when He intends something, it happens without needing effort or delay."
+        },
+        {
+            "id": "ch36-q28",
+            "text": "Why is the dominion of all things mentioned at the end of the Surah?",
+            "answer": "To remind that everything is under Allah's control and that all will return to Him."
+        },
+        {
+            "id": "ch36-q29",
+            "text": "True/False: The Surah presents the Prophet as a poet who composed the Quran.",
+            "answer": "False. It states his mission is to convey clear revelation, not poetry."
+        },
+        {
+            "id": "ch36-q30",
+            "text": "What does the Surah teach about the Quran being a living reminder?",
+            "answer": "It warns those who have spiritual life and conscience, while those hardened in denial remain unmoved."
+        },
+        {
+            "id": "ch36-q31",
+            "text": "How does Surah Ya-Sin encourage gratitude as a response to Allah's signs?",
+            "answer": "By listing signs in creation and provision, it pushes the heart to thank Allah instead of being heedless."
+        },
+        {
+            "id": "ch36-q32",
+            "text": "What is one reflection-based lesson from the town story about community pressure?",
+            "answer": "Truth may be opposed by crowds, but a sincere believer must stand firm even when alone."
+        },
+        {
+            "id": "ch36-q33",
+            "text": "What does the Surah teach about the ease of punishment for Allah?",
+            "answer": "That Allah can end a matter with a single command; His power is immediate and complete."
+        },
+        {
+            "id": "ch36-q34",
+            "text": "How does the Surah correct the misunderstanding that Allah forgets human deeds over time?",
+            "answer": "It teaches that deeds and even their effects are recorded and will be brought forth in judgment."
+        },
+        {
+            "id": "ch36-q35",
+            "text": "What does the Surah teach about the human tendency to argue rather than submit to truth?",
+            "answer": "Some people dispute obvious realities, but the Surah exposes their denial and calls them back to reflection."
+        },
+        {
+            "id": "ch36-q36",
+            "text": "What is one practical step the Surah implies for avoiding regret in the Hereafter?",
+            "answer": "Respond to the Quran with repentance and righteous action before the Day arrives."
+        },
+        {
+            "id": "ch36-q37",
+            "text": "True/False: The Surah implies that moral choices leave no trace beyond the moment.",
+            "answer": "False. It teaches that actions and their traces remain recorded and will be accounted for."
+        },
+        {
+            "id": "ch36-q38",
+            "text": "Why is 'peace' highlighted as a major gift for the people of Paradise?",
+            "answer": "Because it includes safety from fear, removal of sorrow, and honor from Allah's mercy."
+        },
+        {
+            "id": "ch36-q39",
+            "text": "What does the Surah teach about the relationship between worship and freedom?",
+            "answer": "True freedom comes from worshipping Allah alone and not becoming enslaved to desires or Satan."
+        },
+        {
+            "id": "ch36-q40",
+            "text": "How does Surah Ya-Sin shape a believer's attitude toward death?",
+            "answer": "It treats death as a truthful turning point and urges preparation through faith and righteous deeds."
+        },
+        {
+            "id": "ch36-q41",
+            "text": "What does the Surah teach about Allah's closeness to human life through His knowledge?",
+            "answer": "That Allah knows human states deeply and nothing in life is hidden from Him."
+        },
+        {
+            "id": "ch36-q42",
+            "text": "How does the Surah warn against wasting life with distractions and denial?",
+            "answer": "It exposes the consequences of heedlessness and calls people to take the reminder seriously."
+        },
+        {
+            "id": "ch36-q43",
+            "text": "What is one ethical lesson from the Surah's emphasis on charity and provision?",
+            "answer": "Recognize that provision is from Allah and share it responsibly rather than mocking or refusing generosity."
+        },
+        {
+            "id": "ch36-q44",
+            "text": "What does the Surah imply about the strength of Allah's proof against deniers?",
+            "answer": "The signs in creation and the clarity of revelation leave deniers without a valid excuse."
+        },
+        {
+            "id": "ch36-q45",
+            "text": "What is one spiritual benefit of frequently reciting and reflecting on Ya-Sin?",
+            "answer": "It strengthens certainty in the Hereafter, increases gratitude, and pushes the heart toward repentance."
+        },
+        {
+            "id": "ch36-q46",
+            "text": "True/False: The Surah teaches that Allah becomes tired or fatigued from creating.",
+            "answer": "False. Allah creates without fatigue; His power is perfect."
+        },
+        {
+            "id": "ch36-q47",
+            "text": "How does the Surah connect tawhid to everyday signs like the sun, moon, and crops?",
+            "answer": "It shows these signs are under one Lord's control, so worship should be directed to Him alone."
+        },
+        {
+            "id": "ch36-q48",
+            "text": "What does Surah Ya-Sin teach about the final return of all beings?",
+            "answer": "That all will be gathered and returned to Allah for judgment and recompense."
+        },
+        {
+            "id": "ch36-q49",
+            "text": "What is a key misconception about resurrection that the Surah corrects?",
+            "answer": "That decay makes revival impossible; the Surah teaches the Creator can recreate with ease."
+        },
+        {
+            "id": "ch36-q50",
+            "text": "What is the Surah's strongest call to action for someone who understands its message?",
+            "answer": "To repent, worship Allah alone, live righteously, and prepare for meeting Him."
+        },
+        {
+            "id": "ch36-q51",
+            "text": "How is Surah Ya-Sin often described in Prophetic traditions?",
+            "answer": "It is referred to as the 'Heart of the Quran' (Qalb al-Quran)."
+        },
+        {
+            "id": "ch36-q52",
+            "text": "What is the oath at the beginning of the Surah used to confirm?",
+            "answer": "That Muhammad (SAW) is indeed among the Messengers, on a straight path."
+        },
+        {
+            "id": "ch36-q53",
+            "text": "How does the Surah describe the spiritual state of stubborn disbelievers at the start?",
+            "answer": "They have shackles around their necks up to their chins, and barriers before and behind them, so they cannot see."
+        },
+        {
+            "id": "ch36-q54",
+            "text": "What is written in the 'Imam al-Mubin' (Clear Record)?",
+            "answer": "Everything: the deeds of people and the traces they leave behind."
+        },
+        {
+            "id": "ch36-q55",
+            "text": "In the story of the town, how many Messengers were originally sent and how many was it reinforced to?",
+            "answer": "Two were sent, and they were reinforced with a third."
+        },
+        {
+            "id": "ch36-q56",
+            "text": "Who came running from the farthest part of the city to support the Messengers?",
+            "answer": "A man (Habib al-Najjar) who urged his people to follow the Messengers."
+        },
+        {
+            "id": "ch36-q57",
+            "text": "What was the man's reward for his faith after his people killed him?",
+            "answer": "He was told 'Enter Paradise,' and he wished his people knew how his Lord had forgiven him."
+        },
+        {
+            "id": "ch36-q58",
+            "text": "How were the people of the city destroyed after rejecting the Messengers?",
+            "answer": "By a single 'Saykhah' (blast), after which they were extinguished."
+        },
+        {
+            "id": "ch36-q59",
+            "text": "What sign does the Surah mention regarding night and day?",
+            "answer": "Allah strips the day from the night, and suddenly they are in darkness."
+        },
+        {
+            "id": "ch36-q60",
+            "text": "What is said about the Sun and the Moon in their orbits?",
+            "answer": "The sun runs toward its stopping point, and the moon has been ordained phases until it returns like an old dried curved date stalk; each is swimming in an orbit."
+        },
+        {
+            "id": "ch36-q61",
+            "text": "What is the 'laden ship' mentioned as carrying earlier people?",
+            "answer": "The Ark of Nuh (AS)."
+        },
+        {
+            "id": "ch36-q62",
+            "text": "What will happen when the Trumpet is blown (the second time)?",
+            "answer": "They will emerge from the graves and race toward their Lord."
+        },
+        {
+            "id": "ch36-q63",
+            "text": "What is the greeting from the Merciful Lord to the inhabitants of Paradise?",
+            "answer": "'Salam' (Peace)."
+        },
+        {
+            "id": "ch36-q64",
+            "text": "What command will be given to the 'criminals' on the Day of Judgment?",
+            "answer": "'Stand apart today, O criminals'."
+        },
+        {
+            "id": "ch36-q65",
+            "text": "What will happen to the mouths, hands, and feet of people on the Last Day?",
+            "answer": "Allah will seal their mouths, and their hands will speak to Him, and their feet will testify to what they earned."
+        },
+        {
+            "id": "ch36-q66",
+            "text": "Is the Prophet (SAW) a poet?",
+            "answer": "No. The Surah states that Allah did not teach him poetry, and it is not fitting for his mission."
+        },
+        {
+            "id": "ch36-q67",
+            "text": "What parable is used for the revival of the dead at the end of the Surah?",
+            "answer": "The One who created them the first time will revive them; He who produces fire for you from the green tree."
+        },
+        {
+            "id": "ch36-q68",
+            "text": "How does Allah create something when He intends it?",
+            "answer": "He only says to it 'Kun' (Be), and it is."
+        },
+        {
+            "id": "ch36-q69",
+            "text": "Who has the dominion (Malakut) of all things in His hand?",
+            "answer": "Allah, the Exalted."
+        },
+        {
+            "id": "ch36-q70",
+            "text": "What is the primary purpose of the Quran described near the end of the Surah?",
+            "answer": "To warn whoever is alive and that the word (decree) may be justified against the disbelievers."
+        }
+    ]
 }

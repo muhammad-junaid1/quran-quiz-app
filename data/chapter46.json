@@ -1,108 +1,353 @@
 {
-  "id": 46,
-  "englishName": "Al-Ahqaf",
-  "arabicName": "الأحقاف",
-  "translation": "The Wind-Curved Sandhills",
-  "questions": [
-    {
-      "id": "ch46-q1",
-      "text": "What does 'Al-Ahqaf' refer to?",
-      "answer": "The wind-curved sand dunes where the people of 'Ad lived."
-    },
-    {
-      "id": "ch46-q2",
-      "text": "Was the universe created without a purpose?",
-      "answer": "No, Allah created the heavens and earth only in truth and for a specified term."
-    },
-    {
-      "id": "ch46-q3",
-      "text": "What challenge is given to those who worship others besides Allah (Verse 4)?",
-      "answer": "Show me what they have created on earth, or do they have a share in the heavens?"
-    },
-    {
-      "id": "ch46-q4",
-      "text": "Who is more astray than the one who calls upon those who cannot respond until the Day of Resurrection?",
-      "answer": "No one; they are heedless of their supplication."
-    },
-    {
-      "id": "ch46-q5",
-      "text": "What is the Prophet's (SAW) declaration regarding himself in Verse 9?",
-      "answer": "'I am not something new among the messengers, nor do I know what will be done with me or with you'."
-    },
-    {
-      "id": "ch46-q6",
-      "text": "What was the 'Witness' from the Children of Israel (Verse 10)?",
-      "answer": "A scholar (like Abdullah bin Salam) who testified to the similarity of the Quran to previous scriptures."
-    },
-    {
-      "id": "ch46-q7",
-      "text": "How long is the period of pregnancy and weaning mentioned in Verse 15?",
-      "answer": "Thirty months."
-    },
-    {
-      "id": "ch46-q8",
-      "text": "What is the prayer of a person when they reach 'full strength' (forty years)?",
-      "answer": "To be grateful for favors, to do righteous deeds, and for Allah to make their offspring righteous."
-    },
-    {
-      "id": "ch46-q9",
-      "text": "What is the contrast to the righteous child in Verse 17?",
-      "answer": "The one who says 'Uff' to his parents and mocks the idea of resurrection."
-    },
-    {
-      "id": "ch46-q10",
-      "text": "Which Prophet was sent to the people of Al-Ahqaf?",
-      "answer": "Prophet Hud (AS)."
-    },
-    {
-      "id": "ch46-q11",
-      "text": "What did the people of 'Ad think the cloud of punishment was at first?",
-      "answer": "A cloud that would bring them rain."
-    },
-    {
-      "id": "ch46-q12",
-      "text": "What remained of the people of 'Ad after their destruction?",
-      "answer": "Nothing could be seen except their dwellings."
-    },
-    {
-      "id": "ch46-q13",
-      "text": "Who were the 'group of Jinn' mentioned in Verse 29?",
-      "answer": "A group that listened to the Quran, became believers, and went back to their people as warners."
-    },
-    {
-      "id": "ch46-q14",
-      "text": "What did the Jinn say about the Quran after hearing it?",
-      "answer": "They said it was a Book revealed after Musa, confirming what came before it and guiding to a straight path."
-    },
-    {
-      "id": "ch46-q15",
-      "text": "Is Allah tired by the creation of the heavens and earth?",
-      "answer": "No, He who created them without being tired is able to give life to the dead."
-    },
-    {
-      "id": "ch46-q16",
-      "text": "What will the disbelievers say when presented to the Fire?",
-      "answer": "They will admit 'Yes, by our Lord [this is the truth]'."
-    },
-    {
-      "id": "ch46-q17",
-      "text": "How should the Prophet (SAW) be patient according to the final verse?",
-      "answer": "Patient as were those of 'firm resolve' (Ulul 'Azm) among the messengers."
-    },
-    {
-      "id": "ch46-q18",
-      "text": "How long will the Day of Judgment seem to the disbelievers?",
-      "answer": "Like they had remained in the world for only an hour of a day."
-    },
-    {
-      "id": "ch46-q19",
-      "text": "What is the 'Balagh' (Notification)?",
-      "answer": "The Quran/The Message."
-    },
-    {
-      "id": "ch46-q20",
-      "text": "Who will be destroyed except the 'defiantly disobedient' people?",
-      "answer": "No one; Allah's justice is perfect."
-    }
-  ]
+    "id": 46,
+    "englishName": "Al-Ahqaf",
+    "arabicName": "الأحقاف",
+    "translation": "The Wind-Curved Sandhills",
+    "questions": [
+        {
+            "id": "ch46-q1",
+            "text": "What is the main message of Surah Al-Ahqaf about creation and purpose?",
+            "answer": "That Allah created the heavens and earth in truth and with a set term, so people must prepare for accountability."
+        },
+        {
+            "id": "ch46-q2",
+            "text": "How does the Surah challenge the logic of worshipping others besides Allah?",
+            "answer": "It asks what they created or controlled, exposing that they have no share in creation or authority."
+        },
+        {
+            "id": "ch46-q3",
+            "text": "True/False: The Surah suggests that false gods can answer prayers like Allah.",
+            "answer": "False. It teaches they cannot respond and are even unaware of being called."
+        },
+        {
+            "id": "ch46-q4",
+            "text": "What does the Surah teach about the danger of calling upon beings that cannot respond?",
+            "answer": "It is misguidance that wastes a person's worship and leads to regret in the Hereafter."
+        },
+        {
+            "id": "ch46-q5",
+            "text": "What does the Surah teach about the Prophet being part of a long chain of messengers?",
+            "answer": "That he is not new among messengers; he continues the same call to tawhid and guidance."
+        },
+        {
+            "id": "ch46-q6",
+            "text": "Why is it important that the Prophet does not claim independent knowledge of the future?",
+            "answer": "It shows humility and truthfulness; knowledge of outcomes belongs to Allah."
+        },
+        {
+            "id": "ch46-q7",
+            "text": "How does the Surah present the Quran's connection to earlier revelation?",
+            "answer": "It describes the Quran as confirming previous guidance and calling to a straight path."
+        },
+        {
+            "id": "ch46-q8",
+            "text": "What does the Surah teach about respecting and serving parents?",
+            "answer": "It emphasizes gratitude to parents, kindness, and recognizing their sacrifices, especially the mother."
+        },
+        {
+            "id": "ch46-q9",
+            "text": "Why does the Surah mention pregnancy and weaning?",
+            "answer": "To highlight the mother's hardship and to awaken gratitude, compassion, and responsibility."
+        },
+        {
+            "id": "ch46-q10",
+            "text": "What is a key lesson from the du'a of a person who reaches maturity?",
+            "answer": "Ask Allah for gratitude, righteous deeds, and righteous offspring, showing balanced concern for self and family."
+        },
+        {
+            "id": "ch46-q11",
+            "text": "True/False: The Surah teaches that family ties are irrelevant if someone is religious.",
+            "answer": "False. It teaches gratitude to parents and righteous family relationships as part of faith."
+        },
+        {
+            "id": "ch46-q12",
+            "text": "What does the Surah warn about the attitude of a child who says 'uff' to parents?",
+            "answer": "It is a sign of ingratitude and arrogance, often paired with mocking the Hereafter."
+        },
+        {
+            "id": "ch46-q13",
+            "text": "How does the Surah connect disrespecting parents with disbelief in resurrection?",
+            "answer": "Both reflect arrogance and rejection of truth and gratitude, leading to loss."
+        },
+        {
+            "id": "ch46-q14",
+            "text": "What prophet is associated with the people of Al-Ahqaf in this Surah?",
+            "answer": "Prophet Hud (AS), who warned the people of 'Ad."
+        },
+        {
+            "id": "ch46-q15",
+            "text": "What was one major sin of the people of 'Ad according to this Surah's message?",
+            "answer": "They rejected Hud's warning and persisted in arrogance and denial."
+        },
+        {
+            "id": "ch46-q16",
+            "text": "Why is it significant that 'Ad mistook the coming punishment for a rain cloud?",
+            "answer": "It shows how people can misread warnings due to arrogance and wishful thinking."
+        },
+        {
+            "id": "ch46-q17",
+            "text": "What does the Surah teach about Allah's punishment when a people persist in denial?",
+            "answer": "It can come decisively, leaving nothing but dwellings as a lesson for others."
+        },
+        {
+            "id": "ch46-q18",
+            "text": "True/False: The Surah suggests that material ruins prove a people were righteous.",
+            "answer": "False. Ruins can be evidence of punishment and a warning to later generations."
+        },
+        {
+            "id": "ch46-q19",
+            "text": "What does Surah Al-Ahqaf teach about the limits of senses and worldly knowledge?",
+            "answer": "Having senses and resources does not help if people refuse guidance and remain arrogant."
+        },
+        {
+            "id": "ch46-q20",
+            "text": "Why does the Surah mention a group of jinn listening to the Quran?",
+            "answer": "To show the Quran's guidance reaches beyond humans and that sincere listeners accept it."
+        },
+        {
+            "id": "ch46-q21",
+            "text": "What did the believing jinn do after listening to the Quran?",
+            "answer": "They believed and returned to their people as warners, inviting them to Allah."
+        },
+        {
+            "id": "ch46-q22",
+            "text": "What does the jinn story teach about da'wah (inviting to Allah)?",
+            "answer": "A person who benefits from guidance should share it with compassion and responsibility."
+        },
+        {
+            "id": "ch46-q23",
+            "text": "How does the Surah argue for resurrection using creation?",
+            "answer": "The One who created the heavens and earth without fatigue can raise the dead with ease."
+        },
+        {
+            "id": "ch46-q24",
+            "text": "True/False: The Surah implies Allah becomes tired from creating.",
+            "answer": "False. It explicitly teaches Allah is not fatigued by creation."
+        },
+        {
+            "id": "ch46-q25",
+            "text": "What does the Surah teach about regret when people finally see the Fire?",
+            "answer": "They will admit the truth, but admission at that stage does not erase previous denial."
+        },
+        {
+            "id": "ch46-q26",
+            "text": "How does Surah Al-Ahqaf encourage patience for the Prophet and believers?",
+            "answer": "It calls for patience like the messengers of firm resolve, trusting Allah's timing."
+        },
+        {
+            "id": "ch46-q27",
+            "text": "Who are the messengers of firm resolve (ulul 'azm) generally known for?",
+            "answer": "Their steadfast patience and perseverance in conveying the message through intense opposition."
+        },
+        {
+            "id": "ch46-q28",
+            "text": "What is one lesson from the Surah about time and how life will feel after death?",
+            "answer": "Worldly life will seem short, so wasting it in denial is a catastrophic mistake."
+        },
+        {
+            "id": "ch46-q29",
+            "text": "How does the Surah define the Quran as 'balagh' (a notification)?",
+            "answer": "It is a clear delivered message that establishes proof and calls to salvation."
+        },
+        {
+            "id": "ch46-q30",
+            "text": "True/False: The Surah suggests that guidance is only for those born into it.",
+            "answer": "False. It presents guidance as a message to be accepted by sincere listeners, including even jinn."
+        },
+        {
+            "id": "ch46-q31",
+            "text": "What is one daily-life application of Surah Al-Ahqaf's teaching about parents?",
+            "answer": "Serve parents with kindness, gratitude, and patience, especially as they age."
+        },
+        {
+            "id": "ch46-q32",
+            "text": "How does the Surah teach balance between personal righteousness and concern for children?",
+            "answer": "It models making du'a for oneself and one's offspring, seeking righteousness for both."
+        },
+        {
+            "id": "ch46-q33",
+            "text": "What does the Surah teach about arrogance when confronted with evidence?",
+            "answer": "Arrogance leads people to reject even obvious truth, just like earlier destroyed nations."
+        },
+        {
+            "id": "ch46-q34",
+            "text": "Why is the destruction of 'Ad a warning against relying on strength and resources?",
+            "answer": "Because strength did not save them; only obedience and humility before Allah protect."
+        },
+        {
+            "id": "ch46-q35",
+            "text": "What does Surah Al-Ahqaf teach about sincere listening to the Quran?",
+            "answer": "Sincere listening leads to belief, humility, and action, rather than excuses and distraction."
+        },
+        {
+            "id": "ch46-q36",
+            "text": "What is one misconception about shirk corrected by the Surah's challenge question?",
+            "answer": "That false gods have real power; the Surah exposes they create nothing and control nothing."
+        },
+        {
+            "id": "ch46-q37",
+            "text": "How does the Surah motivate repentance without referencing ayah memorization?",
+            "answer": "By describing the end of denial, the certainty of judgment, and the shortness of life."
+        },
+        {
+            "id": "ch46-q38",
+            "text": "True/False: The Surah teaches that being warned by a messenger removes all personal responsibility.",
+            "answer": "False. The warning increases responsibility; people must choose how they respond."
+        },
+        {
+            "id": "ch46-q39",
+            "text": "What is one spiritual goal for reading Surah Al-Ahqaf carefully?",
+            "answer": "To strengthen tawhid, gratitude to parents, and certainty in resurrection and accountability."
+        },
+        {
+            "id": "ch46-q40",
+            "text": "What is the Surah's strongest call to action for modern readers?",
+            "answer": "Reject false worship, honor parents, accept the Quran sincerely, and prepare for meeting Allah."
+        },
+        {
+            "id": "ch46-q41",
+            "text": "How does the Surah connect community history with personal self-correction?",
+            "answer": "By using past nations as mirrors, it urges individuals to avoid repeating arrogance and denial."
+        },
+        {
+            "id": "ch46-q42",
+            "text": "What does the jinn story teach about humility in seeking guidance?",
+            "answer": "They listened quietly, accepted truth, and acted on it—showing humility leads to guidance."
+        },
+        {
+            "id": "ch46-q43",
+            "text": "How can a person avoid becoming like the arrogant child described in the Surah?",
+            "answer": "By practicing gratitude, respecting parents, and keeping the Hereafter in mind."
+        },
+        {
+            "id": "ch46-q44",
+            "text": "What does Surah Al-Ahqaf teach about Allah's timing in judgment?",
+            "answer": "Allah gives a set term; delay is not approval, and judgment still arrives."
+        },
+        {
+            "id": "ch46-q45",
+            "text": "Why is it important that the Surah stresses creation was not 'aimless'?",
+            "answer": "Because purpose implies accountability; denying the Hereafter contradicts the meaning of purposeful creation."
+        },
+        {
+            "id": "ch46-q46",
+            "text": "What is one emotional lesson from realizing life will seem short in retrospect?",
+            "answer": "Do not postpone repentance; invest life in what lasts."
+        },
+        {
+            "id": "ch46-q47",
+            "text": "How does the Surah teach that truth should be measured by evidence, not arrogance?",
+            "answer": "It challenges false worship logically and presents historical proof of consequences for denial."
+        },
+        {
+            "id": "ch46-q48",
+            "text": "What is one key lesson about da'wah from the jinn returning to their people?",
+            "answer": "Guidance should produce responsibility: convey truth with care, not selfishness."
+        },
+        {
+            "id": "ch46-q49",
+            "text": "True/False: The Surah teaches that only humans can be tested by revelation.",
+            "answer": "False. The Surah shows jinn also respond to revelation and are accountable."
+        },
+        {
+            "id": "ch46-q50",
+            "text": "What does 'Al-Ahqaf' refer to?",
+            "answer": "The wind-curved sand dunes where the people of 'Ad lived."
+        },
+        {
+            "id": "ch46-q51",
+            "text": "Was the universe created without a purpose?",
+            "answer": "No, Allah created the heavens and earth only in truth and for a specified term."
+        },
+        {
+            "id": "ch46-q52",
+            "text": "What challenge does the Surah give to those who worship others besides Allah?",
+            "answer": "Show me what they have created on earth, or do they have a share in the heavens?"
+        },
+        {
+            "id": "ch46-q53",
+            "text": "Who is more astray than the one who calls upon those who cannot respond until the Day of Resurrection?",
+            "answer": "No one; they are heedless of their supplication."
+        },
+        {
+            "id": "ch46-q54",
+            "text": "What does the Surah mention about the Prophet's role among the messengers?",
+            "answer": "'I am not something new among the messengers, nor do I know what will be done with me or with you'."
+        },
+        {
+            "id": "ch46-q55",
+            "text": "What does the Surah mention about a witness from the Children of Israel regarding the Quran?",
+            "answer": "A scholar (like Abdullah bin Salam) who testified to the similarity of the Quran to previous scriptures."
+        },
+        {
+            "id": "ch46-q56",
+            "text": "How long does the Surah mention for the period of pregnancy and weaning together?",
+            "answer": "Thirty months."
+        },
+        {
+            "id": "ch46-q57",
+            "text": "What is the prayer of a person when they reach 'full strength' (forty years)?",
+            "answer": "To be grateful for favors, to do righteous deeds, and for Allah to make their offspring righteous."
+        },
+        {
+            "id": "ch46-q58",
+            "text": "What is the contrast to the righteous child in a later ayah?",
+            "answer": "The one who says 'Uff' to his parents and mocks the idea of resurrection."
+        },
+        {
+            "id": "ch46-q59",
+            "text": "Which Prophet was sent to the people of Al-Ahqaf?",
+            "answer": "Prophet Hud (AS)."
+        },
+        {
+            "id": "ch46-q60",
+            "text": "What did the people of 'Ad think the cloud of punishment was at first?",
+            "answer": "A cloud that would bring them rain."
+        },
+        {
+            "id": "ch46-q61",
+            "text": "What remained of the people of 'Ad after their destruction?",
+            "answer": "Nothing could be seen except their dwellings."
+        },
+        {
+            "id": "ch46-q62",
+            "text": "Who were the group of jinn mentioned as listening to the Quran?",
+            "answer": "A group that listened to the Quran, became believers, and went back to their people as warners."
+        },
+        {
+            "id": "ch46-q63",
+            "text": "What did the Jinn say about the Quran after hearing it?",
+            "answer": "They said it was a Book revealed after Musa, confirming what came before it and guiding to a straight path."
+        },
+        {
+            "id": "ch46-q64",
+            "text": "Is Allah tired by the creation of the heavens and earth?",
+            "answer": "No, He who created them without being tired is able to give life to the dead."
+        },
+        {
+            "id": "ch46-q65",
+            "text": "What will the disbelievers say when presented to the Fire?",
+            "answer": "They will admit 'Yes, by our Lord [this is the truth]'."
+        },
+        {
+            "id": "ch46-q66",
+            "text": "How should the Prophet (SAW) be patient according to the the closing ayah?",
+            "answer": "Patient as were those of 'firm resolve' (Ulul 'Azm) among the messengers."
+        },
+        {
+            "id": "ch46-q67",
+            "text": "How long will the Day of Judgment seem to the disbelievers?",
+            "answer": "Like they had remained in the world for only an hour of a day."
+        },
+        {
+            "id": "ch46-q68",
+            "text": "What is the 'Balagh' (Notification)?",
+            "answer": "The Quran/The Message."
+        },
+        {
+            "id": "ch46-q69",
+            "text": "Who will be destroyed except the 'defiantly disobedient' people?",
+            "answer": "No one; Allah's justice is perfect."
+        }
+    ]
 }

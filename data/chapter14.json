@@ -6,7 +6,7 @@
   "questions": [
     {
       "id": "ch14-q1",
-      "text": "What is the stated purpose of revealing the Book (Quran) in Verse 1?",
+      "text": "What is the stated purpose of revealing the Book (Quran) in the opening ayah?",
       "answer": "To bring mankind out of darknesses into the light by permission of their Lord."
     },
     {
@@ -16,93 +16,393 @@
     },
     {
       "id": "ch14-q3",
+      "text": "What was the message Musa (AS) was commanded to give to his people regarding the 'Days of Allah'?",
+      "answer": "He was told to bring them out of darkness into light and remind them of the Days of Allah (His favors and trials upon them)."
+    },
+    {
+      "id": "ch14-q4",
+      "text": "What was the specific favor Musa (AS) reminded the Children of Israel about?",
+      "answer": "How Allah saved them from the people of Pharaoh, who afflicted them with worst torment and killed their sons."
+    },
+    {
+      "id": "ch14-q5",
+      "text": "What is the famous promise of Allah regarding gratitude mentioned in this Surah?",
+      "answer": "If you are grateful, I will surely increase you; but if you deny, My punishment is severe."
+    },
+    {
+      "id": "ch14-q6",
+      "text": "What would happen if everyone on earth were to disbelieve in Allah?",
+      "answer": "It would not harm Allah at all, for indeed, He is Free of need and Praiseworthy."
+    },
+    {
+      "id": "ch14-q7",
       "text": "What was the common reaction of the nations to their Messengers throughout history?",
       "answer": "They put their hands to their mouths in rejection and expressed deep doubt about what they were called to."
     },
     {
-      "id": "ch14-q4",
-      "text": "What is the famous promise of Allah regarding gratitude in Verse 7?",
-      "answer": "If you are grateful, I will surely increase you; but if you deny, My punishment is severe."
+      "id": "ch14-q8",
+      "text": "How did the Messengers respond to their people's doubt about Allah being the Creator?",
+      "answer": "They asked: 'Is there doubt about Allah, Creator of the heavens and the earth? He invites you that He may forgive you of your sins.'"
     },
     {
-      "id": "ch14-q5",
-      "text": "How did the Messengers respond to the threats of being expelled from their lands?",
+      "id": "ch14-q9",
+      "text": "What did the disbelieving nations say to the Messengers about being 'only human'?",
+      "answer": "They said, 'You are only human beings like us, who wish to avert us from what our fathers used to worship.'"
+    },
+    {
+      "id": "ch14-q10",
+      "text": "How did the Messengers respond to the threat of being expelled from their lands?",
       "answer": "They relied upon Allah, stating that they would be patient with the harm inflicted upon them."
     },
     {
-      "id": "ch14-q6",
+      "id": "ch14-q11",
+      "text": "What was Allah's promise to the Messengers regarding the wrongdoers?",
+      "answer": "'We will surely destroy the wrongdoers, and We will surely cause you to dwell in the land after them.'"
+    },
+    {
+      "id": "ch14-q12",
       "text": "Describe the drink given to the tyrants in Hell.",
       "answer": "They will be given 'Sadeed' (festering water/puss) which they will gulp but hardly be able to swallow."
     },
     {
-      "id": "ch14-q7",
+      "id": "ch14-q13",
+      "text": "What is the parable used for the deeds of those who disbelieve?",
+      "answer": "Their deeds are like ashes which the wind blows forcefully on a stormy day; they have no power over what they earned."
+    },
+    {
+      "id": "ch14-q14",
+      "text": "Can Allah replace mankind with a new creation if He wills?",
+      "answer": "Yes, if He wills, He can do away with you and bring in a new creation; that is not difficult for Allah."
+    },
+    {
+      "id": "ch14-q15",
+      "text": "What will the weak followers say to the arrogant leaders in the Fire?",
+      "answer": "They will say, 'Indeed, we were your followers, so can you avail us anything against the punishment of Allah?'"
+    },
+    {
+      "id": "ch14-q16",
       "text": "What will Satan say to his followers after the matter has been decided on Judgment Day?",
       "answer": "He will say Allah gave them a true promise, while he gave a false one; he had no authority over them except that he invited them and they responded."
     },
     {
-      "id": "ch14-q8",
+      "id": "ch14-q17",
+      "text": "Whom does Satan tell his followers to blame on the Day of Judgment?",
+      "answer": "He tells them: 'Do not blame me, but blame yourselves.'"
+    },
+    {
+      "id": "ch14-q18",
+      "text": "What is the greeting of the believers in Paradise?",
+      "answer": "Their greeting therein will be 'Salam' (Peace)."
+    },
+    {
+      "id": "ch14-q19",
       "text": "To what does Allah compare a 'Good Word' (Kalimah Tayyibah)?",
       "answer": "To a good tree whose root is firmly fixed and whose branches reach into the sky, yielding fruit at all times."
     },
     {
-      "id": "ch14-q9",
+      "id": "ch14-q20",
       "text": "To what does Allah compare an 'Evil Word' (Kalimah Khabithah)?",
       "answer": "To an uprooted tree from the surface of the earth, having no stability."
     },
     {
-      "id": "ch14-q10",
+      "id": "ch14-q21",
       "text": "How does Allah keep the believers firm in this life and the next?",
       "answer": "With the 'word that stands firm' (the Shahadah/Faith)."
     },
     {
-      "id": "ch14-q11",
+      "id": "ch14-q22",
+      "text": "What have those who exchanged the favor of Allah for disbelief done to their people?",
+      "answer": "They have settled their people in the Home of Ruin—Hell."
+    },
+    {
+      "id": "ch14-q23",
+      "text": "What are the believers commanded to do before the Day of Judgment arrives?",
+      "answer": "Establish prayer and spend from what Allah has provided them, secretly and publicly."
+    },
+    {
+      "id": "ch14-q24",
       "text": "What has Allah subjected (Sakh-khara) for the benefit of humans mentioned in this Surah?",
       "answer": "The ships, the rivers, the sun, the moon, and the night and day."
     },
     {
-      "id": "ch14-q12",
+      "id": "ch14-q25",
       "text": "What is the consequence if humans try to count the favors of Allah?",
-      "answer": "They will never be able to number them."
+      "answer": "They will never be able to number them; indeed, mankind is most unjust and ungrateful."
     },
     {
-      "id": "ch14-q13",
+      "id": "ch14-q26",
       "text": "What was Ibrahim's (AS) primary prayer for the city of Makkah?",
       "answer": "To make the city secure and to keep him and his sons away from worshipping idols."
     },
     {
-      "id": "ch14-q14",
-      "text": "Why did Ibrahim (AS) settle his family in an uncultivated valley?",
+      "id": "ch14-q27",
+      "text": "How does Ibrahim (AS) describe the influence of idols on mankind?",
+      "answer": "He says, 'My Lord, indeed they have led astray many among mankind.'"
+    },
+    {
+      "id": "ch14-q28",
+      "text": "Why did Ibrahim (AS) settle his family in an uncultivated valley near the Sacred House?",
       "answer": "So that they might establish prayer (As-Salat)."
     },
     {
-      "id": "ch14-q15",
+      "id": "ch14-q29",
+      "text": "What was Ibrahim's (AS) request for the people of Makkah regarding his family?",
+      "answer": "He asked Allah to make hearts among the people incline toward them and to provide them with fruits so they might be grateful."
+    },
+    {
+      "id": "ch14-q30",
       "text": "In his prayer, how does Ibrahim (AS) describe Allah's knowledge of our emotions?",
       "answer": "He says Allah knows what we conceal and what we declare."
     },
     {
-      "id": "ch14-q16",
+      "id": "ch14-q31",
+      "text": "What did Ibrahim (AS) thank Allah for in his old age?",
+      "answer": "For granting him Isma'il and Ishaq, despite his old age."
+    },
+    {
+      "id": "ch14-q32",
+      "text": "What was Ibrahim's (AS) specific prayer regarding his progeny's worship?",
+      "answer": "'My Lord, make me an establisher of prayer, and [many] from my descendants.'"
+    },
+    {
+      "id": "ch14-q33",
       "text": "What was Ibrahim's (AS) request for his parents and the believers at the end of his prayer?",
       "answer": "Forgiveness on the Day the account is established."
     },
     {
-      "id": "ch14-q17",
+      "id": "ch14-q34",
       "text": "Should the Prophet think that Allah is unaware of what the wrongdoers do?",
       "answer": "No, Allah is only delaying them until a Day when eyes will stare in horror."
     },
     {
-      "id": "ch14-q18",
+      "id": "ch14-q35",
       "text": "What will be the physical state of the wrongdoers as they run on Judgment Day?",
       "answer": "They will be racing ahead, necks outstretched, heads raised, their gaze not returning to them, and their hearts void."
     },
     {
-      "id": "ch14-q19",
-      "text": "What will happen to the Earth and the Heavens on the Last Day?",
-      "answer": "The Earth will be replaced by another earth, and the Heavens as well."
+      "id": "ch14-q36",
+      "text": "What will people say when they see the punishment and ask for a second chance?",
+      "answer": "They will say, 'Our Lord, delay us for a short term; we will respond to Your call and follow the messengers.'"
     },
     {
-      "id": "ch14-q20",
-      "text": "What is the final summary of the Quran's message in the last verse?",
-      "answer": "It is a notification (Balagh) for mankind that they may be warned and know that He is one God."
+      "id": "ch14-q37",
+      "text": "What will be the response to those who ask for a second chance?",
+      "answer": "They will be reminded: 'Had you not sworn before that for you there would be no decline?'"
+    },
+    {
+      "id": "ch14-q38",
+      "text": "What will happen to the Earth and the Heavens on the Last Day?",
+      "answer": "The Earth will be replaced by another earth, and the Heavens as well, and they will all come forth before Allah."
+    },
+    {
+      "id": "ch14-q39",
+      "text": "How will the criminals be seen on the Day of Judgment?",
+      "answer": "Bound together in shackles."
+    },
+    {
+      "id": "ch14-q40",
+      "text": "What will be the clothing of the people of Hell?",
+      "answer": "Their garments will be of liquid pitch (tar), and their faces will be covered by the Fire."
+    },
+    {
+      "id": "ch14-q41",
+      "text": "What is the final summary of the Quran's message in the last Ayah of this Surah?",
+      "answer": "It is a notification (Balagh) for mankind that they may be warned and know that He is one God, and that those of understanding may be reminded."
+    },
+    {
+      "id": "ch14-q42",
+      "text": "What is the 'Straight Path' mentioned in the opening of the Surah?",
+      "answer": "The path of the Exalted in Might, the Praiseworthy (Allah)."
+    },
+    {
+      "id": "ch14-q43",
+      "text": "What is the 'Woe' for the disbelievers?",
+      "answer": "A severe punishment in the Hereafter."
+    },
+    {
+      "id": "ch14-q44",
+      "text": "What is the characteristic of those who prefer the worldly life over the Hereafter?",
+      "answer": "They are in extreme error."
+    },
+    {
+      "id": "ch14-q45",
+      "text": "How does Allah describe His ability to guide or leave astray?",
+      "answer": "He leaves astray whom He wills and guides whom He wills, and He is the Exalted in Might, the Wise."
+    },
+    {
+      "id": "ch14-q46",
+      "text": "What is the 'patience' of the messengers in the face of mockery?",
+      "answer": "Their steadfastness and reliance on Allah despite the harm and rejection they faced."
+    },
+    {
+      "id": "ch14-q47",
+      "text": "What is the 'victory' (Al-Fath) sought by the messengers?",
+      "answer": "Allah's judgment and support against the arrogant tyrants."
+    },
+    {
+      "id": "ch14-q48",
+      "text": "What is the 'Great Loss' (Al-Khusran al-Mubin)?",
+      "answer": "The state of those whose deeds are like ashes in the wind."
+    },
+    {
+      "id": "ch14-q49",
+      "text": "How does Allah describe the 'truth' in creation?",
+      "answer": "The heavens and the earth were created with truth (purpose and justice)."
+    },
+    {
+      "id": "ch14-q50",
+      "text": "What is the 'invitation' of Satan?",
+      "answer": "A call to falsehood and disobedience that has no real authority."
+    },
+    {
+      "id": "ch14-q51",
+      "text": "What is the 'true promise' of Allah?",
+      "answer": "His promise of reward for the believers and punishment for the disbelievers."
+    },
+    {
+      "id": "ch14-q52",
+      "text": "What is the 'yield' of the good tree?",
+      "answer": "Its fruit, which it produces at all times by the permission of its Lord."
+    },
+    {
+      "id": "ch14-q53",
+      "text": "What is the 'stability' of the believers?",
+      "answer": "Their firm heart and mind anchored in the word of faith."
+    },
+    {
+      "id": "ch14-q54",
+      "text": "What is the 'Home of Ruin'?",
+      "answer": "Hellfire."
+    },
+    {
+      "id": "ch14-q55",
+      "text": "What are the 'partners' people assign to Allah?",
+      "answer": "Idols, leaders, or worldly desires they follow instead of Allah's guidance."
+    },
+    {
+      "id": "ch14-q56",
+      "text": "What is the 'security' of Makkah?",
+      "answer": "The special status of the city as a sanctuary of peace."
+    },
+    {
+      "id": "ch14-q57",
+      "text": "What is the 'valley' where Ibrahim left his family?",
+      "answer": "The valley of Bakkah (Makkah)."
+    },
+    {
+      "id": "ch14-q58",
+      "text": "What is the 'gratitude' of Ibrahim?",
+      "answer": "His continuous praise and prayer to Allah for all His gifts."
+    },
+    {
+      "id": "ch14-q59",
+      "text": "What is the 'Day the account is established'?",
+      "answer": "The Day of Resurrection."
+    },
+    {
+      "id": "ch14-q60",
+      "text": "What is the 'delay' for the wrongdoers?",
+      "answer": "A temporary period in this life before their final judgment."
+    },
+    {
+      "id": "ch14-q61",
+      "text": "What is the 'staring' of the eyes in horror?",
+      "answer": "The shock of seeing the reality of the Hereafter."
+    },
+    {
+      "id": "ch14-q62",
+      "text": "What is the 'void' heart?",
+      "answer": "A heart empty of hope and full of terror on the Day of Judgment."
+    },
+    {
+      "id": "ch14-q63",
+      "text": "What is the 'decline' (Zawal)?",
+      "answer": "The end of one's power and life on earth."
+    },
+    {
+      "id": "ch14-q64",
+      "text": "What is the 'replacement' of the earth and heavens?",
+      "answer": "The transformation of the universe for the Day of Judgment."
+    },
+    {
+      "id": "ch14-q65",
+      "text": "What are the 'shackles' (Asfad)?",
+      "answer": "The chains with which the criminals will be bound."
+    },
+    {
+      "id": "ch14-q66",
+      "text": "What is 'liquid pitch' (Qatiran)?",
+      "answer": "A burning, sticky substance that will be the clothing of the people of Hell."
+    },
+    {
+      "id": "ch14-q67",
+      "text": "What is the 'notification' (Balagh)?",
+      "answer": "A clear communication from Allah to all of mankind."
+    },
+    {
+      "id": "ch14-q68",
+      "text": "What is the 'One God' (Ilahun Wahid)?",
+      "answer": "The central message of Tawhid (Oneness of Allah)."
+    },
+    {
+      "id": "ch14-q69",
+      "text": "What is the 'remembrance' for those of understanding?",
+      "answer": "The lessons and warnings of the Quran."
+    },
+    {
+      "id": "ch14-q70",
+      "text": "How many favors did Allah give to mankind according to this Surah?",
+      "answer": "An uncountable number of favors."
+    },
+    {
+      "id": "ch14-q71",
+      "text": "What is the 'language' of the message?",
+      "answer": "The tongue of the people to whom a messenger is sent."
+    },
+    {
+      "id": "ch14-q72",
+      "text": "What is the 'darkness' (Zulumat)?",
+      "answer": "Shirk, ignorance, and misguidance."
+    },
+    {
+      "id": "ch14-q73",
+      "text": "What is the 'light' (Nur)?",
+      "answer": "Faith, knowledge, and guidance."
+    },
+    {
+      "id": "ch14-q74",
+      "text": "What is the 'permission of their Lord'?",
+      "answer": "The divine decree that allows people to be guided."
+    },
+    {
+      "id": "ch14-q75",
+      "text": "What is the 'Praiseworthy' (Al-Hamid)?",
+      "answer": "An attribute of Allah, meaning He is deserving of all praise."
+    },
+    {
+      "id": "ch14-q76",
+      "text": "What is the 'desire' for worldly life?",
+      "answer": "Prioritizing temporary pleasures over eternal success."
+    },
+    {
+      "id": "ch14-q77",
+      "text": "What is the 'wrongdoers' (Zalimun)?",
+      "answer": "Those who reject Allah and His messengers."
+    },
+    {
+      "id": "ch14-q78",
+      "text": "What is the 'purity' of the word?",
+      "answer": "The truth and clarity of the message of Tawhid."
+    },
+    {
+      "id": "ch14-q79",
+      "text": "What is the 'stability' of the good tree?",
+      "answer": "Its deep roots and firm branches."
+    },
+    {
+      "id": "ch14-q80",
+      "text": "What is the 'notification' to the people?",
+      "answer": "The Quran's call to all of humanity."
     }
   ]
 }

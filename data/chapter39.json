@@ -1,108 +1,358 @@
 {
-  "id": 39,
-  "englishName": "Az-Zumar",
-  "arabicName": "الزمر",
-  "translation": "The Groups",
-  "questions": [
-    {
-      "id": "ch39-q1",
-      "text": "What is the primary demand of Allah in the beginning of Surah Az-Zumar?",
-      "answer": "Sincere, pure devotion/religion (Ad-Deen al-Khalis) to Him alone."
-    },
-    {
-      "id": "ch39-q2",
-      "text": "What is the excuse polytheists give for worshipping others besides Allah (Verse 3)?",
-      "answer": "They say 'We only worship them so that they may bring us nearer to Allah in station'."
-    },
-    {
-      "id": "ch39-q3",
-      "text": "In how many 'darknesses' are humans created in the wombs of their mothers?",
-      "answer": "Three darknesses."
-    },
-    {
-      "id": "ch39-q4",
-      "text": "How does Allah describe the 'skin' of those who fear their Lord when they hear the Quran?",
-      "answer": "Their skins shiver, then their skins and hearts relax at the remembrance of Allah."
-    },
-    {
-      "id": "ch39-q5",
-      "text": "What is the 'Best Hadith' (Ahsan al-Hadith) mentioned in Verse 23?",
-      "answer": "The Book (the Quran), consistent and repeating."
-    },
-    {
-      "id": "ch39-q6",
-      "text": "What is the parable of the man with multiple 'quarrelling partners' (Verse 29)?",
-      "answer": "It compares a polytheist (serving many conflicting masters) with a monotheist (serving one master); they are not equal."
-    },
-    {
-      "id": "ch39-q7",
-      "text": "What is the famous message of hope for those who have 'transgressed against themselves' (Verse 53)?",
-      "answer": "'Do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful'."
-    },
-    {
-      "id": "ch39-q8",
-      "text": "What will happen to the Earth on the Day of Judgment (Verse 67)?",
-      "answer": "The entire earth will be within His grip, and the heavens will be folded in His right hand."
-    },
-    {
-      "id": "ch39-q9",
-      "text": "How many times will the Trumpet be blown in this Surah's description?",
-      "answer": "Two times: the first causes all to fall dead/unconscious, and the second causes them to stand up looking on."
-    },
-    {
-      "id": "ch39-q10",
-      "text": "How will the disbelievers be driven to Hell?",
-      "answer": "In groups (Zumara)."
-    },
-    {
-      "id": "ch39-q11",
-      "text": "What will the keepers of Hell ask the disbelievers upon their arrival?",
-      "answer": "'Did there not come to you messengers from among yourselves, reciting the verses of your Lord?'."
-    },
-    {
-      "id": "ch39-q12",
-      "text": "How will the righteous be led to Paradise?",
-      "answer": "In groups (Zumara), and its gates will be opened for them."
-    },
-    {
-      "id": "ch39-q13",
-      "text": "What is the greeting of the keepers of Paradise to the believers?",
-      "answer": "'Peace be upon you; you have become pure; so enter it to abide eternally therein'."
-    },
-    {
-      "id": "ch39-q14",
-      "text": "What will the believers say when they enter Paradise?",
-      "answer": "'Praise to Allah, who has fulfilled for us His promise and made us inherit the earth [of Paradise]'."
-    },
-    {
-      "id": "ch39-q15",
-      "text": "What is the 'Az-Zumar' that the Surah is named after?",
-      "answer": "The groups in which people will be led to their final destinations (Heaven or Hell)."
-    },
-    {
-      "id": "ch39-q16",
-      "text": "What is the 'loss' mentioned in Verse 15?",
-      "answer": "The loss of one's self and one's family on the Day of Resurrection; that is the manifest loss."
-    },
-    {
-      "id": "ch39-q17",
-      "text": "To whom belongs 'Intercession' (Shafa'ah) entirely?",
-      "answer": "To Allah (Verse 44)."
-    },
-    {
-      "id": "ch39-q18",
-      "text": "What happens to the hearts of those who do not believe in the Hereafter when Allah is mentioned alone?",
-      "answer": "Their hearts shrink with aversion."
-    },
-    {
-      "id": "ch39-q19",
-      "text": "What does Allah do with the souls during sleep (Verse 42)?",
-      "answer": "He takes them; He keeps those for which death has been decreed and releases the others for a specified term."
-    },
-    {
-      "id": "ch39-q20",
-      "text": "What is the status of the 'Truthful' (those who bring the truth and believe it)?",
-      "answer": "They are the 'Muttaqun' (the righteous/God-fearing)."
-    }
-  ]
+    "id": 39,
+    "englishName": "Az-Zumar",
+    "arabicName": "الزمر",
+    "translation": "The Groups",
+    "questions": [
+        {
+            "id": "ch39-q1",
+            "text": "What is the central command of Surah Az-Zumar regarding worship?",
+            "answer": "To worship Allah alone with sincere devotion, keeping religion purely for Him."
+        },
+        {
+            "id": "ch39-q2",
+            "text": "Why is sincerity (ikhlas) emphasized as the foundation of faith in this Surah?",
+            "answer": "Because deeds and worship are only accepted when directed to Allah alone without partners or showing off."
+        },
+        {
+            "id": "ch39-q3",
+            "text": "True/False: The Surah treats shirk as a minor mistake that does not affect salvation.",
+            "answer": "False. It shows shirk corrupts worship and leads to severe loss."
+        },
+        {
+            "id": "ch39-q4",
+            "text": "How does the Surah respond to people who use 'intermediaries' in worship?",
+            "answer": "It teaches that Allah alone deserves worship and judgment, and intermediaries do not justify shirk."
+        },
+        {
+            "id": "ch39-q5",
+            "text": "What does the Surah teach about Allah's creation of humans and their dependence?",
+            "answer": "It reminds that humans are created and sustained by Allah, so they should return to Him in worship and gratitude."
+        },
+        {
+            "id": "ch39-q6",
+            "text": "What spiritual reaction does the Surah describe in people who truly fear Allah when they hear the Quran?",
+            "answer": "Their hearts and bodies respond with awe, then calmness and comfort at Allah's remembrance."
+        },
+        {
+            "id": "ch39-q7",
+            "text": "Why does the Surah describe the Quran as consistent and repeatedly clarifying matters?",
+            "answer": "To show its guidance is coherent, reinforcing truth in different ways so hearts can understand and be purified."
+        },
+        {
+            "id": "ch39-q8",
+            "text": "What is one practical sign that a person is benefiting from the Quran?",
+            "answer": "It softens their heart, increases humility, and leads them to better actions and repentance."
+        },
+        {
+            "id": "ch39-q9",
+            "text": "How does the Surah challenge the listener to compare a life of mixed loyalties with a life of tawhid?",
+            "answer": "It uses a parable showing that serving many conflicting masters is not like serving one master."
+        },
+        {
+            "id": "ch39-q10",
+            "text": "What does the Surah teach about the certainty of death and its effect on human arrogance?",
+            "answer": "It reminds that everyone will taste death, so pride and denial are foolish and short-sighted."
+        },
+        {
+            "id": "ch39-q11",
+            "text": "Why is despair forbidden for people who have sinned greatly?",
+            "answer": "Because Allah's mercy is vast, and sincere repentance can erase even major sins."
+        },
+        {
+            "id": "ch39-q12",
+            "text": "What is a balanced understanding of Allah's forgiveness taught by the Surah?",
+            "answer": "Hope in Allah's mercy must be paired with sincere repentance, obedience, and avoiding returning to sin."
+        },
+        {
+            "id": "ch39-q13",
+            "text": "True/False: The Surah encourages delaying repentance because Allah is forgiving.",
+            "answer": "False. It urges returning to Allah before consequences come and before it is too late."
+        },
+        {
+            "id": "ch39-q14",
+            "text": "What does the Surah teach about submitting to Allah before suffering or punishment arrives?",
+            "answer": "That early submission is wisdom; late regret may not benefit once the decisive moment comes."
+        },
+        {
+            "id": "ch39-q15",
+            "text": "How does the Surah portray the difference between truth and falsehood in belief?",
+            "answer": "Truth brings stability and salvation, while falsehood leads to confusion, loss, and punishment."
+        },
+        {
+            "id": "ch39-q16",
+            "text": "What does the Surah teach about Allah's control over intercession?",
+            "answer": "Intercession belongs to Allah; it occurs only by His permission and does not support shirk."
+        },
+        {
+            "id": "ch39-q17",
+            "text": "What happens to hearts that dislike hearing Allah mentioned alone?",
+            "answer": "They shrink with aversion, revealing a disease of shirk and a lack of love for tawhid."
+        },
+        {
+            "id": "ch39-q18",
+            "text": "What is one reason the Surah describes Allah's power over the heavens and the earth so vividly?",
+            "answer": "To strengthen certainty that judgment is real and that Allah's authority is absolute."
+        },
+        {
+            "id": "ch39-q19",
+            "text": "Why does Surah Az-Zumar mention the taking of souls during sleep?",
+            "answer": "To remind that life is fragile and under Allah's control, and that resurrection is easy for the One who controls souls."
+        },
+        {
+            "id": "ch39-q20",
+            "text": "What does the Surah teach about gratitude after relief from hardship?",
+            "answer": "Many people return to forgetfulness; the Surah calls for lasting gratitude and consistent worship."
+        },
+        {
+            "id": "ch39-q21",
+            "text": "True/False: Worldly blessings are proof that Allah is pleased with a person's beliefs.",
+            "answer": "False. Blessings can be a test; true success is faith and obedience."
+        },
+        {
+            "id": "ch39-q22",
+            "text": "How will people be gathered and moved on the Day of Judgment according to this Surah's imagery?",
+            "answer": "They will be driven in groups, distinguishing their ends by their belief and deeds."
+        },
+        {
+            "id": "ch39-q23",
+            "text": "What do the keepers of Hell emphasize to those entering it?",
+            "answer": "That messengers came and recited Allah's signs, leaving them without excuse for rejection."
+        },
+        {
+            "id": "ch39-q24",
+            "text": "What is the greeting given to the righteous as they enter Paradise?",
+            "answer": "Peace and affirmation of purity, welcoming them to eternal residence."
+        },
+        {
+            "id": "ch39-q25",
+            "text": "What does the Surah teach about the gates of Paradise and Hell being opened?",
+            "answer": "It highlights the reality of entry and judgment, and the honor or humiliation that follows."
+        },
+        {
+            "id": "ch39-q26",
+            "text": "Why is 'the manifest loss' described as losing oneself and one's family in the Hereafter?",
+            "answer": "Because it is an irreversible loss of salvation, peace, and loved ones in the true life to come."
+        },
+        {
+            "id": "ch39-q27",
+            "text": "What is one misconception the Surah corrects about life and death?",
+            "answer": "That time alone destroys; the Surah teaches Allah controls life, death, and resurrection."
+        },
+        {
+            "id": "ch39-q28",
+            "text": "How does Surah Az-Zumar connect worship with freedom from fear and anxiety?",
+            "answer": "Sincere worship of Allah gives inner stability and hope, while shirk creates fear and dependence on creation."
+        },
+        {
+            "id": "ch39-q29",
+            "text": "What does the Surah teach about the danger of making religion a tool for worldly status?",
+            "answer": "It leads to hypocrisy and loss; religion must be for Allah, not for reputation or power."
+        },
+        {
+            "id": "ch39-q30",
+            "text": "Why does the Surah encourage turning to Allah in both fear and hope?",
+            "answer": "Because a balanced heart worships Allah sincerely, avoiding despair and avoiding false security."
+        },
+        {
+            "id": "ch39-q31",
+            "text": "True/False: The Surah suggests that Allah's mercy means there is no need for effort.",
+            "answer": "False. Mercy invites repentance and obedience; it does not remove accountability."
+        },
+        {
+            "id": "ch39-q32",
+            "text": "How does the Surah describe the fate of those who lie about Allah or reject truth?",
+            "answer": "They face humiliation and punishment, and their excuses will not benefit them."
+        },
+        {
+            "id": "ch39-q33",
+            "text": "What does the Surah teach about 'the truthful' who bring and accept the truth?",
+            "answer": "They are among the righteous, characterized by taqwa and sincere acceptance of guidance."
+        },
+        {
+            "id": "ch39-q34",
+            "text": "How can a person practically increase sincerity in worship based on this Surah?",
+            "answer": "By purifying intentions, avoiding showing off, and dedicating prayer and obedience only to Allah."
+        },
+        {
+            "id": "ch39-q35",
+            "text": "What is one way the Surah challenges people to think beyond their social environment?",
+            "answer": "It exposes blind following and reminds that each soul will stand alone before Allah."
+        },
+        {
+            "id": "ch39-q36",
+            "text": "Why does Surah Az-Zumar describe Allah's power in gripping and folding creation?",
+            "answer": "To show His absolute dominion and to crush the illusion that anyone can escape judgment."
+        },
+        {
+            "id": "ch39-q37",
+            "text": "What is one lesson from the Surah about how people react to hardship and ease?",
+            "answer": "Many remember Allah in hardship but forget in ease; the Surah calls for consistency."
+        },
+        {
+            "id": "ch39-q38",
+            "text": "How does the Surah encourage immediate repentance rather than delayed repentance?",
+            "answer": "By warning that a sudden end may come and that regret after the decisive moment may not be accepted."
+        },
+        {
+            "id": "ch39-q39",
+            "text": "What is the Surah's message about the purpose of revelation?",
+            "answer": "To guide to tawhid, warn of the Hereafter, and establish clear proof for humanity."
+        },
+        {
+            "id": "ch39-q40",
+            "text": "What is one final spiritual goal for reading Surah Az-Zumar thoughtfully?",
+            "answer": "To deepen ikhlas, strengthen hope in Allah's mercy with repentance, and prepare for meeting Allah in the Hereafter."
+        },
+        {
+            "id": "ch39-q41",
+            "text": "What does the Surah teach about the value of night worship and devotion (qiyam)?",
+            "answer": "It praises those who worship in humility and fear of the Hereafter, showing deep sincerity and awareness."
+        },
+        {
+            "id": "ch39-q42",
+            "text": "How does Surah Az-Zumar teach that true faith is shown in patience and steadfastness?",
+            "answer": "It emphasizes perseverance in obedience and refusal to compromise tawhid despite pressure."
+        },
+        {
+            "id": "ch39-q43",
+            "text": "What does the Surah teach about Allah's acceptance of repentance even after repeated sins?",
+            "answer": "Allah forgives all sins for those who return sincerely, provided repentance occurs before the end."
+        },
+        {
+            "id": "ch39-q44",
+            "text": "Why does the Surah describe Paradise as inherited and entered with gratitude?",
+            "answer": "To show it is a gift from Allah's mercy, and believers recognize it as fulfillment of Allah's promise."
+        },
+        {
+            "id": "ch39-q45",
+            "text": "True/False: The Surah teaches that the Quran is meant to confuse and burden people.",
+            "answer": "False. It presents the Quran as the best guidance, clarifying truth for sincere hearts."
+        },
+        {
+            "id": "ch39-q46",
+            "text": "What is one psychological lesson from the Surah about despair?",
+            "answer": "Despair is a trap that blocks repentance; hope in Allah's mercy opens the door to change."
+        },
+        {
+            "id": "ch39-q47",
+            "text": "How does the Surah help a person detach from worldly pride?",
+            "answer": "By reminding of death, judgment, and Allah's absolute dominion, making worldly pride appear small."
+        },
+        {
+            "id": "ch39-q48",
+            "text": "What does Surah Az-Zumar teach about the end result of serving competing 'masters' in life?",
+            "answer": "It leads to confusion and loss, while serving Allah alone brings clarity and salvation."
+        },
+        {
+            "id": "ch39-q49",
+            "text": "What is one key message about Allah's wisdom in delaying punishment?",
+            "answer": "Delay gives time for repentance and proof, but it should not be mistaken for approval of wrongdoing."
+        },
+        {
+            "id": "ch39-q50",
+            "text": "What is the Surah's strongest call to action for someone who wants to reform their life?",
+            "answer": "Turn to Allah with sincere devotion, repent without delay, and live by the Quran with humility and taqwa."
+        },
+        {
+            "id": "ch39-q51",
+            "text": "What is the primary demand of Allah in the beginning of Surah Az-Zumar?",
+            "answer": "Sincere, pure devotion/religion (Ad-Deen al-Khalis) to Him alone."
+        },
+        {
+            "id": "ch39-q52",
+            "text": "What excuse do polytheists give for worshipping others besides Allah?",
+            "answer": "They say 'We only worship them so that they may bring us nearer to Allah in station'."
+        },
+        {
+            "id": "ch39-q53",
+            "text": "In how many 'darknesses' are humans created in the wombs of their mothers?",
+            "answer": "Three darknesses."
+        },
+        {
+            "id": "ch39-q54",
+            "text": "How does Allah describe the 'skin' of those who fear their Lord when they hear the Quran?",
+            "answer": "Their skins shiver, then their skins and hearts relax at the remembrance of Allah."
+        },
+        {
+            "id": "ch39-q55",
+            "text": "What is the 'Best Hadith' (Ahsan al-Hadith) mentioned in this Surah?",
+            "answer": "The Book (the Quran), consistent and repeating."
+        },
+        {
+            "id": "ch39-q56",
+            "text": "What is the parable of the man with multiple 'quarrelling partners' compared to the man with one master?",
+            "answer": "It compares a polytheist (serving many conflicting masters) with a monotheist (serving one master); they are not equal."
+        },
+        {
+            "id": "ch39-q57",
+            "text": "What is the famous message of hope for those who have 'transgressed against themselves'?",
+            "answer": "'Do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful'."
+        },
+        {
+            "id": "ch39-q58",
+            "text": "What does the Surah describe about Allah's power over the earth and heavens on the Day of Judgment?",
+            "answer": "The entire earth will be within His grip, and the heavens will be folded in His right hand."
+        },
+        {
+            "id": "ch39-q59",
+            "text": "How many times will the Trumpet be blown in this Surah's description?",
+            "answer": "Two times: the first causes all to fall dead/unconscious, and the second causes them to stand up looking on."
+        },
+        {
+            "id": "ch39-q60",
+            "text": "How will the disbelievers be driven to Hell?",
+            "answer": "In groups (Zumara)."
+        },
+        {
+            "id": "ch39-q61",
+            "text": "What will the keepers of Hell ask the disbelievers upon their arrival?",
+            "answer": "'Did there not come to you messengers from among yourselves, reciting the verses of your Lord?'."
+        },
+        {
+            "id": "ch39-q62",
+            "text": "How will the righteous be led to Paradise?",
+            "answer": "In groups (Zumara), and its gates will be opened for them."
+        },
+        {
+            "id": "ch39-q63",
+            "text": "What is the greeting of the keepers of Paradise to the believers?",
+            "answer": "'Peace be upon you; you have become pure; so enter it to abide eternally therein'."
+        },
+        {
+            "id": "ch39-q64",
+            "text": "What will the believers say when they enter Paradise?",
+            "answer": "'Praise to Allah, who has fulfilled for us His promise and made us inherit the earth [of Paradise]'."
+        },
+        {
+            "id": "ch39-q65",
+            "text": "What is the 'Az-Zumar' that the Surah is named after?",
+            "answer": "The groups in which people will be led to their final destinations (Heaven or Hell)."
+        },
+        {
+            "id": "ch39-q66",
+            "text": "What is the 'clear loss' described in this Surah?",
+            "answer": "The loss of one's self and one's family on the Day of Resurrection; that is the manifest loss."
+        },
+        {
+            "id": "ch39-q67",
+            "text": "To whom does all intercession (Shafa'ah) ultimately belong?",
+            "answer": "To Allah alone."
+        },
+        {
+            "id": "ch39-q68",
+            "text": "What happens to the hearts of those who do not believe in the Hereafter when Allah is mentioned alone?",
+            "answer": "Their hearts shrink with aversion."
+        },
+        {
+            "id": "ch39-q69",
+            "text": "What does the Surah teach about Allah taking souls during sleep and death?",
+            "answer": "He takes them; He keeps those for which death has been decreed and releases the others for a specified term."
+        },
+        {
+            "id": "ch39-q70",
+            "text": "What is the status of the 'Truthful' (those who bring the truth and believe it)?",
+            "answer": "They are the 'Muttaqun' (the righteous/God-fearing)."
+        }
+    ]
 }

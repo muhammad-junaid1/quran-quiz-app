@@ -6,101 +6,176 @@
     "questions": [
         {
             "id": "ch102-q1",
+            "text": "How does this Surah define the spiritual danger of ‘takathur’?",
+            "answer": "It turns life into rivalry for more, making people forget Allah, death, and accountability."
+        },
+        {
+            "id": "ch102-q2",
+            "text": "True/False: The Surah teaches that rivaling others in wealth is harmless if you stay polite.",
+            "answer": "False. It condemns rivalry that distracts from the Hereafter."
+        },
+        {
+            "id": "ch102-q3",
+            "text": "What does 'until you visit the graves' teach about life’s end?",
+            "answer": "Death interrupts all competitions; when it arrives, deeds stop and truth becomes clear."
+        },
+        {
+            "id": "ch102-q4",
+            "text": "What is one modern form of 'takathur' besides money?",
+            "answer": "Competing in followers, status, luxury, achievements, or social reputation."
+        },
+        {
+            "id": "ch102-q5",
+            "text": "Why does the Surah repeat the warning 'you will surely know'?",
+            "answer": "To intensify urgency and show that denial will turn into certainty when reality appears."
+        },
+        {
+            "id": "ch102-q6",
+            "text": "What does 'knowledge of certainty' teach about faith?",
+            "answer": "Faith can give intellectual certainty now through revelation, before seeing the Hereafter."
+        },
+        {
+            "id": "ch102-q7",
+            "text": "What does 'eye of certainty' teach about the Hereafter?",
+            "answer": "Seeing the reality later is certainty by sight, but it comes too late to change deeds."
+        },
+        {
+            "id": "ch102-q8",
+            "text": "True/False: The Surah suggests seeing punishment is needed before taking religion seriously.",
+            "answer": "False. It urges taking it seriously now through knowledge of certainty."
+        },
+        {
+            "id": "ch102-q9",
+            "text": "What does being questioned about blessings (na'im) mean practically?",
+            "answer": "You will be asked how you used health, time, wealth, and opportunities—gratitude includes responsible use."
+        },
+        {
+            "id": "ch102-q10",
+            "text": "What is one daily practice to prepare for being questioned about blessings?",
+            "answer": "Use one blessing each day in obedience (prayer on time, charity, helping someone, avoiding sin)."
+        },
+        {
+            "id": "ch102-q11",
+            "text": "How does the Surah correct the idea that ‘more’ always equals ‘better’?",
+            "answer": "It shows ‘more’ can be a distraction and a heavier account, not a sign of success."
+        },
+        {
+            "id": "ch102-q12",
+            "text": "True/False: The Surah teaches Islam forbids earning wealth.",
+            "answer": "False. It condemns rivalry and distraction that causes neglect of Allah."
+        },
+        {
+            "id": "ch102-q13",
+            "text": "How can someone earn wealth without falling into takathur?",
+            "answer": "Keep prayer and ethics first, give charity, avoid showing off, and treat wealth as a tool for the Hereafter."
+        },
+        {
+            "id": "ch102-q14",
+            "text": "How does visiting graves benefit the heart in line with this Surah?",
+            "answer": "It breaks illusions of endless life and resets priorities toward repentance and good deeds."
+        },
+        {
+            "id": "ch102-q15",
+            "text": "What is one misconception corrected by this Surah about success?",
+            "answer": "Success is not having more than others; success is meeting Allah with gratitude and obedience."
+        },
+        {
+            "id": "ch102-q16",
+            "text": "True/False: The Surah teaches that people will only be asked about haram blessings, not halal ones.",
+            "answer": "False. It teaches people will be questioned about blessings in general."
+        },
+        {
+            "id": "ch102-q17",
             "text": "What does 'At-Takathur' mean?",
             "answer": "Competition in increase (of worldly things) or mutual rivalry in accumulation."
         },
         {
-            "id": "ch102-q2",
-            "text": "What 'distracts' the people according to Verse 1?",
+            "id": "ch102-q18",
+            "text": "What does this Surah say distracts people?",
             "answer": "The mutual rivalry in seeking more wealth, status, and children."
         },
         {
-            "id": "ch102-q3",
+            "id": "ch102-q19",
             "text": "Until when does this distraction continue for many?",
             "answer": "Until they visit the graves (death)."
         },
         {
-            "id": "ch102-q4",
-            "text": "What is the repeated warning in Verses 3 and 4?",
+            "id": "ch102-q20",
+            "text": "What is the repeated warning in this Surah?",
             "answer": "Nay, you are going to know; then nay, you are going to know (the reality of your choices)."
         },
         {
-            "id": "ch102-q5",
+            "id": "ch102-q21",
             "text": "What is 'Ilm al-Yaqin'?",
             "answer": "The Knowledge of Certainty (intellectual certainty through revelation)."
         },
         {
-            "id": "ch102-q6",
-            "text": "What will everyone surely see according to Verse 6?",
+            "id": "ch102-q22",
+            "text": "What does this Surah warn everyone will surely see?",
             "answer": "Hellfire (Al-Jahim)."
         },
         {
-            "id": "ch102-q7",
+            "id": "ch102-q23",
             "text": "What is 'Ayn al-Yaqin'?",
             "answer": "The Eye of Certainty (seeing the reality with one's own eyes)."
         },
         {
-            "id": "ch102-q8",
+            "id": "ch102-q24",
             "text": "What will happen on that Day regarding 'favors' (An-Na'im)?",
             "answer": "Every person will be questioned about the blessings and favors they enjoyed in the world."
         },
         {
-            "id": "ch102-q9",
+            "id": "ch102-q25",
             "text": "What are some examples of 'Na'im' (favors) we will be asked about?",
             "answer": "Health, time, wealth, food, water, and our senses."
         },
         {
-            "id": "ch102-q10",
+            "id": "ch102-q26",
             "text": "Does 'visiting the graves' mean just visiting a cemetery?",
             "answer": "No, it is a euphemism for death and entering the grave as an inhabitant."
         },
         {
-            "id": "ch102-q11",
+            "id": "ch102-q27",
             "text": "What is the core disease of the heart addressed in this Surah?",
             "answer": "Materialism and being consumed by worldly competition at the expense of the Hereafter."
         },
         {
-            "id": "ch102-q12",
-            "text": "How does 'Ilm al-Yaqin' differ from 'Ayn al-Yaqin'?",
-            "answer": "One is knowing the truth now through faith; the other is seeing it later as a reality."
-        },
-        {
-            "id": "ch102-q13",
+            "id": "ch102-q28",
             "text": "Why is 'Nay' (Kalla) used in this Surah?",
             "answer": "To strongly rebuke and stop people from their current path of distraction."
         },
         {
-            "id": "ch102-q14",
+            "id": "ch102-q29",
             "text": "Is seeking wealth forbidden in Islam based on this Surah?",
             "answer": "No, it is the *rivalry* and *distraction* that leads to neglecting Allah that is condemned."
         },
         {
-            "id": "ch102-q15",
+            "id": "ch102-q30",
             "text": "What is 'Haqq al-Yaqin' (mentioned in other Surahs) compared to these?",
             "answer": "It is the 'Absolute Truth' of experiencing the reality, such as entering Paradise or Hell."
         },
         {
-            "id": "ch102-q16",
+            "id": "ch102-q31",
             "text": "What should be the believer's response to the favors of Allah?",
             "answer": "Gratitude (Shukr) and using them in ways that please Him."
         },
         {
-            "id": "ch102-q17",
+            "id": "ch102-q32",
             "text": "Does this Surah imply that death ends the distraction?",
             "answer": "Yes, but by then it is too late to change one's deeds."
         },
         {
-            "id": "ch102-q18",
+            "id": "ch102-q33",
             "text": "What is the tone of the warning in the middle of the Surah?",
             "answer": "Severe and repetitive to ensure the reader wakes up from heedlessness."
         },
         {
-            "id": "ch102-q19",
+            "id": "ch102-q34",
             "text": "How many times will people be questioned about favors?",
             "answer": "It will be an exhaustive questioning on the Day of Judgment."
         },
         {
-            "id": "ch102-q20",
+            "id": "ch102-q35",
             "text": "What is the final word of the Surah?",
             "answer": "An-Na'im (The Favors/Blessings)."
         }

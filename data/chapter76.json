@@ -6,101 +6,221 @@
     "questions": [
         {
             "id": "ch76-q1",
+            "text": "What does the Surah teach about human beginnings and humility?",
+            "answer": "Humans were once nothing worth mentioning, so arrogance is irrational."
+        },
+        {
+            "id": "ch76-q2",
+            "text": "True/False: The Surah teaches that humans are naturally self-sufficient and independent.",
+            "answer": "False. It emphasizes dependence on Allah from creation onward."
+        },
+        {
+            "id": "ch76-q3",
+            "text": "What does the Surah teach about human moral choice?",
+            "answer": "Allah showed the path; people choose gratitude or ingratitude."
+        },
+        {
+            "id": "ch76-q4",
+            "text": "How does Surah Al-Insan describe the righteous’ motivation for charity?",
+            "answer": "They feed others purely for Allah’s pleasure and do not seek thanks or reward."
+        },
+        {
+            "id": "ch76-q5",
+            "text": "What is one practical way to give charity with this intention today?",
+            "answer": "Give quietly, avoid reminding people, and focus on Allah’s acceptance rather than people’s praise."
+        },
+        {
+            "id": "ch76-q6",
+            "text": "What does the Surah teach about fulfilling vows and commitments?",
+            "answer": "The righteous fulfill vows as part of integrity and fear of the Hereafter."
+        },
+        {
+            "id": "ch76-q7",
+            "text": "True/False: The Surah suggests feeding the needy is only recommended when convenient.",
+            "answer": "False. It praises feeding even difficult cases like orphans and captives."
+        },
+        {
+            "id": "ch76-q8",
+            "text": "What does Surah Al-Insan teach about the Day that is feared by the righteous?",
+            "answer": "It is a Day of widespread hardship, motivating sincere preparation and mercy to others."
+        },
+        {
+            "id": "ch76-q9",
+            "text": "How does the Surah connect inner sincerity with outward social ethics?",
+            "answer": "Sincere hearts show mercy, feed others, fulfill vows, and remain patient in worship."
+        },
+        {
+            "id": "ch76-q10",
+            "text": "What does the Surah teach about Allah protecting the righteous from the evil of that Day?",
+            "answer": "Allah grants them radiance and joy, showing salvation is a gift of mercy."
+        },
+        {
+            "id": "ch76-q11",
+            "text": "How does the Surah describe Paradise in a way that motivates the heart?",
+            "answer": "It describes comfort, beauty, honored drink, and peace—without worldly harms like extreme heat or cold."
+        },
+        {
+            "id": "ch76-q12",
+            "text": "What is one lesson from the Surah’s mention of Paradise clothing and adornment?",
+            "answer": "Allah honors the righteous with dignity and beauty, replacing worldly struggle with comfort."
+        },
+        {
+            "id": "ch76-q13",
+            "text": "True/False: The Surah teaches that comfort in Paradise is only spiritual, not described in real terms.",
+            "answer": "False. It describes comfort in dignified, tangible imagery."
+        },
+        {
+            "id": "ch76-q14",
+            "text": "What does the 'pure drink' teach about Allah’s reward?",
+            "answer": "Allah’s reward is purified from harm and is a special honor from the Lord."
+        },
+        {
+            "id": "ch76-q15",
+            "text": "What does the Surah teach the Prophet about patience with people who reject truth?",
+            "answer": "Be patient for Allah’s decree and do not obey persistent sinners and ingrates."
+        },
+        {
+            "id": "ch76-q16",
+            "text": "How can believers apply this patience guidance in modern life?",
+            "answer": "Do not let social pressure drag you into sin; stay firm and patient with Allah’s timing."
+        },
+        {
+            "id": "ch76-q17",
+            "text": "What does the Surah teach about remembering Allah morning and evening?",
+            "answer": "Regular remembrance anchors faith and keeps the heart from dunya’s distractions."
+        },
+        {
+            "id": "ch76-q18",
+            "text": "True/False: The Surah teaches that remembering Allah is only for special religious people.",
+            "answer": "False. It encourages remembrance as a daily habit for believers."
+        },
+        {
+            "id": "ch76-q19",
+            "text": "Why do disbelievers turn away according to this Surah’s message?",
+            "answer": "Because they love immediate life and neglect the heavy Day of accountability."
+        },
+        {
+            "id": "ch76-q20",
+            "text": "What does Surah Al-Insan teach about human will and Allah’s will?",
+            "answer": "Human choices exist, but they occur within Allah’s overarching will and knowledge."
+        },
+        {
+            "id": "ch76-q21",
+            "text": "How does this teaching protect a believer from despair and arrogance?",
+            "answer": "It builds humility (Allah controls) and hope (Allah can guide and help)."
+        },
+        {
+            "id": "ch76-q22",
+            "text": "True/False: The Surah teaches that sincerity means never enjoying Allah’s blessings.",
+            "answer": "False. It praises enjoying reward with gratitude, while keeping motives for Allah."
+        },
+        {
+            "id": "ch76-q23",
+            "text": "What does the Surah teach about the dignity of serving others even when they cannot repay you?",
+            "answer": "Serving purely for Allah is a high moral rank, free from ego and dependence on people’s thanks."
+        },
+        {
+            "id": "ch76-q24",
+            "text": "What is one practical habit to build ‘feeding for Allah’s face’ (wajh Allah)?",
+            "answer": "Regularly support one person or charity without telling anyone and without expecting recognition."
+        },
+        {
+            "id": "ch76-q25",
+            "text": "What is one daily habit you can change using Surah Al-Insan’s themes (gratitude, sincerity, patience, charity)?",
+            "answer": "For example: start a small, consistent secret charity; replace complaints with gratitude; or add a daily reminder and dhikr habit to stay sincere and patient."
+        },
+        {
+            "id": "ch76-q26",
             "text": "What does the Surah say about the time before man was 'a thing mentioned'?",
             "answer": "That there was a long period of time when man was nothing worth mentioning."
         },
         {
-            "id": "ch76-q2",
+            "id": "ch76-q27",
             "text": "From what was man created?",
             "answer": "From a mixture of sperm-drops (Nutfatin Amshajin)."
         },
         {
-            "id": "ch76-q3",
+            "id": "ch76-q28",
             "text": "What two paths has Allah shown to mankind?",
             "answer": "The path of gratitude (Shakir) and the path of ingratitude (Kafur)."
         },
         {
-            "id": "ch76-q4",
-            "text": "What has Allah prepared for the disbelievers (Verse 4)?",
+            "id": "ch76-q29",
+            "text": "What does this Surah say Allah has prepared for the disbelievers?",
             "answer": "Chains, shackles, and a blaze."
         },
         {
-            "id": "ch76-q5",
+            "id": "ch76-q30",
             "text": "What is the drink of the righteous in Paradise?",
             "answer": "A cup mixed with camphor (Kafur)."
         },
         {
-            "id": "ch76-q6",
+            "id": "ch76-q31",
             "text": "What is 'Aynan' (a spring) from which the servants of Allah drink?",
             "answer": "A spring they cause to gush forth as they will."
         },
         {
-            "id": "ch76-q7",
+            "id": "ch76-q32",
             "text": "List three characteristics of the righteous in this Surah.",
             "answer": "They fulfill their vows, they fear a Day of widespread evil, and they feed the poor, orphans, and captives."
         },
         {
-            "id": "ch76-q8",
+            "id": "ch76-q33",
             "text": "Why do the righteous feed the needy?",
             "answer": "They say: 'We feed you only for the countenance of Allah. We wish not from you reward or gratitude'."
         },
         {
-            "id": "ch76-q9",
+            "id": "ch76-q34",
             "text": "What will Allah protect the righteous from on the Day of Judgment?",
             "answer": "The evil of that Day, and He will grant them radiance and happiness."
         },
         {
-            "id": "ch76-q10",
-            "text": "How is the climate of Paradise described in Verse 13?",
+            "id": "ch76-q35",
+            "text": "How does the Surah describe the climate of Paradise?",
             "answer": "They will see therein neither excessive heat (sun) nor intense cold."
         },
         {
-            "id": "ch76-q11",
+            "id": "ch76-q36",
             "text": "How are the vessels of Paradise described?",
             "answer": "Silver vessels and crystal-clear cups of silver, determined by measure."
         },
         {
-            "id": "ch76-q12",
+            "id": "ch76-q37",
             "text": "What is the drink mixed with 'Zanjabil' (Ginger)?",
             "answer": "A drink from a spring named 'Salsabil'."
         },
         {
-            "id": "ch76-q13",
+            "id": "ch76-q38",
             "text": "Who will circulate among the inhabitants of Paradise?",
             "answer": "Immortal youths; if you saw them, you would think them scattered pearls."
         },
         {
-            "id": "ch76-q14",
-            "text": "What will the dwellers of Paradise wear (Verse 21)?",
+            "id": "ch76-q39",
+            "text": "What will the dwellers of Paradise wear according to this Surah?",
             "answer": "Green garments of fine silk and brocade, and they will be adorned with silver bracelets."
         },
         {
-            "id": "ch76-q15",
+            "id": "ch76-q40",
             "text": "What is the 'Pure Drink' (Sarabun Tahura) given by their Lord?",
             "answer": "A drink given as a reward for their striving."
         },
         {
-            "id": "ch76-q16",
+            "id": "ch76-q41",
             "text": "What is the command to the Prophet (SAW) regarding patience?",
             "answer": "Be patient for the decision of your Lord and do not obey among them any sinner or ungrateful one."
         },
         {
-            "id": "ch76-q17",
-            "text": "When should Allah be remembered (Verse 25-26)?",
+            "id": "ch76-q42",
+            "text": "When does this Surah encourage remembering Allah?",
             "answer": "Morning and afternoon, and during the night by prostrating and exalting Him."
         },
         {
-            "id": "ch76-q18",
-            "text": "Why do the disbelievers turn away according to Verse 27?",
-            "answer": "Because they love the immediate world and leave behind them a heavy Day."
-        },
-        {
-            "id": "ch76-q19",
+            "id": "ch76-q43",
             "text": "Can anyone will something except by the will of Allah?",
             "answer": "No, 'you do not will except that Allah wills'."
         },
         {
-            "id": "ch76-q20",
+            "id": "ch76-q44",
             "text": "How does Allah describe His mercy and the wrongdoers at the end?",
             "answer": "He admits whom He wills into His mercy; for the wrongdoers He has prepared a painful punishment."
         }

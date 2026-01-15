@@ -6,101 +6,206 @@
     "questions": [
         {
             "id": "ch81-q1",
+            "text": "Why does the Surah begin with dramatic changes in the universe?",
+            "answer": "To shake human complacency and show that Allah can overturn the world’s order to begin judgment."
+        },
+        {
+            "id": "ch81-q2",
+            "text": "True/False: Surah At-Takwir teaches that the universe is stable by itself and cannot change.",
+            "answer": "False. It shows Allah can change the sun, stars, mountains, and sky at His command."
+        },
+        {
+            "id": "ch81-q3",
+            "text": "What does the Surah teach about ‘what a soul has brought’?",
+            "answer": "Every person will realize their deeds and intentions and face their true outcome."
+        },
+        {
+            "id": "ch81-q4",
+            "text": "What moral lesson is taught by the question asked about the buried infant girl?",
+            "answer": "Allah’s justice exposes ظلم and honors victims; unjust cultural practices will be judged."
+        },
+        {
+            "id": "ch81-q5",
+            "text": "How does this Surah correct harmful cultural practices using moral accountability?",
+            "answer": "It shows even socially accepted ظلم becomes a crime before Allah and will be questioned."
+        },
+        {
+            "id": "ch81-q6",
+            "text": "True/False: The Surah suggests that crimes against the weak can be hidden forever.",
+            "answer": "False. The records are opened and hidden ظلم is exposed."
+        },
+        {
+            "id": "ch81-q7",
+            "text": "What does the Surah teach about the records of deeds being opened?",
+            "answer": "Accountability is public and clear; people cannot deny what they did."
+        },
+        {
+            "id": "ch81-q8",
+            "text": "What is one spiritual lesson from the image of people neglecting their most valuable possessions?",
+            "answer": "Dunya loses its value when the Hereafter arrives; real value is in deeds."
+        },
+        {
+            "id": "ch81-q9",
+            "text": "What does the Surah teach about Angel Jibreel’s role in revelation?",
+            "answer": "He is a noble messenger who conveys revelation reliably by Allah’s command."
+        },
+        {
+            "id": "ch81-q10",
+            "text": "Why does the Surah describe Jibreel with strength and high rank?",
+            "answer": "To show the revelation is protected, honorable, and not a human invention."
+        },
+        {
+            "id": "ch81-q11",
+            "text": "What does the Surah teach about the Prophet’s mental soundness and honesty?",
+            "answer": "It rejects accusations of madness and affirms he faithfully conveys what he receives."
+        },
+        {
+            "id": "ch81-q12",
+            "text": "True/False: Surah At-Takwir teaches that the Quran comes from devils.",
+            "answer": "False. It explicitly rejects that and affirms it is revelation."
+        },
+        {
+            "id": "ch81-q13",
+            "text": "What does the Surah teach about the Quran being a reminder for all worlds?",
+            "answer": "Its guidance is universal and not restricted to one tribe or era."
+        },
+        {
+            "id": "ch81-q14",
+            "text": "How does this Surah balance human choice with Allah’s will?",
+            "answer": "People choose the straight path, but their ability and guidance are ultimately under Allah’s will."
+        },
+        {
+            "id": "ch81-q15",
+            "text": "What is one practical meaning of ‘take the straight path’ for daily life?",
+            "answer": "Choose obedience, honesty, and repentance consistently instead of drifting with desires."
+        },
+        {
+            "id": "ch81-q16",
+            "text": "What is one lesson from Allah swearing by stars and the night/day transitions?",
+            "answer": "Allah points to precise signs in creation to strengthen certainty and reflection."
+        },
+        {
+            "id": "ch81-q17",
+            "text": "True/False: The Surah teaches that reflection on creation is unrelated to faith.",
+            "answer": "False. It uses creation as proof and reminder."
+        },
+        {
+            "id": "ch81-q18",
+            "text": "How can Surah At-Takwir help someone who feels spiritually numb?",
+            "answer": "Its vivid scenes of the Last Day break complacency and renew seriousness and repentance."
+        },
+        {
+            "id": "ch81-q19",
+            "text": "How does the Surah teach dignity and justice for women and the vulnerable?",
+            "answer": "It condemns ظلم against vulnerable girls and shows Allah questions such crimes."
+        },
+        {
+            "id": "ch81-q20",
+            "text": "What does the Surah teach about rumors and accusations against prophets?",
+            "answer": "False accusations are rejected; prophets convey truth with integrity."
+        },
+        {
+            "id": "ch81-q21",
+            "text": "True/False: The Surah teaches that powerful people can rewrite truth through propaganda.",
+            "answer": "False. Allah exposes falsehood and preserves revelation."
+        },
+        {
+            "id": "ch81-q22",
             "text": "What does 'At-Takwir' mean in the context of the sun?",
             "answer": "It means the sun being wrapped up, folded, or lose its light."
         },
         {
-            "id": "ch81-q2",
+            "id": "ch81-q23",
             "text": "What will happen to the stars on the Day of Judgment?",
             "answer": "They will fall away and lose their luster."
         },
         {
-            "id": "ch81-q3",
+            "id": "ch81-q24",
             "text": "How does the Surah describe the mountains on that Day?",
             "answer": "They will be moved and set in motion (as if made to walk)."
         },
         {
-            "id": "ch81-q4",
+            "id": "ch81-q25",
             "text": "What is the significance of 'the ten-month pregnant camels' being neglected?",
             "answer": "It symbolizes people abandoning their most precious worldly possessions out of terror."
         },
         {
-            "id": "ch81-q5",
+            "id": "ch81-q26",
             "text": "What will happen to the wild beasts?",
             "answer": "They will be gathered together."
         },
         {
-            "id": "ch81-q6",
-            "text": "What is the 'Maw'udah' mentioned in Verse 8?",
+            "id": "ch81-q27",
+            "text": "What is the 'Maw'udah' mentioned in this Surah?",
             "answer": "The female infant buried alive in pre-Islamic times."
         },
         {
-            "id": "ch81-q7",
+            "id": "ch81-q28",
             "text": "What question will be asked regarding the buried infant?",
             "answer": "For what crime/sin she was killed."
         },
         {
-            "id": "ch81-q8",
+            "id": "ch81-q29",
             "text": "What will happen to the records of deeds?",
             "answer": "They will be laid open/unrolled for everyone to see."
         },
         {
-            "id": "ch81-q9",
-            "text": "What happens to the sky in Verse 11?",
+            "id": "ch81-q30",
+            "text": "What does this Surah mention happens to the sky?",
             "answer": "It is stripped away or pulled off (Kushitat)."
         },
         {
-            "id": "ch81-q10",
+            "id": "ch81-q31",
             "text": "When will a soul know what it has brought of deeds?",
             "answer": "When the celestial events occur and the Hellfire is set ablaze."
         },
         {
-            "id": "ch81-q11",
+            "id": "ch81-q32",
             "text": "Allah swears by 'the retreating stars' (Al-Khunnas). What are they?",
             "answer": "Stars or planets that recede, run their course, and hide/set."
         },
         {
-            "id": "ch81-q12",
+            "id": "ch81-q33",
             "text": "What does 'the night as it dissipates' (As'as) refer to?",
             "answer": "The transition of the night as it begins or ends."
         },
         {
-            "id": "ch81-q13",
-            "text": "Whose word is the Quran described as being in Verse 19?",
+            "id": "ch81-q34",
+            "text": "Whose word is the Quran described as being in this Surah?",
             "answer": "The word of a noble Messenger (Angel Jibreel)."
         },
         {
-            "id": "ch81-q14",
+            "id": "ch81-q35",
             "text": "What are three descriptions of Angel Jibreel given in this Surah?",
             "answer": "Possessor of power, secure in position with the Lord of the Throne, and obeyed by other angels."
         },
         {
-            "id": "ch81-q15",
+            "id": "ch81-q36",
             "text": "Does the Prophet (SAW) have a companion who is mad?",
             "answer": "No, Allah refutes this by saying 'Your companion is not mad'."
         },
         {
-            "id": "ch81-q16",
+            "id": "ch81-q37",
             "text": "Where did the Prophet (SAW) see Angel Jibreel?",
             "answer": "On the clear horizon."
         },
         {
-            "id": "ch81-q17",
+            "id": "ch81-q38",
             "text": "Is the Prophet (SAW) withholding of the knowledge of the unseen (Ghayb)?",
             "answer": "No, he is not a withholder (Danin) of the revelation."
         },
         {
-            "id": "ch81-q18",
-            "text": "Whose word is the Quran NOT, according to Verse 25?",
+            "id": "ch81-q39",
+            "text": "Whose word is the Quran NOT, according to this Surah?",
             "answer": "It is not the word of an expelled/accursed devil."
         },
         {
-            "id": "ch81-q19",
+            "id": "ch81-q40",
             "text": "To whom is the Quran a reminder?",
             "answer": "For all the worlds (al-Alamin)."
         },
         {
-            "id": "ch81-q20",
+            "id": "ch81-q41",
             "text": "Can a person choose to take the straight path by their own will alone?",
             "answer": "Only if Allah, the Lord of the worlds, wills it."
         }

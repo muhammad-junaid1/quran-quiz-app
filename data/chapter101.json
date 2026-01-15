@@ -6,101 +6,166 @@
     "questions": [
         {
             "id": "ch101-q1",
+            "text": "Why does the Surah repeat the name 'Al-Qari'ah' at the beginning?",
+            "answer": "To strike the heart with fear and seriousness, building suspense about an unavoidable reality."
+        },
+        {
+            "id": "ch101-q2",
+            "text": "True/False: The Surah teaches that the Day of Judgment will feel calm and familiar.",
+            "answer": "False. It describes confusion and terror, like scattered moths."
+        },
+        {
+            "id": "ch101-q3",
+            "text": "What does comparing people to scattered moths teach about human strength?",
+            "answer": "In that moment, human pride collapses; people become weak, confused, and directionless."
+        },
+        {
+            "id": "ch101-q4",
+            "text": "What is one lesson from mountains becoming like tufted wool?",
+            "answer": "Even what seems unshakable in dunya will dissolve; only Allah’s truth remains."
+        },
+        {
+            "id": "ch101-q5",
+            "text": "How does Surah Al-Qari'ah teach that deeds have 'weight' beyond numbers?",
+            "answer": "It suggests sincerity, truth, and righteousness make deeds heavy, not just quantity."
+        },
+        {
+            "id": "ch101-q6",
+            "text": "What is one reason good deeds become light despite being many?",
+            "answer": "Lack of sincerity, ظلم, or major sins that destroy the spiritual value of deeds."
+        },
+        {
+            "id": "ch101-q7",
+            "text": "True/False: The Surah teaches that only major deeds matter and small deeds are ignored.",
+            "answer": "False. It implies the scale can be affected by even small deeds."
+        },
+        {
+            "id": "ch101-q8",
+            "text": "What does the Surah teach about the ‘pleasant life’ for those with heavy scales?",
+            "answer": "They are given comfort and safety as a mercy from Allah due to their righteous outcome."
+        },
+        {
+            "id": "ch101-q9",
+            "text": "Why does the Surah call Hell a ‘mother’ (refuge) for those with light scales?",
+            "answer": "To show it becomes their final home and enclosure, like a mother shelters a child—tragically as punishment."
+        },
+        {
+            "id": "ch101-q10",
+            "text": "What does 'Hawiyah' suggest about the nature of Hell?",
+            "answer": "A deep abyss—falling, loss, and extreme heat with no safety."
+        },
+        {
+            "id": "ch101-q11",
+            "text": "How can a believer increase the weight of their deeds in a practical way?",
+            "answer": "Purify intention, be consistent in prayer, repent often, and avoid ظلم and hypocrisy."
+        },
+        {
+            "id": "ch101-q12",
+            "text": "How does this Surah correct arrogance about achievements?",
+            "answer": "It shows true value is measured by Allah’s scale, not by worldly applause."
+        },
+        {
+            "id": "ch101-q13",
+            "text": "True/False: The Surah teaches that fear of the Hereafter is unhealthy and should be avoided.",
+            "answer": "False. It uses fear to wake the heart and motivate repentance."
+        },
+        {
+            "id": "ch101-q14",
+            "text": "What is one daily habit that helps prevent ‘light scales’?",
+            "answer": "Daily muhasabah: repent for sins, restore rights, and do one sincere act of الخير."
+        },
+        {
+            "id": "ch101-q15",
+            "text": "How does the Surah teach urgency without many details?",
+            "answer": "With short, shocking images: scattered people, crumbling mountains, and the scale deciding destiny."
+        },
+        {
+            "id": "ch101-q16",
+            "text": "True/False: The Surah teaches that Hell’s heat is similar to worldly fire.",
+            "answer": "False. It describes intense heat beyond earthly comparison."
+        },
+        {
+            "id": "ch101-q17",
             "text": "What does 'Al-Qari'ah' mean?",
             "answer": "The Striking Calamity (a name for the Day of Judgment)."
         },
         {
-            "id": "ch101-q2",
+            "id": "ch101-q18",
             "text": "How will people look on the Day of Al-Qari'ah?",
             "answer": "They will be like scattered moths (Farashil mabthuth)."
         },
         {
-            "id": "ch101-q3",
+            "id": "ch101-q19",
             "text": "How will the mountains look on that Day?",
             "answer": "They will be like carded or tufted wool ('Ihnil manfush)."
         },
         {
-            "id": "ch101-q4",
+            "id": "ch101-q20",
             "text": "What happens to the one whose scales are heavy with good deeds?",
             "answer": "He will be in a pleasant life (Paradise)."
         },
         {
-            "id": "ch101-q5",
+            "id": "ch101-q21",
             "text": "What happens to the one whose scales are light?",
             "answer": "His mother (refuge) will be 'Hawiyah'."
         },
         {
-            "id": "ch101-q6",
-            "text": "What is 'Hawiyah'?",
-            "answer": "A Pit or Abyss (Hellfire)."
-        },
-        {
-            "id": "ch101-q7",
+            "id": "ch101-q22",
             "text": "How is the fire of Hawiyah described in the final verse?",
             "answer": "As a 'Narun Hamiyah' (Intensely Hot Fire)."
         },
         {
-            "id": "ch101-q8",
+            "id": "ch101-q23",
             "text": "Why are people compared to 'moths' in this Surah?",
             "answer": "To show their total confusion and weak state as they swarm toward the judgment."
         },
         {
-            "id": "ch101-q9",
+            "id": "ch101-q24",
             "text": "What does 'Ihnil manfush' imply about the mountains?",
             "answer": "That even the strongest structures will become weightless and disintegrate."
         },
         {
-            "id": "ch101-q10",
-            "text": "What is the 'Scale' (Mawazin) mentioned in Verses 6 and 8?",
+            "id": "ch101-q25",
+            "text": "What is the 'Scale' (Mawazin) mentioned in this Surah?",
             "answer": "The divine balance used to weigh the reality of human deeds."
         },
         {
-            "id": "ch101-q11",
+            "id": "ch101-q26",
             "text": "True or False: The Surah emphasizes that even small deeds can affect the weight of the scales.",
             "answer": "True."
         },
         {
-            "id": "ch101-q12",
-            "text": "What is the rhetorical effect of repeating 'Al-Qari'ah' in the first three verses?",
-            "answer": "To create a sense of awe, mystery, and impending seriousness."
-        },
-        {
-            "id": "ch101-q13",
+            "id": "ch101-q27",
             "text": "Does the weight of the scale depend on the number of deeds or their quality/sincerity?",
             "answer": "Scholars explain it is the weight of the 'truth' and 'sincerity' within the deeds."
         },
         {
-            "id": "ch101-q14",
+            "id": "ch101-q28",
             "text": "What is the meaning of 'mother' in 'his mother will be Hawiyah'?",
             "answer": "It means Hell will be his refuge and permanent home, just as a mother is a child's refuge."
         },
         {
-            "id": "ch101-q15",
+            "id": "ch101-q29",
             "text": "What is the primary spiritual objective of this Surah?",
             "answer": "To motivate the believer to increase heavy, sincere deeds and fear the gravity of the Last Day."
         },
         {
-            "id": "ch101-q16",
-            "text": "Is 'Al-Qari'ah' a Makkan or Madinan Surah?",
-            "answer": "Makkan."
-        },
-        {
-            "id": "ch101-q17",
+            "id": "ch101-q30",
             "text": "What does 'Mabthuth' (scattered) signify regarding the moths?",
             "answer": "Disorder, lack of direction, and the sheer number of people."
         },
         {
-            "id": "ch101-q18",
+            "id": "ch101-q31",
             "text": "What does 'Narun Hamiyah' tell us about the nature of Hell's heat?",
             "answer": "It is at its peak intensity, far beyond any earthly fire."
         },
         {
-            "id": "ch101-q19",
+            "id": "ch101-q32",
             "text": "What determines a 'Pleasant Life' (ishatin-radiyah)?",
             "answer": "The mercy of Allah and the heaviness of one's scales."
         },
         {
-            "id": "ch101-q20",
+            "id": "ch101-q33",
             "text": "How does the Surah begin and end?",
             "answer": "It begins with a loud name of the Day of Judgment and ends with an explanation of the fire of that Day."
         }

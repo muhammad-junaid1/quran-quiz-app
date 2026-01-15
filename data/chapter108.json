@@ -6,101 +6,146 @@
     "questions": [
         {
             "id": "ch108-q1",
+            "text": "Why is Allah’s gift described as ‘abundance’ rather than one small gift?",
+            "answer": "To show Allah’s favor is vast—spiritual, moral, and eternal—not limited to one worldly thing."
+        },
+        {
+            "id": "ch108-q2",
+            "text": "True/False: The Surah teaches that insults from people define a believer’s worth.",
+            "answer": "False. Allah honors the Prophet and exposes the enemy’s real loss."
+        },
+        {
+            "id": "ch108-q3",
+            "text": "What does the command to pray teach about responding to blessings?",
+            "answer": "Gratitude is shown through worship, not just emotions or words."
+        },
+        {
+            "id": "ch108-q4",
+            "text": "What does the command to sacrifice teach about sincerity?",
+            "answer": "Worship and sacrifice must be purely for Allah, not for showing off or customs of shirk."
+        },
+        {
+            "id": "ch108-q5",
+            "text": "What is one modern application of ‘pray and sacrifice’ as gratitude?",
+            "answer": "Pray consistently, give charity, and dedicate your efforts to Allah’s pleasure."
+        },
+        {
+            "id": "ch108-q6",
+            "text": "How does the Surah redefine who is truly ‘cut off’?",
+            "answer": "Not the Prophet—rather, the one who hates him is cut off from lasting خير and honor."
+        },
+        {
+            "id": "ch108-q7",
+            "text": "True/False: The Surah teaches that a person’s legacy depends only on having sons.",
+            "answer": "False. It shows Allah can grant lasting legacy through truth and guidance."
+        },
+        {
+            "id": "ch108-q8",
+            "text": "What does Al-Kawthar teach about Allah’s generosity to His messenger?",
+            "answer": "Allah rewards His messenger beyond measure, in this world and the next."
+        },
+        {
+            "id": "ch108-q9",
+            "text": "How can this Surah help someone who feels mocked for their faith?",
+            "answer": "It teaches that insults are temporary; Allah’s honor and reward are what matter."
+        },
+        {
+            "id": "ch108-q10",
+            "text": "How does the Surah teach tawhid in a subtle way?",
+            "answer": "It directs all prayer and sacrifice exclusively to Allah."
+        },
+        {
+            "id": "ch108-q11",
+            "text": "What is one misconception corrected by this Surah about enemies of truth?",
+            "answer": "They may look powerful for a time, but their legacy is the one cut off."
+        },
+        {
+            "id": "ch108-q12",
+            "text": "True/False: The Surah suggests gratitude is optional after receiving blessings.",
+            "answer": "False. It commands worshipful gratitude."
+        },
+        {
+            "id": "ch108-q13",
             "text": "What is unique about the length of Surah Al-Kawthar?",
             "answer": "It is the shortest Surah in the Holy Quran."
         },
         {
-            "id": "ch108-q2",
+            "id": "ch108-q14",
             "text": "What does 'Al-Kawthar' mean?",
             "answer": "The Abundant Good or a specific river/fountain in Paradise."
         },
         {
-            "id": "ch108-q3",
+            "id": "ch108-q15",
             "text": "What did Allah give to the Prophet (SAW) in the first verse?",
             "answer": "Al-Kawthar."
         },
         {
-            "id": "ch108-q4",
-            "text": "What are the two commands given in Verse 2?",
+            "id": "ch108-q16",
+            "text": "What are the two commands given in this Surah?",
             "answer": "Pray to your Lord and sacrifice (Wan-har)."
         },
         {
-            "id": "ch108-q5",
-            "text": "What does 'Abtar' mean in Verse 3?",
+            "id": "ch108-q17",
+            "text": "What does 'Abtar' mean in this Surah?",
             "answer": "Cut off (specifically cut off from offspring or from any future mention/blessing)."
         },
         {
-            "id": "ch108-q6",
-            "text": "Who is the 'Abtar' according to the Surah?",
-            "answer": "The enemy of the Prophet (the one who hates him)."
-        },
-        {
-            "id": "ch108-q7",
+            "id": "ch108-q18",
             "text": "What was the insult the disbelievers used against the Prophet (SAW)?",
             "answer": "They called him 'Abtar' because his male children had passed away."
         },
         {
-            "id": "ch108-q8",
+            "id": "ch108-q19",
             "text": "How did Allah respond to this insult?",
             "answer": "By promising the Prophet 'Abundance' and stating that his enemies would be the ones actually cut off from history and mercy."
         },
         {
-            "id": "ch108-q9",
+            "id": "ch108-q20",
             "text": "Describe the Kawthar in Paradise according to Hadith.",
             "answer": "A river whose banks are of gold, its bed of pearls, its water whiter than milk and sweeter than honey."
         },
         {
-            "id": "ch108-q10",
+            "id": "ch108-q21",
             "text": "What is the 'Hawd' (Cistern)?",
             "answer": "The place where the Prophet will give drink to his followers on the Day of Judgment from the water of Al-Kawthar."
         },
         {
-            "id": "ch108-q11",
+            "id": "ch108-q22",
             "text": "What does 'Wan-har' specifically refer to?",
             "answer": "Sacrificing animals (like during Eid al-Adha) for the sake of Allah."
         },
         {
-            "id": "ch108-q12",
+            "id": "ch108-q23",
             "text": "Is this a Makkan or Madinan Surah?",
             "answer": "Makkan (mostly agreed)."
         },
         {
-            "id": "ch108-q13",
+            "id": "ch108-q24",
             "text": "How many verses are in Surah Al-Kawthar?",
             "answer": "Three verses."
         },
         {
-            "id": "ch108-q14",
+            "id": "ch108-q25",
             "text": "What is the meaning of 'Shani'aka'?",
             "answer": "Your hater / the one who bears you enmity."
         },
         {
-            "id": "ch108-q15",
+            "id": "ch108-q26",
             "text": "What is the link between 'Kawthar' and the legacy of the Prophet?",
             "answer": "His spiritual legacy and mention are the most abundant in history, while his enemies' names are forgotten or cursed."
         },
         {
-            "id": "ch108-q16",
-            "text": "Does 'Al-Kawthar' only mean a river?",
-            "answer": "It also encompasses the vast goodness given to the Prophet: Prophethood, the Quran, Intercession, and his vast followers."
-        },
-        {
-            "id": "ch108-q17",
-            "text": "What does 'Lirabbika' (for your Lord) emphasize in Verse 2?",
+            "id": "ch108-q27",
+            "text": "What does 'Lirabbika' (for your Lord) emphasize in this Surah?",
             "answer": "That prayer and sacrifice must be strictly for Allah alone, unlike the polytheists."
         },
         {
-            "id": "ch108-q18",
+            "id": "ch108-q28",
             "text": "How did the Prophet (SAW) react when this Surah was revealed?",
             "answer": "He smiled and informed his companions of the great favor Allah had promised him."
         },
         {
-            "id": "ch108-q19",
-            "text": "What is the linguistic root of 'Kawthar'?",
-            "answer": "Kathrah (abundance/plenty)."
-        },
-        {
-            "id": "ch108-q20",
+            "id": "ch108-q29",
             "text": "What is the primary message of the Surah?",
             "answer": "Consolation for the Prophet and a warning to his enemies that Allah's support is unmatched."
         }

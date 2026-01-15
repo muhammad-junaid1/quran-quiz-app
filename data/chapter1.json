@@ -1,109 +1,168 @@
-
-  {
-    "id": 1,
-    "englishName": "Al-Fatiha",
-    "arabicName": "الفاتحة",
-    "translation": "The Opening",
-    "questions": [
-      {
-        "id": "ch1-q1",
-        "text": "Why is this Surah titled 'Al-Fatiha'?",
-        "answer": "It means 'The Opening,' as it is the first chapter of the Quran and the opening of the prayer (Salah)."
-      },
-      {
-        "id": "ch1-q2",
-        "text": "Name three other titles given to Surah Al-Fatiha.",
-        "answer": "Umm al-Kitab (Mother of the Book), As-Sab' al-Mathani (The Seven Oft-Repeated Verses), and Ash-Shifa (The Cure)."
-      },
-      {
-        "id": "ch1-q3",
-        "text": "What does the phrase 'Alhamdulillah' encompass beyond just 'praise'?",
-        "answer": "It combines both praise and gratitude, acknowledging that Allah is the source of all blessings and is inherently worthy of all glory."
-      },
-      {
-        "id": "ch1-q4",
-        "text": "What is the meaning of 'Rabb al-Alamin'?",
-        "answer": "The Lord, Creator, Provider, and Sustainer of all the worlds (mankind, jinn, angels, and all existence)."
-      },
-      {
-        "id": "ch1-q5",
-        "text": "Linguistically, how does 'Ar-Rahman' differ from 'Ar-Rahim'?",
-        "answer": "Ar-Rahman refers to Allah's vast, all-encompassing mercy for all creation; Ar-Rahim refers to His specific, continuous mercy for the believers."
-      },
-      {
-        "id": "ch1-q6",
-        "text": "What is the significance of the title 'Maalik-i Yawm id-Din'?",
-        "answer": "It establishes Allah as the Absolute King and Master of the Day of Judgment, where no one else will have authority."
-      },
-      {
-        "id": "ch1-q7",
-        "text": "In 'Iyyaka Na'budu,' why is the word 'Iyyaka' (You) placed before the verb?",
-        "answer": "To signify 'exclusivity,' meaning 'You and only You do we worship.'"
-      },
-      {
-        "id": "ch1-q8",
-        "text": "What is the spiritual connection between 'Iyyaka Na'budu' (You we worship) and 'Iyyaka Nasta'in' (You we ask for help)?",
-        "answer": "It teaches that true worship is only possible through Allah's help, and we cannot fulfill our duties without His divine assistance."
-      },
-      {
-        "id": "ch1-q9",
-        "text": "What is the definition of 'As-Sirat al-Mustaqim'?",
-        "answer": "The Straight Path; the clear, balanced way of Islam that leads directly to Allah's pleasure and Paradise."
-      },
-      {
-        "id": "ch1-q10",
-        "text": "Who are 'those whom You have favored' (An'amta 'alayhim) according to other parts of the Quran?",
-        "answer": "The Prophets, the truthful ones (Siddiqin), the martyrs (Shuhada), and the righteous (Salihin)."
-      },
-      {
-        "id": "ch1-q11",
-        "text": "Who are 'those who have earned Your anger' (Al-Maghdubi 'alayhim)?",
-        "answer": "Those who knew the truth but intentionally rejected or disobeyed it."
-      },
-      {
-        "id": "ch1-q12",
-        "text": "Who are 'those who have gone astray' (Ad-Dallin)?",
-        "answer": "Those who act without knowledge or follow their desires, wandering away from the truth."
-      },
-      {
-        "id": "ch1-q13",
-        "text": "Is the word 'Amin' a part of the Quranic text of Surah Al-Fatiha?",
-        "answer": "No, it is not a verse of the Quran, but it is a Sunnah to say it after finishing the Surah, meaning 'O Allah, accept our prayer.'"
-      },
-      {
-        "id": "ch1-q14",
-        "text": "How does Surah Al-Fatiha divide between Allah and His servant according to a famous Hadith Qudsi?",
-        "answer": "The first half is praise and glorification for Allah, and the second half is a request and supplication for the servant's guidance."
-      },
-      {
-        "id": "ch1-q15",
-        "text": "What is the legal ruling (Hukm) of reciting Al-Fatiha in the daily Salah?",
-        "answer": "It is a pillar (Rukn) of the prayer; the prayer is considered invalid if it is not recited."
-      },
-      {
-        "id": "ch1-q16",
-        "text": "What core pillar of Aqeedah (belief) is established by 'Yawm id-Din'?",
-        "answer": "The belief in the Hereafter and the final accountability of all human actions."
-      },
-      {
-        "id": "ch1-q17",
-        "text": "How does the Surah address the concept of 'Tawhid al-Uluhiyyah' (Oneness of Worship)?",
-        "answer": "Through the statement 'Iyyaka Na'budu,' which restricts all forms of worship to Allah alone."
-      },
-      {
-        "id": "ch1-q18",
-        "text": "What does the plural form 'We' in 'We worship' and 'We ask for help' imply?",
-        "answer": "It emphasizes the concept of the 'Ummah' (community) and that believers are united in their worship and journey toward Allah."
-      },
-      {
-        "id": "ch1-q19",
-        "text": "How does the Surah act as a summary of the entire Quran?",
-        "answer": "It contains the essence of Tawhid, the Day of Judgment, stories of past nations (favored vs. punished), and the path to guidance."
-      },
-      {
-        "id": "ch1-q20",
-        "text": "What is the primary request we make to Allah in this Surah?",
-        "answer": "Guidance (Hidayah) to the straight path and the strength to remain firm upon it."
-      }
-    ]
-  }
+{
+  "id": 1,
+  "englishName": "Al-Fatiha",
+  "arabicName": "الفاتحة",
+  "translation": "The Opening",
+  "questions": [
+    {
+      "id": "ch1-q1",
+      "text": "How does Al-Fatiha teach the proper order of dua?",
+      "answer": "It begins with praising Allah, then declares worship and reliance, then asks for guidance."
+    },
+    {
+      "id": "ch1-q2",
+      "text": "True/False: Al-Fatiha teaches that we can worship Allah properly without His help.",
+      "answer": "False. It links worship with seeking Allah’s assistance."
+    },
+    {
+      "id": "ch1-q3",
+      "text": "What does praising Allah before asking for anything teach about adab with Allah?",
+      "answer": "It shows humility and recognition that all goodness and authority belong to Allah."
+    },
+    {
+      "id": "ch1-q4",
+      "text": "How does ‘Rabb al-'Alamin’ shape a believer’s worldview?",
+      "answer": "It reminds that Allah sustains everything, so a believer should not fear creation more than the Creator."
+    },
+    {
+      "id": "ch1-q5",
+      "text": "What is the balance of hope and fear in Al-Fatiha?",
+      "answer": "Hope comes from Allah’s mercy; fear comes from remembering the Day of Judgment and accountability."
+    },
+    {
+      "id": "ch1-q6",
+      "text": "Why is Allah’s mercy mentioned early in the Surah?",
+      "answer": "To open the heart with hope and love, so worship is not only fear-based."
+    },
+    {
+      "id": "ch1-q7",
+      "text": "What does ‘Maalik Yawm id-Din’ teach about fairness?",
+      "answer": "Ultimate justice belongs to Allah; no ظلم goes unaccounted, even if it is ignored in this world."
+    },
+    {
+      "id": "ch1-q8",
+      "text": "What is one practical meaning of worshipping Allah alone today?",
+      "answer": "Do not dedicate prayer, dua, or ultimate reliance to anyone besides Allah."
+    },
+    {
+      "id": "ch1-q9",
+      "text": "How does Al-Fatiha protect a believer from arrogance?",
+      "answer": "It constantly reminds the worshipper of dependence on Allah and the need for guidance."
+    },
+    {
+      "id": "ch1-q10",
+      "text": "Why do we ask for guidance in every Salah even if we are already Muslim?",
+      "answer": "Because guidance needs renewal, protection from deviation, and growth in obedience every day."
+    },
+    {
+      "id": "ch1-q11",
+      "text": "What is the difference between knowing the straight path and staying on it?",
+      "answer": "Knowing is awareness; staying requires Allah’s help, sincerity, and consistent obedience."
+    },
+    {
+      "id": "ch1-q12",
+      "text": "True/False: Al-Fatiha teaches that guidance is only information, not transformation.",
+      "answer": "False. Guidance includes living the truth, not only knowing it."
+    },
+    {
+      "id": "ch1-q13",
+      "text": "Why is this Surah titled 'Al-Fatiha'?",
+      "answer": "It means 'The Opening,' as it is the first chapter of the Quran and the opening of the prayer (Salah)."
+    },
+    {
+      "id": "ch1-q14",
+      "text": "Name three other titles given to Surah Al-Fatiha.",
+      "answer": "Umm al-Kitab (Mother of the Book), As-Sab' al-Mathani (The Seven Oft-Repeated Verses), and Ash-Shifa (The Cure)."
+    },
+    {
+      "id": "ch1-q15",
+      "text": "What does the phrase 'Alhamdulillah' encompass beyond just 'praise'?",
+      "answer": "It combines both praise and gratitude, acknowledging that Allah is the source of all blessings and is inherently worthy of all glory."
+    },
+    {
+      "id": "ch1-q16",
+      "text": "What is the meaning of 'Rabb al-Alamin'?",
+      "answer": "The Lord, Creator, Provider, and Sustainer of all the worlds (mankind, jinn, angels, and all existence)."
+    },
+    {
+      "id": "ch1-q17",
+      "text": "Linguistically, how does 'Ar-Rahman' differ from 'Ar-Rahim'?",
+      "answer": "Ar-Rahman refers to Allah's vast, all-encompassing mercy for all creation; Ar-Rahim refers to His specific, continuous mercy for the believers."
+    },
+    {
+      "id": "ch1-q18",
+      "text": "What is the significance of the title 'Maalik-i Yawm id-Din'?",
+      "answer": "It establishes Allah as the Absolute King and Master of the Day of Judgment, where no one else will have authority."
+    },
+    {
+      "id": "ch1-q19",
+      "text": "In 'Iyyaka Na'budu,' why is the word 'Iyyaka' (You) placed before the verb?",
+      "answer": "To signify 'exclusivity,' meaning 'You and only You do we worship.'"
+    },
+    {
+      "id": "ch1-q20",
+      "text": "What is the spiritual connection between 'Iyyaka Na'budu' (You we worship) and 'Iyyaka Nasta'in' (You we ask for help)?",
+      "answer": "It teaches that true worship is only possible through Allah's help, and we cannot fulfill our duties without His divine assistance."
+    },
+    {
+      "id": "ch1-q21",
+      "text": "What is the definition of 'As-Sirat al-Mustaqim'?",
+      "answer": "The Straight Path; the clear, balanced way of Islam that leads directly to Allah's pleasure and Paradise."
+    },
+    {
+      "id": "ch1-q22",
+      "text": "Who are 'those whom You have favored' (An'amta 'alayhim) according to other parts of the Quran?",
+      "answer": "The Prophets, the truthful ones (Siddiqin), the martyrs (Shuhada), and the righteous (Salihin)."
+    },
+    {
+      "id": "ch1-q23",
+      "text": "Who are 'those who have earned Your anger' (Al-Maghdubi 'alayhim)?",
+      "answer": "Those who knew the truth but intentionally rejected or disobeyed it."
+    },
+    {
+      "id": "ch1-q24",
+      "text": "Who are 'those who have gone astray' (Ad-Dallin)?",
+      "answer": "Those who act without knowledge or follow their desires, wandering away from the truth."
+    },
+    {
+      "id": "ch1-q25",
+      "text": "Is the word 'Amin' a part of the Quranic text of Surah Al-Fatiha?",
+      "answer": "No. It is not part of the Surah’s Quranic text; it is a Sunnah to say it after finishing Al-Fatiha, meaning 'O Allah, accept.'"
+    },
+    {
+      "id": "ch1-q26",
+      "text": "How does Surah Al-Fatiha divide between Allah and His servant according to a famous Hadith Qudsi?",
+      "answer": "The first half is praise and glorification for Allah, and the second half is a request and supplication for the servant's guidance."
+    },
+    {
+      "id": "ch1-q27",
+      "text": "What is the legal ruling (Hukm) of reciting Al-Fatiha in the daily Salah?",
+      "answer": "It is a pillar (Rukn) of the prayer; the prayer is considered invalid if it is not recited."
+    },
+    {
+      "id": "ch1-q28",
+      "text": "What core pillar of Aqeedah (belief) is established by 'Yawm id-Din'?",
+      "answer": "The belief in the Hereafter and the final accountability of all human actions."
+    },
+    {
+      "id": "ch1-q29",
+      "text": "How does the Surah address the concept of 'Tawhid al-Uluhiyyah' (Oneness of Worship)?",
+      "answer": "Through the statement 'Iyyaka Na'budu,' which restricts all forms of worship to Allah alone."
+    },
+    {
+      "id": "ch1-q30",
+      "text": "What does the plural form 'We' in 'We worship' and 'We ask for help' imply?",
+      "answer": "It emphasizes the concept of the 'Ummah' (community) and that believers are united in their worship and journey toward Allah."
+    },
+    {
+      "id": "ch1-q31",
+      "text": "How does the Surah act as a summary of the entire Quran?",
+      "answer": "It contains the essence of Tawhid, the Day of Judgment, stories of past nations (favored vs. punished), and the path to guidance."
+    },
+    {
+      "id": "ch1-q32",
+      "text": "What is the primary request we make to Allah in this Surah?",
+      "answer": "Guidance (Hidayah) to the straight path and the strength to remain firm upon it."
+    }
+  ]
+}

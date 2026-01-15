@@ -1,0 +1,243 @@
+{
+    "id": 62,
+    "englishName": "Al-Jumu'ah",
+    "arabicName": "الجمعة",
+    "translation": "The Friday Congregation",
+    "questions": [
+        {
+            "id": "ch62-q1",
+            "text": "What is the central theme of Surah Al-Jumu'ah?",
+            "answer": "It highlights Allah’s favor of sending the Prophet, warns against neglecting revelation, and teaches the importance of Friday worship."
+        },
+        {
+            "id": "ch62-q2",
+            "text": "What does the Surah teach about the Prophet’s mission to the community?",
+            "answer": "He recites Allah’s verses, purifies people, and teaches the Book and wisdom."
+        },
+        {
+            "id": "ch62-q3",
+            "text": "True/False: The Surah suggests that religious knowledge is unnecessary if someone is morally good.",
+            "answer": "False. It emphasizes teaching the Book and wisdom as core to guidance."
+        },
+        {
+            "id": "ch62-q4",
+            "text": "What does the Surah teach about Allah sending guidance to people who were previously not given scripture?",
+            "answer": "It shows Allah’s mercy is vast and He grants guidance beyond any ethnic or social boundary."
+        },
+        {
+            "id": "ch62-q5",
+            "text": "How does Surah Al-Jumu'ah warn against carrying scripture without acting on it?",
+            "answer": "It gives a striking example showing knowledge without practice becomes a burden, not honor."
+        },
+        {
+            "id": "ch62-q6",
+            "text": "What is one moral lesson from the example of having a book but not benefiting from it?",
+            "answer": "Revelation must transform behavior; mere possession of knowledge does not save."
+        },
+        {
+            "id": "ch62-q7",
+            "text": "True/False: The Surah teaches that being part of a religious group guarantees salvation.",
+            "answer": "False. It emphasizes sincerity, obedience, and truthfulness."
+        },
+        {
+            "id": "ch62-q8",
+            "text": "How does the Surah respond to people who claim closeness to Allah while avoiding accountability?",
+            "answer": "It challenges empty claims and shows that true closeness requires honesty and readiness to meet Allah."
+        },
+        {
+            "id": "ch62-q9",
+            "text": "What does Surah Al-Jumu'ah teach about death for those who try to avoid it?",
+            "answer": "Death will reach everyone; avoiding reminders does not remove reality."
+        },
+        {
+            "id": "ch62-q10",
+            "text": "What is the Surah’s teaching about meeting Allah after death?",
+            "answer": "People will return to Allah and be informed of what they did, so life must be lived with accountability."
+        },
+        {
+            "id": "ch62-q11",
+            "text": "What is the main command related to Friday prayer in this Surah?",
+            "answer": "When the call to Friday prayer is made, believers should leave trade and rush to Allah’s remembrance."
+        },
+        {
+            "id": "ch62-q12",
+            "text": "Why is leaving trade for Jumu'ah spiritually important?",
+            "answer": "It proves Allah is prioritized over profit and builds community unity in worship."
+        },
+        {
+            "id": "ch62-q13",
+            "text": "True/False: The Surah teaches that worldly work is forbidden on Friday.",
+            "answer": "False. It teaches pausing for the congregational worship, then continuing life responsibly afterward."
+        },
+        {
+            "id": "ch62-q14",
+            "text": "What does the Surah teach believers to do after completing the Friday prayer?",
+            "answer": "Disperse in the land and seek Allah’s bounty while remembering Allah often."
+        },
+        {
+            "id": "ch62-q15",
+            "text": "How does the Surah balance worship and livelihood?",
+            "answer": "It commands worship at its time, then encourages lawful work, all while keeping remembrance."
+        },
+        {
+            "id": "ch62-q16",
+            "text": "What does Surah Al-Jumu'ah teach about people who leave the khutbah for entertainment or trade?",
+            "answer": "It criticizes this behavior, showing it reflects weak priorities compared to Allah’s remembrance."
+        },
+        {
+            "id": "ch62-q17",
+            "text": "What is the Surah’s message about what is with Allah compared to trade and amusement?",
+            "answer": "What is with Allah is better and lasting; Allah is the best provider."
+        },
+        {
+            "id": "ch62-q18",
+            "text": "True/False: The Surah suggests chasing profit is more important than worship.",
+            "answer": "False. It teaches worship and remembrance come first."
+        },
+        {
+            "id": "ch62-q19",
+            "text": "How does this Surah define true success on Friday?",
+            "answer": "Prioritizing remembrance, prayer, and guidance over distractions and profit."
+        },
+        {
+            "id": "ch62-q20",
+            "text": "What is one practical way to prepare for Jumu'ah so you don’t get distracted?",
+            "answer": "Plan errands early, arrive before khutbah, silence distractions, and focus on listening."
+        },
+        {
+            "id": "ch62-q21",
+            "text": "What does the Surah teach about purification (tazkiyah) as part of the Prophet’s mission?",
+            "answer": "Guidance is not only information; it purifies the heart and corrects character."
+        },
+        {
+            "id": "ch62-q22",
+            "text": "How can a believer measure if they are benefiting from the Prophet’s teachings?",
+            "answer": "Their character improves, worship becomes more consistent, and sin becomes less attractive."
+        },
+        {
+            "id": "ch62-q23",
+            "text": "True/False: The Surah suggests that memorizing scripture without practice is spiritually safe.",
+            "answer": "False. It condemns carrying knowledge without acting on it."
+        },
+        {
+            "id": "ch62-q24",
+            "text": "What is one way to avoid being like those who had scripture but did not benefit?",
+            "answer": "Act on what you learn immediately, even in small steps, and seek sincerity."
+        },
+        {
+            "id": "ch62-q25",
+            "text": "What does Surah Al-Jumu'ah teach about Allah’s favor in sending messengers?",
+            "answer": "It is a massive mercy that brings guidance, purification, and wisdom to communities."
+        },
+        {
+            "id": "ch62-q26",
+            "text": "How does the Surah address the idea of religious superiority?",
+            "answer": "It rejects empty superiority and implies real honor comes from obedience and truthfulness."
+        },
+        {
+            "id": "ch62-q27",
+            "text": "What does the Surah teach about frequent remembrance after prayer?",
+            "answer": "Remembrance keeps the heart connected to Allah even while working and seeking provision."
+        },
+        {
+            "id": "ch62-q28",
+            "text": "What is one daily-life benefit of regular remembrance (dhikr) during busy workdays?",
+            "answer": "It reduces anxiety, prevents greed, and keeps actions honest and purposeful."
+        },
+        {
+            "id": "ch62-q29",
+            "text": "True/False: The Surah teaches that gathering for worship has no community benefit.",
+            "answer": "False. Jumu'ah builds unity, learning, and shared direction."
+        },
+        {
+            "id": "ch62-q30",
+            "text": "How can the Friday khutbah shape a community’s moral direction?",
+            "answer": "It teaches guidance publicly, corrects wrong trends, and strengthens collective taqwa."
+        },
+        {
+            "id": "ch62-q31",
+            "text": "What does the Surah teach about distractions during moments of guidance?",
+            "answer": "Distractions can ruin spiritual benefit and reveal weak priorities."
+        },
+        {
+            "id": "ch62-q32",
+            "text": "What is one personal reflection question inspired by Surah Al-Jumu'ah?",
+            "answer": "Do I treat Friday as a weekly reset for my heart, or as a quick routine I rush through?"
+        },
+        {
+            "id": "ch62-q33",
+            "text": "How does the Surah teach that Allah is the best provider?",
+            "answer": "By reminding believers that prioritizing Allah never reduces true provision; Allah’s bounty is greater."
+        },
+        {
+            "id": "ch62-q34",
+            "text": "True/False: The Surah teaches that leaving work for Jumu'ah will necessarily cause financial loss.",
+            "answer": "False. It teaches Allah’s reward and provision are better and more secure."
+        },
+        {
+            "id": "ch62-q35",
+            "text": "What does Surah Al-Jumu'ah teach about accountability after death?",
+            "answer": "Everyone returns to Allah and is informed of their deeds, so believers must live responsibly."
+        },
+        {
+            "id": "ch62-q36",
+            "text": "How does remembrance of death help with honesty and humility?",
+            "answer": "It reduces arrogance and makes a person less likely to lie, cheat, or harm others for short-term gain."
+        },
+        {
+            "id": "ch62-q37",
+            "text": "What is one ethical lesson about trade from this Surah?",
+            "answer": "Trade is allowed, but it must not replace worship or make a person forget Allah."
+        },
+        {
+            "id": "ch62-q38",
+            "text": "How can a believer keep business ethical while being ambitious?",
+            "answer": "Prioritize prayer times, keep honesty, avoid ظلم, and remember that provision is from Allah."
+        },
+        {
+            "id": "ch62-q39",
+            "text": "True/False: The Surah teaches that religious gatherings should be boring to be sincere.",
+            "answer": "False. It teaches focus and sincerity; distractions are the problem, not healthy joy."
+        },
+        {
+            "id": "ch62-q40",
+            "text": "What does the Surah teach about the best time to refocus spiritually each week?",
+            "answer": "Jumu'ah is presented as a weekly anchor of remembrance, learning, and community worship."
+        },
+        {
+            "id": "ch62-q41",
+            "text": "What is one misconception corrected by the Surah about having religious texts?",
+            "answer": "That possessing texts equals guidance; guidance requires understanding and practice."
+        },
+        {
+            "id": "ch62-q42",
+            "text": "How does Surah Al-Jumu'ah encourage humility for those with knowledge?",
+            "answer": "By warning that knowledge without practice is meaningless and can become proof against a person."
+        },
+        {
+            "id": "ch62-q43",
+            "text": "What is one sign that a community is neglecting Jumu'ah spiritually?",
+            "answer": "Treating khutbah lightly, arriving late, or prioritizing trade and entertainment over remembrance."
+        },
+        {
+            "id": "ch62-q44",
+            "text": "What does this Surah teach about the role of ‘remembrance’ in preventing hypocrisy?",
+            "answer": "Regular remembrance aligns the heart with truth, reducing the gap between words and actions."
+        },
+        {
+            "id": "ch62-q45",
+            "text": "True/False: The Surah suggests that Allah’s mercy is restricted to one nation.",
+            "answer": "False. It shows Allah’s guidance reaches beyond one group."
+        },
+        {
+            "id": "ch62-q46",
+            "text": "How does Surah Al-Jumu'ah strengthen gratitude for being Muslim?",
+            "answer": "It highlights the Prophet’s mission of teaching and purifying as a tremendous mercy."
+        },
+        {
+            "id": "ch62-q47",
+            "text": "How can this Surah guide a student or worker who struggles with time management?",
+            "answer": "Schedule life around worship and learning, not the other way around, and use remembrance to stay grounded."
+        }
+    ]
+}

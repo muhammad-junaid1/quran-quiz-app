@@ -1,108 +1,408 @@
 {
-  "id": 29,
-  "englishName": "Al-Ankabut",
-  "arabicName": "العنكبوت",
-  "translation": "The Spider",
-  "questions": [
-    {
-      "id": "ch29-q1",
-      "text": "What is the core theme of the opening verses of Surah Al-Ankabut?",
-      "answer": "The inevitability of being tested; people will not be left to say 'We believe' without being tried."
-    },
-    {
-      "id": "ch29-q2",
-      "text": "What is the command regarding parents if they try to force a child into Shirk?",
-      "answer": "The child should not obey them in that, but should still treat them with goodness in other matters."
-    },
-    {
-      "id": "ch29-q3",
-      "text": "What will the disbelievers say to the believers regarding their sins (Verse 12)?",
-      "answer": "They say 'Follow our way, and we will carry your sins,' but they cannot carry any of their sins."
-    },
-    {
-      "id": "ch29-q4",
-      "text": "How many years did Nuh (AS) remain among his people calling them to Allah?",
-      "answer": "Nine hundred and fifty years."
-    },
-    {
-      "id": "ch29-q5",
-      "text": "What was Ibrahim's (AS) argument against the idols in this Surah?",
-      "answer": "He told his people they only worship idols and create a falsehood, but these idols possess no provision for them."
-    },
-    {
-      "id": "ch29-q6",
-      "text": "Who was the only one who believed in Ibrahim from his immediate surroundings?",
-      "answer": "Lut (AS)."
-    },
-    {
-      "id": "ch29-q7",
-      "text": "What did Ibrahim (AS) say about the idols and the Day of Resurrection (Verse 25)?",
-      "answer": "He said their mutual love for idols was only for this world, but on the Day of Judgment they will deny and curse each other."
-    },
-    {
-      "id": "ch29-q8",
-      "text": "Why were the angels sent to the people of Lut?",
-      "answer": "To destroy the town because its people were wrongdoers and committed immorality (homosexuality) that no one had done before."
-    },
-    {
-      "id": "ch29-q9",
-      "text": "What were the punishments of the people of 'Ad and Thamud?",
-      "answer": "They were destroyed despite being people of perception, because they rejected the truth."
-    },
-    {
-      "id": "ch29-q10",
-      "text": "What is the 'Parable of the Spider' mentioned in Verse 41?",
-      "answer": "Those who take protectors other than Allah are like the spider that takes a house; indeed, the flimsiest of houses is the spider's house."
-    },
-    {
-      "id": "ch29-q11",
-      "text": "What is the primary spiritual benefit of Prayer (Salat) mentioned in Verse 45?",
-      "answer": "It prohibits immorality (Fahsha) and wrongdoing (Munkar)."
-    },
-    {
-      "id": "ch29-q12",
-      "text": "How should believers argue with the People of the Book?",
-      "answer": "In the best way possible, except with those who do wrong among them."
-    },
-    {
-      "id": "ch29-q13",
-      "text": "How does Allah describe the life of this world in Verse 64?",
-      "answer": "As nothing but amusement and play, while the home of the Hereafter is the true life (Al-Hayawan)."
-    },
-    {
-      "id": "ch29-q14",
-      "text": "What is the reaction of the polytheists when they are in a ship in a storm?",
-      "answer": "They call upon Allah with sincere devotion, but as soon as He brings them safely to land, they associate partners with Him again."
-    },
-    {
-      "id": "ch29-q15",
-      "text": "What is the promise to those who strive (Jihad) in the way of Allah?",
-      "answer": "Allah will surely guide them to His paths (Verse 69)."
-    },
-    {
-      "id": "ch29-q16",
-      "text": "Why was the Prophet (SAW) described as not having read any book or written with his right hand before revelation?",
-      "answer": "So that the followers of falsehood would have no basis for doubt regarding the divine origin of the Quran."
-    },
-    {
-      "id": "ch29-q17",
-      "text": "Who is the most unjust person according to Verse 68?",
-      "answer": "The one who invents a lie about Allah or denies the truth when it has come to him."
-    },
-    {
-      "id": "ch29-q18",
-      "text": "What happened to Korah (Qarun), Pharaoh, and Haman in this Surah?",
-      "answer": "Musa came to them with clear signs, but they were arrogant on earth; each was seized for his sin."
-    },
-    {
-      "id": "ch29-q19",
-      "text": "How does the Surah describe the 'testing' of the previous nations?",
-      "answer": "Allah tested those before them so He may make known those who are truthful and those who are liars."
-    },
-    {
-      "id": "ch29-q20",
-      "text": "What is the 'greatest' thing according to Verse 45?",
-      "answer": "The remembrance of Allah (Dhikirullah)."
-    }
-  ]
+    "id": 29,
+    "englishName": "Al-Ankabut",
+    "arabicName": "العنكبوت",
+    "translation": "The Spider",
+    "questions": [
+        {
+            "id": "ch29-q1",
+            "text": "What is the core theme of the opening verses of Surah Al-Ankabut?",
+            "answer": "The inevitability of being tested; people will not be left to say 'We believe' without being tried."
+        },
+        {
+            "id": "ch29-q2",
+            "text": "Why does Allah test those who claim to believe?",
+            "answer": "To make known those who are truthful and those who are liars in their faith."
+        },
+        {
+            "id": "ch29-q3",
+            "text": "Can those who do evil deeds expect to escape Allah's judgment?",
+            "answer": "No, they should not think they can outrun or escape Him; evil is their judgment."
+        },
+        {
+            "id": "ch29-q4",
+            "text": "What is the result for someone who strives (Jihad) for the sake of Allah?",
+            "answer": "He only strives for the benefit of his own soul, for Allah is free from need of the worlds."
+        },
+        {
+            "id": "ch29-q5",
+            "text": "What is the command regarding parents if they try to force a child into Shirk?",
+            "answer": "The child should not obey them in that, but should still treat them with goodness in other matters."
+        },
+        {
+            "id": "ch29-q6",
+            "text": "What will the hypocrites say when they encounter a victory from Allah?",
+            "answer": "They say, 'Indeed, we were with you,' even though they were absent during the struggle."
+        },
+        {
+            "id": "ch29-q7",
+            "text": "What will the disbelievers say to the believers regarding their sins?",
+            "answer": "They say 'Follow our way, and we will carry your sins,' but they cannot carry any of their sins and are liars."
+        },
+        {
+            "id": "ch29-q8",
+            "text": "Will the disbelievers have to carry the burdens of those they misled?",
+            "answer": "Yes, they will carry their own burdens and other burdens along with their own, and be questioned for their inventions."
+        },
+        {
+            "id": "ch29-q9",
+            "text": "How many years did Nuh (AS) remain among his people calling them to Allah?",
+            "answer": "Nine hundred and fifty years."
+        },
+        {
+            "id": "ch29-q10",
+            "text": "How were the people of Nuh punished after their long period of denial?",
+            "answer": "The flood seized them while they were wrongdoers."
+        },
+        {
+            "id": "ch29-q11",
+            "text": "What was Ibrahim's (AS) primary message to his people?",
+            "answer": "To worship Allah and fear Him; that is better for them if they only knew."
+        },
+        {
+            "id": "ch29-q12",
+            "text": "What was Ibrahim's (AS) argument against the idols in this Surah?",
+            "answer": "He told them they only worship idols and create a falsehood, but these idols possess no provision for them."
+        },
+        {
+            "id": "ch29-q13",
+            "text": "How does Ibrahim (AS) describe the process of creation as a sign?",
+            "answer": "He tells people to see how Allah begins creation and then repeats it; that is easy for Allah."
+        },
+        {
+            "id": "ch29-q14",
+            "text": "What did Ibrahim's (AS) people try to do to him after he preached to them?",
+            "answer": "They said, 'Kill him or burn him,' but Allah saved him from the fire."
+        },
+        {
+            "id": "ch29-q15",
+            "text": "Who was the only one who believed in Ibrahim from his immediate surroundings?",
+            "answer": "Prophet Lut (AS)."
+        },
+        {
+            "id": "ch29-q16",
+            "text": "What did Ibrahim (AS) say about the idols and the Day of Resurrection?",
+            "answer": "He said their mutual love for idols was only for this world, but on the Day of Judgment they will deny and curse each other."
+        },
+        {
+            "id": "ch29-q17",
+            "text": "What gift did Allah grant Ibrahim in his old age?",
+            "answer": "Ishaq (Isaac) and Ya'qub (Jacob), and He placed prophethood and the Scripture among his descendants."
+        },
+        {
+            "id": "ch29-q18",
+            "text": "What was the specific sin of the people of Lut mentioned in this Surah?",
+            "answer": "They committed immorality (homosexuality) that no one had done before and practiced it openly in their assemblies."
+        },
+        {
+            "id": "ch29-q19",
+            "text": "Why were the angels sent to Ibrahim (AS) before going to Lut (AS)?",
+            "answer": "To give him glad tidings of a son and to inform him that they were going to destroy the town of Lut's people."
+        },
+        {
+            "id": "ch29-q20",
+            "text": "What was Lut's (AS) reaction when the angels (in the form of men) came to him?",
+            "answer": "He was distressed and felt powerless to protect them, until they revealed they were messengers of Allah."
+        },
+        {
+            "id": "ch29-q21",
+            "text": "Who was excluded from the salvation of Lut's family?",
+            "answer": "His wife; she was among those who remained behind for punishment."
+        },
+        {
+            "id": "ch29-q22",
+            "text": "How were the people of Madyan punished after they rejected Shu'ayb (AS)?",
+            "answer": "A severe earthquake seized them, and they were found fallen prostrate in their homes."
+        },
+        {
+            "id": "ch29-q23",
+            "text": "What happened to the people of 'Ad and Thamud according to this Surah?",
+            "answer": "They were destroyed despite being people of perception, because Shaitan made their deeds seem fair to them."
+        },
+        {
+            "id": "ch29-q24",
+            "text": "What happened to Qarun, Pharaoh, and Haman when they rejected Musa (AS)?",
+            "answer": "Each was seized for his sin; some were destroyed by a storm of stones, some by a shriek, some by being swallowed by the earth, and some by drowning."
+        },
+        {
+            "id": "ch29-q25",
+            "text": "What is the 'Parable of the Spider' mentioned in this Surah?",
+            "answer": "Those who take protectors other than Allah are like the spider that takes a house; indeed, the flimsiest of houses is the spider's house."
+        },
+        {
+            "id": "ch29-q26",
+            "text": "What is the purpose of the parables mentioned by Allah?",
+            "answer": "They are for people, but only those of knowledge understand them."
+        },
+        {
+            "id": "ch29-q27",
+            "text": "With what purpose did Allah create the heavens and the earth?",
+            "answer": "In truth (and for a serious purpose), as a sign for the believers."
+        },
+        {
+            "id": "ch29-q28",
+            "text": "What is the primary spiritual benefit of Prayer (Salat)?",
+            "answer": "It prohibits immorality (Fahsha) and wrongdoing (Munkar)."
+        },
+        {
+            "id": "ch29-q29",
+            "text": "What is described as the 'greatest' thing in the context of prayer?",
+            "answer": "The remembrance of Allah (Dhikrullah)."
+        },
+        {
+            "id": "ch29-q30",
+            "text": "How should believers argue with the People of the Book?",
+            "answer": "In the best way possible, except with those who do wrong among them."
+        },
+        {
+            "id": "ch29-q31",
+            "text": "What is the common ground believers should emphasize when talking to the People of the Book?",
+            "answer": "That they believe in what was revealed to them and what was revealed to the People of the Book, and that their God is One."
+        },
+        {
+            "id": "ch29-q32",
+            "text": "Why was the Prophet (SAW) described as not having read any book or written with his right hand before revelation?",
+            "answer": "So that the followers of falsehood would have no basis for doubt regarding the divine origin of the Quran."
+        },
+        {
+            "id": "ch29-q33",
+            "text": "Where are the verses of the Quran preserved for those given knowledge?",
+            "answer": "They are clear verses preserved in the breasts (hearts) of those who have been given knowledge."
+        },
+        {
+            "id": "ch29-q34",
+            "text": "How does Allah respond to the demand for physical 'signs' or miracles like previous prophets?",
+            "answer": "He says: 'Is it not sufficient for them that We revealed to you the Book which is recited to them?'"
+        },
+        {
+            "id": "ch29-q35",
+            "text": "What is the warning for those who hasten the Prophet for the punishment?",
+            "answer": "That if it were not for a decreed term, the punishment would have come to them already, and it will surely come unexpectedly."
+        },
+        {
+            "id": "ch29-q36",
+            "text": "How does Allah describe the punishment enveloping the disbelievers from all sides?",
+            "answer": "It will cover them from above and from beneath their feet, and it will be said, 'Taste what you used to do.'"
+        },
+        {
+            "id": "ch29-q37",
+            "text": "What is the instruction for the servants of Allah if they are persecuted in one place?",
+            "answer": "'O My servants who have believed, indeed My earth is spacious, so worship only Me.'"
+        },
+        {
+            "id": "ch29-q38",
+            "text": "What is the universal destiny of every soul mentioned in this Surah?",
+            "answer": "Every soul shall taste death, then to Allah they will be returned."
+        },
+        {
+            "id": "ch29-q39",
+            "text": "What is the reward for those who believe and do righteous deeds in the Hereafter?",
+            "answer": "Allah will settle them in lofty chambers of Paradise beneath which rivers flow, to abide therein forever."
+        },
+        {
+            "id": "ch29-q40",
+            "text": "How does Allah provide for creatures that do not carry their own provision?",
+            "answer": "Allah provides for them and for humans; He is the Hearing, the Knowing."
+        },
+        {
+            "id": "ch29-q41",
+            "text": "What do the polytheists admit when asked who created the heavens and earth?",
+            "answer": "They say, 'Allah,' yet they still turn away from the truth."
+        },
+        {
+            "id": "ch29-q42",
+            "text": "Does Allah extend or restrict provision for His servants as He wills?",
+            "answer": "Yes, 'Allah extends provision for whom He wills of His servants and restricts it for him.'"
+        },
+        {
+            "id": "ch29-q43",
+            "text": "How does Allah describe the life of this world in comparison to the Hereafter?",
+            "answer": "This worldly life is nothing but amusement and play, while the home of the Hereafter is the true life (Al-Hayawan)."
+        },
+        {
+            "id": "ch29-q44",
+            "text": "What is the reaction of people when they are in a ship in a storm vs when they are safe on land?",
+            "answer": "They call upon Allah with sincere devotion in the storm, but as soon as they are safe on land, they associate partners with Him again."
+        },
+        {
+            "id": "ch29-q45",
+            "text": "What blessing of security in Makkah did the people ignore?",
+            "answer": "That Allah made a safe sanctuary (the Haram), while people are being snatched away all around them."
+        },
+        {
+            "id": "ch29-q46",
+            "text": "Who is the most unjust person according to this Surah?",
+            "answer": "The one who invents a lie about Allah or denies the truth when it has come to him."
+        },
+        {
+            "id": "ch29-q47",
+            "text": "What is the promise to those who strive (Jihad) in the way of Allah?",
+            "answer": "Allah will surely guide them to His paths, and indeed, Allah is with the doers of good."
+        },
+        {
+            "id": "ch29-q48",
+            "text": "What is the meaning of the name 'Al-Ankabut'?",
+            "answer": "The Spider."
+        },
+        {
+            "id": "ch29-q49",
+            "text": "What is 'Al-Hayawan'?",
+            "answer": "The true and eternal life of the Hereafter."
+        },
+        {
+            "id": "ch29-q50",
+            "text": "What is the 'Flimsy house' of the spider a metaphor for?",
+            "answer": "The weakness and unreliability of false gods and worldly protectors."
+        },
+        {
+            "id": "ch29-q51",
+            "text": "What is the 'Shriek' (Saihah)?",
+            "answer": "A powerful divine sound used as a punishment for certain nations."
+        },
+        {
+            "id": "ch29-q52",
+            "text": "Why is the earth described as 'spacious' (Wasiah)?",
+            "answer": "To encourage believers to migrate (Hijrah) if they cannot practice their religion in their current home."
+        },
+        {
+            "id": "ch29-q53",
+            "text": "What is the 'Burdens' (Athqal) mentioned regarding the Day of Judgment?",
+            "answer": "The weight of one's own sins and the sins of those they misled."
+        },
+        {
+            "id": "ch29-q54",
+            "text": "What is the 'Beginning of creation' and its 'Repetition'?",
+            "answer": "Allah's initial creation of the universe and His ability to bring everything back to life for resurrection."
+        },
+        {
+            "id": "ch29-q55",
+            "text": "What is the 'Clear Arabic tongue' mentioned in other Surahs related to the Prophet's illiteracy here?",
+            "answer": "The fact that an illiterate man could produce such eloquent Arabic is proof of its divine origin."
+        },
+        {
+            "id": "ch29-q56",
+            "text": "What is the 'Decreed term' (Ajal Musamma)?",
+            "answer": "The fixed time set by Allah for punishment or the end of the world."
+        },
+        {
+            "id": "ch29-q57",
+            "text": "What are the 'Lofty chambers' (Ghuraf)?",
+            "answer": "High and honorable stations in Paradise for the believers."
+        },
+        {
+            "id": "ch29-q58",
+            "text": "What is the 'Sincere devotion' (Mukhlisina lahu-din)?",
+            "answer": "Directing all worship and calling only to Allah, especially during times of extreme distress."
+        },
+        {
+            "id": "ch29-q59",
+            "text": "What is the 'Path of the believers'?",
+            "answer": "The way of life based on faith and righteous deeds."
+        },
+        {
+            "id": "ch29-q60",
+            "text": "What is the 'Greater Jihad' mentioned implicitly at the end?",
+            "answer": "The constant internal and external striving to follow Allah's path despite trials."
+        },
+        {
+            "id": "ch29-q61",
+            "text": "Why does Allah mention '950 years' for Nuh (AS)?",
+            "answer": "To show the extreme patience of the prophet and the long-term persistence of his people in disbelief."
+        },
+        {
+            "id": "ch29-q62",
+            "text": "What is the 'Sign' for those who reason?",
+            "answer": "The stories of past nations and the natural world."
+        },
+        {
+            "id": "ch29-q63",
+            "text": "What is the 'Mercy' (Rahmah) mentioned regarding the Quran?",
+            "answer": "Its role as a source of guidance and comfort for those who believe."
+        },
+        {
+            "id": "ch29-q64",
+            "text": "What is the 'Account' (Hisab) of those who deny?",
+            "answer": "The detailed judgment they will face for their lies and rejection."
+        },
+        {
+            "id": "ch29-q65",
+            "text": "What is the 'Truth' (Al-Haqq)?",
+            "answer": "The reality of Allah's oneness and the message of Islam."
+        },
+        {
+            "id": "ch29-q66",
+            "text": "Why is the spider's house called 'flimsiest'?",
+            "answer": "Because it cannot protect from heat, cold, or rain, just as idols cannot protect from Allah's punishment."
+        },
+        {
+            "id": "ch29-q67",
+            "text": "What is the 'Remembrance' (Dhikr) mentioned after prayer?",
+            "answer": "Keeping Allah in mind throughout all actions of life."
+        },
+        {
+            "id": "ch29-q68",
+            "text": "What is the 'Unseen' (Ghayb)?",
+            "answer": "Knowledge that only Allah possesses regarding the future and the Hereafter."
+        },
+        {
+            "id": "ch29-q69",
+            "text": "What is the 'Right hand' metaphor for writing?",
+            "answer": "To show the Prophet did not manually write or transcribe any existing books."
+        },
+        {
+            "id": "ch29-q70",
+            "text": "What is the 'Envelopment' of the Fire?",
+            "answer": "The total surrounding of the disbelievers by punishment."
+        },
+        {
+            "id": "ch29-q71",
+            "text": "What is the 'Amusement' of life?",
+            "answer": "The distractions and temporary pleasures that make people forget the purpose of existence."
+        },
+        {
+            "id": "ch29-q72",
+            "text": "What is the 'Sanctuary' (Haram)?",
+            "answer": "Makkah, established as a place of safety and peace."
+        },
+        {
+            "id": "ch29-q73",
+            "text": "What is the 'Striving' (Jahadu) mentioned at the end?",
+            "answer": "A sincere effort to please Allah and follow His guidance."
+        },
+        {
+            "id": "ch29-q74",
+            "text": "What is the 'Best of ways' to argue?",
+            "answer": "With wisdom, good manners, and logical proofs."
+        },
+        {
+            "id": "ch29-q75",
+            "text": "What is the 'One God' concept (Tawhid)?",
+            "answer": "The central belief that there is no deity worthy of worship except Allah."
+        },
+        {
+            "id": "ch29-q76",
+            "text": "What is the 'Signs in the breasts'?",
+            "answer": "The internal conviction and understanding of the Quran's truth."
+        },
+        {
+            "id": "ch29-q77",
+            "text": "What is the 'Storm of stones' (Hasiba)?",
+            "answer": "A specific type of divine punishment rained down on certain nations."
+        },
+        {
+            "id": "ch29-q78",
+            "text": "What is the 'Swallowing by the earth' (Khasafa)?",
+            "answer": "The punishment where the earth opens up and consumes the wrongdoers."
+        },
+        {
+            "id": "ch29-q79",
+            "text": "What is the 'Drowning' (Aghraqna)?",
+            "answer": "The punishment of Pharaoh and his army in the sea."
+        },
+        {
+            "id": "ch29-q80",
+            "text": "What is the final assurance given in the Surah?",
+            "answer": "That Allah is with those who do good."
+        }
+    ]
 }

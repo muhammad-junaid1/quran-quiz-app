@@ -1,108 +1,408 @@
 {
-  "id": 32,
-  "englishName": "As-Sajdah",
-  "arabicName": "السجدة",
-  "translation": "The Prostration",
-  "questions": [
-    {
-      "id": "ch32-q1",
-      "text": "What is the significance of the title 'As-Sajdah'?",
-      "answer": "It is named after Verse 15, which describes the true believers who fall down in prostration when reminded of Allah's verses."
-    },
-    {
-      "id": "ch32-q2",
-      "text": "What is the response to the claim that the Prophet (SAW) invented the Quran?",
-      "answer": "It is the truth from your Lord to warn a people to whom no warner has come before."
-    },
-    {
-      "id": "ch32-q3",
-      "text": "In how many days did Allah create the heavens and the earth?",
-      "answer": "Six days."
-    },
-    {
-      "id": "ch32-q4",
-      "text": "How does Allah describe the 'length of a day' in Verse 5?",
-      "answer": "A thousand years of those which you count."
-    },
-    {
-      "id": "ch32-q5",
-      "text": "What did Allah breathe into the human after fashioning him?",
-      "answer": "He breathed into him from His [created] soul (Ruh)."
-    },
-    {
-      "id": "ch32-q6",
-      "text": "What three faculties are specifically mentioned as being given by Allah in Verse 9?",
-      "answer": "Hearing, sight, and hearts (intellect)."
-    },
-    {
-      "id": "ch32-q7",
-      "text": "What will the Angel of Death do (Verse 11)?",
-      "answer": "He will take your souls, and then to your Lord you will be returned."
-    },
-    {
-      "id": "ch32-q8",
-      "text": "How will the criminals look before their Lord on Judgment Day?",
-      "answer": "With their heads lowered, saying 'Our Lord, we have seen and heard, so return us [to the world]; we will do righteousness'."
-    },
-    {
-      "id": "ch32-q9",
-      "text": "What is the characteristic of believers regarding their beds (Verse 16)?",
-      "answer": "They forsake their beds (arise for night prayer), calling upon their Lord in fear and hope."
-    },
-    {
-      "id": "ch32-q10",
-      "text": "What does Verse 17 say about the reward hidden for the righteous?",
-      "answer": "No soul knows what has been hidden for them of comfort for eyes (joy) as reward for what they used to do."
-    },
-    {
-      "id": "ch32-q11",
-      "text": "Are the believer and the defiantly disobedient (Fasiq) equal?",
-      "answer": "No, they are not equal."
-    },
-    {
-      "id": "ch32-q12",
-      "text": "Where will the home of the 'Fasiqun' (defiantly disobedient) be?",
-      "answer": "The Fire; every time they wish to get out, they are returned to it."
-    },
-    {
-      "id": "ch32-q13",
-      "text": "What is the 'lesser punishment' mentioned in Verse 21?",
-      "answer": "The trials and calamities of this world, which come before the greater punishment of the Hereafter, so that people may return to the right path."
-    },
-    {
-      "id": "ch32-q14",
-      "text": "Who is more unjust than the one who is reminded of the verses of his Lord and then turns away?",
-      "answer": "No one; Allah will surely take retribution from the criminals."
-    },
-    {
-      "id": "ch32-q15",
-      "text": "Which Prophet was given the Scripture before Muhammad (SAW) as mentioned here?",
-      "answer": "Musa (AS)."
-    },
-    {
-      "id": "ch32-q16",
-      "text": "What was the role of the leaders (Imams) among the Children of Israel?",
-      "answer": "They guided by Allah's command as long as they were patient and certain of His signs."
-    },
-    {
-      "id": "ch32-q17",
-      "text": "What is the 'Day of Decision' (Yawm al-Fath) mentioned at the end of the Surah?",
-      "answer": "The Day of Judgment; on that day, the faith of those who disbelieved will not benefit them."
-    },
-    {
-      "id": "ch32-q18",
-      "text": "How does Allah describe the earth's vegetation in Verse 27?",
-      "answer": "He drives water to barren land and brings forth crops from which their livestock and they themselves eat."
-    },
-    {
-      "id": "ch32-q19",
-      "text": "What should the Prophet do regarding those who wait for his downfall (Verse 30)?",
-      "answer": "Turn away from them and wait; indeed, they are also waiting."
-    },
-    {
-      "id": "ch32-q20",
-      "text": "How many verses of 'Sajdah' (obligatory prostration) are in this Surah?",
-      "answer": "One (Verse 15)."
-    }
-  ]
+    "id": 32,
+    "englishName": "As-Sajdah",
+    "arabicName": "السجدة",
+    "translation": "The Prostration",
+    "questions": [
+        {
+            "id": "ch32-q1",
+            "text": "How does Allah describe the origin of the Quran in the opening of this Surah?",
+            "answer": "It is the revelation of the Book about which there is no doubt, from the Lord of the worlds."
+        },
+        {
+            "id": "ch32-q2",
+            "text": "What is the response to the claim that the Prophet invented the Quran?",
+            "answer": "It is the truth from your Lord to warn a people to whom no warner has come before, so that they may be guided."
+        },
+        {
+            "id": "ch32-q3",
+            "text": "In how many days did Allah create the heavens and the earth?",
+            "answer": "Six days, and then He established Himself above the Throne."
+        },
+        {
+            "id": "ch32-q4",
+            "text": "Can anyone besides Allah protect or intercede for people?",
+            "answer": "No, mankind has no protector or intercessor besides Him."
+        },
+        {
+            "id": "ch32-q5",
+            "text": "How does Allah manage the affairs of the universe from the heaven to the earth?",
+            "answer": "He directs every affair, and then it ascends to Him in a Day whose length is a thousand years of those which you count."
+        },
+        {
+            "id": "ch32-q6",
+            "text": "What attributes of Allah are mentioned in the context of His knowledge of the universe?",
+            "answer": "He is the Knower of the unseen and the witnessed, the Exalted in Might, the Merciful."
+        },
+        {
+            "id": "ch32-q7",
+            "text": "How did Allah begin the creation of man from the earth?",
+            "answer": "He began the creation of man from clay."
+        },
+        {
+            "id": "ch32-q8",
+            "text": "From what substance did Allah make man's offspring?",
+            "answer": "From an extract of a humble fluid (semen)."
+        },
+        {
+            "id": "ch32-q9",
+            "text": "What did Allah do after fashioning the human body and breathing life into it?",
+            "answer": "He gave you hearing, sight, and hearts (intellect), yet little are you grateful."
+        },
+        {
+            "id": "ch32-q10",
+            "text": "What is the skeptical question of the disbelievers regarding resurrection?",
+            "answer": "They say, 'When we are lost within the earth, will we indeed be created anew?'"
+        },
+        {
+            "id": "ch32-q11",
+            "text": "What is the 'root' reason for the disbelievers' rejection of resurrection?",
+            "answer": "They are in disbelief regarding the meeting with their Lord."
+        },
+        {
+            "id": "ch32-q12",
+            "text": "Who is specifically mentioned as being in charge of taking souls at death?",
+            "answer": "The Angel of Death who has been entrusted with you."
+        },
+        {
+            "id": "ch32-q13",
+            "text": "How will the criminals look before their Lord on Judgment Day?",
+            "answer": "They will have their heads lowered in shame, saying, 'Our Lord, we have seen and heard, so return us to the world so we may do righteousness.'"
+        },
+        {
+            "id": "ch32-q14",
+            "text": "Could Allah have given every soul its guidance if He had willed?",
+            "answer": "Yes, but His word will be fulfilled that He will fill Hell with Jinn and men together."
+        },
+        {
+            "id": "ch32-q15",
+            "text": "Why will the inhabitants of Hell be told to 'taste' the punishment?",
+            "answer": "Because they forgot the meeting of that Day, so Allah has forgotten them; they taste the punishment for what they used to do."
+        },
+        {
+            "id": "ch32-q16",
+            "text": "Who are the only ones who truly believe in Allah's verses?",
+            "answer": "Those who, when reminded of them, fall down in prostration and exalt Allah with praise, and they are not arrogant."
+        },
+        {
+            "id": "ch32-q17",
+            "text": "What is the characteristic of believers regarding their sleep at night?",
+            "answer": "They forsake their beds to call upon their Lord in fear and hope."
+        },
+        {
+            "id": "ch32-q18",
+            "text": "What do the believers do with the provision Allah has given them?",
+            "answer": "They spend from it in charity and good causes."
+        },
+        {
+            "id": "ch32-q19",
+            "text": "Does anyone know the specific reward hidden for the righteous in the Hereafter?",
+            "answer": "No soul knows what has been hidden for them of comfort for the eyes (supreme joy) as a reward for what they used to do."
+        },
+        {
+            "id": "ch32-q20",
+            "text": "Is the believer equal to the defiantly disobedient (Fasiq)?",
+            "answer": "No, they are not equal."
+        },
+        {
+            "id": "ch32-q21",
+            "text": "What is the reward for those who believe and do righteous deeds?",
+            "answer": "Gardens of Refuge as a hospitality for what they used to do."
+        },
+        {
+            "id": "ch32-q22",
+            "text": "What is the refuge for the defiantly disobedient?",
+            "answer": "The Fire; every time they wish to get out, they are returned to it and told to taste the punishment they used to deny."
+        },
+        {
+            "id": "ch32-q23",
+            "text": "What is the 'lesser punishment' mentioned in this Surah?",
+            "answer": "The trials and calamities of this world, which come before the greater punishment of the Hereafter, so that people may return to the right path."
+        },
+        {
+            "id": "ch32-q24",
+            "text": "Who is more unjust than one who is reminded of Allah's verses and then turns away?",
+            "answer": "No one; Allah will surely take retribution from the criminals."
+        },
+        {
+            "id": "ch32-q25",
+            "text": "Which Prophet was given the Scripture (Torah) before Muhammad (SAW)?",
+            "answer": "Prophet Musa (AS)."
+        },
+        {
+            "id": "ch32-q26",
+            "text": "What was the purpose of giving the Scripture to Musa?",
+            "answer": "As a guidance for the Children of Israel."
+        },
+        {
+            "id": "ch32-q27",
+            "text": "What were the two qualities of the leaders among the Children of Israel?",
+            "answer": "They were patient and they had certain faith in Allah's signs."
+        },
+        {
+            "id": "ch32-q28",
+            "text": "Who will judge between people on the Day of Resurrection regarding their differences?",
+            "answer": "Allah, your Lord."
+        },
+        {
+            "id": "ch32-q29",
+            "text": "Is it not a guidance for people to see how many generations Allah destroyed before them?",
+            "answer": "Yes, they walk among their dwellings; indeed in that are signs, if they would only listen."
+        },
+        {
+            "id": "ch32-q30",
+            "text": "How does Allah describe the earth's vegetation as a sign of His power?",
+            "answer": "He drives water to barren land and brings forth crops from which their livestock and they themselves eat."
+        },
+        {
+            "id": "ch32-q31",
+            "text": "What is the skeptical question the disbelievers ask regarding the 'Day of Decision'?",
+            "answer": "They ask, 'When will this decision be, if you are truthful?'"
+        },
+        {
+            "id": "ch32-q32",
+            "text": "Will the faith of disbelievers benefit them on the Day of Decision?",
+            "answer": "No, their faith will not benefit them then, nor will they be given a delay."
+        },
+        {
+            "id": "ch32-q33",
+            "text": "What is the final instruction to the Prophet at the end of the Surah?",
+            "answer": "Turn away from them and wait; indeed, they are also waiting."
+        },
+        {
+            "id": "ch32-q34",
+            "text": "What is the meaning of the name 'As-Sajdah'?",
+            "answer": "The Prostration."
+        },
+        {
+            "id": "ch32-q35",
+            "text": "Why is prostration the central theme of this Surah?",
+            "answer": "Because it distinguishes the true believers, who humble themselves before Allah, from the arrogant criminals."
+        },
+        {
+            "id": "ch32-q36",
+            "text": "What is the 'Ruh' that was breathed into man?",
+            "answer": "The soul or life-force created by Allah that gives life and consciousness."
+        },
+        {
+            "id": "ch32-q37",
+            "text": "What is the 'Lord of the worlds' (Rabb al-Alamin)?",
+            "answer": "The Creator, Sustainer, and Governor of all that exists."
+        },
+        {
+            "id": "ch32-q38",
+            "text": "What is the 'Night Prayer' (Tahajjud) mentioned implicitly?",
+            "answer": "Arising from bed to worship Allah when others are asleep."
+        },
+        {
+            "id": "ch32-q39",
+            "text": "What is the 'Comfort for the eyes' (Qurrata A'yun)?",
+            "answer": "The ultimate satisfaction and joy found in the rewards of the Hereafter."
+        },
+        {
+            "id": "ch32-q40",
+            "text": "What is the 'Day of Decision' (Yawm al-Fath)?",
+            "answer": "The Day of Judgment when the final victory of truth over falsehood is manifest."
+        },
+        {
+            "id": "ch32-q41",
+            "text": "What is the 'Humble fluid' (Ma'in Mahin)?",
+            "answer": "A reference to the biological origin of human reproduction, showing man's humble beginnings."
+        },
+        {
+            "id": "ch32-q42",
+            "text": "What is the 'Barren land' (Ard al-Juruuz)?",
+            "answer": "Dry land with no vegetation, which Allah brings to life with rain."
+        },
+        {
+            "id": "ch32-q43",
+            "text": "Why does Allah mention the destruction of previous generations?",
+            "answer": "As a historical proof and a warning for people to learn from the mistakes of the past."
+        },
+        {
+            "id": "ch32-q44",
+            "text": "What is the 'Fear and Hope' (Khawfan wa Tama'a)?",
+            "answer": "The balanced emotional state of a believer when calling upon Allah."
+        },
+        {
+            "id": "ch32-q45",
+            "text": "What is the 'Greater Punishment' (Al-Adhab al-Akbar)?",
+            "answer": "The eternal punishment of the Hereafter for those who reject the truth."
+        },
+        {
+            "id": "ch32-q46",
+            "text": "What is the 'Certainty' (Yaqin) of the leaders of Israel?",
+            "answer": "Their unshakeable belief in the signs and promises of Allah."
+        },
+        {
+            "id": "ch32-q47",
+            "text": "What is the 'Hospitality' (Nuzulan)?",
+            "answer": "The generous and honorable reception believers will receive in Paradise."
+        },
+        {
+            "id": "ch32-q48",
+            "text": "What is the 'Retribution' (Muntaqimun)?",
+            "answer": "Allah's divine justice against those who knowingly commit crimes and reject His signs."
+        },
+        {
+            "id": "ch32-q49",
+            "text": "What is the 'Warning' role of the Quran mentioned in the beginning?",
+            "answer": "To alert people to the consequences of their choices and guide them to safety."
+        },
+        {
+            "id": "ch32-q50",
+            "text": "What is the final lesson of As-Sajdah?",
+            "answer": "That true success lies in humility, prayer, and patience, while arrogance and denial lead to eternal regret."
+        },
+        {
+            "id": "ch32-q51",
+            "text": "What are the disjointed letters that open this Surah?",
+            "answer": "Alif, Lam, Meem."
+        },
+        {
+            "id": "ch32-q52",
+            "text": "What is the 'Throne' (Al-Arsh) mentioned in the creation passage?",
+            "answer": "The majestic seat of Allah's authority over the entire universe."
+        },
+        {
+            "id": "ch32-q53",
+            "text": "What is the 'management of affairs' from heaven to earth?",
+            "answer": "Allah's constant and perfect control over every detail of existence."
+        },
+        {
+            "id": "ch32-q54",
+            "text": "What is the 'witnessed' (Shahadah)?",
+            "answer": "The physical world that we can see and perceive."
+        },
+        {
+            "id": "ch32-q55",
+            "text": "What is the 'unseen' (Ghayb)?",
+            "answer": "The hidden reality of the universe that only Allah fully knows."
+        },
+        {
+            "id": "ch32-q56",
+            "text": "What is the 'Clay' (Tin) origin of man?",
+            "answer": "A reminder of the physical and humble components of the human body."
+        },
+        {
+            "id": "ch32-q57",
+            "text": "What is the 'Angel of Death' (Malak al-Mawt)?",
+            "answer": "The angel assigned by Allah to separate the soul from the body."
+        },
+        {
+            "id": "ch32-q58",
+            "text": "What is the 'Despair' of the criminals on Judgment Day?",
+            "answer": "Their realization that their denial was wrong and it is too late to change."
+        },
+        {
+            "id": "ch32-q59",
+            "text": "What is the 'Forgetting' of Allah toward the disbelievers?",
+            "answer": "His withdrawal of mercy and attention from them as they ignored His message."
+        },
+        {
+            "id": "ch32-q60",
+            "text": "What is the 'Forsaking of beds'?",
+            "answer": "Preferring the worship of Allah over the comfort of sleep."
+        },
+        {
+            "id": "ch32-q61",
+            "text": "What is the 'Spending' (Yunfiqun)?",
+            "answer": "Sharing one's resources with others for the sake of Allah."
+        },
+        {
+            "id": "ch32-q62",
+            "text": "What is the 'Garden of Refuge' (Jannat al-Ma'wa)?",
+            "answer": "A specific, beautiful part of Paradise for the believers."
+        },
+        {
+            "id": "ch32-q63",
+            "text": "What is the 'Multiplied reward' for righteousness?",
+            "answer": "Allah giving back more than what was spent or done in His way."
+        },
+        {
+            "id": "ch32-q64",
+            "text": "What is the 'Truth' which the Quran is?",
+            "answer": "The ultimate and final revelation from the Creator."
+        },
+        {
+            "id": "ch32-q65",
+            "text": "What is the 'Warner' (Nadhir)?",
+            "answer": "A messenger who cautions people about the dangers of their actions."
+        },
+        {
+            "id": "ch32-q66",
+            "text": "What is the 'Enlightenment' of the hearts?",
+            "answer": "The spiritual clarity gained through faith and the Quran."
+        },
+        {
+            "id": "ch32-q67",
+            "text": "What is the 'Specified term' of the heavens and earth?",
+            "answer": "The duration for which the current universe will exist."
+        },
+        {
+            "id": "ch32-q68",
+            "text": "What is the 'Ascension' of affairs to Allah?",
+            "answer": "The return of all information and actions to the Creator for His final decision."
+        },
+        {
+            "id": "ch32-q69",
+            "text": "What is the 'Exalted in Might' (Al-Aziz)?",
+            "answer": "Allah's supreme and irresistible power."
+        },
+        {
+            "id": "ch32-q70",
+            "text": "What is the 'Merciful' (Ar-Rahim)?",
+            "answer": "Allah's encompassing kindness and compassion toward His creation."
+        },
+        {
+            "id": "ch32-q71",
+            "text": "What is the 'Prostration' (Sajdah) an act of?",
+            "answer": "Total submission, humility, and worship."
+        },
+        {
+            "id": "ch32-q72",
+            "text": "What is the 'Arrogance' (Istikbar) warned against?",
+            "answer": "The refusal to accept the truth and submit to the Creator."
+        },
+        {
+            "id": "ch32-q73",
+            "text": "What is the 'Call' (Dua) of the believers at night?",
+            "answer": "Their private and sincere supplication to Allah."
+        },
+        {
+            "id": "ch32-q74",
+            "text": "What is the 'Hospitality' of Paradise?",
+            "answer": "The welcome and honors given to the righteous."
+        },
+        {
+            "id": "ch32-q75",
+            "text": "What is the 'Fire' (An-Nar)?",
+            "answer": "The place of eternal punishment for the ungrateful."
+        },
+        {
+            "id": "ch32-q76",
+            "text": "What is the 'Lesser Adhab'?",
+            "answer": "Worldly trials meant to guide people back to the truth."
+        },
+        {
+            "id": "ch32-q77",
+            "text": "What is the 'Greater Adhab'?",
+            "answer": "The severe and eternal punishment of the Hereafter."
+        },
+        {
+            "id": "ch32-q78",
+            "text": "What is the 'Day of Decision'?",
+            "answer": "The time when every soul's fate is finally and irrevocably determined."
+        },
+        {
+            "id": "ch32-q79",
+            "text": "What is the 'Wait' (Intizar)?",
+            "answer": "The period before the final judgment where both sides expect their outcome."
+        },
+        {
+            "id": "ch32-q80",
+            "text": "What is the 'Promise of Allah'?",
+            "answer": "His guarantee that truth will prevail and justice will be done."
+        }
+    ]
 }

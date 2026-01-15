@@ -6,101 +6,226 @@
     "questions": [
         {
             "id": "ch80-q1",
+            "text": "What moral lesson does the Surah teach about giving attention to people seeking guidance?",
+            "answer": "Those who sincerely seek truth deserve priority, even if they are poor or socially unnoticed."
+        },
+        {
+            "id": "ch80-q2",
+            "text": "True/False: The Surah teaches that religious work should focus mainly on the wealthy and influential.",
+            "answer": "False. It corrects this bias and prioritizes sincere seekers."
+        },
+        {
+            "id": "ch80-q3",
+            "text": "How does Surah 'Abasa teach humility in da'wah and leadership?",
+            "answer": "It shows that even a prophet is gently corrected, so leaders must accept guidance and improve."
+        },
+        {
+            "id": "ch80-q4",
+            "text": "What does the Surah teach about the value of a person who comes 'striving and fearing'?",
+            "answer": "Such a person shows sincerity and deserves respect and attention."
+        },
+        {
+            "id": "ch80-q5",
+            "text": "What does Surah 'Abasa teach about the Quran’s status?",
+            "answer": "It is a noble, purified reminder preserved by honorable angelic scribes."
+        },
+        {
+            "id": "ch80-q6",
+            "text": "True/False: The Surah teaches that the Quran is a human product shaped by society.",
+            "answer": "False. It describes it as honored, purified revelation."
+        },
+        {
+            "id": "ch80-q7",
+            "text": "What does the Surah teach about human ingratitude?",
+            "answer": "Humans often become ungrateful despite clear blessings and signs."
+        },
+        {
+            "id": "ch80-q8",
+            "text": "How does Surah 'Abasa use human creation to humble arrogance?",
+            "answer": "It reminds humans they were created from a humble drop and developed by Allah’s will."
+        },
+        {
+            "id": "ch80-q9",
+            "text": "What is one practical meaning of 'let man look at his food'?",
+            "answer": "Reflect on Allah’s provision and the processes that make food possible, leading to gratitude and obedience."
+        },
+        {
+            "id": "ch80-q10",
+            "text": "How does the Surah connect gratitude to reflection on nature?",
+            "answer": "It points to rain, earth, crops, and fruits as signs that should awaken gratitude."
+        },
+        {
+            "id": "ch80-q11",
+            "text": "True/False: The Surah teaches that thinking about daily blessings is pointless.",
+            "answer": "False. It commands reflection on provision as a reminder."
+        },
+        {
+            "id": "ch80-q12",
+            "text": "What does Surah 'Abasa teach about death and burial?",
+            "answer": "Allah causes death and burial, reminding humans of dependence and the coming resurrection."
+        },
+        {
+            "id": "ch80-q13",
+            "text": "What does the Surah teach about the Day that makes people flee from family?",
+            "answer": "Accountability is so intense that each person is consumed by their own matter."
+        },
+        {
+            "id": "ch80-q14",
+            "text": "Why does the Surah mention fleeing from close relatives?",
+            "answer": "To show that worldly relationships cannot remove personal accountability before Allah."
+        },
+        {
+            "id": "ch80-q15",
+            "text": "True/False: The Surah teaches that family status will protect a person on Judgment Day.",
+            "answer": "False. Each person faces their own accountability."
+        },
+        {
+            "id": "ch80-q16",
+            "text": "How does the Surah describe believers’ faces on that Day?",
+            "answer": "Radiant, laughing, and rejoicing—showing safety and acceptance."
+        },
+        {
+            "id": "ch80-q17",
+            "text": "How does the Surah describe disbelievers’ faces on that Day?",
+            "answer": "Covered with dust and darkness—showing shame and loss."
+        },
+        {
+            "id": "ch80-q18",
+            "text": "What is one social lesson from this Surah about disability and dignity?",
+            "answer": "A person’s value is not reduced by disability; sincere seekers deserve honor."
+        },
+        {
+            "id": "ch80-q19",
+            "text": "How can this Surah guide community leaders in prioritizing people’s needs?",
+            "answer": "Prioritize sincerity and spiritual benefit, not popularity and status."
+        },
+        {
+            "id": "ch80-q20",
+            "text": "How can a believer apply this Surah in workplace or social settings?",
+            "answer": "Treat all people with dignity and prioritize truth and sincerity over status games."
+        },
+        {
+            "id": "ch80-q21",
+            "text": "True/False: The Surah teaches that correction is an insult rather than a mercy.",
+            "answer": "False. Correction is a mercy that refines character and leadership."
+        },
+        {
+            "id": "ch80-q22",
+            "text": "What does the Surah teach about the Quran being a reminder (tadhkirah)?",
+            "answer": "It benefits those who want purification and remembrance; ignoring it is a personal loss."
+        },
+        {
+            "id": "ch80-q23",
+            "text": "How does Surah 'Abasa address arrogance toward guidance?",
+            "answer": "It shows that dismissing sincere seekers and chasing status reflects flawed priorities."
+        },
+        {
+            "id": "ch80-q24",
+            "text": "How can a modern reader use this Surah for self-auditing?",
+            "answer": "Check biases about status, how you respond to correction, and whether you reflect on blessings."
+        },
+        {
+            "id": "ch80-q25",
+            "text": "What is one concluding takeaway from Surah 'Abasa?",
+            "answer": "Guidance is for those who seek it sincerely; the Hereafter exposes true priorities."
+        },
+        {
+            "id": "ch80-q26",
             "text": "Why did the Prophet (SAW) 'frown and turn away'?",
             "answer": "Because a blind man (Abdullah ibn Umm Maktum) came to him while he was busy talking to the leaders of the Quraysh."
         },
         {
-            "id": "ch80-q2",
-            "text": "What does Allah say about the blind man in Verse 3?",
+            "id": "ch80-q27",
+            "text": "What does this Surah teach about the blind man who came seeking guidance?",
             "answer": "That he might have been purified or received a reminder that would benefit him."
         },
         {
-            "id": "ch80-q3",
+            "id": "ch80-q28",
             "text": "What is the lesson for the Prophet regarding the wealthy leaders who were indifferent to faith?",
             "answer": "That he is not responsible if they are not purified; his focus should be on those who come seeking knowledge."
         },
         {
-            "id": "ch80-q4",
+            "id": "ch80-q29",
             "text": "How does Allah describe the one who comes 'striving and fearing'?",
             "answer": "He is the one the Prophet should not be distracted from."
         },
         {
-            "id": "ch80-q5",
+            "id": "ch80-q30",
             "text": "How is the Quran described in Verses 13-16?",
             "answer": "In honored sheets, exalted and purified, written by the hands of noble and pious scribes (angels)."
         },
         {
-            "id": "ch80-q6",
-            "text": "How is the human being described in Verse 17 regarding his ingratitude?",
+            "id": "ch80-q31",
+            "text": "How does this Surah describe human ingratitude?",
             "answer": "'Cursed is man; how ungrateful is he!'."
         },
         {
-            "id": "ch80-q7",
+            "id": "ch80-q32",
             "text": "From what did Allah create the human being?",
             "answer": "From a sperm-drop."
         },
         {
-            "id": "ch80-q8",
-            "text": "What does Allah do for the human after creating him (Verse 20)?",
+            "id": "ch80-q33",
+            "text": "What does this Surah say Allah does for the human after creating him?",
             "answer": "He makes the path (of life/birth/faith) easy for him."
         },
         {
-            "id": "ch80-q9",
-            "text": "What happens after death according to Verse 21?",
+            "id": "ch80-q34",
+            "text": "What does this Surah mention happens after death?",
             "answer": "Allah causes him to die and be placed in a grave."
         },
         {
-            "id": "ch80-q10",
-            "text": "What is the command to man regarding his food (Verse 24)?",
+            "id": "ch80-q35",
+            "text": "What is the command to man regarding his food in this Surah?",
             "answer": "'Let man look at his food'."
         },
         {
-            "id": "ch80-q11",
+            "id": "ch80-q36",
             "text": "What is the process Allah describes to produce food?",
             "answer": "Pouring down rain, splitting the earth, and growing grain, grapes, olives, and dates."
         },
         {
-            "id": "ch80-q12",
+            "id": "ch80-q37",
             "text": "What is 'Abba'?",
             "answer": "Herbage or pasture for animals."
         },
         {
-            "id": "ch80-q13",
+            "id": "ch80-q38",
             "text": "What is the 'Deafening Blast' (as-Sakhkhah)?",
             "answer": "The blast of the Day of Resurrection."
         },
         {
-            "id": "ch80-q14",
+            "id": "ch80-q39",
             "text": "Who will a person flee from on that Day?",
             "answer": "From his brother, his mother, his father, his spouse, and his children."
         },
         {
-            "id": "ch80-q15",
+            "id": "ch80-q40",
             "text": "Why will a person flee from his closest family on the Day of Judgment?",
             "answer": "Because every person that Day will have a matter to occupy him (his own accountability)."
         },
         {
-            "id": "ch80-q16",
+            "id": "ch80-q41",
             "text": "How will the faces of the believers look on that Day?",
             "answer": "Beaming/radiant, laughing, and rejoicing."
         },
         {
-            "id": "ch80-q17",
+            "id": "ch80-q42",
             "text": "How will the faces of the disbelievers look on that Day?",
             "answer": "Covered with dust and darkness (Ghabarah)."
         },
         {
-            "id": "ch80-q18",
+            "id": "ch80-q43",
             "text": "Who are the people with dusty/dark faces?",
             "answer": "The disbelievers and the wicked (Fajarah)."
         },
         {
-            "id": "ch80-q19",
+            "id": "ch80-q44",
             "text": "True or False: Surah 'Abasa teaches that everyone is equal in the sight of Allah based on their heart's intention and quest for truth, not their status.",
             "answer": "True."
         },
         {
-            "id": "ch80-q20",
+            "id": "ch80-q45",
             "text": "What does 'Safaratan Kiramin Bararah' refer to?",
             "answer": "The noble and pious angelic scribes of the revelation."
         }

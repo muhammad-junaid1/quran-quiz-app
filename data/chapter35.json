@@ -1,108 +1,358 @@
 {
-  "id": 35,
-  "englishName": "Fatir",
-  "arabicName": "فاطر",
-  "translation": "The Originator",
-  "questions": [
-    {
-      "id": "ch35-q1",
-      "text": "What does 'Fatir' mean?",
-      "answer": "The Originator or The Creator."
-    },
-    {
-      "id": "ch35-q2",
-      "text": "How does Allah describe the wings of angels in the first verse?",
-      "answer": "They have wings in pairs of two, three, and four; He increases in creation what He wills."
-    },
-    {
-      "id": "ch35-q3",
-      "text": "What happens when Allah opens His mercy for people?",
-      "answer": "None can withhold it; and whatever He withholds, none can release after Him."
-    },
-    {
-      "id": "ch35-q4",
-      "text": "What is the warning regarding Satan in Verse 6?",
-      "answer": "Indeed, Satan is an enemy to you; so take him as an enemy."
-    },
-    {
-      "id": "ch35-q5",
-      "text": "To whom does all 'Honor' (Izzah) belong?",
-      "answer": "To Allah entirely."
-    },
-    {
-      "id": "ch35-q6",
-      "text": "What rises up to Allah and what raises it?",
-      "answer": "To Him ascends the 'Good Word' (al-kalim al-tayyib), and righteous work raises it."
-    },
-    {
-      "id": "ch35-q7",
-      "text": "Are the two seas equal (Verse 12)?",
-      "answer": "No; one is fresh, sweet, and pleasant to drink, and the other is salty and bitter. Yet from both you eat fresh meat and extract ornaments to wear."
-    },
-    {
-      "id": "ch35-q8",
-      "text": "What is the 'Qitmir' mentioned in Verse 13?",
-      "answer": "The thin membrane over a date-stone; those called upon besides Allah do not possess even that much."
-    },
-    {
-      "id": "ch35-q9",
-      "text": "How does Allah describe the human need for Him?",
-      "answer": "O mankind, you are those in need (Fuqara) of Allah, while Allah is the Free of need (Al-Ghani), the Praiseworthy."
-    },
-    {
-      "id": "ch35-q10",
-      "text": "Can a bearer of burdens (sins) carry the burden of another?",
-      "answer": "No, no bearer of burdens will bear the burden of another."
-    },
-    {
-      "id": "ch35-q11",
-      "text": "What are the four opposites mentioned that are not equal in Verses 19-22?",
-      "answer": "The blind and the seeing, the darknesses and the light, the shade and the heat, and the living and the dead."
-    },
-    {
-      "id": "ch35-q12",
-      "text": "Is there any nation that has not been sent a warner?",
-      "answer": "No; 'And there was no nation but that there had passed within it a warner'."
-    },
-    {
-      "id": "ch35-q13",
-      "text": "What are the diverse colors mentioned regarding nature (Verse 27)?",
-      "answer": "Mountains have tracts of white and red of varying shades and [some] extremely black, just as humans, moving creatures, and livestock are of various colors."
-    },
-    {
-      "id": "ch35-q14",
-      "text": "Who among the servants of Allah truly fear Him?",
-      "answer": "Those of knowledge (the Ulama)."
-    },
-    {
-      "id": "ch35-q15",
-      "text": "What are the three categories of people who inherit the Book (Verse 32)?",
-      "answer": "The 'wrongdoer to himself', the 'moderate', and the 'foremost in good deeds' by Allah's permission."
-    },
-    {
-      "id": "ch35-q16",
-      "text": "What will the inhabitants of Paradise say about their sorrow?",
-      "answer": "'Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative'."
-    },
-    {
-      "id": "ch35-q17",
-      "text": "What will be the cry of the disbelievers in Hell (Verse 37)?",
-      "answer": "They will cry 'Our Lord, remove us; we will do righteousness other than what we were doing!'."
-    },
-    {
-      "id": "ch35-q18",
-      "text": "What is the 'greatest' thing according to Verse 45?",
-      "answer": "The remembrance of Allah (Dhikirullah)."
-    },
-    {
-      "id": "ch35-q19",
-      "text": "What would happen if Allah were to punish people for what they earned immediately?",
-      "answer": "He would not leave a single moving creature on the surface of the earth."
-    },
-    {
-      "id": "ch35-q20",
-      "text": "How does the Surah describe the 'Sunnah of Allah' (way/law of Allah)?",
-      "answer": "You will never find in the Way of Allah any change, nor will you find in the Way of Allah any alteration."
-    }
-  ]
+    "id": 35,
+    "englishName": "Fatir",
+    "arabicName": "فاطر",
+    "translation": "The Originator",
+    "questions": [
+        {
+            "id": "ch35-q1",
+            "text": "What does the name 'Fatir' teach about Allah's relationship to creation?",
+            "answer": "That Allah is the Originator who brought creation into existence from nothing and continues to sustain it."
+        },
+        {
+            "id": "ch35-q2",
+            "text": "How does the Surah describe the angels in a way that increases awe of Allah?",
+            "answer": "It describes angels as mighty messengers with wings in varying numbers, created as Allah wills."
+        },
+        {
+            "id": "ch35-q3",
+            "text": "What does the Surah teach about Allah's mercy when He opens it for people?",
+            "answer": "No one can withhold what Allah opens, and no one can release what Allah withholds."
+        },
+        {
+            "id": "ch35-q4",
+            "text": "True/False: The Surah suggests that created beings can override Allah's decisions.",
+            "answer": "False. Allah's decree is supreme, and no one can undo what He wills."
+        },
+        {
+            "id": "ch35-q5",
+            "text": "What is one reason the Surah repeatedly reminds people of Allah's favors?",
+            "answer": "To awaken gratitude and prevent people from being deceived by worldly life and Satan."
+        },
+        {
+            "id": "ch35-q6",
+            "text": "How does Surah Fatir define Satan's strategy toward humans?",
+            "answer": "He calls his followers toward the blazing Fire, so believers must treat him as an enemy."
+        },
+        {
+            "id": "ch35-q7",
+            "text": "What does the Surah teach about honor ('izzah) and where it should be sought?",
+            "answer": "All honor belongs to Allah; seeking honor through disobedience or falsehood leads to humiliation."
+        },
+        {
+            "id": "ch35-q8",
+            "text": "What is the relationship between good speech and righteous deeds in this Surah?",
+            "answer": "The good word rises to Allah, and righteous deeds elevate and confirm it."
+        },
+        {
+            "id": "ch35-q9",
+            "text": "Why is it dangerous to have faith only in words without actions?",
+            "answer": "Because words without righteous deeds lack proof and do not build a sincere relationship with Allah."
+        },
+        {
+            "id": "ch35-q10",
+            "text": "What does the Surah teach about personal responsibility for sins?",
+            "answer": "No one carries another person's burden; each soul is accountable for what it earns."
+        },
+        {
+            "id": "ch35-q11",
+            "text": "True/False: The Surah teaches that guidance is the same as worldly intelligence.",
+            "answer": "False. Guidance is from Allah and is tied to sincerity, humility, and acceptance of truth."
+        },
+        {
+            "id": "ch35-q12",
+            "text": "What contrast does the Surah draw between the blind and the seeing?",
+            "answer": "It teaches that spiritual blindness and insight are not equal, just as physical blindness and sight are not equal."
+        },
+        {
+            "id": "ch35-q13",
+            "text": "What lesson is taught by contrasting darkness and light, shade and heat, living and dead?",
+            "answer": "That opposites are not equal, and guidance and misguidance lead to very different outcomes."
+        },
+        {
+            "id": "ch35-q14",
+            "text": "How does the Surah use the example of two seas to build faith?",
+            "answer": "It shows Allah's power and wisdom by describing different waters and the benefits extracted from both."
+        },
+        {
+            "id": "ch35-q15",
+            "text": "What is one sign of Allah's wisdom in the way ships move through the sea?",
+            "answer": "Ships sail by Allah's permission, showing His control over nature and His provision for people."
+        },
+        {
+            "id": "ch35-q16",
+            "text": "What does the Surah teach about those who are called upon besides Allah?",
+            "answer": "They do not possess even the smallest thing independently, and they cannot respond like Allah."
+        },
+        {
+            "id": "ch35-q17",
+            "text": "Why is the example of 'qitmir' effective in refuting shirk?",
+            "answer": "It highlights extreme weakness: false gods cannot own even the thin membrane over a date-stone."
+        },
+        {
+            "id": "ch35-q18",
+            "text": "How does Surah Fatir describe humanity's relationship to Allah?",
+            "answer": "Humans are needy and dependent, while Allah is free of need and worthy of all praise."
+        },
+        {
+            "id": "ch35-q19",
+            "text": "True/False: Allah needs human worship to be complete.",
+            "answer": "False. Allah is Al-Ghani (free of need); worship benefits the worshipper."
+        },
+        {
+            "id": "ch35-q20",
+            "text": "What does the Surah teach about Allah's power to replace people?",
+            "answer": "If He wills, He can remove people and bring a new creation; nothing is difficult for Him."
+        },
+        {
+            "id": "ch35-q21",
+            "text": "What is the purpose of prophets being sent as warners and bringers of good news?",
+            "answer": "To guide people to Allah, establish proof, and warn against consequences of disbelief."
+        },
+        {
+            "id": "ch35-q22",
+            "text": "How does the Surah respond to people who demand immediate punishment as a challenge?",
+            "answer": "It teaches that Allah's timing is wise; delay is not weakness but mercy and justice."
+        },
+        {
+            "id": "ch35-q23",
+            "text": "What lesson is taught by the Surah's mention of rain bringing plants of different colors?",
+            "answer": "That Allah creates variety and beauty from the same water, proving His power and wisdom."
+        },
+        {
+            "id": "ch35-q24",
+            "text": "How does the Surah use the variety of mountains and creatures to teach spirituality?",
+            "answer": "It points to Allah's artistry and invites reflection, leading hearts toward awe and gratitude."
+        },
+        {
+            "id": "ch35-q25",
+            "text": "Who truly fear Allah according to this Surah, and why?",
+            "answer": "People of knowledge, because they recognize Allah's greatness through understanding His signs."
+        },
+        {
+            "id": "ch35-q26",
+            "text": "What is a misconception about knowledge that this Surah corrects?",
+            "answer": "That knowledge is only information; real knowledge increases humility, taqwa, and fear of Allah."
+        },
+        {
+            "id": "ch35-q27",
+            "text": "What does the Surah teach about hidden worship like secret charity?",
+            "answer": "It is valued by Allah and shows sincerity, protecting a person from showing off."
+        },
+        {
+            "id": "ch35-q28",
+            "text": "What is meant by the 'trade that never perishes' mentioned in the Surah's message?",
+            "answer": "Sincere faith and good deeds done for Allah that lead to lasting reward in the Hereafter."
+        },
+        {
+            "id": "ch35-q29",
+            "text": "What does inheriting the Book teach about the Ummah's responsibility?",
+            "answer": "That receiving guidance is an honor and a trust that requires learning, acting, and spreading truth."
+        },
+        {
+            "id": "ch35-q30",
+            "text": "How should we understand the three categories of people who inherit the Book?",
+            "answer": "They vary in their obedience, but Allah's mercy and guidance still call them toward repentance and excellence."
+        },
+        {
+            "id": "ch35-q31",
+            "text": "What is one hope-filled lesson from the description of Paradise in this Surah?",
+            "answer": "That Allah removes sorrow from believers and rewards them with peace, comfort, and gratitude."
+        },
+        {
+            "id": "ch35-q32",
+            "text": "What does the Surah teach about regret in Hell and why it is too late then?",
+            "answer": "People will beg to return and do good, but their time is over; they rejected warnings earlier."
+        },
+        {
+            "id": "ch35-q33",
+            "text": "What is one reason Allah delays punishment instead of taking people immediately?",
+            "answer": "To give time for repentance and to fulfill His wise decree until an appointed term."
+        },
+        {
+            "id": "ch35-q34",
+            "text": "True/False: If Allah punished all wrongdoing instantly, life would continue normally.",
+            "answer": "False. The Surah states that immediate punishment would leave no creature moving on the earth."
+        },
+        {
+            "id": "ch35-q35",
+            "text": "What does the Surah teach about Allah's 'way' (sunnah) in dealing with those who reject truth?",
+            "answer": "Allah's established way does not change; denial and arrogance lead to loss and punishment."
+        },
+        {
+            "id": "ch35-q36",
+            "text": "How does the Surah explain the spiritual danger of being deceived by worldly life?",
+            "answer": "Worldly life can distract from the Hereafter, making people forget Allah and follow Satan."
+        },
+        {
+            "id": "ch35-q37",
+            "text": "What is a balanced approach to seeking honor according to Surah Fatir?",
+            "answer": "Seek honor through obedience, sincerity, and righteous deeds, not through pride or sin."
+        },
+        {
+            "id": "ch35-q38",
+            "text": "How can a person turn knowledge into true taqwa based on this Surah?",
+            "answer": "By reflecting on Allah's signs, fearing Him, and living consistently with what they know."
+        },
+        {
+            "id": "ch35-q39",
+            "text": "What is one takeaway about dua and reliance from the Surah's focus on Allah's control?",
+            "answer": "Since only Allah controls mercy and outcomes, believers should rely on Him and ask Him sincerely."
+        },
+        {
+            "id": "ch35-q40",
+            "text": "Why does the Surah emphasize that false gods will not even hear or respond properly to calls?",
+            "answer": "To show that worshipping them is irrational and unjust, since only Allah truly hears and answers."
+        },
+        {
+            "id": "ch35-q41",
+            "text": "What does Surah Fatir teach about gratitude when observing nature's beauty and variety?",
+            "answer": "Natural signs should increase gratitude and recognition of Allah's generosity and artistry."
+        },
+        {
+            "id": "ch35-q42",
+            "text": "How does the Surah warn against arrogance in the face of truth?",
+            "answer": "It shows that arrogance leads to rejection of guidance and ends in humiliation."
+        },
+        {
+            "id": "ch35-q43",
+            "text": "What is one ethical lesson from the Surah's mention of different peoples and past nations?",
+            "answer": "Do not repeat their mistakes; take warnings seriously and respond to guidance with humility."
+        },
+        {
+            "id": "ch35-q44",
+            "text": "True/False: The Surah portrays Allah as unaware of what people do in secret.",
+            "answer": "False. It teaches that Allah knows what hearts conceal and what people reveal."
+        },
+        {
+            "id": "ch35-q45",
+            "text": "What is one practical way to protect yourself from Satan described in this Surah?",
+            "answer": "Treat him as an enemy by resisting his whispers and staying consistent in worship and obedience."
+        },
+        {
+            "id": "ch35-q46",
+            "text": "How does Surah Fatir define success in terms of a person's end?",
+            "answer": "Success is ending with faith and righteous deeds that lead to Allah's forgiveness and Paradise."
+        },
+        {
+            "id": "ch35-q47",
+            "text": "What does the Surah teach about Allah's appreciation of sincere deeds?",
+            "answer": "Allah is forgiving and appreciative, rewarding deeds done with sincerity even when people fall short."
+        },
+        {
+            "id": "ch35-q48",
+            "text": "What is one final takeaway from Surah Fatir about worshipping Allah alone?",
+            "answer": "Only Allah deserves worship because He created, controls, and provides, while everything else is dependent and powerless."
+        },
+        {
+            "id": "ch35-q49",
+            "text": "Yes/No: Does the Surah present reflection on creation as a path to stronger faith?",
+            "answer": "Yes. It repeatedly points to signs in nature to awaken knowledge, awe, and devotion."
+        },
+        {
+            "id": "ch35-q50",
+            "text": "How can this Surah change the way a person views their daily blessings?",
+            "answer": "By making them see every blessing as from Allah, pushing them toward gratitude, humility, and obedience."
+        },
+        {
+            "id": "ch35-q51",
+            "text": "What does 'Fatir' mean?",
+            "answer": "The Originator or The Creator."
+        },
+        {
+            "id": "ch35-q52",
+            "text": "How does Allah describe the wings of angels in the first ayah?",
+            "answer": "They have wings in pairs of two, three, and four; He increases in creation what He wills."
+        },
+        {
+            "id": "ch35-q53",
+            "text": "What happens when Allah opens His mercy for people?",
+            "answer": "None can withhold it; and whatever He withholds, none can release after Him."
+        },
+        {
+            "id": "ch35-q54",
+            "text": "What warning does the Surah give regarding Satan?",
+            "answer": "Indeed, Satan is an enemy to you; so take him as an enemy."
+        },
+        {
+            "id": "ch35-q55",
+            "text": "To whom does all 'Honor' (Izzah) belong?",
+            "answer": "To Allah entirely."
+        },
+        {
+            "id": "ch35-q56",
+            "text": "What rises up to Allah and what raises it?",
+            "answer": "To Him ascends the 'Good Word' (al-kalim al-tayyib), and righteous work raises it."
+        },
+        {
+            "id": "ch35-q57",
+            "text": "Are the two seas described in the Surah equal?",
+            "answer": "No; one is fresh, sweet, and pleasant to drink, and the other is salty and bitter. Yet from both you eat fresh meat and extract ornaments to wear."
+        },
+        {
+            "id": "ch35-q58",
+            "text": "What is the 'Qitmir' mentioned in this Surah?",
+            "answer": "The thin membrane over a date-stone; those called upon besides Allah do not possess even that much."
+        },
+        {
+            "id": "ch35-q59",
+            "text": "How does Allah describe the human need for Him?",
+            "answer": "O mankind, you are those in need (Fuqara) of Allah, while Allah is the Free of need (Al-Ghani), the Praiseworthy."
+        },
+        {
+            "id": "ch35-q60",
+            "text": "Can a bearer of burdens (sins) carry the burden of another?",
+            "answer": "No, no bearer of burdens will bear the burden of another."
+        },
+        {
+            "id": "ch35-q61",
+            "text": "What are the four opposites mentioned that are not equal in Verses 19-22?",
+            "answer": "The blind and the seeing, the darknesses and the light, the shade and the heat, and the living and the dead."
+        },
+        {
+            "id": "ch35-q62",
+            "text": "Is there any nation that has not been sent a warner?",
+            "answer": "No; 'And there was no nation but that there had passed within it a warner'."
+        },
+        {
+            "id": "ch35-q63",
+            "text": "What examples of diverse colors in nature does the Surah mention?",
+            "answer": "Mountains have tracts of white and red of varying shades and [some] extremely black, just as humans, moving creatures, and livestock are of various colors."
+        },
+        {
+            "id": "ch35-q64",
+            "text": "Who among the servants of Allah truly fear Him?",
+            "answer": "Those of knowledge (the Ulama)."
+        },
+        {
+            "id": "ch35-q65",
+            "text": "What are the three categories of people described as inheriting the Book?",
+            "answer": "The 'wrongdoer to himself', the 'moderate', and the 'foremost in good deeds' by Allah's permission."
+        },
+        {
+            "id": "ch35-q66",
+            "text": "What will the inhabitants of Paradise say about their sorrow?",
+            "answer": "'Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative'."
+        },
+        {
+            "id": "ch35-q67",
+            "text": "What will be the cry of the disbelievers in Hell according to this Surah?",
+            "answer": "They will cry 'Our Lord, remove us; we will do righteousness other than what we were doing!'."
+        },
+        {
+            "id": "ch35-q68",
+            "text": "What does the Surah say about those who recite Allah's Book, establish prayer, and spend for Allah?",
+            "answer": "They hope for a trade that never perishes; Allah will reward them and increase them from His bounty."
+        },
+        {
+            "id": "ch35-q69",
+            "text": "What would happen if Allah were to punish people for what they earned immediately?",
+            "answer": "He would not leave a single moving creature on the surface of the earth."
+        },
+        {
+            "id": "ch35-q70",
+            "text": "How does the Surah describe the 'Sunnah of Allah' (way/law of Allah)?",
+            "answer": "You will never find in the Way of Allah any change, nor will you find in the Way of Allah any alteration."
+        }
+    ]
 }

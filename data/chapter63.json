@@ -1,0 +1,248 @@
+{
+    "id": 63,
+    "englishName": "Al-Munafiqun",
+    "arabicName": "المنافقون",
+    "translation": "The Hypocrites",
+    "questions": [
+        {
+            "id": "ch63-q1",
+            "text": "What is the central theme of Surah Al-Munafiqun?",
+            "answer": "It exposes hypocrisy, warns against being deceived by appearances, and calls believers to sincerity and spending before it is too late."
+        },
+        {
+            "id": "ch63-q2",
+            "text": "How does the Surah describe hypocrites’ speech?",
+            "answer": "Their words can sound impressive, but their hearts and intentions are corrupt."
+        },
+        {
+            "id": "ch63-q3",
+            "text": "True/False: The Surah suggests that eloquent speech is proof of sincerity.",
+            "answer": "False. It shows eloquence can hide hypocrisy."
+        },
+        {
+            "id": "ch63-q4",
+            "text": "What does the Surah teach about hypocrites using oaths?",
+            "answer": "They use oaths as a shield to protect themselves, covering falsehood and avoiding accountability."
+        },
+        {
+            "id": "ch63-q5",
+            "text": "Why is using religion as a ‘shield’ spiritually dangerous?",
+            "answer": "It turns faith into manipulation and blocks a person from sincere repentance."
+        },
+        {
+            "id": "ch63-q6",
+            "text": "How does the Surah describe hypocrites’ inner reality compared to their outward appearance?",
+            "answer": "They may look solid, but they are hollow inside—lacking sincere faith and stability."
+        },
+        {
+            "id": "ch63-q7",
+            "text": "What does the Surah teach about fear in hypocrites?",
+            "answer": "They are easily frightened and suspicious, interpreting events as threats because their hearts lack trust in Allah."
+        },
+        {
+            "id": "ch63-q8",
+            "text": "True/False: The Surah teaches that hypocrisy is mainly a political issue, not a spiritual one.",
+            "answer": "False. It treats hypocrisy as a deep heart disease."
+        },
+        {
+            "id": "ch63-q9",
+            "text": "What does the Surah teach about asking forgiveness for hypocrites while they persist in hypocrisy?",
+            "answer": "Seeking forgiveness does not benefit those who stubbornly persist in hypocrisy without repentance."
+        },
+        {
+            "id": "ch63-q10",
+            "text": "What is the Surah’s warning about following hypocrites’ social influence?",
+            "answer": "Their influence misleads and weakens the community; believers must stay alert and loyal to Allah."
+        },
+        {
+            "id": "ch63-q11",
+            "text": "What does Surah Al-Munafiqun teach about pride and arrogance in community life?",
+            "answer": "Arrogance makes people reject truth and divide the community through power games."
+        },
+        {
+            "id": "ch63-q12",
+            "text": "How does the Surah describe hypocrites’ attitude toward spending for Allah’s cause?",
+            "answer": "They discourage spending and try to control resources to weaken believers."
+        },
+        {
+            "id": "ch63-q13",
+            "text": "True/False: The Surah suggests wealth control can be used to manipulate faith communities.",
+            "answer": "True. It shows hypocrites try to choke resources to harm believers."
+        },
+        {
+            "id": "ch63-q14",
+            "text": "What does the Surah teach believers about their wealth and children?",
+            "answer": "They can distract from Allah’s remembrance; believers must not let them cause neglect."
+        },
+        {
+            "id": "ch63-q15",
+            "text": "What is one modern-life application of not being distracted by wealth and children?",
+            "answer": "Keep prayer, honesty, and moral priorities consistent even when busy with family and work."
+        },
+        {
+            "id": "ch63-q16",
+            "text": "What does the Surah teach about spending before death arrives?",
+            "answer": "Spend for Allah before the moment comes when regret is useless and time is over."
+        },
+        {
+            "id": "ch63-q17",
+            "text": "Why is delayed charity connected to regret in this Surah?",
+            "answer": "Because people realize too late what mattered; they wish for time to give and do good."
+        },
+        {
+            "id": "ch63-q18",
+            "text": "True/False: The Surah teaches that a person can always ask for extra time after death to fix mistakes.",
+            "answer": "False. Once the term ends, there is no return to correct deeds."
+        },
+        {
+            "id": "ch63-q19",
+            "text": "What does the Surah teach about Allah’s knowledge of what we do?",
+            "answer": "Allah is fully aware of deeds, so hypocrisy and hidden intentions are not hidden from Him."
+        },
+        {
+            "id": "ch63-q20",
+            "text": "How can a believer protect themselves from hypocrisy?",
+            "answer": "By sincerity, repentance, aligning speech with action, and remembering Allah regularly."
+        },
+        {
+            "id": "ch63-q21",
+            "text": "What is one sign of hypocrisy in daily life beyond major public events?",
+            "answer": "Saying religious words while consistently refusing moral obligations like honesty, prayer, or charity."
+        },
+        {
+            "id": "ch63-q22",
+            "text": "How does the Surah teach believers to evaluate people beyond appearances?",
+            "answer": "Look at consistency, truthfulness, and loyalty to Allah—not impressive speech or outward image."
+        },
+        {
+            "id": "ch63-q23",
+            "text": "What does the Surah teach about the danger of loving status and influence?",
+            "answer": "It can lead to manipulation, arrogance, and opposition to truth."
+        },
+        {
+            "id": "ch63-q24",
+            "text": "True/False: The Surah suggests that sincerity is proven by consistent sacrifice and obedience.",
+            "answer": "True. It contrasts sincere believers with hypocrites who avoid responsibility."
+        },
+        {
+            "id": "ch63-q25",
+            "text": "What is one reason hypocrites panic and fear so much?",
+            "answer": "Because their inner state is unstable; they anticipate exposure and consequences."
+        },
+        {
+            "id": "ch63-q26",
+            "text": "How can remembrance of death reduce hypocrisy?",
+            "answer": "It forces honesty and urgency, pushing a person to align outward behavior with inner truth."
+        },
+        {
+            "id": "ch63-q27",
+            "text": "What does the Surah teach about discouraging charity in a community?",
+            "answer": "It is a tactic of hypocrisy that harms the poor and weakens the religion’s public strength."
+        },
+        {
+            "id": "ch63-q28",
+            "text": "What is a practical habit to avoid regret regarding charity?",
+            "answer": "Set a consistent giving schedule (daily/weekly/monthly) so charity is not left to moods."
+        },
+        {
+            "id": "ch63-q29",
+            "text": "True/False: The Surah teaches that wealth is evil by itself.",
+            "answer": "False. Wealth is a test; it becomes harmful when it distracts from Allah."
+        },
+        {
+            "id": "ch63-q30",
+            "text": "How does the Surah teach believers to balance worldly responsibilities with faith?",
+            "answer": "Maintain remembrance and obligations while working; do not let dunya erase the Hereafter."
+        },
+        {
+            "id": "ch63-q31",
+            "text": "What does the Surah teach about the relationship between hypocrisy and community unity?",
+            "answer": "Hypocrisy spreads distrust and division; sincerity strengthens unity."
+        },
+        {
+            "id": "ch63-q32",
+            "text": "How can believers avoid being influenced by hypocritical narratives today?",
+            "answer": "Seek authentic knowledge, verify claims, and judge ideas by Quran and Sunnah, not by popularity."
+        },
+        {
+            "id": "ch63-q33",
+            "text": "True/False: The Surah teaches that being impressed by someone’s appearance is enough to trust them.",
+            "answer": "False. It warns appearances can be deceiving."
+        },
+        {
+            "id": "ch63-q34",
+            "text": "What is one moral lesson from the Surah’s criticism of empty oaths?",
+            "answer": "Do not use religious language to manipulate; speak truthfully and accept accountability."
+        },
+        {
+            "id": "ch63-q35",
+            "text": "How does the Surah encourage honesty in community leadership?",
+            "answer": "By exposing hypocrisy, it teaches leaders must be sincere, not power-driven."
+        },
+        {
+            "id": "ch63-q36",
+            "text": "What is one personal reflection question inspired by this Surah?",
+            "answer": "Where do my actions contradict my Islamic claims, and what will I change this week?"
+        },
+        {
+            "id": "ch63-q37",
+            "text": "What does Surah Al-Munafiqun teach about Allah’s timing regarding death?",
+            "answer": "Allah gives a set term; when it arrives, delay is impossible."
+        },
+        {
+            "id": "ch63-q38",
+            "text": "How can awareness of Allah’s knowledge improve sincerity?",
+            "answer": "It removes performance-based religion and pushes a person to be truthful even in private."
+        },
+        {
+            "id": "ch63-q39",
+            "text": "True/False: The Surah suggests that hypocrisy can be hidden forever if someone is smart.",
+            "answer": "False. Allah knows and can expose hypocrisy in this life or the next."
+        },
+        {
+            "id": "ch63-q40",
+            "text": "What does the Surah teach about the best protection from regret?",
+            "answer": "Act now—spend, repent, and obey—before the moment of no return."
+        },
+        {
+            "id": "ch63-q41",
+            "text": "How can a believer increase sincerity in spending?",
+            "answer": "Give regularly for Allah’s sake without seeking praise and without harming others."
+        },
+        {
+            "id": "ch63-q42",
+            "text": "What is one ethical lesson about community economics in this Surah?",
+            "answer": "Do not weaponize money to control faith communities; use wealth to support truth and the needy."
+        },
+        {
+            "id": "ch63-q43",
+            "text": "What does the Surah teach about envy and rivalry in groups?",
+            "answer": "They often drive hypocrisy and division; believers must choose sincerity and unity."
+        },
+        {
+            "id": "ch63-q44",
+            "text": "True/False: The Surah teaches believers should ignore hypocrites completely and never self-correct.",
+            "answer": "False. It exposes hypocrisy as a warning so believers can self-correct and stay sincere."
+        },
+        {
+            "id": "ch63-q45",
+            "text": "How does the Surah motivate believers to stay active in good deeds?",
+            "answer": "By showing regret at death and the danger of distractions, it pushes for urgency."
+        },
+        {
+            "id": "ch63-q46",
+            "text": "How can this Surah guide a believer’s online behavior today?",
+            "answer": "Avoid performative faith; be consistent, truthful, and charitable rather than image-driven."
+        },
+        {
+            "id": "ch63-q47",
+            "text": "What is one concluding takeaway from Surah Al-Munafiqun?",
+            "answer": "Sincerity is the difference between salvation and shame; align heart, speech, and action."
+        },
+        {
+            "id": "ch63-q48",
+            "text": "What is a final reminder inspired by this Surah?",
+            "answer": "Act before time ends—hypocrisy collapses, but sincere deeds remain."
+        }
+    ]
+}

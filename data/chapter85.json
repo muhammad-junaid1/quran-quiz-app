@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch85-q1",
+            "text": "How does the Surah use oaths (constellations, promised day) as a teaching method?",
+            "answer": "It points to cosmic signs and the promised Day to emphasize certainty of judgment."
+        },
+        {
+            "id": "ch85-q2",
+            "text": "True/False: The Surah teaches that persecution proves believers are abandoned by Allah.",
+            "answer": "False. It shows trials happen, and Allah’s justice will prevail."
+        },
+        {
+            "id": "ch85-q3",
+            "text": "What is the central lesson from the story of the People of the Trench?",
+            "answer": "Faith may be tested severely, but steadfast believers are honored and oppressors face Allah’s punishment."
+        },
+        {
+            "id": "ch85-q4",
+            "text": "Why is the believers’ ‘crime’ described as simply believing in Allah?",
+            "answer": "To expose the ظلم of persecution and show that tawhid is often opposed by tyrants."
+        },
+        {
+            "id": "ch85-q5",
+            "text": "What does the Surah teach about repentance for oppressors?",
+            "answer": "The door of repentance exists, but refusing it leads to severe punishment."
+        },
+        {
+            "id": "ch85-q6",
+            "text": "True/False: The Surah suggests tyranny is safe if it is done publicly and confidently.",
+            "answer": "False. Allah witnesses everything and punishes injustice."
+        },
+        {
+            "id": "ch85-q7",
+            "text": "How does describing Allah as 'severe in seizure' help a believer’s heart?",
+            "answer": "It restores confidence that ظلم will not last and that Allah can seize oppressors decisively."
+        },
+        {
+            "id": "ch85-q8",
+            "text": "How does this Surah strengthen belief in resurrection?",
+            "answer": "It emphasizes Allah originates creation and repeats it, making resurrection certain."
+        },
+        {
+            "id": "ch85-q9",
+            "text": "What does 'Al-Wadud' teach about Allah’s relationship with believers?",
+            "answer": "Allah loves and shows affection to His servants, especially those who remain faithful."
+        },
+        {
+            "id": "ch85-q10",
+            "text": "How can belief in Allah’s love help during hardship?",
+            "answer": "It prevents despair and gives strength to endure trials with hope and dignity."
+        },
+        {
+            "id": "ch85-q11",
+            "text": "True/False: The Surah teaches that Allah’s will is limited by human power.",
+            "answer": "False. It teaches Allah does whatever He wills."
+        },
+        {
+            "id": "ch85-q12",
+            "text": "Why does the Surah mention Pharaoh and Thamud?",
+            "answer": "To remind that powerful tyrants were destroyed, so current oppressors are not beyond Allah’s reach."
+        },
+        {
+            "id": "ch85-q13",
+            "text": "What does the Surah teach about Allah encompassing the disbelievers?",
+            "answer": "They are surrounded by Allah’s knowledge and power; they cannot escape accountability."
+        },
+        {
+            "id": "ch85-q14",
+            "text": "How does the Surah describe the Quran’s status and protection?",
+            "answer": "It is a glorious Quran preserved by Allah, showing revelation is protected from corruption."
+        },
+        {
+            "id": "ch85-q15",
+            "text": "What is one lesson from the idea of a 'Preserved Tablet'?",
+            "answer": "Allah’s knowledge and decree are complete, and revelation is safeguarded."
+        },
+        {
+            "id": "ch85-q16",
+            "text": "True/False: The Surah teaches that suffering automatically makes someone righteous.",
+            "answer": "False. It honors faithful patience; righteousness depends on faith and steadfastness."
+        },
+        {
+            "id": "ch85-q17",
+            "text": "What is one modern application of this Surah for someone facing religious pressure?",
+            "answer": "Stay firm on tawhid, avoid compromise, and trust that Allah sees and will judge."
+        },
+        {
+            "id": "ch85-q18",
+            "text": "How can a believer respond to ظلم without becoming unjust themselves?",
+            "answer": "Maintain patience, seek lawful means, make dua, and avoid ظلم in return."
+        },
+        {
+            "id": "ch85-q19",
+            "text": "How does the Surah balance fear and hope?",
+            "answer": "It warns of Hell for persistent oppressors and promises Paradise as the great success for believers."
+        },
+        {
+            "id": "ch85-q20",
+            "text": "True/False: The Surah teaches that Allah’s justice may never appear.",
+            "answer": "False. It emphasizes the Promised Day and Allah’s certain justice."
+        },
+        {
+            "id": "ch85-q21",
             "text": "What are 'Al-Buruj'?",
             "answer": "The Big Stars or the Constellations in the sky."
         },
         {
-            "id": "ch85-q2",
+            "id": "ch85-q22",
             "text": "What is the 'Promised Day' (Al-Yawm al-Maw'ud)?",
             "answer": "The Day of Resurrection."
         },
         {
-            "id": "ch85-q3",
+            "id": "ch85-q23",
             "text": "Who are the 'Ashab al-Ukhdud'?",
             "answer": "The 'Companions of the Trench' who persecuted the believers by throwing them into a fire-filled pit."
         },
         {
-            "id": "ch85-q4",
+            "id": "ch85-q24",
             "text": "What was the crime of the believers who were thrown into the trench?",
             "answer": "They believed in Allah, the Exalted in Might, the Praiseworthy."
         },
         {
-            "id": "ch85-q5",
+            "id": "ch85-q25",
             "text": "Did the persecutors of the trench witness their own crime?",
             "answer": "Yes, they sat by the fire and witnessed what they were doing to the believers."
         },
         {
-            "id": "ch85-q6",
+            "id": "ch85-q26",
             "text": "What is the punishment for those who persecute believing men and women and do not repent?",
             "answer": "The punishment of Hell and the punishment of the Burning Fire."
         },
         {
-            "id": "ch85-q7",
-            "text": "What is the 'Great Success' mentioned in Verse 11?",
+            "id": "ch85-q27",
+            "text": "What is the 'Great Success' mentioned in this Surah?",
             "answer": "Entering Gardens beneath which rivers flow."
         },
         {
-            "id": "ch85-q8",
+            "id": "ch85-q28",
             "text": "How is the 'Seizure' (Batsh) of Allah described?",
             "answer": "As 'severe' (Shadid)."
         },
         {
-            "id": "ch85-q9",
+            "id": "ch85-q29",
             "text": "Who originates creation and then repeats it?",
-            "answer": "Allah (Verse 13)."
+            "answer": "Allah."
         },
         {
-            "id": "ch85-q10",
-            "text": "Name three attributes of Allah mentioned in Verses 14-15.",
+            "id": "ch85-q30",
+            "text": "Name three attributes of Allah mentioned in this Surah.",
             "answer": "Al-Ghafur (The Forgiving), Al-Wadud (The Affectionate), and Lord of the Throne."
         },
         {
-            "id": "ch85-q11",
+            "id": "ch85-q31",
             "text": "What does 'Fa'alun lima yurid' mean?",
             "answer": "Effecter of what He intends (He does whatever He wills)."
         },
         {
-            "id": "ch85-q12",
+            "id": "ch85-q32",
             "text": "Which two powerful 'hosts' (armies) are mentioned as examples of those who were destroyed?",
             "answer": "The hosts of Pharaoh and Thamud."
         },
         {
-            "id": "ch85-q13",
-            "text": "Where is the Quran kept according to the final verse?",
+            "id": "ch85-q33",
+            "text": "In a 'Lawh-im-Mahfuz' (a Preserved Tablet).",
             "answer": "In a 'Lawh-im-Mahfuz' (a Preserved Tablet)."
         },
         {
-            "id": "ch85-q14",
+            "id": "ch85-q34",
             "text": "Is Allah a witness over all things?",
-            "answer": "Yes, 'Allah is Witness over all things' (Verse 9)."
+            "answer": "Yes, Allah is Witness over all things."
         },
         {
-            "id": "ch85-q15",
+            "id": "ch85-q35",
             "text": "What is the main moral lesson of the story of the Trench?",
             "answer": "Perseverance in faith despite extreme persecution, and the certainty of Allah's justice."
         },
         {
-            "id": "ch85-q16",
+            "id": "ch85-q36",
             "text": "What is 'Al-Wadud'?",
             "answer": "The Most Loving or Most Affectionate."
         },
         {
-            "id": "ch85-q17",
+            "id": "ch85-q37",
             "text": "Does Allah encompass the disbelievers?",
-            "answer": "Yes, 'Allah is from behind them, encompassing' (Verse 20)."
+            "answer": "Yes, Allah encompasses them; no one escapes His knowledge and power."
         },
         {
-            "id": "ch85-q18",
+            "id": "ch85-q38",
             "text": "Why is the Quran called 'Majid'?",
             "answer": "Because it is glorious and noble in its content and origin."
         },
         {
-            "id": "ch85-q19",
-            "text": "What does 'the witness and the witnessed' (Shahidin wa Mashhud) in Verse 3 refer to?",
-            "answer": "Scholars say it refers to various things like Friday and the Day of Arafah, or the Prophet and his Ummah."
+            "id": "ch85-q39",
+            "text": "What does 'the witness and the witnessed' (Shahidin wa Mashhud) refer to generally?",
+            "answer": "It refers to witnessing and being witnessed—an image of testimony and accountability before Allah."
         },
         {
-            "id": "ch85-q20",
+            "id": "ch85-q40",
             "text": "What happened to the people who sat around the trench?",
             "answer": "They were cursed/destroyed for their cruelty."
         }

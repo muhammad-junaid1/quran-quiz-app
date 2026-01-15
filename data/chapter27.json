@@ -1,108 +1,408 @@
 {
-  "id": 27,
-  "englishName": "An-Naml",
-  "arabicName": "النمل",
-  "translation": "The Ants",
-  "questions": [
-    {
-      "id": "ch27-q1",
-      "text": "Which Prophet's story is the most prominent in Surah An-Naml?",
-      "answer": "Prophet Sulayman (Solomon)."
-    },
-    {
-      "id": "ch27-q2",
-      "text": "What specific blessing did Allah give Dawud and Sulayman that they were grateful for?",
-      "answer": "Knowledge, specifically the language of birds (Mantiq al-Tayr)."
-    },
-    {
-      "id": "ch27-q3",
-      "text": "What did the female ant say when she saw Sulayman's army approaching?",
-      "answer": "'O ants, enter your dwellings lest Sulayman and his hosts crush you while they perceive not'."
-    },
-    {
-      "id": "ch27-q4",
-      "text": "What was Sulayman's (AS) reaction to the ant's speech?",
-      "answer": "He smiled, laughing at her speech, and prayed to Allah to enable him to be grateful for His favors."
-    },
-    {
-      "id": "ch27-q5",
-      "text": "Which bird was missing from Sulayman's assembly?",
-      "answer": "The Hoopoe (Hud-hud)."
-    },
-    {
-      "id": "ch27-q6",
-      "text": "What news did the Hoopoe bring from Saba (Sheba)?",
-      "answer": "He found a woman (Bilqis) ruling over them with a magnificent throne, but she and her people were worshipping the sun instead of Allah."
-    },
-    {
-      "id": "ch27-q7",
-      "text": "How did Sulayman (AS) respond to the gift of gold and wealth sent by Bilqis?",
-      "answer": "He rejected it, stating that what Allah had given him was better than what He had given them."
-    },
-    {
-      "id": "ch27-q8",
-      "text": "Who brought the throne of Bilqis to Sulayman in the 'twinkling of an eye'?",
-      "answer": "One who had knowledge of the Scripture."
-    },
-    {
-      "id": "ch27-q9",
-      "text": "Why did Bilqis think the floor of Sulayman's palace was water?",
-      "answer": "Because it was made of smooth, clear glass over flowing water."
-    },
-    {
-      "id": "ch27-q10",
-      "text": "What was Bilqis's final realization after entering the palace?",
-      "answer": "She realized she had wronged herself and submitted with Sulayman to Allah, Lord of the worlds."
-    },
-    {
-      "id": "ch27-q11",
-      "text": "What did the nine men in the city of Prophet Salih plot to do?",
-      "answer": "They took a mutual oath to attack Salih and his family by night and then lie to his protector."
-    },
-    {
-      "id": "ch27-q12",
-      "text": "What was the response of Prophet Lut's people to his call (Verse 56)?",
-      "answer": "They said 'Expel the family of Lut from your city; indeed, they are people who keep themselves pure'."
-    },
-    {
-      "id": "ch27-q13",
-      "text": "Which of Lut's (AS) family members was not saved?",
-      "answer": "His wife; she was decreed to be among those who remained behind for punishment."
-    },
-    {
-      "id": "ch27-q14",
-      "text": "How many times does the Surah ask 'Is there a god with Allah?' (A-ilahun ma'allah)?",
-      "answer": "Five times, following descriptions of Allah's creative power and provision."
-    },
-    {
-      "id": "ch27-q15",
-      "text": "Who responds to the distressed when he calls upon Him?",
-      "answer": "Allah alone (Verse 62)."
-    },
-    {
-      "id": "ch27-q16",
-      "text": "What is the 'Dabbat al-Ard' (Beast of the Earth) mentioned in Verse 82?",
-      "answer": "A sign of the Day of Judgment that will emerge and speak to people because they did not have certainty in Allah's signs."
-    },
-    {
-      "id": "ch27-q17",
-      "text": "What will happen when the Trumpet is blown (Verse 87)?",
-      "answer": "Everyone in the heavens and earth will be terrified, except whom Allah wills, and all will come to Him in humility."
-    },
-    {
-      "id": "ch27-q18",
-      "text": "How are the mountains described in their movement on the Last Day?",
-      "answer": "They appear firm, but they will pass away like the passing of clouds."
-    },
-    {
-      "id": "ch27-q19",
-      "text": "What is the reward for one who brings a good deed (Hasanah)?",
-      "answer": "He will have better than it, and they will be safe from the terror of that Day."
-    },
-    {
-      "id": "ch27-q20",
-      "text": "What was the Prophet (SAW) commanded to be among (Verse 91)?",
-      "answer": "Among the Muslims (those who submit to Allah)."
-    }
-  ]
+    "id": 27,
+    "englishName": "An-Naml",
+    "arabicName": "النمل",
+    "translation": "The Ants",
+    "questions": [
+        {
+            "id": "ch27-q1",
+            "text": "What is the primary function of the Quran according to the opening of this Surah?",
+            "answer": "As guidance and glad tidings for the believers who establish prayer, give Zakat, and have certainty in the Hereafter."
+        },
+        {
+            "id": "ch27-q2",
+            "text": "What happens to those who do not believe in the Hereafter according to this Surah?",
+            "answer": "Allah makes their deeds seem fair to them, so they wander blindly; they will have the worst punishment and will be the greatest losers."
+        },
+        {
+            "id": "ch27-q3",
+            "text": "Briefly describe the 'fire' Musa (AS) saw in the direction of Tur.",
+            "answer": "He saw a fire and told his family to stay while he went to bring a brand or find guidance; instead, he was called by Allah from the blessed spot."
+        },
+        {
+            "id": "ch27-q4",
+            "text": "What were the first two miracles given to Musa (AS) at the burning bush in this Surah?",
+            "answer": "His staff turning into a moving snake and his hand coming out white without any disease."
+        },
+        {
+            "id": "ch27-q5",
+            "text": "How many total signs was Musa (AS) given to show Pharaoh and his people?",
+            "answer": "Nine signs."
+        },
+        {
+            "id": "ch27-q6",
+            "text": "What was the specific blessing did Allah give Dawud and Sulayman that they were grateful for?",
+            "answer": "Knowledge, and they said, 'Praise to Allah, who has favored us over many of His believing servants.'"
+        },
+        {
+            "id": "ch27-q7",
+            "text": "Which Prophet inherited from his father and was taught the 'language of birds'?",
+            "answer": "Prophet Sulayman (AS) inherited from Dawud (AS)."
+        },
+        {
+            "id": "ch27-q8",
+            "text": "What were the three components of Sulayman's (AS) army?",
+            "answer": "Jinn, men, and birds."
+        },
+        {
+            "id": "ch27-q9",
+            "text": "What did the female ant say when she saw Sulayman's army approaching?",
+            "answer": "'O ants, enter your dwellings lest Sulayman and his hosts crush you while they perceive not.'"
+        },
+        {
+            "id": "ch27-q10",
+            "text": "What was Sulayman's (AS) reaction to the ant's warning?",
+            "answer": "He smiled, laughing at her speech, and prayed to Allah to enable him to be grateful for His favors and to do righteous deeds."
+        },
+        {
+            "id": "ch27-q11",
+            "text": "Which bird was missing when Sulayman (AS) inspected the birds?",
+            "answer": "The Hoopoe (Hud-hud)."
+        },
+        {
+            "id": "ch27-q12",
+            "text": "What news did the Hoopoe bring back from Saba (Sheba)?",
+            "answer": "He found a woman (Bilqis) ruling over them with a magnificent throne, but they were worshipping the sun instead of Allah."
+        },
+        {
+            "id": "ch27-q13",
+            "text": "How did the Hoopoe describe the role of Shaitan in Saba?",
+            "answer": "Shaitan had made their deeds seem fair to them and averted them from the way of Allah, so they were not guided."
+        },
+        {
+            "id": "ch27-q14",
+            "text": "What was the content of the letter Sulayman (AS) sent to the Queen of Saba?",
+            "answer": "It started with 'Bismillah-ir-Rahman-ir-Rahim' and said: 'Be not haughty with me but come to me in submission (Muslims).'"
+        },
+        {
+            "id": "ch27-q15",
+            "text": "What was the advice of the Queen of Saba's chiefs regarding Sulayman's letter?",
+            "answer": "They said they were people of power and great military might, but the command was hers to decide."
+        },
+        {
+            "id": "ch27-q16",
+            "text": "Why did the Queen of Saba decide to send a gift instead of declaring war?",
+            "answer": "She said that when kings enter a city, they ruin it and humiliate its noble people; she wanted to see how the messengers would return."
+        },
+        {
+            "id": "ch27-q17",
+            "text": "How did Sulayman (AS) respond to the gift of wealth sent by the Queen?",
+            "answer": "He rejected it, stating that what Allah had given him was better, and he threatened to bring armies they could not resist."
+        },
+        {
+            "id": "ch27-q18",
+            "text": "Who brought the throne of the Queen of Saba to Sulayman in the 'twinkling of an eye'?",
+            "answer": "One who had knowledge of the Scripture (Al-Kitab)."
+        },
+        {
+            "id": "ch27-q19",
+            "text": "What did Sulayman (AS) say when he saw the throne settled before him?",
+            "answer": "'This is from the favor of my Lord to test me whether I will be grateful or ungrateful.'"
+        },
+        {
+            "id": "ch27-q20",
+            "text": "Why did Sulayman (AS) order for the throne to be disguised or altered?",
+            "answer": "To see if the Queen would recognize it or if she would be of those who are not guided."
+        },
+        {
+            "id": "ch27-q21",
+            "text": "Describe the palace floor that amazed the Queen of Saba.",
+            "answer": "It was a courtyard (Sarh) of smooth glass; she thought it was a pool of water and uncovered her shins, but Sulayman told her it was just glass."
+        },
+        {
+            "id": "ch27-q22",
+            "text": "What was the final realization of the Queen of Saba after seeing Sulayman's signs?",
+            "answer": "She said, 'My Lord, indeed I have wronged myself, and I submit with Sulayman to Allah, Lord of the worlds.'"
+        },
+        {
+            "id": "ch27-q23",
+            "text": "Which Prophet was sent to the people of Thamud in this Surah?",
+            "answer": "Prophet Salih (AS), who told them to worship Allah, but they became two parties quarreling."
+        },
+        {
+            "id": "ch27-q24",
+            "text": "What did the nine men in the city of Prophet Salih plot to do?",
+            "answer": "They took a mutual oath to attack Salih and his family by night and then tell his protector they did not witness their destruction."
+        },
+        {
+            "id": "ch27-q25",
+            "text": "How did Allah respond to the plot against Salih (AS)?",
+            "answer": "Allah planned a plan while they perceived not, and destroyed them and their people utterly."
+        },
+        {
+            "id": "ch27-q26",
+            "text": "What was the specific message of Prophet Lut (AS) to his people in this Surah?",
+            "answer": "He asked, 'Do you commit immorality while you see? Do you approach men with desire instead of women?'"
+        },
+        {
+            "id": "ch27-q27",
+            "text": "What was the only response of Lut's people to his message?",
+            "answer": "They said, 'Expel the family of Lut from your city; indeed, they are people who keep themselves pure.'"
+        },
+        {
+            "id": "ch27-q28",
+            "text": "Which member of Lut's family was not saved from the punishment?",
+            "answer": "His wife; she was decreed to be among those who remained behind."
+        },
+        {
+            "id": "ch27-q29",
+            "text": "How many times does the question 'Is there a god with Allah?' appear in the middle of the Surah?",
+            "answer": "Five times, following proofs of Allah's creation, provision, and guidance."
+        },
+        {
+            "id": "ch27-q30",
+            "text": "Who responds to the distressed (Mudtarr) when he calls upon Him and removes evil?",
+            "answer": "Allah alone."
+        },
+        {
+            "id": "ch27-q31",
+            "text": "Who guides people through the darkness of land and sea and sends winds as glad tidings?",
+            "answer": "Allah."
+        },
+        {
+            "id": "ch27-q32",
+            "text": "Who begins creation and then repeats it, and provides from the heaven and the earth?",
+            "answer": "Allah."
+        },
+        {
+            "id": "ch27-q33",
+            "text": "Does anyone in the heavens and the earth know the 'Ghayb' (unseen) besides Allah?",
+            "answer": "No, only Allah knows it, and they do not perceive when they will be resurrected."
+        },
+        {
+            "id": "ch27-q34",
+            "text": "What is the 'clear Book' that mentions the things the Children of Israel differ about?",
+            "answer": "The Quran, which is a guidance and mercy for the believers."
+        },
+        {
+            "id": "ch27-q35",
+            "text": "Can the Prophet make the 'dead' or the 'deaf' hear his message?",
+            "answer": "No, and he cannot guide the blind from their error; he can only make those hear who believe in Allah's verses."
+        },
+        {
+            "id": "ch27-q36",
+            "text": "What is the 'Dabbat al-Ard' (Beast of the Earth) mentioned at the end of the Surah?",
+            "answer": "A sign of the Day of Judgment that will emerge and speak to people because they did not have certainty in Allah's signs."
+        },
+        {
+            "id": "ch27-q37",
+            "text": "What will happen when the groups from every nation who denied the signs are gathered?",
+            "answer": "They will be set in rows and asked why they denied the signs without encompassing them in knowledge."
+        },
+        {
+            "id": "ch27-q38",
+            "text": "What will happen when the Trumpet is blown at the end of time?",
+            "answer": "Everyone in the heavens and earth will be terrified, except whom Allah wills, and all will come to Him in humility."
+        },
+        {
+            "id": "ch27-q39",
+            "text": "How are the mountains described in their movement on the Last Day?",
+            "answer": "They appear firm, but they will pass away like the passing of clouds—the work of Allah who perfected all things."
+        },
+        {
+            "id": "ch27-q40",
+            "text": "What is the reward for one who brings a 'Hasanah' (good deed) on that Day?",
+            "answer": "He will have better than it, and they will be safe from the terror of that Day."
+        },
+        {
+            "id": "ch27-q41",
+            "text": "What happens to those who bring a 'Sayyi'ah' (evil deed)?",
+            "answer": "Their faces will be cast into the Fire, and they will be asked, 'Are you recompensed except for what you used to do?'"
+        },
+        {
+            "id": "ch27-q42",
+            "text": "What was the Prophet (SAW) commanded regarding the 'Lord of this City' (Makkah)?",
+            "answer": "To worship the Lord of this city, who made it sacred and to whom belongs all things."
+        },
+        {
+            "id": "ch27-q43",
+            "text": "What is the final command to the Prophet regarding the recitation of the Quran?",
+            "answer": "To recite the Quran; whoever is guided is guided for himself, and whoever strays, the Prophet is only a warner."
+        },
+        {
+            "id": "ch27-q44",
+            "text": "What will Allah show people in the future so they will recognize them?",
+            "answer": "He will show them His signs, and your Lord is not unaware of what you do."
+        },
+        {
+            "id": "ch27-q45",
+            "text": "What is the meaning of the name 'An-Naml'?",
+            "answer": "The Ants."
+        },
+        {
+            "id": "ch27-q46",
+            "text": "What is the 'Mantiq al-Tayr'?",
+            "answer": "The language or speech of birds."
+        },
+        {
+            "id": "ch27-q47",
+            "text": "What is the 'Hud-hud' bird?",
+            "answer": "The Hoopoe, a bird known for its role in the story of Sulayman and the Queen of Saba."
+        },
+        {
+            "id": "ch27-q48",
+            "text": "What is 'Saba' (Sheba)?",
+            "answer": "An ancient kingdom in Yemen ruled by a Queen during the time of Sulayman."
+        },
+        {
+            "id": "ch27-q49",
+            "text": "What is the 'Throne' (Arsh) of the Queen of Saba described as?",
+            "answer": "A 'Great Throne' (Arshun Azim), signifying her power and wealth."
+        },
+        {
+            "id": "ch27-q50",
+            "text": "What is the 'Knowledge of the Scripture'?",
+            "answer": "A special wisdom or miracle-working power given by Allah to certain servants."
+        },
+        {
+            "id": "ch27-q51",
+            "text": "What is the 'Glass Palace' (Sarh)?",
+            "answer": "A magnificent structure built by Sulayman to show the Queen of Saba the superior signs of his Lord."
+        },
+        {
+            "id": "ch27-q52",
+            "text": "What is the 'Blessed Spot' (Al-Buq'ah al-Mubarakah)?",
+            "answer": "The area where Musa spoke to Allah near Mount Sinai."
+        },
+        {
+            "id": "ch27-q53",
+            "text": "What are the 'nine signs' of Musa?",
+            "answer": "Miracles like the staff, the hand, the flood, locusts, lice, frogs, blood, years of famine, and shortage of fruits."
+        },
+        {
+            "id": "ch27-q54",
+            "text": "Why did the Queen of Saba's people worship the sun?",
+            "answer": "Due to Shaitan's deception and following the traditions of their forefathers."
+        },
+        {
+            "id": "ch27-q55",
+            "text": "What is the 'Clear sign' (A-ilahun ma'allah) meant to challenge?",
+            "answer": "The illogical belief in multiple gods when all signs of creation point to One."
+        },
+        {
+            "id": "ch27-q56",
+            "text": "What is the 'Ghayb'?",
+            "answer": "The Unseen, including the future, the Hereafter, and the hidden secrets of the universe."
+        },
+        {
+            "id": "ch27-q57",
+            "text": "What is the 'Certainty' (Yaqin) mentioned for the believers?",
+            "answer": "Unwavering faith in the truth of Allah and the Hereafter."
+        },
+        {
+            "id": "ch27-q58",
+            "text": "What is the 'Trumpet' (Sur)?",
+            "answer": "The horn that will be blown by an angel to signal the end of the world and the resurrection."
+        },
+        {
+            "id": "ch27-q59",
+            "text": "What is the 'Terror' (Faza') of the Last Day?",
+            "answer": "The overwhelming fear that will grip all creation when the world ends."
+        },
+        {
+            "id": "ch27-q60",
+            "text": "What is the 'City' (Al-Baldah) that Allah made sacred?",
+            "answer": "Makkah."
+        },
+        {
+            "id": "ch27-q61",
+            "text": "What is the 'Beast of the Earth' a sign of?",
+            "answer": "The closeness of the Day of Judgment when faith will no longer be accepted."
+        },
+        {
+            "id": "ch27-q62",
+            "text": "What is the 'Inheritance' (Waritha) of Sulayman?",
+            "answer": "He inherited the prophethood, wisdom, and kingdom from his father Dawud."
+        },
+        {
+            "id": "ch27-q63",
+            "text": "Why did Sulayman laugh at the ant's speech?",
+            "answer": "In wonder at her intelligence and in gratitude for being able to understand her."
+        },
+        {
+            "id": "ch27-q64",
+            "text": "What is the 'Great Bounty' (Fadl) mentioned in the story of Dawud and Sulayman?",
+            "answer": "The unique gifts of knowledge and power bestowed upon them by Allah."
+        },
+        {
+            "id": "ch27-q65",
+            "text": "What is the 'Guidance and Mercy' (Hudan wa Rahmah)?",
+            "answer": "The primary qualities of the Quran for those who choose to believe."
+        },
+        {
+            "id": "ch27-q66",
+            "text": "What is the 'Lord of the worlds' (Rabb al-Alamin)?",
+            "answer": "The One who sustains and governs all existence."
+        },
+        {
+            "id": "ch27-q67",
+            "text": "What is the 'submission' (Islam) Bilqis entered into?",
+            "answer": "Accepting the oneness of Allah and following His guidance."
+        },
+        {
+            "id": "ch27-q68",
+            "text": "What is the 'Test' (Fitnah) mentioned regarding the two parties of Salih's people?",
+            "answer": "Their differing reactions to the truth—one group believing and the other denying."
+        },
+        {
+            "id": "ch27-q69",
+            "text": "What is the 'Evil Rain' (Matar al-Saw')?",
+            "answer": "The rain of stones that destroyed the people of Lut."
+        },
+        {
+            "id": "ch27-q70",
+            "text": "What is the 'Visible knowledge' (Ilm)?",
+            "answer": "The clear understanding of Allah's signs in nature and scripture."
+        },
+        {
+            "id": "ch27-q71",
+            "text": "What is the 'Stable Earth' (Qarara)?",
+            "answer": "The earth as a firm and safe place for living, created by Allah."
+        },
+        {
+            "id": "ch27-q72",
+            "text": "What are the 'Rivers' (Anhara) within the earth?",
+            "answer": "A source of water and life, mentioned as a sign of divine provision."
+        },
+        {
+            "id": "ch27-q73",
+            "text": "What are the 'Firm Mountains' (Rawasiya)?",
+            "answer": "Anchors for the earth's crust, showing Allah's perfect engineering."
+        },
+        {
+            "id": "ch27-q74",
+            "text": "What is the 'Barrier' (Hajiza) between the two seas?",
+            "answer": "The physical laws that prevent fresh and salt water from mixing completely."
+        },
+        {
+            "id": "ch27-q75",
+            "text": "What is the 'Succession' (Khulafa' al-Ard)?",
+            "answer": "Mankind's role as stewards and inheritors of the earth."
+        },
+        {
+            "id": "ch27-q76",
+            "text": "What is the 'Good news' (Bushra) sent by the winds?",
+            "answer": "The rain that brings life to the land."
+        },
+        {
+            "id": "ch27-q77",
+            "text": "What is the 'Proof' (Burhan) requested from the polytheists?",
+            "answer": "Logical evidence for the existence of other gods, which they can never provide."
+        },
+        {
+            "id": "ch27-q78",
+            "text": "What is the 'Praise' (Al-Hamd) due to Allah?",
+            "answer": "The recognition of His perfection and blessings."
+        },
+        {
+            "id": "ch27-q79",
+            "text": "What is the 'Recitation' (Tilawah) of the Quran?",
+            "answer": "Reading and reflecting upon the divine word."
+        },
+        {
+            "id": "ch27-q80",
+            "text": "What is the 'Final realization'?",
+            "answer": "The point when all people will finally see and admit the truth, though for many it will be too late."
+        }
+    ]
 }

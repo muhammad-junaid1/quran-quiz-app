@@ -6,101 +6,171 @@
     "questions": [
         {
             "id": "ch104-q1",
+            "text": "How does this Surah link insulting people with love of wealth?",
+            "answer": "It shows arrogance fueled by wealth can produce contempt, slander, and social ظلم."
+        },
+        {
+            "id": "ch104-q2",
+            "text": "True/False: The Surah teaches that mocking people is a small sin compared to other sins.",
+            "answer": "False. It begins with a severe warning (wayl) for such behavior."
+        },
+        {
+            "id": "ch104-q3",
+            "text": "What is one modern example of humazah/lumazah?",
+            "answer": "Online shaming, sarcastic posts, spreading rumors, or humiliating someone through memes and gestures."
+        },
+        {
+            "id": "ch104-q4",
+            "text": "What does the Surah teach about the illusion of wealth ‘making someone last’?",
+            "answer": "Wealth cannot prevent death; attachment to wealth can blind a person to accountability."
+        },
+        {
+            "id": "ch104-q5",
+            "text": "Why is obsessively counting wealth spiritually dangerous?",
+            "answer": "It feeds greed, hardens the heart, and creates a false sense of control and superiority."
+        },
+        {
+            "id": "ch104-q6",
+            "text": "What does 'Al-Hutamah' communicate about punishment?",
+            "answer": "A crushing fire that breaks arrogance and destroys false security."
+        },
+        {
+            "id": "ch104-q7",
+            "text": "How does the Surah describe punishment reaching the heart, not just the body?",
+            "answer": "It shows punishment targets the inner seat of pride and malice, emphasizing moral consequences."
+        },
+        {
+            "id": "ch104-q8",
+            "text": "True/False: The Surah teaches that private hatred is less serious than public insults.",
+            "answer": "False. It highlights the heart as central to moral failure and punishment."
+        },
+        {
+            "id": "ch104-q9",
+            "text": "What is one practical way to stop backbiting in a friend group?",
+            "answer": "Change the subject, defend the absent person, or leave the conversation respectfully."
+        },
+        {
+            "id": "ch104-q10",
+            "text": "How can someone repent from mocking and backbiting effectively?",
+            "answer": "Stop the sin, regret it, ask Allah for forgiveness, and restore the person’s honor if possible."
+        },
+        {
+            "id": "ch104-q11",
+            "text": "What does the Surah teach about punishment being ‘sealed’ with no escape?",
+            "answer": "Accountability is final; denial and arrogance can lead to an inescapable outcome."
+        },
+        {
+            "id": "ch104-q12",
+            "text": "How does this Surah guide a wealthy person to avoid delusion?",
+            "answer": "Treat wealth as a trust, spend in charity, and avoid pride and contempt for others."
+        },
+        {
+            "id": "ch104-q13",
+            "text": "True/False: The Surah teaches that people’s dignity depends on their money.",
+            "answer": "False. It condemns those who think wealth gives superiority."
+        },
+        {
+            "id": "ch104-q14",
+            "text": "How can someone protect their heart from pride, as warned in this Surah?",
+            "answer": "Practice gratitude, give charity secretly, and remember death and Allah’s judgment."
+        },
+        {
+            "id": "ch104-q15",
+            "text": "What is one daily habit to avoid becoming a humazah/lumazah?",
+            "answer": "Pause before speaking about others; ask if the words are true, beneficial, and kind."
+        },
+        {
+            "id": "ch104-q16",
+            "text": "What is one misconception corrected by this Surah about ‘success’?",
+            "answer": "Success is not hoarding wealth and humiliating others; success is humility and obedience."
+        },
+        {
+            "id": "ch104-q17",
             "text": "What does 'Al-Humazah' mean?",
             "answer": "The Scorner, the Backbiter, or the Slanderer."
         },
         {
-            "id": "ch104-q2",
+            "id": "ch104-q18",
             "text": "What are 'Humazah' and 'Lumazah'?",
             "answer": "They refer to those who insult others through speech (slander) and through gestures or mimicry (backbiting)."
         },
         {
-            "id": "ch104-q3",
+            "id": "ch104-q19",
             "text": "What does the person described in this Surah do with his wealth?",
             "answer": "He collects wealth and [continuously] counts it."
         },
         {
-            "id": "ch104-q4",
+            "id": "ch104-q20",
             "text": "What does the wealthy person mistakenly think about his wealth?",
             "answer": "He thinks that his wealth will make him immortal (immortalize him)."
         },
         {
-            "id": "ch104-q5",
+            "id": "ch104-q21",
             "text": "Where will such a person be thrown?",
             "answer": "Into Al-Hutamah."
         },
         {
-            "id": "ch104-q6",
-            "text": "What does 'Al-Hutamah' mean?",
-            "answer": "The Crusher (a name for Hellfire that breaks everything thrown into it)."
-        },
-        {
-            "id": "ch104-q7",
-            "text": "How is the Fire of Allah described in Verse 7?",
+            "id": "ch104-q22",
+            "text": "How is the Fire of Allah described in this Surah?",
             "answer": "As the fire which 'mounts up to the hearts' (Tattali'u 'alal af'idah)."
         },
         {
-            "id": "ch104-q8",
+            "id": "ch104-q23",
             "text": "How will the fire be 'closed over' the inhabitants?",
             "answer": "In 'extended columns' (Amadim-mumaddadah)."
         },
         {
-            "id": "ch104-q9",
+            "id": "ch104-q24",
             "text": "Why does the fire specifically 'reach the hearts'?",
             "answer": "Because the heart is the seat of pride, malice, and false beliefs that led to the person's actions."
         },
         {
-            "id": "ch104-q10",
+            "id": "ch104-q25",
             "text": "What is the link between hoarding wealth and mocking others in this Surah?",
             "answer": "Wealth often gives a person a false sense of superiority, leading them to look down on and insult others."
         },
         {
-            "id": "ch104-q11",
-            "text": "What does 'Mu'sadah' mean in Verse 8?",
+            "id": "ch104-q26",
+            "text": "What does 'Mu'sadah' mean in this Surah?",
             "answer": "Closed over / vaulted / sealed (so there is no escape)."
         },
         {
-            "id": "ch104-q12",
+            "id": "ch104-q27",
             "text": "Who was the primary target of this Surah's revelation (historical context)?",
             "answer": "It was revealed regarding leaders of the Quraysh (like Umayyah bin Khalaf) who used to mock the Prophet (SAW)."
         },
         {
-            "id": "ch104-q13",
+            "id": "ch104-q28",
             "text": "Is this Surah only for the people of that time?",
             "answer": "No, it is a universal warning for anyone who mocks people and is deluded by wealth."
         },
         {
-            "id": "ch104-q14",
-            "text": "What is the Arabic word for 'counting' wealth in Verse 2?",
+            "id": "ch104-q29",
+            "text": "What is the Arabic word for 'counting' wealth mentioned in this Surah?",
             "answer": "'Addadah'."
         },
         {
-            "id": "ch104-q15",
-            "text": "What is the spiritual danger of 'counting' wealth obsessively?",
-            "answer": "It leads to greed and the delusion that one is in control of their life and death."
-        },
-        {
-            "id": "ch104-q16",
+            "id": "ch104-q30",
             "text": "Does Allah call the fire 'His' in this Surah?",
             "answer": "Yes, 'Narullah' (The Fire of Allah), which emphasizes its divine authority."
         },
         {
-            "id": "ch104-q17",
+            "id": "ch104-q31",
             "text": "What is the significance of the 'extended columns'?",
             "answer": "They signify that the doors of Hell are not just closed, but barred shut with heavy pillars."
         },
         {
-            "id": "ch104-q18",
-            "text": "What is 'Wayl' as mentioned in Verse 1?",
+            "id": "ch104-q32",
+            "text": "What is 'Wayl' as mentioned in this Surah?",
             "answer": "Woe, destruction, or a valley in Hell."
         },
         {
-            "id": "ch104-q19",
+            "id": "ch104-q33",
             "text": "True or False: The Surah mentions that wealth can buy a person's way out of Al-Hutamah.",
             "answer": "False."
         },
         {
-            "id": "ch104-q20",
+            "id": "ch104-q34",
             "text": "How many verses are in Surah Al-Humazah?",
             "answer": "Nine verses."
         }

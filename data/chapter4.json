@@ -1,60 +1,408 @@
-
+{
+  "id": 4,
+  "englishName": "An-Nisa",
+  "arabicName": "النِّسَاء",
+  "translation": "The Women",
+  "questions": [
     {
-      "id": 4,
-      "englishName": "An-Nisa",
-      "arabicName": "النِّسَاء",
-      "translation": "The Women",
-      "questions": [
-        {
-          "id": "ch4-q1",
-          "text": "Why is this Surah titled 'An-Nisa' (The Women)?",
-          "answer": "It deals extensively with the rights of women, including marriage, inheritance, legal protections, and their roles in the family and society."
-        },
-        {
-          "id": "ch4-q2",
-          "text": "What is the primary theme of the first verse of Surah An-Nisa?",
-          "answer": "Human equality and common origin, emphasizing that all mankind was created from a single soul (Adam) and its mate (Hawa)."
-        },
-        {
-          "id": "ch4-q3",
-          "text": "What does the Surah command regarding the property of orphans?",
-          "answer": "Believers are strictly forbidden from consuming the wealth of orphans or substituting their own inferior property for the orphans' superior property."
-        },
-        {
-          "id": "ch4-q4",
-          "text": "Under what specific condition does the Quran allow a man to marry up to four wives?",
-          "answer": "Only if he can treat them with absolute justice; if he fears he cannot be just, he must marry only one."
-        },
-        {
-          "id": "ch4-q5",
-          "text": "How does the Surah define the 'Mahram' (prohibited degrees) for marriage?",
-          "answer": "It lists specific relatives one cannot marry, including mothers, daughters, sisters, aunts, and those related through foster-suckling (Rada'ah)."
-        },
-        {
-          "id": "ch4-q6",
-          "text": "What is the 'Nisa' inheritance share for a daughter compared to a son?",
-          "answer": "The male generally receives a share equal to that of two females, as the male is traditionally responsible for the financial maintenance of the family."
-        },
-        {
-          "id": "ch4-q7",
-          "text": "According to Verse 48, which sin will Allah never forgive if a person dies without repenting from it?",
-          "answer": "Shirk (associating partners with Allah)."
-        },
-        {
-          "id": "ch4-q8",
-          "text": "What is the 'Qawwamun' role mentioned in Verse 34?",
-          "answer": "It describes men as protectors and maintainers of women, based on the physical and financial responsibilities Allah has assigned to them."
-        },
-        {
-          "id": "ch4-q9",
-          "text": "Who are the 'Ulul-Amr' mentioned in Verse 59 regarding obedience?",
-          "answer": "They are those in authority among the believers (scholarly or political leaders), whose obedience is required as long as it aligns with Allah and His Messenger."
-        },
-        {
-          "id": "ch4-q10",
-          "text": "What does the Quran say regarding the crucifixion of Prophet Isa (Jesus)?",
-          "answer": "Verse 157 clarifies that they did not kill him nor did they crucify him, but it was made to appear so to them; rather, Allah raised him to Himself."
-        }
-      ]
+      "id": "ch4-q1",
+      "text": "Why is this Surah titled 'An-Nisa' (The Women)?",
+      "answer": "It deals extensively with the rights of women, including marriage, inheritance, legal protections, and their roles in the family and society."
+    },
+    {
+      "id": "ch4-q2",
+      "text": "What is the primary theme of the first Ayah of Surah An-Nisa?",
+      "answer": "Human equality and common origin, emphasizing that all mankind was created from a single soul (Adam) and its mate (Hawa)."
+    },
+    {
+      "id": "ch4-q3",
+      "text": "What does the Surah command regarding the treatment of orphans?",
+      "answer": "Believers are commanded to give orphans their property, not to exchange their good things for bad ones, and not to consume the orphans' wealth with their own."
+    },
+    {
+      "id": "ch4-q4",
+      "text": "Under what specific condition does the Quran allow a man to marry up to four wives?",
+      "answer": "Only if he can treat them with absolute justice; if he fears he cannot be just, he must marry only one."
+    },
+    {
+      "id": "ch4-q5",
+      "text": "What is the 'Mahr' (dowry) and how should it be given to women?",
+      "answer": "It is a gift given to women upon marriage; it should be given graciously as an obligation, and it belongs to the woman alone."
+    },
+    {
+      "id": "ch4-q6",
+      "text": "At what stage should orphans be given control of their property?",
+      "answer": "When they reach the age of marriage and show sound judgment; their property should be handed over to them in the presence of witnesses."
+    },
+    {
+      "id": "ch4-q7",
+      "text": "What is the warning for those who consume the wealth of orphans unjustly?",
+      "answer": "They are only consuming fire into their bellies and will burn in a blazing Fire."
+    },
+    {
+      "id": "ch4-q8",
+      "text": "Who established the laws of inheritance mentioned in this Surah?",
+      "answer": "Allah Himself has ordained these shares as a fixed obligation; they are not left to human choice."
+    },
+    {
+      "id": "ch4-q9",
+      "text": "What is the inheritance share for a mother if her deceased child has children?",
+      "answer": "She receives one-sixth of the estate."
+    },
+    {
+      "id": "ch4-q10",
+      "text": "What is the 'Nisa' inheritance share for a daughter compared to a son?",
+      "answer": "The male generally receives a share equal to that of two females, as the male is traditionally responsible for the financial maintenance of the family."
+    },
+    {
+      "id": "ch4-q11",
+      "text": "How does Allah describe the punishment for those who disobey His limits regarding inheritance?",
+      "answer": "They will be admitted to a Fire to abide therein forever, and they will have a humiliating punishment."
+    },
+    {
+      "id": "ch4-q12",
+      "text": "What is the requirement for accepting repentance from someone who does evil?",
+      "answer": "Repentance is accepted from those who do evil in ignorance and then repent soon after; Allah will turn to them in forgiveness."
+    },
+    {
+      "id": "ch4-q13",
+      "text": "Is repentance accepted from those who continue to do evil until death reaches them?",
+      "answer": "No, repentance is not accepted from those who die while they are disbelievers or those who only repent at the moment of death."
+    },
+    {
+      "id": "ch4-q14",
+      "text": "Are men allowed to inherit women against their will or treat them harshly to take back part of their dowry?",
+      "answer": "No, it is forbidden to inherit women by force or to constrain them to take away part of what was given to them, unless they commit a clear immorality."
+    },
+    {
+      "id": "ch4-q15",
+      "text": "How should husbands live with their wives even if they dislike something about them?",
+      "answer": "They should live with them in kindness; for it may be that they dislike a thing and Allah brings through it a great deal of good."
+    },
+    {
+      "id": "ch4-q16",
+      "text": "What is the rule about marrying women whom your fathers married?",
+      "answer": "It is strictly forbidden, as it is an immorality and a hateful practice."
+    },
+    {
+      "id": "ch4-q17",
+      "text": "How does the Surah define the 'Mahram' (prohibited degrees) for marriage?",
+      "answer": "It lists specific relatives one cannot marry, including mothers, daughters, sisters, aunts, and those related through foster-suckling (Rada'ah)."
+    },
+    {
+      "id": "ch4-q18",
+      "text": "Is it permissible to marry two sisters at the same time?",
+      "answer": "No, the Surah prohibits having two sisters as wives simultaneously."
+    },
+    {
+      "id": "ch4-q19",
+      "text": "What is the rule regarding marrying women who are already married?",
+      "answer": "It is forbidden to marry women who are already in a marriage, except for those whom your right hands possess (in the context of historical warfare)."
+    },
+    {
+      "id": "ch4-q20",
+      "text": "What is the requirement for marrying women from among the believers or People of the Book?",
+      "answer": "The marriage must be for the purpose of chaste union, not for secret lovers or temporary lust, and the dowry (Mahr) must be paid."
+    },
+    {
+      "id": "ch4-q21",
+      "text": "What does Allah desire to do through the laws He has revealed in this Surah?",
+      "answer": "He desires to make things clear to you, guide you to the good ways of those before you, and accept your repentance."
+    },
+    {
+      "id": "ch4-q22",
+      "text": "What is the prohibition regarding consuming property?",
+      "answer": "Believers are told not to consume one another's wealth unjustly, but only through trade by mutual consent."
+    },
+    {
+      "id": "ch4-q23",
+      "text": "If a believer avoids the major sins (Kaba'ir), what does Allah promise?",
+      "answer": "Allah will remove their minor misdeeds and admit them to a noble entrance (Paradise)."
+    },
+    {
+      "id": "ch4-q24",
+      "text": "Should believers envy the favors Allah has given to some over others?",
+      "answer": "No, they should ask Allah for His bounty instead of envying others for what Allah has uniquely given them."
+    },
+    {
+      "id": "ch4-q25",
+      "text": "What is the 'Qawwamun' role of men mentioned in this Surah?",
+      "answer": "It describes men as protectors and maintainers of women, based on the physical and financial responsibilities Allah has assigned to them."
+    },
+    {
+      "id": "ch4-q26",
+      "text": "What is the suggested first step if there is a serious rift between a husband and wife?",
+      "answer": "Appoint an arbitrator from his family and an arbitrator from her family; if they desire reconciliation, Allah will bring it about between them."
+    },
+    {
+      "id": "ch4-q27",
+      "text": "Apart from parents, who else are believers commanded to be kind to in the 'Ayah of Rights'?",
+      "answer": "Relatives, orphans, the needy, the near neighbor, the farther neighbor, the companion by your side, the traveler, and those your right hands possess."
+    },
+    {
+      "id": "ch4-q28",
+      "text": "How does Allah describe those who are stingy and encourage others to be stingy?",
+      "answer": "They are ungrateful for Allah's bounty, and He has prepared for them a humiliating punishment."
+    },
+    {
+      "id": "ch4-q29",
+      "text": "What is the consequence of spending wealth only to be seen by people (Riya)?",
+      "answer": "It is the way of those who do not believe in Allah or the Last Day, and their companion is Shaitan, an evil companion."
+    },
+    {
+      "id": "ch4-q30",
+      "text": "Will Allah do even an atom's weight of injustice to anyone?",
+      "answer": "No, Allah does not do injustice even as much as an atom's weight; if there is a good deed, He multiplies it."
+    },
+    {
+      "id": "ch4-q31",
+      "text": "What will be the state of the disbelievers when they see the Prophet testifying against them on the Day of Judgment?",
+      "answer": "They will wish that the earth were leveled over them, and they will not be able to conceal a single fact from Allah."
+    },
+    {
+      "id": "ch4-q32",
+      "text": "What is the rule regarding prayer (Salat) while in a state of intoxication?",
+      "answer": "Believers are commanded not to approach prayer while intoxicated, until they know what they are saying."
+    },
+    {
+      "id": "ch4-q33",
+      "text": "What should a believer do for purification if no water is available for Wudu or Ghusl?",
+      "answer": "Perform Tayammum: find clean earth and wipe their faces and hands with it."
+    },
+    {
+      "id": "ch4-q34",
+      "text": "Which sin will Allah never forgive if a person dies without repenting from it?",
+      "answer": "Shirk (associating partners with Allah)."
+    },
+    {
+      "id": "ch4-q35",
+      "text": "What is the command given regarding trusts (Amanat)?",
+      "answer": "Allah commands you to render trusts to whom they are due."
+    },
+    {
+      "id": "ch4-q36",
+      "text": "How should believers judge between people?",
+      "answer": "They must judge with justice."
+    },
+    {
+      "id": "ch4-q37",
+      "text": "Who are the 'Ulul-Amr' mentioned regarding obedience?",
+      "answer": "They are those in authority among the believers (scholarly or political leaders), whose obedience is required as long as it aligns with Allah and His Messenger."
+    },
+    {
+      "id": "ch4-q38",
+      "text": "What is the ultimate reference for believers if they disagree on a matter?",
+      "answer": "They should refer it back to Allah (the Quran) and the Messenger (the Sunnah)."
+    },
+    {
+      "id": "ch4-q39",
+      "text": "How do the hypocrites react when called to the judgment of Allah and His Messenger?",
+      "answer": "They turn away in aversion and seek judgment from false deities (Taghut) instead."
+    },
+    {
+      "id": "ch4-q40",
+      "text": "Is someone a true believer if they do not accept the Prophet's judgment?",
+      "answer": "No, Allah swears by Himself that they will not believe until they make the Prophet judge in what they dispute and find no resistance in their souls to his decision."
+    },
+    {
+      "id": "ch4-q41",
+      "text": "What is the reward for those who obey Allah and the Messenger?",
+      "answer": "They will be with those upon whom Allah has bestowed favor: the prophets, the steadfast affirmers of truth, the martyrs, and the righteous."
+    },
+    {
+      "id": "ch4-q42",
+      "text": "What is the attitude of the hypocrites towards going out for Jihad?",
+      "answer": "They linger behind; if a disaster strikes the believers, they say it was a favor they weren't there, but if a bounty comes, they regret not being with them."
+    },
+    {
+      "id": "ch4-q43",
+      "text": "Why are believers commanded to fight in the cause of Allah?",
+      "answer": "To protect the oppressed men, women, and children who pray for a deliverer from the hands of oppressors."
+    },
+    {
+      "id": "ch4-q44",
+      "text": "How does the Surah describe the life of this world compared to the Hereafter?",
+      "answer": "The enjoyment of this world is little, and the Hereafter is better for him who fears Allah."
+    },
+    {
+      "id": "ch4-q45",
+      "text": "What should a believer do when they hear an evil rumor or news about security or fear?",
+      "answer": "They should refer it to the Messenger and to those in authority among them who can investigate it, rather than spreading it immediately."
+    },
+    {
+      "id": "ch4-q46",
+      "text": "How should a believer respond to a greeting (Salam)?",
+      "answer": "They should respond with a better greeting or at least return the same one."
+    },
+    {
+      "id": "ch4-q47",
+      "text": "What is the punishment for a believer who kills another believer intentionally?",
+      "answer": "His recompense is Hell, to abide therein forever; Allah is angry with him, has cursed him, and prepared for him a great punishment."
+    },
+    {
+      "id": "ch4-q48",
+      "text": "What is the ruling for accidentally killing a believer?",
+      "answer": "The killer must free a believing slave and pay compensation (Diyah) to the victim's family, unless they remit it as charity."
+    },
+    {
+      "id": "ch4-q49",
+      "text": "What does the Surah say about those who were oppressed but did not migrate (Hijrah) despite having the means?",
+      "answer": "The angels will ask them, 'Was not the earth of Allah spacious enough for you to emigrate therein?' Their refuge is Hell, unless they were truly weak and helpless."
+    },
+    {
+      "id": "ch4-q50",
+      "text": "What is the reward for someone who leaves their home as an emigrant (Muhajir) to Allah and His Messenger and then death overtakes them?",
+      "answer": "Their reward has already become incumbent upon Allah."
+    },
+    {
+      "id": "ch4-q51",
+      "text": "Is it permissible to shorten the prayer (Salat) while traveling?",
+      "answer": "Yes, there is no blame on you for shortening the prayer if you fear that those who disbelieve may disrupt you."
+    },
+    {
+      "id": "ch4-q52",
+      "text": "What is 'Salat al-Khawf' (The Prayer of Fear)?",
+      "answer": "A specific way of praying in congregation during battle where one group prays while another stands guard, and then they switch."
+    },
+    {
+      "id": "ch4-q53",
+      "text": "What should believers do for remembrance after completing the prayer?",
+      "answer": "Remember Allah standing, sitting, or lying on their sides."
+    },
+    {
+      "id": "ch4-q54",
+      "text": "What is the rule about the timing of the five daily prayers?",
+      "answer": "Prayer is enjoined on the believers at fixed times."
+    },
+    {
+      "id": "ch4-q55",
+      "text": "Is secret conversation (Najwa) good according to this Surah?",
+      "answer": "Most secret conversations are not good, except those that encourage charity, kindness, or reconciliation between people."
+    },
+    {
+      "id": "ch4-q56",
+      "text": "What happens to someone who opposes the Messenger and follows a path other than that of the believers?",
+      "answer": "Allah will leave him to what he has turned to and cast him into Hell."
+    },
+    {
+      "id": "ch4-q57",
+      "text": "How does Shaitan try to deceive people according to this Surah?",
+      "answer": "He makes false promises and arouses in them sinful desires; his promises are nothing but delusion."
+    },
+    {
+      "id": "ch4-q58",
+      "text": "What is the only thing that can save a person in the Hereafter, regardless of their gender?",
+      "answer": "Doing righteous deeds while being a believer; such will enter Paradise and not be wronged even as much as the speck on a date seed."
+    },
+    {
+      "id": "ch4-q59",
+      "text": "Who is better in religion than one who submits himself to Allah and follows the religion of Ibrahim?",
+      "answer": "No one; and Allah took Ibrahim as an intimate friend (Khalil)."
+    },
+    {
+      "id": "ch4-q60",
+      "text": "How should believers stand for justice regarding testimony?",
+      "answer": "They must be persistently standing firm in justice as witnesses for Allah, even if it be against themselves, their parents, or their relatives."
+    },
+    {
+      "id": "ch4-q61",
+      "text": "Should the wealth or poverty of a person influence a believer's testimony?",
+      "answer": "No, whether one is rich or poor, Allah is more worthy of both; believers should not follow their desires and deviate from justice."
+    },
+    {
+      "id": "ch4-q62",
+      "text": "How does Allah describe the hypocrites' prayer?",
+      "answer": "They stand up to prayer lazily, only to be seen by people, and they remember Allah but little."
+    },
+    {
+      "id": "ch4-q63",
+      "text": "Where will the hypocrites be placed in the Hereafter?",
+      "answer": "In the lowest depths of the Fire."
+    },
+    {
+      "id": "ch4-q64",
+      "text": "Does Allah want to punish people if they are grateful and believe?",
+      "answer": "No, Allah would not punish you if you are grateful and believe; He is ever Appreciative and Knowing."
+    },
+    {
+      "id": "ch4-q65",
+      "text": "Does Allah like the public mention of evil speech?",
+      "answer": "No, He does not like the public mention of evil speech except by one who has been wronged."
+    },
+    {
+      "id": "ch4-q66",
+      "text": "How does the Surah describe those who believe in some messengers but reject others?",
+      "answer": "They are the true disbelievers; Allah has prepared for them a humiliating punishment."
+    },
+    {
+      "id": "ch4-q67",
+      "text": "What did the People of the Book ask the Prophet to do as a sign of his prophethood?",
+      "answer": "They asked him to bring down to them a book from heaven; they had asked Musa for even greater than that when they said, 'Show us Allah plainly.'"
+    },
+    {
+      "id": "ch4-q68",
+      "text": "What was the consequence for the Children of Israel for breaking their covenant and killing the prophets?",
+      "answer": "Allah cursed them and sealed their hearts because of their disbelief."
+    },
+    {
+      "id": "ch4-q69",
+      "text": "What does the Quran say regarding the crucifixion of Prophet Isa (Jesus)?",
+      "answer": "They did not kill him nor did they crucify him, but it was made to appear so to them; rather, Allah raised him to Himself."
+    },
+    {
+      "id": "ch4-q70",
+      "text": "Is there any among the People of the Book who will not believe in Isa before his death?",
+      "answer": "No, every one of them will believe in him before his death, and on the Day of Resurrection, he will be a witness against them."
+    },
+    {
+      "id": "ch4-q71",
+      "text": "Why were certain good foods made forbidden for the Jews for a time?",
+      "answer": "Because of their wrongdoing, their hindering many from the way of Allah, and their taking of usury (Riba)."
+    },
+    {
+      "id": "ch4-q72",
+      "text": "To whom did Allah speak directly among the prophets?",
+      "answer": "Allah spoke to Musa (Moses) directly."
+    },
+    {
+      "id": "ch4-q73",
+      "text": "What was the purpose of sending all the messengers?",
+      "answer": "To bring glad tidings and warnings, so that mankind would have no argument against Allah after the coming of the messengers."
+    },
+    {
+      "id": "ch4-q74",
+      "text": "Who testifies to the truth of what was revealed to the Prophet Muhammad?",
+      "answer": "Allah Himself testifies to it, and the angels also testify."
+    },
+    {
+      "id": "ch4-q75",
+      "text": "What is the command given to the People of the Book regarding 'exaggeration' (Ghuluw) in their religion?",
+      "answer": "They are told not to commit excess in their religion and not to say about Allah except the truth."
+    },
+    {
+      "id": "ch4-q76",
+      "text": "What is the correct belief about the Messiah, Isa son of Maryam?",
+      "answer": "He was only a messenger of Allah and His word which He directed to Maryam and a soul [created at a command] from Him."
+    },
+    {
+      "id": "ch4-q77",
+      "text": "What does the Surah say about the concept of the Trinity?",
+      "answer": "It commands: 'Do not say, \"Three\"; desist—it is better for you. Indeed, Allah is but one God.'"
+    },
+    {
+      "id": "ch4-q78",
+      "text": "Would the Messiah ever disdain to be a servant of Allah?",
+      "answer": "No, neither the Messiah nor the angels near to Allah would ever disdain to be His servants."
+    },
+    {
+      "id": "ch4-q79",
+      "text": "What is the 'clear light' that Allah has sent down to mankind?",
+      "answer": "The Quran, which serves as a proof from your Lord."
+    },
+    {
+      "id": "ch4-q80",
+      "text": "What is the rule of inheritance for 'Kalalah' (a person who dies leaving neither parents nor children)?",
+      "answer": "If a man dies leaving a sister, she gets half of the estate; if a woman dies leaving a brother, he inherits her entire estate if she has no child."
     }
-    
+  ]
+}

@@ -6,53 +6,403 @@
   "questions": [
     {
       "id": "ch7-q1",
+      "text": "What is the primary message of the opening verses of Surah Al-A'raf regarding the Scripture?",
+      "answer": "It is a Book revealed to the Prophet, and there should be no distress in his heart because of it; it is a warning and a reminder for the believers."
+    },
+    {
+      "id": "ch7-q2",
+      "text": "How will the deeds be weighed on the Day of Resurrection according to this Surah?",
+      "answer": "The weighing on that Day will be the truth; those whose scales are heavy will be the successful, and those whose scales are light will have lost their souls."
+    },
+    {
+      "id": "ch7-q3",
+      "text": "What was the specific argument Iblis used to justify his refusal to bow to Adam?",
+      "answer": "He claimed superiority based on his origin: 'I am better than him. You created me from fire and created him from clay'."
+    },
+    {
+      "id": "ch7-q4",
+      "text": "From which directions did Shaitan vow to attack mankind?",
+      "answer": "From before them, from behind them, from their right, and from their left, to make them ungrateful to Allah."
+    },
+    {
+      "id": "ch7-q5",
+      "text": "What was the result of Adam and Hawa eating from the forbidden tree?",
+      "answer": "Their private parts became apparent to them, and they began to fasten over themselves the leaves of Paradise; they then repented to Allah."
+    },
+    {
+      "id": "ch7-q6",
+      "text": "What was the prayer (Dua) of Adam and Hawa after they realized their mistake?",
+      "answer": "'Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.'"
+    },
+    {
+      "id": "ch7-q7",
+      "text": "What 'clothing' does Allah describe as the best for the Children of Adam?",
+      "answer": "The clothing of Taqwa (righteousness/God-consciousness)."
+    },
+    {
+      "id": "ch7-q8",
+      "text": "What is the warning regarding Shaitan and our clothing?",
+      "answer": "Allah warns the Children of Adam not to let Shaitan tempt them as he removed the clothing of their parents to show them their private parts."
+    },
+    {
+      "id": "ch7-q9",
+      "text": "What is the command regarding adornment when going to a mosque (Masjid)?",
+      "answer": "Believers are told: 'Take your adornment at every masjid,' meaning to dress properly and cleanly for prayer."
+    },
+    {
+      "id": "ch7-q10",
+      "text": "What are the rules regarding food and drink mentioned in this section?",
+      "answer": "Eat and drink, but be not excessive; indeed, Allah does not like those who commit excess."
+    },
+    {
+      "id": "ch7-q11",
+      "text": "Who has forbidden the adornment and good foods that Allah has produced for His servants?",
+      "answer": "No one; they are for the believers in the life of this world and exclusively for them on the Day of Resurrection."
+    },
+    {
+      "id": "ch7-q12",
+      "text": "What are the five things that Allah has explicitly forbidden in this Surah?",
+      "answer": "Immoralities (open and secret), sin, oppression without right, associating partners with Allah, and saying about Allah that which you do not know."
+    },
+    {
+      "id": "ch7-q13",
+      "text": "What happens when the gates of Heaven are not opened for the disbelievers?",
+      "answer": "They will not enter Paradise until a camel enters through the eye of a needle (which is impossible)."
+    },
+    {
+      "id": "ch7-q14",
+      "text": "What is the description of the dialogue between the People of Paradise and the People of Hell?",
+      "answer": "The People of Paradise will call out that they have found what their Lord promised to be true, and the People of Hell will admit they also found the warnings to be true."
+    },
+    {
+      "id": "ch7-q15",
       "text": "Who are the 'People of the Heights' (Ashab al-A'raf) mentioned in this Surah?",
       "answer": "People whose good and bad deeds are equal; they stand on a wall between Paradise and Hell, hoping for Allah's mercy before eventually entering Paradise."
     },
     {
-      "id": "ch7-q2",
-      "text": "What was the specific argument Iblis used to justify his refusal to bow to Adam?",
-      "answer": "Racist superiority: 'I am better than him. You created me from fire and created him from clay'."
+      "id": "ch7-q16",
+      "text": "What will the People of Hell ask the People of Paradise for?",
+      "answer": "They will cry out, 'Pour upon us some water or from what Allah has provided you,' but they will be told that Allah has forbidden them to the disbelievers."
     },
     {
-      "id": "ch7-q3",
-      "text": "What 'clothing' does Allah describe as the best in Verse 26?",
-      "answer": "The clothing of Taqwa (righteousness/God-consciousness)."
+      "id": "ch7-q17",
+      "text": "How many days did Allah take to create the heavens and the earth, and what did He do afterward?",
+      "answer": "Six days; then He established Himself above the Throne (Istawa)."
     },
     {
-      "id": "ch7-q4",
+      "id": "ch7-q18",
+      "text": "How should believers call upon their Lord according to this Surah?",
+      "answer": "In humility and in private; indeed, He does not like the transgressors."
+    },
+    {
+      "id": "ch7-q19",
+      "text": "What is the condition of the earth after it has been set in order?",
+      "answer": "Believers are told not to cause corruption upon the earth after its reformation."
+    },
+    {
+      "id": "ch7-q20",
+      "text": "What parable is used for the revival of the dead in this Surah?",
+      "answer": "The way Allah sends winds as glad tidings of rain, which brings life to dead land and produces fruits; similarly, He will bring forth the dead."
+    },
+    {
+      "id": "ch7-q21",
       "text": "What happened to the people of Prophet Nuh when they rejected his message?",
-      "answer": "They were drowned in the Great Flood."
+      "answer": "They were drowned in the Great Flood because they were a blind people."
     },
     {
-      "id": "ch7-q5",
-      "text": "Which Prophet was sent to the people of 'Ad, and what was their punishment?",
-      "answer": "Prophet Hud; they were destroyed by a barren, screaming wind."
+      "id": "ch7-q22",
+      "text": "Which Prophet was sent to the people of 'Ad, and what was their response?",
+      "answer": "Prophet Hud; they accused him of foolishness and lying, and they were ultimately destroyed by a wind."
     },
     {
-      "id": "ch7-q6",
-      "text": "What was the miraculous sign given to the people of Thamud (Prophet Salih)?",
-      "answer": "A She-Camel that emerged from a rock as a clear sign from Allah."
+      "id": "ch7-q23",
+      "text": "What was the specific sin of the people of 'Ad mentioned in their dialogue with Hud?",
+      "answer": "Arrogance and worshipping the idols of their forefathers without any authority from Allah."
     },
     {
-      "id": "ch7-q7",
-      "text": "In the story of Musa (AS), what happened when Allah revealed His glory to the mountain?",
-      "answer": "The mountain crumbled to dust and Musa fell down unconscious."
+      "id": "ch7-q24",
+      "text": "Which Prophet was sent to the people of Thamud, and what was their miraculous sign?",
+      "answer": "Prophet Salih; the sign was a She-Camel that emerged from a rock as a clear proof from Allah."
     },
     {
-      "id": "ch7-q8",
-      "text": "What was the 'Covenant of the Souls' mentioned in Verse 172?",
-      "answer": "Allah brought forth the descendants of Adam from their loins and made them testify: 'Am I not your Lord?' They all replied, 'Yes, we testify'."
+      "id": "ch7-q25",
+      "text": "What warning did Salih give regarding the She-Camel?",
+      "answer": "She was to be left to eat on Allah's earth and not be touched with harm, or a painful punishment would seize them."
     },
     {
-      "id": "ch7-q9",
-      "text": "What is the 'Sabbath' violation mentioned regarding a town by the sea?",
-      "answer": "The people used tricks to catch fish on the Sabbath (Saturday) after being forbidden to do so, and were subsequently transformed into apes."
+      "id": "ch7-q26",
+      "text": "How were the people of Thamud destroyed after they hamstrung the She-Camel?",
+      "answer": "By a terrible earthquake (the shriek) that left them dead in their homes."
     },
     {
-      "id": "ch7-q10",
-      "text": "How should a believer respond when the Quran is recited, according to Verse 204?",
+      "id": "ch7-q27",
+      "text": "Which Prophet was sent to the people who committed a specific immorality never before seen in the world?",
+      "answer": "Prophet Lut; his people committed homosexual acts."
+    },
+    {
+      "id": "ch7-q28",
+      "text": "What was the punishment for the people of Lut?",
+      "answer": "Allah rained upon them a rain of stones, destroying them all except Lut and his daughters."
+    },
+    {
+      "id": "ch7-q29",
+      "text": "What happened to Prophet Lut's wife?",
+      "answer": "She was among those stayed behind and was destroyed because she supported the sins of her people."
+    },
+    {
+      "id": "ch7-q30",
+      "text": "Which Prophet was sent to the people of Madyan?",
+      "answer": "Prophet Shu'ayb."
+    },
+    {
+      "id": "ch7-q31",
+      "text": "What were the primary social and economic sins of the people of Madyan?",
+      "answer": "Giving short measure and weight (cheating in business) and highway robbery."
+    },
+    {
+      "id": "ch7-q32",
+      "text": "How did the leaders of Madyan threaten Shu'ayb and the believers?",
+      "answer": "They threatened to drive them out of their city unless they returned to their ancestral religion."
+    },
+    {
+      "id": "ch7-q33",
+      "text": "What was the punishment for the people of Madyan?",
+      "answer": "An earthquake seized them, and they became corpses in their dwellings as if they had never lived there."
+    },
+    {
+      "id": "ch7-q34",
+      "text": "Why does Allah mention the stories of these destroyed nations to the people of Makkah?",
+      "answer": "As a warning that if they continue to reject the Prophet, they might face a similar fate, as Allah's punishment can come by night or day while they are playing."
+    },
+    {
+      "id": "ch7-q35",
+      "text": "What is the 'Makr Allah' (Plan of Allah) that the losers do not fear?",
+      "answer": "It refers to how Allah allows the wrongdoers to prosper temporarily before seizing them suddenly for their sins."
+    },
+    {
+      "id": "ch7-q36",
+      "text": "In the story of Musa, what were the two miracles he first showed to Fir'aun?",
+      "answer": "His staff turning into a real snake and his hand turning white when he pulled it from his robe."
+    },
+    {
+      "id": "ch7-q37",
+      "text": "What did the magicians of Egypt do when they saw Musa's staff swallow their illusions?",
+      "answer": "They fell down in prostration, saying, 'We believe in the Lord of the worlds, the Lord of Musa and Harun.'"
+    },
+    {
+      "id": "ch7-q38",
+      "text": "How did Fir'aun react to the magicians' conversion to faith?",
+      "answer": "He threatened to cut off their hands and feet on opposite sides and crucify them all on the trunks of palm trees."
+    },
+    {
+      "id": "ch7-q39",
+      "text": "What was the magicians' response to Fir'aun's threat of death?",
+      "answer": "They said, 'Indeed, to our Lord we will return. You only take revenge on us because we believed in the signs of our Lord.'"
+    },
+    {
+      "id": "ch7-q40",
+      "text": "Name three of the five plagues sent to the people of Fir'aun mentioned in this Surah.",
+      "answer": "The flood (storm), locusts, lice, frogs, and blood."
+    },
+    {
+      "id": "ch7-q41",
+      "text": "Did the people of Fir'aun keep their promise to believe if the plagues were removed?",
+      "answer": "No, every time the punishment was lifted, they broke their word and continued their transgression."
+    },
+    {
+      "id": "ch7-q42",
+      "text": "What happened to Fir'aun and his army at the sea?",
+      "answer": "Allah drowned them in the sea because they denied His signs and were heedless of them."
+    },
+    {
+      "id": "ch7-q43",
+      "text": "What did the Children of Israel ask Musa for right after crossing the sea?",
+      "answer": "They saw a people worshipping idols and asked Musa to make an idol for them like theirs."
+    },
+    {
+      "id": "ch7-q44",
+      "text": "How many nights did Musa stay on the mountain for his appointment with Allah?",
+      "answer": "Forty nights (thirty plus ten)."
+    },
+    {
+      "id": "ch7-q45",
+      "text": "What happened when Musa asked to see Allah on the mountain?",
+      "answer": "Allah said, 'You will not see Me,' but He revealed His glory to the mountain, which crumbled to dust, and Musa fell unconscious."
+    },
+    {
+      "id": "ch7-q46",
+      "text": "What was written on the Tablets given to Musa?",
+      "answer": "Admonitions and explanations of all things."
+    },
+    {
+      "id": "ch7-q47",
+      "text": "What did the people of Musa do in his absence with the help of Samiri?",
+      "answer": "They made an image of a calf from their jewelry that made a lowing sound and began to worship it."
+    },
+    {
+      "id": "ch7-q48",
+      "text": "How did Musa react to his brother Harun when he returned and saw the Golden Calf?",
+      "answer": "In his anger, he threw down the Tablets and seized his brother by the head, pulling him toward himself."
+    },
+    {
+      "id": "ch7-q49",
+      "text": "What was Harun's defense for not stopping the people from worshipping the calf?",
+      "answer": "He said the people oppressed him and were about to kill him, and he did not want to cause a division among them."
+    },
+    {
+      "id": "ch7-q50",
+      "text": "What does the Surah say about the 'Unlettered Prophet' (Al-Nabi al-Ummi)?",
+      "answer": "He is the one mentioned in the Torah and the Gospel, who enjoins what is right, forbids what is wrong, and relieves people of their burdens and shackles."
+    },
+    {
+      "id": "ch7-q51",
+      "text": "What miracle of water was given to the twelve tribes of Israel in the desert?",
+      "answer": "When Musa struck a rock with his staff, twelve springs gushed forth, and each tribe knew its own drinking place."
+    },
+    {
+      "id": "ch7-q52",
+      "text": "What 'food from heaven' was provided to the Children of Israel in the desert?",
+      "answer": "Manna and Salwa (quails)."
+    },
+    {
+      "id": "ch7-q53",
+      "text": "What was the 'Sabbath' violation mentioned regarding a town by the sea?",
+      "answer": "The people used tricks to catch fish on the Saturday (Sabbath) after being forbidden to do so; they were subsequently transformed into apes."
+    },
+    {
+      "id": "ch7-q54",
+      "text": "Why did one group of righteous people continue to warn the Sabbath breakers even when they didn't listen?",
+      "answer": "To have an excuse before their Lord (to fulfill their duty) and perhaps the people might gain Taqwa."
+    },
+    {
+      "id": "ch7-q55",
+      "text": "What is the 'Covenant of the Souls' mentioned in this Surah?",
+      "answer": "Allah brought forth the descendants of Adam and made them testify: 'Am I not your Lord?' They all replied, 'Yes, we testify.'"
+    },
+    {
+      "id": "ch7-q56",
+      "text": "What is the purpose of this primordial covenant?",
+      "answer": "So that people cannot say on the Day of Resurrection, 'We were unaware of this,' or 'We only followed our fathers in shirk.'"
+    },
+    {
+      "id": "ch7-q57",
+      "text": "Who is the person compared to a 'dog' in this Surah?",
+      "answer": "A person whom Allah gave His signs but who detached himself from them and followed his own desires; even if you drive him away or leave him alone, he pants."
+    },
+    {
+      "id": "ch7-q58",
+      "text": "What are the characteristics of those for whom Hell was created among Jinn and Men?",
+      "answer": "They have hearts they do not understand with, eyes they do not see with, and ears they do not hear with; they are like cattle, or even more astray."
+    },
+    {
+      "id": "ch7-q59",
+      "text": "To whom do the 'Beautiful Names' (Al-Asma al-Husna) belong?",
+      "answer": "To Allah; believers are told to call upon Him by them."
+    },
+    {
+      "id": "ch7-q60",
+      "text": "Does the Prophet Muhammad (SAW) know the Unseen?",
+      "answer": "No, he is told to say: 'If I knew the unseen, I would have acquired much good, and no evil would have touched me.'"
+    },
+    {
+      "id": "ch7-q61",
+      "text": "How does Allah describe the creation of humanity from a single soul?",
+      "answer": "He created you from one soul and created from it its mate that he might dwell in security with her."
+    },
+    {
+      "id": "ch7-q62",
+      "text": "What is the response to those who associate idols with Allah that cannot create anything?",
+      "answer": "Allah asks: 'Do they associate those who create nothing and are themselves created?' These idols cannot help them or even themselves."
+    },
+    {
+      "id": "ch7-q63",
+      "text": "What should a believer do when Shaitan whispers an evil thought?",
+      "answer": "They should seek refuge in Allah; those who fear Allah, when an impulse from Shaitan touches them, they remember Allah and then they see clearly."
+    },
+    {
+      "id": "ch7-q64",
+      "text": "What is the advice for the Prophet and the believers regarding social conduct?",
+      "answer": "'Take what is given freely (forgiveness), enjoin what is good, and turn away from the ignorant.'"
+    },
+    {
+      "id": "ch7-q65",
+      "text": "How should a believer respond when the Quran is recited?",
       "answer": "Listen to it attentively and remain silent so that they may receive mercy."
+    },
+    {
+      "id": "ch7-q66",
+      "text": "How should a believer remember their Lord in their heart?",
+      "answer": "In humility and fear, without loudness in words, in the mornings and the evenings, and not be among the heedless."
+    },
+    {
+      "id": "ch7-q67",
+      "text": "What is the characteristic of those who are 'near' to Allah (the angels)?",
+      "answer": "They are not too proud to worship Him; they exalt Him, and to Him they prostrate."
+    },
+    {
+      "id": "ch7-q68",
+      "text": "What is the meaning of the name 'Al-A'raf' in the context of the Hereafter?",
+      "answer": "It refers to the 'Heights' or a barrier between Paradise and Hell where certain people will stay for a time."
+    },
+    {
+      "id": "ch7-q69",
+      "text": "What did the people of Nuh say to him when he invited them to Tawhid?",
+      "answer": "They said, 'Indeed, we see you in clear error.'"
+    },
+    {
+      "id": "ch7-q70",
+      "text": "What did the people of 'Ad say to Hud when he warned them?",
+      "answer": "They said, 'Indeed, we see you in foolishness, and indeed, we think you are of the liars.'"
+    },
+    {
+      "id": "ch7-q71",
+      "text": "What was the 'Messenger's duty' emphasized in the stories of the prophets in this Surah?",
+      "answer": "To deliver the messages of their Lord and to give sincere advice to their people."
+    },
+    {
+      "id": "ch7-q72",
+      "text": "What is the 'good land' and 'bad land' a metaphor for?",
+      "answer": "The good land produces its vegetation by permission of its Lord, but that which is bad produces nothing but little; this is like the hearts of the believers vs the disbelievers."
+    },
+    {
+      "id": "ch7-q73",
+      "text": "What was the specific command given to Musa regarding the Tablets?",
+      "answer": "'Take them with determination and order your people to take the best of them.'"
+    },
+    {
+      "id": "ch7-q74",
+      "text": "What is the punishment for those who took the calf for worship?",
+      "answer": "Anger from their Lord and humiliation in the life of this world."
+    },
+    {
+      "id": "ch7-q75",
+      "text": "What is the 'mercy' that Allah says He has prescribed for those who have Taqwa?",
+      "answer": "His mercy encompasses all things, but He will decree it specifically for those who fear Him, give Zakat, and believe in His signs."
+    },
+    {
+      "id": "ch7-q76",
+      "text": "What did the People of the Heights recognize about the people of Hell?",
+      "answer": "They recognized them by their marks (faces) and said their wealth and arrogance did not avail them."
+    },
+    {
+      "id": "ch7-q77",
+      "text": "What is the 'Fitnah' (trial) of Shaitan mentioned regarding Adam's expulsion?",
+      "answer": "Removing the awareness of their modesty by uncovering their private parts."
+    },
+    {
+      "id": "ch7-q78",
+      "text": "How does Allah describe His 'Istawa' (establishment) on the Throne?",
+      "answer": "It happened after the creation of the heavens and the earth in six days, and He covers the night with the day in rapid succession."
+    },
+    {
+      "id": "ch7-q79",
+      "text": "What is the 'true guidance' mentioned at the end of the story of Musa?",
+      "answer": "The Torah as a guidance and mercy for those who fear their Lord."
+    },
+    {
+      "id": "ch7-q80",
+      "text": "What is the final command in the Surah regarding prostration?",
+      "answer": "To prostrate to Allah, following the example of the angels who are never too proud to worship Him."
     }
   ]
 }

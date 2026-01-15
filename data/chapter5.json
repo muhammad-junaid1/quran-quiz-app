@@ -1,59 +1,408 @@
 {
-    "id": 5,
-    "englishName": "Al-Ma'idah",
-    "arabicName": "المائدة",
-    "translation": "The Table Spread",
-    "questions": [
-      {
-        "id": "ch5-q1",
-        "text": "What is the first command given in Surah Al-Ma'idah?",
-        "answer": "To fulfill all contracts and obligations ('Uqud')."
-      },
-      {
-        "id": "ch5-q2",
-        "text": "Which famous verse signifies the completion of the Islamic religion?",
-        "answer": "Verse 3: 'This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion'."
-      },
-      {
-        "id": "ch5-q3",
-        "text": "What is the ruling on the food of the People of the Book (Jews and Christians)?",
-        "answer": "Their food (specifically slaughtered meat that meets requirements) is lawful (Halal) for Muslims to eat."
-      },
-      {
-        "id": "ch5-q4",
-        "text": "Describe the incident of the two sons of Adam mentioned in this Surah.",
-        "answer": "Qabil (Cain) killed Habil (Abel) after Habil's sacrifice was accepted and Qabil's was not, demonstrating the first murder in human history."
-      },
-      {
-        "id": "ch5-q5",
-        "text": "What moral lesson does Allah derive from the story of the murder of Habil?",
-        "answer": "That killing one innocent soul is like killing all of humanity, and saving one soul is like saving all of humanity."
-      },
-      {
-        "id": "ch5-q6",
-        "text": "What did the Children of Israel say to Musa when commanded to enter the Holy Land?",
-        "answer": "They said, 'Go, you and your Lord, and fight. Indeed, we are remaining right here' (Verse 24)."
-      },
-      {
-        "id": "ch5-q7",
-        "text": "What are the four components of Wudu mentioned in Verse 6?",
-        "answer": "Washing the face, washing the arms up to the elbows, wiping the head, and washing the feet up to the ankles."
-      },
-      {
-        "id": "ch5-q8",
-        "text": "What is the final ruling on intoxicants (Khamr) and gambling (Maysir) in this Surah?",
-        "answer": "They are declared 'Rijs' (abominations) from the handiwork of Satan and are strictly prohibited."
-      },
-      {
-        "id": "ch5-q9",
-        "text": "Why did the Disciples (Hawariyyun) ask for a 'Table Spread' from heaven?",
-        "answer": "To eat from it, to put their hearts at rest, and to know that Isa (AS) had told them the truth."
-      },
-      {
-        "id": "ch5-q10",
-        "text": "On the Day of Judgment, what will Allah ask Isa (AS) regarding his divinity?",
-        "answer": "Whether he told people to take him and his mother as gods besides Allah; he will deny it, affirming he only told them to worship Allah."
-      }
-    ]
-  }
- 
+  "id": 5,
+  "englishName": "Al-Ma'idah",
+  "arabicName": "المائدة",
+  "translation": "The Table Spread",
+  "questions": [
+    {
+      "id": "ch5-q1",
+      "text": "What is the first command given in Surah Al-Ma'idah?",
+      "answer": "To fulfill all contracts, promises, and obligations ('Uqud')."
+    },
+    {
+      "id": "ch5-q2",
+      "text": "What are the animals forbidden for consumption mentioned early in the Surah?",
+      "answer": "Dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah."
+    },
+    {
+      "id": "ch5-q3",
+      "text": "What is the ruling on an animal that has been strangled, beaten to death, or killed by a fall?",
+      "answer": "It is forbidden (Haram) unless it is still alive and you manage to slaughter it properly before it dies."
+    },
+    {
+      "id": "ch5-q4",
+      "text": "Which famous ayah signifies the completion of the Islamic religion?",
+      "answer": "The verse stating: 'This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion'."
+    },
+    {
+      "id": "ch5-q5",
+      "text": "What is the ruling on the food of the People of the Book (Jews and Christians)?",
+      "answer": "Their food (specifically slaughtered meat that meets requirements) is lawful (Halal) for Muslims to eat."
+    },
+    {
+      "id": "ch5-q6",
+      "text": "Is it permissible for a Muslim man to marry chaste women from the People of the Book?",
+      "answer": "Yes, it is permissible as long as the dowry (Mahr) is given and the intention is for chaste marriage, not lust or secret affairs."
+    },
+    {
+      "id": "ch5-q7",
+      "text": "What are the four essential components of Wudu mentioned in this Surah?",
+      "answer": "Washing the face, washing the arms up to the elbows, wiping the head, and washing the feet up to the ankles."
+    },
+    {
+      "id": "ch5-q8",
+      "text": "Under what conditions is Tayammum (dry ablution) allowed?",
+      "answer": "When one is ill, on a journey, has come from relieving oneself, or has had contact with women, and no water can be found."
+    },
+    {
+      "id": "ch5-q9",
+      "text": "What is the primary purpose of the rules of purification according to the Surah?",
+      "answer": "Allah does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you so that you may be grateful."
+    },
+    {
+      "id": "ch5-q10",
+      "text": "What is the command regarding justice and testimony, even against those you might dislike?",
+      "answer": "Believers are told: 'Do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness.'"
+    },
+    {
+      "id": "ch5-q11",
+      "text": "What covenant did Allah take from the Children of Israel regarding their leaders?",
+      "answer": "He raised among them twelve leaders and promised to be with them if they established prayer, gave Zakat, and believed in His messengers."
+    },
+    {
+      "id": "ch5-q12",
+      "text": "Why does Allah say the hearts of the Children of Israel became hardened?",
+      "answer": "Because they broke their covenant; they distorted the words of Scripture and forgot a portion of what they were reminded of."
+    },
+    {
+      "id": "ch5-q13",
+      "text": "What is the response to those who claim, 'We are the children of Allah and His beloved'?",
+      "answer": "Allah asks: 'Then why does He punish you for your sins?' Rather, you are only human beings from among those He has created."
+    },
+    {
+      "id": "ch5-q14",
+      "text": "What did Musa say to his people when encouraging them to enter the Holy Land?",
+      "answer": "He told them to remember Allah's favor upon them and to enter the land which Allah had assigned to them, and not to turn back."
+    },
+    {
+      "id": "ch5-q15",
+      "text": "What was the cowardice-filled response of Musa's people when asked to fight?",
+      "answer": "They said, 'Go, you and your Lord, and fight. Indeed, we are remaining right here.'"
+    },
+    {
+      "id": "ch5-q16",
+      "text": "What was the punishment for the Children of Israel for refusing to enter the Holy Land?",
+      "answer": "The land was forbidden to them for forty years, during which they wandered lost through the land."
+    },
+    {
+      "id": "ch5-q17",
+      "text": "Describe the incident of the two sons of Adam mentioned in this Surah.",
+      "answer": "Qabil (Cain) killed Habil (Abel) after Habil's sacrifice was accepted and Qabil's was not, demonstrating the first murder in human history."
+    },
+    {
+      "id": "ch5-q18",
+      "text": "What did Habil say to Qabil when Qabil threatened to kill him?",
+      "answer": "He said, 'Even if you stretch out your hand against me to kill me, I shall not stretch out my hand against you to kill you. Indeed, I fear Allah, Lord of the worlds.'"
+    },
+    {
+      "id": "ch5-q19",
+      "text": "How did Qabil learn how to bury his brother's body?",
+      "answer": "Allah sent a crow which scratched in the ground to show him how to hide the body of his brother."
+    },
+    {
+      "id": "ch5-q20",
+      "text": "What moral lesson does Allah derive from the story of the murder of Habil?",
+      "answer": "That killing one innocent soul is like killing all of humanity, and saving one soul is like saving all of humanity."
+    },
+    {
+      "id": "ch5-q21",
+      "text": "What is the 'Hirabah' punishment mentioned for those who wage war against Allah and His Messenger and spread mischief?",
+      "answer": "They should be killed, crucified, have their hands and feet cut off from opposite sides, or be exiled from the land."
+    },
+    {
+      "id": "ch5-q22",
+      "text": "What is the punishment for a thief (man or woman) who is caught?",
+      "answer": "Cutting off their hands as a recompense for what they committed and a deterrent from Allah."
+    },
+    {
+      "id": "ch5-q23",
+      "text": "Will the disbelievers be able to ransom themselves from the punishment of the Day of Judgment with the wealth of the whole world?",
+      "answer": "No, even if they had everything on earth and twice as much, it would not be accepted from them."
+    },
+    {
+      "id": "ch5-q24",
+      "text": "What is the ruling for someone who steals but then repents and reforms?",
+      "answer": "Allah will turn to him in forgiveness, for Allah is Forgiving and Merciful."
+    },
+    {
+      "id": "ch5-q25",
+      "text": "How does Allah describe the Torah that was revealed to Musa?",
+      "answer": "As containing guidance and light, by which the prophets and scholars judged the Jews."
+    },
+    {
+      "id": "ch5-q26",
+      "text": "What is the 'law of retaliation' (Qisas) mentioned in the Torah as cited in this Surah?",
+      "answer": "Life for life, eye for eye, nose for nose, ear for ear, tooth for tooth, and for wounds is legal retribution."
+    },
+    {
+      "id": "ch5-q27",
+      "text": "What was the purpose of the Gospel (Injil) revealed to Isa?",
+      "answer": "To confirm the Torah that came before it and to serve as guidance and an admonition for the righteous."
+    },
+    {
+      "id": "ch5-q28",
+      "text": "How does Allah describe the Quran in relation to the previous Scriptures?",
+      "answer": "As confirming the Scripture that came before it and as a 'Muhaymin' (guardian/criterion) over it."
+    },
+    {
+      "id": "ch5-q29",
+      "text": "What is the warning for those who do not judge by what Allah has revealed?",
+      "answer": "They are described as disbelievers (Kafirun), wrongdoers (Zalimun), and defiantly disobedient (Fasiqun)."
+    },
+    {
+      "id": "ch5-q30",
+      "text": "What is the 'law of ignorance' (Jahiliyyah) that some people seek instead of Allah's judgment?",
+      "answer": "It refers to any man-made laws or traditions that contradict the divine guidance of Allah."
+    },
+    {
+      "id": "ch5-q31",
+      "text": "Are believers allowed to take the Jews and Christians as 'Awliya' (close allies/protectors) over other believers?",
+      "answer": "No, they are allies of one another, and whoever takes them as allies becomes one of them."
+    },
+    {
+      "id": "ch5-q32",
+      "text": "What will happen to those who turn away from their religion (Apostasy)?",
+      "answer": "Allah will bring in their place a people whom He loves and who love Him, who are humble toward the believers and powerful against the disbelievers."
+    },
+    {
+      "id": "ch5-q33",
+      "text": "Who are the only true allies (Awliya) of a believer?",
+      "answer": "Allah, His Messenger, and those who have believed—those who establish prayer and give Zakat while they bow [in worship]."
+    },
+    {
+      "id": "ch5-q34",
+      "text": "Who is the 'Party of Allah' (Hizb Allah) mentioned in this Surah?",
+      "answer": "Those who take Allah, His Messenger, and the believers as allies; they are the ones who will be victorious."
+    },
+    {
+      "id": "ch5-q35",
+      "text": "What is the attitude of some of the People of the Book towards the call to prayer (Adhan)?",
+      "answer": "They take it as a mockery and amusement because they are a people who do not understand."
+    },
+    {
+      "id": "ch5-q36",
+      "text": "What did the Jews say mockingly about Allah's hand?",
+      "answer": "They said, 'The hand of Allah is chained.' Allah replied that their hands are chained and they are cursed for what they said; rather, both His hands are extended, and He spends however He wills."
+    },
+    {
+      "id": "ch5-q37",
+      "text": "What would have happened if the People of the Book had established the Torah and the Gospel?",
+      "answer": "They would have consumed provision from above them and from beneath their feet (abundance in life)."
+    },
+    {
+      "id": "ch5-q38",
+      "text": "What is the duty of the Messenger as mentioned in this Surah?",
+      "answer": "To convey what has been revealed to him from his Lord; if he does not, he has not conveyed His message."
+    },
+    {
+      "id": "ch5-q39",
+      "text": "Who are the closest in affection to the believers among the different groups?",
+      "answer": "Those who say, 'We are Christians.' This is because among them are priests and monks and because they are not arrogant."
+    },
+    {
+      "id": "ch5-q40",
+      "text": "What happens when the righteous among the Christians hear what has been revealed to the Messenger?",
+      "answer": "You see their eyes overflowing with tears because of the truth they have recognized."
+    },
+    {
+      "id": "ch5-q41",
+      "text": "Is it permissible for believers to forbid the good things that Allah has made lawful for them?",
+      "answer": "No, they are commanded not to prohibit the good things Allah has made lawful and not to transgress."
+    },
+    {
+      "id": "ch5-q42",
+      "text": "Does Allah hold people accountable for 'unintentional' oaths (Laghw)?",
+      "answer": "No, He does not hold you accountable for what is unintentional in your oaths, but for what you intended in your hearts."
+    },
+    {
+      "id": "ch5-q43",
+      "text": "What is the 'Kaffarah' (expiation) for breaking a formal oath?",
+      "answer": "Feeding ten needy people, clothing them, freeing a slave, or fasting for three days if one cannot afford the others."
+    },
+    {
+      "id": "ch5-q44",
+      "text": "What is the final ruling on intoxicants (Khamr) and gambling (Maysir) in this Surah?",
+      "answer": "They are declared 'Rijs' (abominations) from the handiwork of Satan and are strictly prohibited."
+    },
+    {
+      "id": "ch5-q45",
+      "text": "What is Shaitan's goal in promoting intoxicants and gambling?",
+      "answer": "To cause animosity and hatred between people and to avert them from the remembrance of Allah and from prayer."
+    },
+    {
+      "id": "ch5-q46",
+      "text": "Is hunting allowed while a person is in the state of 'Ihram' (for Pilgrimage)?",
+      "answer": "No, hunting land animals is forbidden while in Ihram, though sea-water game and its food are lawful."
+    },
+    {
+      "id": "ch5-q47",
+      "text": "What is the 'Kaffarah' for intentionally killing a land animal while in Ihram?",
+      "answer": "Sacrificing an equivalent domestic animal, feeding the needy, or fasting an equivalent number of days."
+    },
+    {
+      "id": "ch5-q48",
+      "text": "What is the 'Sanctuary' mentioned that Allah has made as a means of support for mankind?",
+      "answer": "The Kaaba, the Sacred House, along with the sacred months and the sacrificial animals."
+    },
+    {
+      "id": "ch5-q49",
+      "text": "Does the abundance of evil make it equal to good?",
+      "answer": "No, 'the evil and the good are not equal, even if the abundance of evil amazes you.'"
+    },
+    {
+      "id": "ch5-q50",
+      "text": "What is the advice regarding asking about things that might cause distress if revealed?",
+      "answer": "Believers are told: 'Do not ask about things which, if they are shown to you, will distress you.' They should wait for the Quran to be revealed regarding them."
+    },
+    {
+      "id": "ch5-q51",
+      "text": "What were 'Bahirah', 'Sa'ibah', 'Wasilah', and 'Ham'?",
+      "answer": "These were types of livestock that the pre-Islamic Arabs used to dedicate to idols and forbid for use; Allah clarified that He did not ordain such superstitions."
+    },
+    {
+      "id": "ch5-q52",
+      "text": "What is the responsibility of a believer regarding their own soul when others go astray?",
+      "answer": "If you are guided, the one who has gone astray will not harm you as long as you fulfill your own duties."
+    },
+    {
+      "id": "ch5-q53",
+      "text": "What is the requirement for making a will at the time of death?",
+      "answer": "Two just men from among the believers should act as witnesses when the will is stated."
+    },
+    {
+      "id": "ch5-q54",
+      "text": "What will the Messengers be asked on the Day of Judgment?",
+      "answer": "They will be asked, 'What response did you receive?' They will reply, 'We have no knowledge; indeed, it is You who is Knower of the unseen.'"
+    },
+    {
+      "id": "ch5-q55",
+      "text": "What were the favors Allah bestowed upon Isa son of Maryam mentioned in the closing section?",
+      "answer": "Supporting him with the Pure Spirit (Jibril), teaching him the Book, wisdom, Torah and Gospel, and the miracles of healing and bringing the dead to life."
+    },
+    {
+      "id": "ch5-q56",
+      "text": "Why did the Disciples (Hawariyyun) ask for a 'Table Spread' from heaven?",
+      "answer": "To eat from it, to put their hearts at rest, to know that Isa (AS) had told them the truth, and to be witnesses to it."
+    },
+    {
+      "id": "ch5-q57",
+      "text": "What was the 'Table Spread' (Al-Ma'idah) miracle?",
+      "answer": "A feast sent down from heaven at the prayer of Isa (AS) as a sign and a festival for his followers."
+    },
+    {
+      "id": "ch5-q58",
+      "text": "What was Allah's warning regarding the Table Spread?",
+      "answer": "He said He would send it down, but whoever disbelieved after that would be punished with a punishment like no one else in the world."
+    },
+    {
+      "id": "ch5-q59",
+      "text": "On the Day of Judgment, what will Allah ask Isa (AS) regarding his divinity?",
+      "answer": "Whether he told people to take him and his mother as gods besides Allah."
+    },
+    {
+      "id": "ch5-q60",
+      "text": "What is Isa's (AS) reply to the question about people worshipping him?",
+      "answer": "He will say, 'Exalted are You! It was not for me to say that to which I have no right. If I had said it, You would have known it.'"
+    },
+    {
+      "id": "ch5-q61",
+      "text": "What did Isa (AS) say was the only message he delivered to his people?",
+      "answer": "'Worship Allah, my Lord and your Lord.'"
+    },
+    {
+      "id": "ch5-q62",
+      "text": "How did Isa (AS) describe his relationship with his people after he left them?",
+      "answer": "He said he was a witness over them while among them, but after Allah took him up, Allah was the Observer over them."
+    },
+    {
+      "id": "ch5-q63",
+      "text": "What is the final statement of Isa (AS) regarding the sinners among his people?",
+      "answer": "'If You should punish them—indeed they are Your servants; and if You forgive them—indeed it is You who is the Exalted in Might, the Wise.'"
+    },
+    {
+      "id": "ch5-q64",
+      "text": "What is the benefit of truthfulness on the Day of Judgment?",
+      "answer": "It is the Day when the truthful will benefit from their truthfulness; they will have Gardens and the pleasure of Allah."
+    },
+    {
+      "id": "ch5-q65",
+      "text": "To whom does the sovereignty of the heavens and the earth belong?",
+      "answer": "To Allah alone, and He is over all things competent."
+    },
+    {
+      "id": "ch5-q66",
+      "text": "What is the ruling on the meat of an animal that died by falling from a height?",
+      "answer": "It is forbidden (Al-Mutaraddiyah) unless slaughtered before death."
+    },
+    {
+      "id": "ch5-q67",
+      "text": "What is 'Al-Natihah' mentioned in the forbidden foods?",
+      "answer": "An animal killed by being gored by another animal's horns."
+    },
+    {
+      "id": "ch5-q68",
+      "text": "Is it allowed to use arrows for seeking luck or making decisions (Al-Azlam)?",
+      "answer": "No, it is described as grave disobedience and is forbidden."
+    },
+    {
+      "id": "ch5-q69",
+      "text": "What is the condition for the game caught by hunting animals (like dogs or hawks) to be Halal?",
+      "answer": "The animals must be trained, they must catch the game for you (not eat it themselves), and you must mention the Name of Allah over it."
+    },
+    {
+      "id": "ch5-q70",
+      "text": "What did Allah command the believers to remember about the favor He did for them in Makkah (referring to the treaty or safety)?",
+      "answer": "He restrained the hands of the people who intended to reach out against them."
+    },
+    {
+      "id": "ch5-q71",
+      "text": "What was the covenant taken from the Christians that they later neglected?",
+      "answer": "A covenant of faith and obedience, but they forgot a portion of what they were reminded of, leading to animosity and hatred among them."
+    },
+    {
+      "id": "ch5-q72",
+      "text": "What is the response to the claim that 'Allah is the Messiah, the son of Maryam'?",
+      "answer": "The Surah says they have certainly disbelieved; the Messiah himself said, 'O Children of Israel, worship Allah, my Lord and your Lord.'"
+    },
+    {
+      "id": "ch5-q73",
+      "text": "What is the punishment for Shirk (associating partners with Allah)?",
+      "answer": "Allah has forbidden Paradise for such a person, and his refuge is the Fire."
+    },
+    {
+      "id": "ch5-q74",
+      "text": "What is the response to the claim that 'Allah is the third of three'?",
+      "answer": "They have certainly disbelieved; there is no deity except one God. If they do not desist, a painful punishment will afflict them."
+    },
+    {
+      "id": "ch5-q75",
+      "text": "How does the Surah describe the human nature of Isa and his mother?",
+      "answer": "The Messiah was only a messenger, and his mother was a supporter of truth. 'They both used to eat food' (showing they were human and not divine)."
+    },
+    {
+      "id": "ch5-q76",
+      "text": "Why were the disbelievers among the Children of Israel cursed by the tongues of Dawud and Isa?",
+      "answer": "Because they disobeyed, transgressed, and did not forbid one another from the wrongdoings they committed."
+    },
+    {
+      "id": "ch5-q77",
+      "text": "What is the ruling on hunting 'sea-water' game while in Ihram?",
+      "answer": "It is lawful for you and for travelers as provision."
+    },
+    {
+      "id": "ch5-q78",
+      "text": "What is the 'Sacred House' established by Allah as a support for mankind?",
+      "answer": "The Kaaba."
+    },
+    {
+      "id": "ch5-q79",
+      "text": "What will happen to the witnesses who give false testimony regarding a will?",
+      "answer": "Others will take their place to testify to the truth, and the false witnesses will face the guilt of their sin."
+    },
+    {
+      "id": "ch5-q80",
+      "text": "What is the final outcome for the truthful on the Day of Judgment?",
+      "answer": "They will have Gardens beneath which rivers flow, and they will abide there forever, Allah being pleased with them and they with Him."
+    }
+  ]
+}

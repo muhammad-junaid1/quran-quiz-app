@@ -6,101 +6,146 @@
     "questions": [
         {
             "id": "ch112-q1",
+            "text": "Why is ‘Say: He is Allah, One’ so central to Islam?",
+            "answer": "Because tawhid is the foundation of faith; everything else builds on worshipping Allah alone."
+        },
+        {
+            "id": "ch112-q2",
+            "text": "True/False: The Surah teaches Allah is like creation but greater in size or power.",
+            "answer": "False. It denies any equivalence or likeness to Allah."
+        },
+        {
+            "id": "ch112-q3",
+            "text": "What does ‘As-Samad’ teach about human needs?",
+            "answer": "All creation depends on Allah, while Allah depends on no one."
+        },
+        {
+            "id": "ch112-q4",
+            "text": "How does Surah Al-Ikhlas protect a believer from shirk?",
+            "answer": "It closes the doors to associating partners by denying lineage, origin, and equals for Allah."
+        },
+        {
+            "id": "ch112-q5",
+            "text": "What is one modern misconception this Surah corrects about God?",
+            "answer": "That God can be imagined as a human-like being, family-like entity, or part of creation."
+        },
+        {
+            "id": "ch112-q6",
+            "text": "True/False: The Surah teaches Allah has children in a metaphorical or literal sense.",
+            "answer": "False. It denies begetting and being born."
+        },
+        {
+            "id": "ch112-q7",
+            "text": "How do the Surah’s negations (He neither begets nor is born) protect tawhid?",
+            "answer": "They deny any lineage, dependence, or resemblance to creation, affirming Allah’s absolute uniqueness. (It rejects division, lineage, and any sharing of divinity with others. It rejects the idea of Allah being created, limited, or dependent like creation.)"
+        },
+        {
+            "id": "ch112-q8",
+            "text": "What does ‘no equivalent’ teach about worship?",
+            "answer": "No one deserves worship except Allah; no saint, prophet, or force is comparable to Him."
+        },
+        {
+            "id": "ch112-q9",
+            "text": "What is one practical way to live Surah Al-Ikhlas daily?",
+            "answer": "Rely on Allah alone, avoid showing off, and keep dua and worship purely for Him."
+        },
+        {
+            "id": "ch112-q10",
+            "text": "True/False: Loving this Surah is only emotional and has no spiritual impact.",
+            "answer": "False. Loving tawhid and living it is a path to Allah’s love and reward."
+        },
+        {
+            "id": "ch112-q11",
             "text": "What does 'Al-Ikhlas' mean?",
             "answer": "Sincerity, Purity, or Refining."
         },
         {
-            "id": "ch112-q2",
+            "id": "ch112-q12",
             "text": "How many verses are in Surah Al-Ikhlas?",
             "answer": "Four verses."
         },
         {
-            "id": "ch112-q3",
+            "id": "ch112-q13",
             "text": "What is the first declaration of the Surah?",
             "answer": "'Say, He is Allah, [who is] One' (Qul Huwallahu Ahad)."
         },
         {
-            "id": "ch112-q4",
-            "text": "What does 'Allahus-Samad' mean in Verse 2?",
+            "id": "ch112-q14",
+            "text": "What does 'Allahus-Samad' mean in this Surah?",
             "answer": "Allah, the Eternal Refuge / The Self-Sufficient (He whom everyone needs and who needs no one)."
         },
         {
-            "id": "ch112-q5",
-            "text": "What is the declaration regarding Allah's 'children' in Verse 3?",
+            "id": "ch112-q15",
+            "text": "What is the declaration regarding Allah having 'children' in this Surah?",
             "answer": "He neither begets nor is born."
         },
         {
-            "id": "ch112-q6",
+            "id": "ch112-q16",
             "text": "What is the final verse of the Surah?",
             "answer": "'Nor is there to Him any equivalent' (Walam yakul-lahu kufuwan ahad)."
         },
         {
-            "id": "ch112-q7",
+            "id": "ch112-q17",
             "text": "What is the merit of this Surah according to Hadith?",
             "answer": "It is equal to one-third of the Quran in terms of its theme (Tawhid)."
         },
         {
-            "id": "ch112-q8",
+            "id": "ch112-q18",
             "text": "Why is it called 'Al-Ikhlas' even though the word doesn't appear in the Surah?",
             "answer": "Because it purely and sincerely explains the Oneness of Allah, freeing the concept from any shirk."
         },
         {
-            "id": "ch112-q9",
+            "id": "ch112-q19",
             "text": "What was the occasion of its revelation?",
             "answer": "The polytheists of Makkah asked the Prophet (SAW) to describe the lineage or 'pedigree' of his Lord."
         },
         {
-            "id": "ch112-q10",
+            "id": "ch112-q20",
             "text": "Does 'Ahad' differ from 'Wahid'?",
             "answer": "Yes; 'Ahad' is an absolute Oneness that has no partner, no parts, and no comparison."
         },
         {
-            "id": "ch112-q11",
-            "text": "What does Verse 3 refute specifically?",
+            "id": "ch112-q21",
+            "text": "What does this Surah refute specifically about Allah?",
             "answer": "It refutes the claims of those who say Allah has a son (like Christians or Jews who claimed Uzair) or daughters (like the pagans)."
         },
         {
-            "id": "ch112-q12",
+            "id": "ch112-q22",
             "text": "What does 'Kufuwan' mean?",
             "answer": "Equal, comparable, match, or peer."
         },
         {
-            "id": "ch112-q13",
+            "id": "ch112-q23",
             "text": "Is this a Makkan or Madinan Surah?",
             "answer": "Makkan."
         },
         {
-            "id": "ch112-q14",
+            "id": "ch112-q24",
             "text": "What is the core theme of the Surah?",
             "answer": "Tawhid al-Asma' was-Sifat (The Oneness of Allah's Names and Attributes)."
         },
         {
-            "id": "ch112-q15",
-            "text": "Why is 'Al-Ikhlas' important in daily life?",
-            "answer": "It is a foundational declaration of faith that a Muslim recites in every prayer and many daily adhkar."
-        },
-        {
-            "id": "ch112-q16",
+            "id": "ch112-q25",
             "text": "What does 'Lam yalid' mean?",
             "answer": "He did not give birth / He does not beget."
         },
         {
-            "id": "ch112-q17",
+            "id": "ch112-q26",
             "text": "What does 'Lam yulad' mean?",
             "answer": "He was not born."
         },
         {
-            "id": "ch112-q18",
+            "id": "ch112-q27",
             "text": "How does this Surah respond to human-like attributes given to God?",
             "answer": "It completely negates them by stating He has no parents, no children, and no peers."
         },
         {
-            "id": "ch112-q19",
+            "id": "ch112-q28",
             "text": "What is the blessing of loving this Surah?",
             "answer": "The Prophet (SAW) told a companion: 'Your love for it will admit you into Paradise'."
         },
         {
-            "id": "ch112-q20",
+            "id": "ch112-q29",
             "text": "What is the relationship between this Surah and Surah Al-Kafirun?",
             "answer": "They are both known as 'Al-Ikhlas' and are recited together to affirm Tawhid and negate Shirk."
         }

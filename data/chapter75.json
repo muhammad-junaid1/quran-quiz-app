@@ -6,101 +6,226 @@
     "questions": [
         {
             "id": "ch75-q1",
+            "text": "Why does the Surah swear by the Day of Resurrection and the self-reproaching soul?",
+            "answer": "To highlight the reality of judgment and the inner conscience that knows right from wrong."
+        },
+        {
+            "id": "ch75-q2",
+            "text": "True/False: The Surah teaches that conscience is useless and has no spiritual value.",
+            "answer": "False. The self-reproaching soul is presented as meaningful and connected to accountability."
+        },
+        {
+            "id": "ch75-q3",
+            "text": "What does mentioning fingertips teach about resurrection?",
+            "answer": "Allah can recreate humans with perfect detail, so resurrection is not difficult for Him."
+        },
+        {
+            "id": "ch75-q4",
+            "text": "What does the Surah teach about the psychological reason people deny the Hereafter?",
+            "answer": "Some want to keep sinning without consequences, so they deny what would restrain them."
+        },
+        {
+            "id": "ch75-q5",
+            "text": "How does the Surah describe the cosmic changes on the Day of Judgment?",
+            "answer": "It describes dramatic changes like the moon’s eclipse and the collapse of familiar order."
+        },
+        {
+            "id": "ch75-q6",
+            "text": "What does the Surah teach about trying to escape on that Day?",
+            "answer": "There is no refuge; people will realize escape is impossible."
+        },
+        {
+            "id": "ch75-q7",
+            "text": "True/False: The Surah teaches that people can hide behind excuses successfully on Judgment Day.",
+            "answer": "False. The human being will witness against himself, even with excuses."
+        },
+        {
+            "id": "ch75-q8",
+            "text": "What does it mean that a person’s own self will testify against them?",
+            "answer": "Their conscience and reality of deeds will expose them; self-deception will collapse."
+        },
+        {
+            "id": "ch75-q9",
+            "text": "What does Surah Al-Qiyamah teach about the Prophet’s behavior during revelation?",
+            "answer": "He was taught not to rush recitation; Allah ensured its collection and recitation."
+        },
+        {
+            "id": "ch75-q10",
+            "text": "What is one lesson about trusting Allah from the revelation instruction?",
+            "answer": "Trust Allah’s process; do your part without panic or impatience."
+        },
+        {
+            "id": "ch75-q11",
+            "text": "How does the Surah explain why some people prefer dunya over akhirah?",
+            "answer": "They love the immediate and neglect the heavier, future reality."
+        },
+        {
+            "id": "ch75-q12",
+            "text": "True/False: The Surah teaches that love of dunya is harmless as long as a person is polite.",
+            "answer": "False. Loving dunya over akhirah leads to denial and loss."
+        },
+        {
+            "id": "ch75-q13",
+            "text": "What does the Surah teach about the faces of believers on that Day?",
+            "answer": "They are radiant and honored, reflecting safety and hope."
+        },
+        {
+            "id": "ch75-q14",
+            "text": "What does the Surah teach about the faces of disbelievers on that Day?",
+            "answer": "They are gloomy and fearful, expecting a crushing calamity."
+        },
+        {
+            "id": "ch75-q15",
+            "text": "How does the Surah describe the moment of death as a turning point?",
+            "answer": "People realize separation is happening; worldly control disappears and truth becomes near."
+        },
+        {
+            "id": "ch75-q16",
+            "text": "What is one daily-life lesson from reflecting on the moment of death?",
+            "answer": "Do not postpone repentance; prepare while you can still act."
+        },
+        {
+            "id": "ch75-q17",
+            "text": "True/False: The Surah teaches that prayer is optional as long as belief is present.",
+            "answer": "False. It mentions abandoning prayer as a sign of rejection and wrongdoing."
+        },
+        {
+            "id": "ch75-q18",
+            "text": "What does the Surah teach about people who deny truth and turn away?",
+            "answer": "Their end is blameworthy; denial is paired with moral failure and arrogance."
+        },
+        {
+            "id": "ch75-q19",
+            "text": "What does the repeated warning 'woe to you' teach about ignoring reminders?",
+            "answer": "That denial is a dangerous path with escalating consequences."
+        },
+        {
+            "id": "ch75-q20",
+            "text": "How does Surah Al-Qiyamah teach that life is purposeful?",
+            "answer": "It rejects the idea of being left neglected; creation implies accountability and return."
+        },
+        {
+            "id": "ch75-q21",
+            "text": "What does the Surah teach about Allah’s ability to give life to the dead?",
+            "answer": "It ends by affirming that the One who created can resurrect—this is fully within Allah’s power."
+        },
+        {
+            "id": "ch75-q22",
+            "text": "What is one way to strengthen the self-reproaching soul in a healthy way?",
+            "answer": "Use conscience to repent and improve, not to despair or self-hate."
+        },
+        {
+            "id": "ch75-q23",
+            "text": "True/False: The Surah teaches that guilt should lead to hopelessness.",
+            "answer": "False. The Surah’s warnings are meant to lead to repentance and reform."
+        },
+        {
+            "id": "ch75-q24",
+            "text": "How can this Surah help someone struggling with self-deception?",
+            "answer": "It exposes the reality of accountability and makes excuses feel useless, encouraging honest repentance."
+        },
+        {
+            "id": "ch75-q25",
+            "text": "How can a modern reader apply this Surah without memorizing verses?",
+            "answer": "Use its themes—death, record, conscience—to do daily self-audits and correct one habit."
+        },
+        {
+            "id": "ch75-q26",
             "text": "What does Allah swear by in the first two verses?",
             "answer": "The Day of Resurrection and the 'self-reproaching soul' (an-Nafs al-Lawwamah)."
         },
         {
-            "id": "ch75-q2",
+            "id": "ch75-q27",
             "text": "What part of the human body does Allah say He is able to perfectly reconstruct?",
             "answer": "The fingertips (proportion of the fingers)."
         },
         {
-            "id": "ch75-q3",
-            "text": "What is the 'disbeliever's desire' mentioned in Verse 5?",
+            "id": "ch75-q28",
+            "text": "What does the Surah describe as a desire of the disbeliever?",
             "answer": "To continue sinning ahead of him (denying what is to come)."
         },
         {
-            "id": "ch75-q4",
+            "id": "ch75-q29",
             "text": "What will happen to the moon and the sun on that Day?",
             "answer": "The moon will be eclipsed, and the sun and moon will be joined together."
         },
         {
-            "id": "ch75-q5",
+            "id": "ch75-q30",
             "text": "Where will man try to flee on the Day of Judgment?",
             "answer": "He will ask: 'Where is the escape?' but there is no refuge."
         },
         {
-            "id": "ch75-q6",
+            "id": "ch75-q31",
             "text": "Who will be a witness against the human being on that Day?",
             "answer": "The human himself; his own self will be a witness against him even if he presents excuses."
         },
         {
-            "id": "ch75-q7",
+            "id": "ch75-q32",
             "text": "What was the Prophet (SAW) commanded NOT to do during the revelation of the Quran?",
             "answer": "Not to move his tongue quickly to hasten its recitation/memorization."
         },
         {
-            "id": "ch75-q8",
+            "id": "ch75-q33",
             "text": "Who is responsible for the collection and recitation of the Quran?",
-            "answer": "Allah (Verse 17)."
+            "answer": "Allah."
         },
         {
-            "id": "ch75-q9",
-            "text": "Why do the disbelievers reject the Hereafter according to Verse 20?",
+            "id": "ch75-q34",
+            "text": "Why do disbelievers reject the Hereafter according to this Surah’s message?",
             "answer": "Because they love the immediate (world) and leave the Hereafter."
         },
         {
-            "id": "ch75-q10",
+            "id": "ch75-q35",
             "text": "How will the faces of the believers look on that Day?",
             "answer": "Radiant (Nadirah), looking toward their Lord."
         },
         {
-            "id": "ch75-q11",
+            "id": "ch75-q36",
             "text": "How will the faces of the disbelievers look on that Day?",
             "answer": "Contorted/gloomy (Basirah), expecting a back-breaking calamity."
         },
         {
-            "id": "ch75-q12",
+            "id": "ch75-q37",
             "text": "What is the state of the soul when it reaches the collarbones (death)?",
             "answer": "It will be asked: 'Who is a healer?' and the dying person will realize it is the parting."
         },
         {
-            "id": "ch75-q13",
+            "id": "ch75-q38",
             "text": "How are the legs described at the moment of death?",
             "answer": "The leg will be wound about the [other] leg."
         },
         {
-            "id": "ch75-q14",
-            "text": "What three things did the disbeliever NOT do (Verse 31-32)?",
+            "id": "ch75-q39",
+            "text": "What does the Surah mention the disbeliever failed to do?",
             "answer": "He did not believe, he did not pray, and he denied the truth and turned away."
         },
         {
-            "id": "ch75-q15",
-            "text": "What is the repeated warning in Verse 34-35?",
+            "id": "ch75-q40",
+            "text": "What is the repeated warning given to the disbeliever in this Surah?",
             "answer": "'Woe to you, and woe! Then woe to you, and woe!'."
         },
         {
-            "id": "ch75-q16",
+            "id": "ch75-q41",
             "text": "Does man think he will be left 'neglected' or 'without purpose'?",
-            "answer": "No (Verse 36)."
+            "answer": "No."
         },
         {
-            "id": "ch75-q17",
+            "id": "ch75-q42",
             "text": "What are the stages of creation mentioned at the end of the Surah?",
             "answer": "A sperm-drop, then a clinging clot, then Allah fashioned and proportioned him."
         },
         {
-            "id": "ch75-q18",
+            "id": "ch75-q43",
             "text": "What did Allah make from the human creation?",
             "answer": "The two mates, the male and the female."
         },
         {
-            "id": "ch75-q19",
+            "id": "ch75-q44",
             "text": "What is the final rhetorical question of the Surah?",
             "answer": "'Is not That One able to give life to the dead?'."
         },
         {
-            "id": "ch75-q20",
+            "id": "ch75-q45",
             "text": "What is 'An-Nafs al-Lawwamah'?",
             "answer": "The self-reproaching soul that blames itself for its shortcomings, which is a sign of faith."
         }

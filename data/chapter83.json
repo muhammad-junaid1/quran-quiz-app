@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch83-q1",
+            "text": "Why does the Surah begin with marketplace cheating rather than a purely ritual topic?",
+            "answer": "Because daily معاملات reveal real faith; cheating shows weak belief in accountability."
+        },
+        {
+            "id": "ch83-q2",
+            "text": "True/False: The Surah teaches that small dishonest gains are harmless.",
+            "answer": "False. It treats cheating as a serious sin tied to denial of resurrection."
+        },
+        {
+            "id": "ch83-q3",
+            "text": "What is one modern example of 'tatfif' (defrauding) besides weight and measure?",
+            "answer": "Underpaying workers, delivering low quality after charging full price, or misrepresenting products online."
+        },
+        {
+            "id": "ch83-q4",
+            "text": "How does belief in resurrection protect a person from cheating?",
+            "answer": "It reminds them every act is recorded and they will stand before Allah to answer."
+        },
+        {
+            "id": "ch83-q5",
+            "text": "What does the Surah teach about records being written and ‘registered’?",
+            "answer": "Deeds are preserved precisely; no ظلم or good deed is lost."
+        },
+        {
+            "id": "ch83-q6",
+            "text": "What is one lesson from the names Sijjin and Illiyyun?",
+            "answer": "Human lives are categorized by morality and faith; records have real destinations and outcomes."
+        },
+        {
+            "id": "ch83-q7",
+            "text": "True/False: The Surah teaches that sins only affect actions, not the heart.",
+            "answer": "False. It teaches sins place ‘ran’ (rust) on the heart."
+        },
+        {
+            "id": "ch83-q8",
+            "text": "How does the ‘ran’ on the heart develop according to this Surah’s meaning?",
+            "answer": "Repeated sin without repentance gradually hardens the heart until truth feels unpleasant."
+        },
+        {
+            "id": "ch83-q9",
+            "text": "What is one practical way to remove ‘ran’ from the heart?",
+            "answer": "Sincere repentance, leaving the sin, increasing dhikr, and replacing sin with consistent good deeds."
+        },
+        {
+            "id": "ch83-q10",
+            "text": "What does the Surah teach about mockery of believers?",
+            "answer": "Mockery is a sign of arrogance; roles reverse in the Hereafter where believers are honored."
+        },
+        {
+            "id": "ch83-q11",
+            "text": "Why do criminals mock believers according to the Surah’s portrayal?",
+            "answer": "They are proud of dunya standards and dislike reminders that expose their wrongdoing."
+        },
+        {
+            "id": "ch83-q12",
+            "text": "True/False: The Surah teaches that it is fine to insult believers as long as you don’t physically harm them.",
+            "answer": "False. It condemns their mockery and arrogance."
+        },
+        {
+            "id": "ch83-q13",
+            "text": "What does being veiled from seeing the Lord teach about the punishment of denial?",
+            "answer": "The greatest loss is spiritual: distance from Allah, not only physical punishment."
+        },
+        {
+            "id": "ch83-q14",
+            "text": "How does the Surah describe the joy and honor of the righteous in Paradise?",
+            "answer": "They sit on couches, observe with contentment, and drink a sealed, pure drink."
+        },
+        {
+            "id": "ch83-q15",
+            "text": "What is one lesson from the righteous drink being ‘sealed’ and perfumed?",
+            "answer": "Allah’s reward is pure, protected from harm, and a special honor, unlike dunya pleasures."
+        },
+        {
+            "id": "ch83-q16",
+            "text": "How can a business owner apply Surah Al-Mutaffifin?",
+            "answer": "Audit pricing and delivery honestly, correct ظلم, and treat customers and workers fairly for Allah’s sake."
+        },
+        {
+            "id": "ch83-q17",
+            "text": "What does the Surah teach about sincerity in earnings?",
+            "answer": "Halal earnings matter; cheating is a spiritual disease and a cause of loss in the Hereafter."
+        },
+        {
+            "id": "ch83-q18",
+            "text": "True/False: The Surah teaches that poverty excuses cheating.",
+            "answer": "False. It condemns cheating and calls to accountability regardless of circumstance."
+        },
+        {
+            "id": "ch83-q19",
+            "text": "How does Surah Al-Mutaffifin connect ethics with theology (aqeedah)?",
+            "answer": "It shows cheating grows from weak belief in resurrection, record-keeping, and standing before Allah."
+        },
+        {
+            "id": "ch83-q20",
+            "text": "How can someone start reforming after realizing they have cheated others?",
+            "answer": "Repent to Allah, return rights where possible, apologize if appropriate, and commit to fair dealings."
+        },
+        {
+            "id": "ch83-q21",
             "text": "Who are the 'Mutaffifin'?",
             "answer": "Those who give less in measure and weight (defrauders)."
         },
         {
-            "id": "ch83-q2",
+            "id": "ch83-q22",
             "text": "How do the Mutaffifin act when they take measure from people?",
             "answer": "They take in full."
         },
         {
-            "id": "ch83-q3",
+            "id": "ch83-q23",
             "text": "How do the Mutaffifin act when they give measure to others?",
             "answer": "They give less than what is due."
         },
         {
-            "id": "ch83-q4",
+            "id": "ch83-q24",
             "text": "Do these defrauders believe they will be resurrected?",
-            "answer": "Allah asks rhetorically: 'Do they not think that they will be resurrected?' (Verse 4)."
+            "answer": "It warns them with a rhetorical question, reminding them they will be resurrected."
         },
         {
-            "id": "ch83-q5",
-            "text": "What is the 'Great Day' mentioned in Verse 5?",
+            "id": "ch83-q25",
+            "text": "What is the 'Great Day' mentioned in this Surah?",
             "answer": "The Day of Judgment when mankind will stand before the Lord of the worlds."
         },
         {
-            "id": "ch83-q6",
+            "id": "ch83-q26",
             "text": "What is 'Sijjin'?",
             "answer": "The register or the place where the record of the wicked is kept."
         },
         {
-            "id": "ch83-q7",
+            "id": "ch83-q27",
             "text": "How is the record of the wicked described?",
             "answer": "As a 'Kitabun Marqum' (a registered book)."
         },
         {
-            "id": "ch83-q8",
-            "text": "What do the deniers say about the Quranic verses (Verse 13)?",
+            "id": "ch83-q28",
+            "text": "What do the deniers say about the Quranic verses in this Surah?",
             "answer": "They call them 'Legends of the former peoples'."
         },
         {
-            "id": "ch83-q9",
-            "text": "What is the 'Ran' mentioned in Verse 14?",
+            "id": "ch83-q29",
+            "text": "What is the 'Ran' mentioned in this Surah?",
             "answer": "A stain or rust that covers the hearts of people because of their sins."
         },
         {
-            "id": "ch83-q10",
+            "id": "ch83-q30",
             "text": "What will be the greatest 'veil' for the disbelievers on that Day?",
             "answer": "They will be secluded (veiled) from seeing their Lord."
         },
         {
-            "id": "ch83-q11",
+            "id": "ch83-q31",
             "text": "What is 'Illiyyun'?",
             "answer": "The register or the high place where the record of the righteous is kept."
         },
         {
-            "id": "ch83-q12",
+            "id": "ch83-q32",
             "text": "Who witnesses the record of 'Illiyyun'?",
             "answer": "Those brought near to Allah (the angels)."
         },
         {
-            "id": "ch83-q13",
+            "id": "ch83-q33",
             "text": "How will the righteous be positioned in Paradise?",
             "answer": "On adorned couches, observing."
         },
         {
-            "id": "ch83-q14",
+            "id": "ch83-q34",
             "text": "What will the righteous be given to drink?",
             "answer": "Pure wine (Rahiqun) that is sealed."
         },
         {
-            "id": "ch83-q15",
+            "id": "ch83-q35",
             "text": "What is the seal of the drink of Paradise?",
             "answer": "Musk."
         },
         {
-            "id": "ch83-q16",
+            "id": "ch83-q36",
             "text": "What is 'Tasnim'?",
             "answer": "A spring in Paradise from which those brought near (Al-Muqarrabun) drink."
         },
         {
-            "id": "ch83-q17",
+            "id": "ch83-q37",
             "text": "How did the criminals treat the believers in the worldly life?",
             "answer": "They used to laugh at them, wink at each other in mockery, and call them 'astray'."
         },
         {
-            "id": "ch83-q18",
+            "id": "ch83-q38",
             "text": "On the Day of Judgment, who will laugh at whom?",
             "answer": "The believers will laugh at the disbelievers."
         },
         {
-            "id": "ch83-q19",
+            "id": "ch83-q39",
             "text": "Will the disbelievers be 'repaid' for what they did?",
-            "answer": "Yes, 'Have the disbelievers been rewarded for what they used to do?' (Verse 36)."
+            "answer": "Yes, they will be repaid for what they used to do."
         },
         {
-            "id": "ch83-q20",
+            "id": "ch83-q40",
             "text": "What is the spiritual lesson of the 'Ran' (stain) on the heart?",
             "answer": "It warns that repeated sinning hardens the heart until it can no longer recognize the truth."
         }

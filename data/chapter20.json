@@ -1,108 +1,408 @@
 {
   "id": 20,
-  "englishName": "Taha",
+  "englishName": "Ta-Ha",
   "arabicName": "طه",
   "translation": "Ta-Ha",
   "questions": [
     {
       "id": "ch20-q1",
-      "text": "Was the Quran revealed to cause the Prophet (SAW) distress?",
-      "answer": "No, Verse 2 says: 'We have not sent down to you the Quran that you be distressed'."
+      "text": "What is the primary purpose of revealing the Quran according to the opening verses?",
+      "answer": "As a reminder for those who fear Allah, not to cause the Prophet distress."
     },
     {
       "id": "ch20-q2",
-      "text": "Where did Musa (AS) first perceive the fire and hear the voice of Allah?",
-      "answer": "In the direction of Mount Tur (the valley of Tuwa)."
+      "text": "How does Allah describe His knowledge and dominion early in the Surah?",
+      "answer": "He knows the secret and what is even more hidden; to Him belongs all that is in the heavens and the earth."
     },
     {
       "id": "ch20-q3",
-      "text": "What was Musa (AS) commanded to do when he approached the burning bush?",
-      "answer": "To remove his sandals, for he was in the sacred valley of Tuwa."
+      "text": "Where did Musa (AS) first perceive the fire and hear the voice of Allah?",
+      "answer": "In the direction of Mount Tur, in the sacred valley of Tuwa."
     },
     {
       "id": "ch20-q4",
-      "text": "What were the two miracles given to Musa (AS) at the start of his mission?",
-      "answer": "His staff turning into a serpent and his hand shining white without disease."
+      "text": "What was Musa (AS) commanded to do when he approached the fire?",
+      "answer": "To remove his sandals, for he was in the sacred valley of Tuwa."
     },
     {
       "id": "ch20-q5",
-      "text": "What was the specific prayer Musa (AS) made to Allah before facing Pharaoh?",
-      "answer": "'My Lord, expand for me my breast, ease for me my task, and untie the knot from my tongue...'"
+      "text": "What is the very first thing Allah told Musa (AS) about Himself?",
+      "answer": "'Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance.'"
     },
     {
       "id": "ch20-q6",
+      "text": "What is the warning regarding the Hour (Day of Judgment) mentioned to Musa?",
+      "answer": "That it is coming, and Allah has kept it hidden so that every soul may be recompensed for what it strives for."
+    },
+    {
+      "id": "ch20-q7",
+      "text": "What were the two miracles given to Musa (AS) at the start of his mission?",
+      "answer": "His staff turning into a moving serpent and his hand shining white without disease."
+    },
+    {
+      "id": "ch20-q8",
+      "text": "What was the specific prayer Musa (AS) made to Allah before facing Pharaoh?",
+      "answer": "'My Lord, expand for me my breast, ease for me my task, and untie the knot from my tongue that they may understand my speech.'"
+    },
+    {
+      "id": "ch20-q9",
       "text": "Why did Musa (AS) ask for his brother Harun to accompany him?",
       "answer": "To be his helper and to share in his task, because Harun was more eloquent in speech."
     },
     {
-      "id": "ch20-q7",
-      "text": "How did Allah protect Musa (AS) as an infant when he was placed in the chest in the river?",
-      "answer": "Allah cast love upon him from Himself and ensured he was raised under His eye in Pharaoh's own palace."
-    },
-    {
-      "id": "ch20-q8",
-      "text": "What was Pharaoh's reaction to the signs shown by Musa (AS)?",
-      "answer": "He accused him of being a magician and challenged him to a public duel with his own magicians."
-    },
-    {
-      "id": "ch20-q9",
-      "text": "What happened to the magicians when they saw Musa's staff swallow their illusions?",
-      "answer": "They fell down in prostration, declaring their belief in the Lord of Harun and Musa."
-    },
-    {
       "id": "ch20-q10",
+      "text": "What favor did Allah remind Musa (AS) of regarding his infancy?",
+      "answer": "How his mother was inspired to place him in a chest and cast him into the river."
+    },
+    {
+      "id": "ch20-q11",
+      "text": "Who was watching Musa (AS) from a distance as he floated in the river?",
+      "answer": "His sister."
+    },
+    {
+      "id": "ch20-q12",
+      "text": "How did Musa (AS) return to his mother after being picked up by Pharaoh's family?",
+      "answer": "His sister suggested their mother as a wet-nurse, and Allah thus returned him to her so she would not grieve."
+    },
+    {
+      "id": "ch20-q13",
+      "text": "What was the incident in Egypt that caused Musa (AS) to flee to Madyan?",
+      "answer": "He killed a man (an Egyptian) and then fled from the city out of fear."
+    },
+    {
+      "id": "ch20-q14",
+      "text": "What was the instruction to Musa and Harun regarding how to speak to Pharaoh?",
+      "answer": "'Speak to him with gentle speech that perhaps he may be reminded or fear [Allah].'"
+    },
+    {
+      "id": "ch20-q15",
+      "text": "What was Pharaoh's question to Musa regarding 'previous generations'?",
+      "answer": "He asked, 'Then what is the condition of the former generations?'"
+    },
+    {
+      "id": "ch20-q16",
+      "text": "What was Musa's response to Pharaoh's question about previous generations?",
+      "answer": "He said the knowledge of them is with my Lord in a Record; my Lord neither errs nor forgets."
+    },
+    {
+      "id": "ch20-q17",
+      "text": "What signs of nature are mentioned as proof of Allah's power in this Surah?",
+      "answer": "The earth as a bed, the paths made through it, rain from the sky, and various kinds of vegetation."
+    },
+    {
+      "id": "ch20-q18",
+      "text": "What was Pharaoh's reaction to the nine signs shown by Musa (AS)?",
+      "answer": "He denied them all and accused Musa of being a magician who wanted to drive them out of their land."
+    },
+    {
+      "id": "ch20-q19",
+      "text": "What day was chosen for the public contest between Musa and the magicians?",
+      "answer": "The day of the festival (Yawm al-Zinah), at mid-morning."
+    },
+    {
+      "id": "ch20-q20",
+      "text": "What was the magicians' initial attitude before the contest?",
+      "answer": "They were confident and asked Pharaoh if they would have a reward if they were the victors."
+    },
+    {
+      "id": "ch20-q21",
+      "text": "What happened when the magicians threw their ropes and staffs?",
+      "answer": "They appeared to Musa, by their magic, to be moving serpents, which caused Musa to feel a slight fear."
+    },
+    {
+      "id": "ch20-q22",
+      "text": "What did Allah tell Musa when he felt fear during the contest?",
+      "answer": "'Fear not. Indeed, it is you who are superior. Throw what is in your right hand; it will swallow up what they have crafted.'"
+    },
+    {
+      "id": "ch20-q23",
+      "text": "What was the reaction of the magicians when Musa's staff swallowed their illusions?",
+      "answer": "They fell down in prostration, declaring, 'We believe in the Lord of Harun and Musa.'"
+    },
+    {
+      "id": "ch20-q24",
       "text": "What was Pharaoh's threat to the magicians after they believed?",
       "answer": "To cut off their hands and feet on opposite sides and crucify them on the trunks of palm trees."
     },
     {
-      "id": "ch20-q11",
-      "text": "What miracle occurred when the Children of Israel reached the sea with Pharaoh in pursuit?",
-      "answer": "Allah commanded Musa to strike the sea, creating a dry path for them to cross."
+      "id": "ch20-q25",
+      "text": "What was the magicians' courageous response to Pharaoh's threat?",
+      "answer": "They said, 'No harm! Indeed, to our Lord we will return. We hope that our Lord will forgive us our sins because we were the first of the believers.'"
     },
     {
-      "id": "ch20-q12",
-      "text": "Who was Samiri and what did he do in Musa's absence?",
-      "answer": "He was a man who misled the Children of Israel into worshipping a golden calf made from their jewelry."
+      "id": "ch20-q26",
+      "text": "What did Allah command Musa to do when the time came to leave Egypt?",
+      "answer": "To travel by night with His servants and strike for them a dry path through the sea."
     },
     {
-      "id": "ch20-q13",
-      "text": "How did Harun (AS) react to the people worshipping the calf?",
-      "answer": "He tried to stop them, reminding them that Allah is Ar-Rahman, but they refused to listen until Musa returned."
+      "id": "ch20-q27",
+      "text": "What happened to Pharaoh and his army in the sea?",
+      "answer": "The sea overwhelmed them completely and they were drowned."
     },
     {
-      "id": "ch20-q14",
-      "text": "What did Musa (AS) do with the golden calf when he returned?",
-      "answer": "He burned it and scattered its dust into the sea."
+      "id": "ch20-q28",
+      "text": "What were the 'good things' Allah provided for the Children of Israel in the desert?",
+      "answer": "Manna and quails (Salwa)."
     },
     {
-      "id": "ch20-q15",
-      "text": "What is the punishment for those who turn away from the Quran as mentioned in Verse 124?",
-      "answer": "They will have a 'depressed life' (Ma'ishatan Dhanka) and be raised blind on the Day of Judgment."
+      "id": "ch20-q29",
+      "text": "Why did Musa (AS) hasten to the mountain ahead of his people?",
+      "answer": "He said, 'They are close upon my tracks, and I hastened to You, my Lord, that You might be pleased.'"
     },
     {
-      "id": "ch20-q16",
+      "id": "ch20-q30",
+      "text": "What trial did the people face in Musa's absence at the mountain?",
+      "answer": "They were misled by Samiri into worshipping a golden calf."
+    },
+    {
+      "id": "ch20-q31",
+      "text": "How did Samiri justify the creation of the calf?",
+      "answer": "He claimed he saw something they didn't see (the tracks of the messenger/angel) and took a handful of dust from it to throw into the melting jewelry."
+    },
+    {
+      "id": "ch20-q32",
+      "text": "How did Harun (AS) try to stop the people from worshipping the calf?",
+      "answer": "He told them they were only being tested by it and reminded them that Allah is Ar-Rahman, but they refused to listen until Musa returned."
+    },
+    {
+      "id": "ch20-q33",
+      "text": "What did Musa (AS) do to his brother Harun in his initial anger upon returning?",
+      "answer": "He seized him by his head (hair) and beard, demanding to know why he hadn't followed him."
+    },
+    {
+      "id": "ch20-q34",
+      "text": "What was Harun's defense to Musa?",
+      "answer": "He said, 'O son of my mother, do not seize me by my beard or by my head. I feared that you would say, \"You caused division among the Children of Israel.\"'"
+    },
+    {
+      "id": "ch20-q35",
+      "text": "What was the punishment for Samiri?",
+      "answer": "He was told that in his life he would have to say, 'Touch me not,' being isolated from people, and he would have a punishment in the Hereafter."
+    },
+    {
+      "id": "ch20-q36",
+      "text": "What did Musa (AS) do with the golden calf?",
+      "answer": "He burned it and then scattered its dust thoroughly into the sea."
+    },
+    {
+      "id": "ch20-q37",
+      "text": "Who is the only true God according to the end of the story of Musa?",
+      "answer": "'Your god is only Allah, except whom there is no deity. He has encompassed all things in knowledge.'"
+    },
+    {
+      "id": "ch20-q38",
+      "text": "What happens to the one who turns away from the 'Reminder' (the Quran)?",
+      "answer": "He will bear a heavy burden on the Day of Resurrection and will abide in it forever."
+    },
+    {
+      "id": "ch20-q39",
       "text": "What will happen to the mountains on the Day of Judgment according to this Surah?",
       "answer": "Allah will blast them into dust, leaving the earth a level plain with no curves or hills."
     },
     {
-      "id": "ch20-q17",
-      "text": "How is the story of Adam and Iblis summarized in the end of the Surah?",
-      "answer": "Iblis refused to prostrate; Adam was warned about him but forgot the command and ate from the tree, leading to their descent to earth."
+      "id": "ch20-q40",
+      "text": "Will intercession benefit anyone on the Day of Judgment?",
+      "answer": "No, except for him to whom the Most Merciful has given permission and has accepted his word."
     },
     {
-      "id": "ch20-q18",
-      "text": "What is the instruction to the Prophet (SAW) regarding the timing of prayer (Verse 130)?",
+      "id": "ch20-q41",
+      "text": "Why was the Quran revealed in the Arabic language?",
+      "answer": "So that people may fear Allah or that it may cause them to remember."
+    },
+    {
+      "id": "ch20-q42",
+      "text": "What prayer is the Prophet (SAW) taught regarding his knowledge of the Quran?",
+      "answer": "'My Lord, increase me in knowledge' (Rabbi zidni 'ilma)."
+    },
+    {
+      "id": "ch20-q43",
+      "text": "What was the 'covenant' Allah took from Adam before?",
+      "answer": "A command not to eat from the tree, but Adam forgot and did not have a firm resolve."
+    },
+    {
+      "id": "ch20-q44",
+      "text": "What did Shaitan whisper to Adam to tempt him?",
+      "answer": "He said, 'O Adam, shall I direct you to the Tree of Eternity and a kingdom that will not deteriorate?'"
+    },
+    {
+      "id": "ch20-q45",
+      "text": "What happened immediately after Adam and Hawa ate from the tree?",
+      "answer": "Their private parts became apparent to them, and they began to fasten over themselves the leaves of Paradise."
+    },
+    {
+      "id": "ch20-q46",
+      "text": "How did Allah deal with Adam after his mistake?",
+      "answer": "His Lord chose him and turned to him in forgiveness and guided him."
+    },
+    {
+      "id": "ch20-q47",
+      "text": "What is the consequence for those who turn away from the Quran as mentioned in a specific ayah?",
+      "answer": "They will have a 'depressed life' (Ma'ishatan Dhanka) and be raised blind on the Day of Judgment."
+    },
+    {
+      "id": "ch20-q48",
+      "text": "What will the blind person ask his Lord on the Day of Judgment?",
+      "answer": "'My Lord, why have you raised me blind while I was [once] seeing?'"
+    },
+    {
+      "id": "ch20-q49",
+      "text": "What will be Allah's response to the blind person?",
+      "answer": "'Thus did Our signs come to you, and you forgot them; and thus will you this Day be forgotten.'"
+    },
+    {
+      "id": "ch20-q50",
+      "text": "Is the punishment of the Hereafter more severe or more enduring?",
+      "answer": "It is both more severe and more enduring."
+    },
+    {
+      "id": "ch20-q51",
+      "text": "What is the instruction to the Prophet regarding the timing of prayer?",
       "answer": "To exalt Allah before the rising of the sun and before its setting, and during the hours of the night and at the ends of the day."
     },
     {
-      "id": "ch20-q19",
-      "text": "Is the Prophet (SAW) commanded to force his family to pray?",
+      "id": "ch20-q52",
+      "text": "Should the Prophet be envious of the worldly pleasures given to some disbelievers?",
+      "answer": "No, they are only a flower of the life of this world by which Allah tests them; the provision of your Lord is better and more enduring."
+    },
+    {
+      "id": "ch20-q53",
+      "text": "Is the Prophet commanded to force his family to pray?",
       "answer": "He is commanded to enjoin prayer on his family and be steadfast in it himself."
     },
     {
-      "id": "ch20-q20",
-      "text": "What is the 'clear proof' mentioned in Verse 133 that the disbelievers demanded?",
-      "answer": "The previous scriptures (like the Torah and Gospel) which contain the same core message as the Quran."
+      "id": "ch20-q54",
+      "text": "Does Allah ask for provision from us?",
+      "answer": "No, He says, 'We do not ask you for provision; We provide for you, and the [best] outcome is for [those of] righteousness.'"
+    },
+    {
+      "id": "ch20-q55",
+      "text": "What is the 'clear proof' that the disbelievers demanded, which already existed?",
+      "answer": "The previous scriptures (like the Torah and Gospel) which contain the same core message."
+    },
+    {
+      "id": "ch20-q56",
+      "text": "What is the final command to the Prophet regarding the wait for judgment?",
+      "answer": "To say: 'Each [of us] is waiting; so wait. For you will know who are the companions of the sound path and who is guided.'"
+    },
+    {
+      "id": "ch20-q57",
+      "text": "What is the meaning of the title 'Ta-Ha'?",
+      "answer": "These are 'Muqatta'at' (disconnected letters) whose exact meaning is known only to Allah, though they serve as a name for the Prophet in this context."
+    },
+    {
+      "id": "ch20-q58",
+      "text": "What is the 'Beautiful Names' (Al-Asma al-Husna) mentioned early in the Surah?",
+      "answer": "They belong to Allah, the one God, except whom there is no deity."
+    },
+    {
+      "id": "ch20-q59",
+      "text": "What is the 'sacred valley' named in the story of Musa?",
+      "answer": "Tuwa."
+    },
+    {
+      "id": "ch20-q60",
+      "text": "What is the 'white hand' miracle a sign of?",
+      "answer": "One of the great signs of Allah to establish Musa's prophethood."
+    },
+    {
+      "id": "ch20-q61",
+      "text": "What was the 'knot' on Musa's tongue?",
+      "answer": "A speech impediment he had, which he asked Allah to heal for his mission."
+    },
+    {
+      "id": "ch20-q62",
+      "text": "What is the 'minister' (Wazir) Musa asked for?",
+      "answer": "A helper from his family, specifically his brother Harun."
+    },
+    {
+      "id": "ch20-q63",
+      "text": "What was the 'River' (Yam) where baby Musa was cast?",
+      "answer": "The Nile River."
+    },
+    {
+      "id": "ch20-q64",
+      "text": "What is the 'eye' of Allah mentioned in the context of Musa's upbringing?",
+      "answer": "It refers to Allah's continuous protection and care over him."
+    },
+    {
+      "id": "ch20-q65",
+      "text": "What was the 'fear' of Musa and Harun about facing Pharaoh?",
+      "answer": "They feared he would hasten against them or transgress."
+    },
+    {
+      "id": "ch20-q66",
+      "text": "What is the 'Lord of the worlds' definition according to Musa in this Surah?",
+      "answer": "The One who gave everything its form and then guided it."
+    },
+    {
+      "id": "ch20-q67",
+      "text": "What is the 'magical illusion' mentioned in the contest?",
+      "answer": "The tricks the magicians used to make their ropes seem like they were moving."
+    },
+    {
+      "id": "ch20-q68",
+      "text": "What is the 'superiority' Allah promised Musa?",
+      "answer": "That his truth would overcome their falsehood."
+    },
+    {
+      "id": "ch20-q69",
+      "text": "What is the 'magic' of the magicians called?",
+      "answer": "The plot of a magician, which never succeeds wherever he comes."
+    },
+    {
+      "id": "ch20-q70",
+      "text": "What is the 'eternal reward' the magicians hoped for?",
+      "answer": "The forgiveness of Allah and Paradise."
+    },
+    {
+      "id": "ch20-q71",
+      "text": "What is the 'dry path' in the sea?",
+      "answer": "The miraculous way made for the Children of Israel to escape."
+    },
+    {
+      "id": "ch20-q72",
+      "text": "What is the 'trial' of the calf?",
+      "answer": "A test of faith for the Children of Israel after being saved from Pharaoh."
+    },
+    {
+      "id": "ch20-q73",
+      "text": "What is the 'dust' from the messenger's tracks?",
+      "answer": "A mysterious element Samiri claimed to use to give life to the calf."
+    },
+    {
+      "id": "ch20-q74",
+      "text": "What is the 'lowering' of the voice on Judgment Day?",
+      "answer": "Out of fear and respect for the Most Merciful."
+    },
+    {
+      "id": "ch20-q75",
+      "text": "What is the 'hasting' with the Quran?",
+      "answer": "The Prophet's attempt to recite it before its revelation was complete."
+    },
+    {
+      "id": "ch20-q76",
+      "text": "What is the 'Tree of Eternity'?",
+      "answer": "The false name Shaitan gave to the forbidden tree to tempt Adam."
+    },
+    {
+      "id": "ch20-q77",
+      "text": "What is the 'descent' to earth?",
+      "answer": "The expulsion of Adam, Hawa, and Iblis from Paradise."
+    },
+    {
+      "id": "ch20-q78",
+      "text": "What is the 'depressed life' (Ma'ishatan Dhanka)?",
+      "answer": "A life without peace, purpose, or spiritual satisfaction."
+    },
+    {
+      "id": "ch20-q79",
+      "text": "What is the 'flower' of worldly life?",
+      "answer": "The temporary and fragile beauty of wealth and power."
+    },
+    {
+      "id": "ch20-q80",
+      "text": "What is the 'sound path' (Sirat-is-Sawi)?",
+      "answer": "The straight and correct way of life guided by Allah."
     }
   ]
 }

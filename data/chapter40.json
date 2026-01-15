@@ -1,108 +1,353 @@
 {
-  "id": 40,
-  "englishName": "Ghafir",
-  "arabicName": "غافر",
-  "translation": "The Forgiver",
-  "questions": [
-    {
-      "id": "ch40-q1",
-      "text": "What are the three attributes of Allah mentioned in the opening of the Surah?",
-      "answer": "Forgiver of sin, Accepter of repentance, and Severe in punishment."
-    },
-    {
-      "id": "ch40-q2",
-      "text": "Who are the 'Carriers of the Throne' (Hamalat al-Arsh) and what do they do?",
-      "answer": "Angels who carry the Throne of Allah; they exalt Him and ask for forgiveness for the believers."
-    },
-    {
-      "id": "ch40-q3",
-      "text": "What is the 'Dua' of the angels for the believers regarding their families?",
-      "answer": "To admit them into the Gardens of perpetual residence along with the righteous among their fathers, spouses, and offspring."
-    },
-    {
-      "id": "ch40-q4",
-      "text": "What will the disbelievers admit regarding their deaths and lives on Judgment Day?",
-      "answer": "They will say 'Our Lord, You have made us lifeless twice and given us life twice, and we have confessed our sins'."
-    },
-    {
-      "id": "ch40-q5",
-      "text": "To whom does the 'Sovereignty' belong on the Day of Judgment?",
-      "answer": "'To Allah, the One, the Prevailing' (Lillāhil Wāḥidil Qahhār)."
-    },
-    {
-      "id": "ch40-q6",
-      "text": "What is the 'Day of the Approaching Hour' (Yawm al-Azifah)?",
-      "answer": "A name for the Day of Judgment when hearts will be at the throats, choking."
-    },
-    {
-      "id": "ch40-q7",
-      "text": "Does Allah know the 'treachery of the eyes'?",
-      "answer": "Yes, He knows that which the eyes betray and what the breasts conceal (Verse 19)."
-    },
-    {
-      "id": "ch40-q8",
-      "text": "Who was the 'Believing Man' from the family of Pharaoh?",
-      "answer": "A man who hid his faith but spoke up to defend Musa (AS) when Pharaoh plotted to kill him."
-    },
-    {
-      "id": "ch40-q9",
-      "text": "What was the argument of the Believing Man to his people?",
-      "answer": "He asked 'Would you kill a man [just] because he says, My Lord is Allah?' and warned them of the 'Day of Mutual Calling'."
-    },
-    {
-      "id": "ch40-q10",
-      "text": "What did Pharaoh ask Haman to build for him in this Surah?",
-      "answer": "A tower (high construction) so he could reach the 'ways of the heavens' to look at the God of Musa."
-    },
-    {
-      "id": "ch40-q11",
-      "text": "How did Allah protect the Believing Man?",
-      "answer": "Allah protected him from the evils they plotted, while an evil punishment enveloped the people of Pharaoh."
-    },
-    {
-      "id": "ch40-q12",
-      "text": "What happens to the people of Pharaoh in their graves (the Barzakh)?",
-      "answer": "The Fire; they are exposed to it morning and afternoon (Verse 46)."
-    },
-    {
-      "id": "ch40-q13",
-      "text": "What will the people in Hell ask the 'Keepers of Hell' (Verse 49)?",
-      "answer": "'Supplicate your Lord to lighten for us a day from the punishment'."
-    },
-    {
-      "id": "ch40-q14",
-      "text": "What is the famous command regarding Dua in Verse 60?",
-      "answer": "'Call upon Me; I will respond to you'."
-    },
-    {
-      "id": "ch40-q15",
-      "text": "What is the 'arrogance' mentioned in the context of Dua?",
-      "answer": "Those who are too proud to worship/supplicate to Allah will enter Hell in humiliation."
-    },
-    {
-      "id": "ch40-q16",
-      "text": "Why did Allah make the night for mankind?",
-      "answer": "So they may rest therein."
-    },
-    {
-      "id": "ch40-q17",
-      "text": "What are the stages of creation of man from the earth mentioned in Verse 67?",
-      "answer": "Dust, then a sperm-drop, then a clinging clot, then brought out as a child, then reaching maturity, then becoming old."
-    },
-    {
-      "id": "ch40-q18",
-      "text": "Which Prophet is Ghafir sometimes associated with in its narrative?",
-      "answer": "Musa (AS), due to the long account of his interaction with Pharaoh."
-    },
-    {
-      "id": "ch40-q19",
-      "text": "What did the disbelieving nations say when they saw the punishment of Allah?",
-      "answer": "They said 'We believe in Allah alone and disbelieve in that which we used to associate with Him'."
-    },
-    {
-      "id": "ch40-q20",
-      "text": "Did the 'faith' of the disbelievers benefit them once they saw the punishment?",
-      "answer": "No; it is the 'Sunnah' (way) of Allah that has passed among His servants; the disbelievers were then in loss."
-    }
-  ]
+    "id": 40,
+    "englishName": "Ghafir",
+    "arabicName": "غافر",
+    "translation": "The Forgiver",
+    "questions": [
+        {
+            "id": "ch40-q1",
+            "text": "What is the main spiritual balance taught by Surah Ghafir about Allah's attributes?",
+            "answer": "It balances hope and fear: Allah forgives and accepts repentance, yet He is severe in punishment for persistent rebellion."
+        },
+        {
+            "id": "ch40-q2",
+            "text": "Why does the Surah mention the angels who carry the Throne asking forgiveness for believers?",
+            "answer": "To show the honor of faith and Allah's mercy, and to inspire believers to repent and remain steadfast."
+        },
+        {
+            "id": "ch40-q3",
+            "text": "What do the Throne-bearing angels ask Allah to grant believers besides forgiveness?",
+            "answer": "Protection from evil consequences and entry into Paradise along with righteous family members."
+        },
+        {
+            "id": "ch40-q4",
+            "text": "True/False: The Surah presents arrogance toward Allah's signs as a harmless personality trait.",
+            "answer": "False. It is condemned as a cause of misguidance and punishment."
+        },
+        {
+            "id": "ch40-q5",
+            "text": "What is one repeated warning in Surah Ghafir about arguing against Allah's signs?",
+            "answer": "That stubborn argument and denial do not benefit; earlier nations were destroyed for the same attitude."
+        },
+        {
+            "id": "ch40-q6",
+            "text": "How does the Surah describe the Day of Judgment as emotionally overwhelming?",
+            "answer": "Hearts will be at the throats, filled with fear, and no close friend or intercessor can help without Allah's permission."
+        },
+        {
+            "id": "ch40-q7",
+            "text": "What does the Surah teach about Allah's knowledge of hidden sins?",
+            "answer": "Allah knows even the subtle betrayal of the eyes and what hearts conceal."
+        },
+        {
+            "id": "ch40-q8",
+            "text": "What is one lesson from the believing man in Pharaoh's family?",
+            "answer": "Courageous, wise speech can defend truth, warn people, and expose ظلم even in a hostile environment."
+        },
+        {
+            "id": "ch40-q9",
+            "text": "Why is it significant that the believing man initially concealed his faith?",
+            "answer": "It shows wisdom in dangerous circumstances, while still speaking up when truth and life were threatened."
+        },
+        {
+            "id": "ch40-q10",
+            "text": "What does the believing man warn his people about besides Pharaoh's tyranny?",
+            "answer": "He warns about the Hereafter, the Day of mutual calling, and the fate of past rejecting nations."
+        },
+        {
+            "id": "ch40-q11",
+            "text": "How does Surah Ghafir expose Pharaoh's claim of greatness?",
+            "answer": "It shows his pride was deception, and Allah's punishment surrounded him and his people."
+        },
+        {
+            "id": "ch40-q12",
+            "text": "What does the Surah teach about seeking worldly power through arrogance and propaganda?",
+            "answer": "It may impress people temporarily, but it collapses under Allah's justice and truth."
+        },
+        {
+            "id": "ch40-q13",
+            "text": "What does the Surah teach about 'calling upon Allah' (dua) as worship?",
+            "answer": "Dua is an act of worship, and arrogance that prevents dua leads to humiliation."
+        },
+        {
+            "id": "ch40-q14",
+            "text": "True/False: People who feel self-sufficient have a stronger reason to avoid dua.",
+            "answer": "False. Feeling self-sufficient is a spiritual illusion; everyone is in need of Allah."
+        },
+        {
+            "id": "ch40-q15",
+            "text": "What does Surah Ghafir teach about the purpose of night and day?",
+            "answer": "Night is made for rest and day for seeking provision, both as mercy and signs for reflection."
+        },
+        {
+            "id": "ch40-q16",
+            "text": "How does the Surah use the stages of human creation to call people to humility?",
+            "answer": "It reminds people of their weak beginnings and inevitable aging, pushing them to submit to Allah."
+        },
+        {
+            "id": "ch40-q17",
+            "text": "What is one key misconception the Surah corrects about life and death?",
+            "answer": "That death ends everything; the Surah affirms resurrection and accountability."
+        },
+        {
+            "id": "ch40-q18",
+            "text": "What does the Surah teach about people who only believe when punishment becomes visible?",
+            "answer": "Such belief does not benefit once the decisive moment arrives; it is too late for repentance then."
+        },
+        {
+            "id": "ch40-q19",
+            "text": "How does Surah Ghafir encourage patience for believers facing denial?",
+            "answer": "By reminding them that previous messengers were opposed, yet Allah supported them and fulfilled His promise."
+        },
+        {
+            "id": "ch40-q20",
+            "text": "What does the Surah teach about Allah's justice in recompense?",
+            "answer": "Every soul will be repaid for what it earned, and no injustice will occur on the Day of Judgment."
+        },
+        {
+            "id": "ch40-q21",
+            "text": "What is one moral lesson from the Surah's contrast between truth and deception?",
+            "answer": "Deception may spread, but truth is clearer and stronger; a believer must not be fooled by arrogant displays."
+        },
+        {
+            "id": "ch40-q22",
+            "text": "True/False: The Surah suggests that being part of a powerful nation guarantees safety.",
+            "answer": "False. Power did not save Pharaoh; Allah's judgment overcame him."
+        },
+        {
+            "id": "ch40-q23",
+            "text": "What does the Surah teach about repentance (tawbah) and Allah's acceptance?",
+            "answer": "Allah accepts repentance from His servants and pardons many misdeeds when people return sincerely."
+        },
+        {
+            "id": "ch40-q24",
+            "text": "How does Surah Ghafir teach a believer to respond when wronged?",
+            "answer": "With patience, justice, and reliance on Allah, without adopting ظلم or arrogance."
+        },
+        {
+            "id": "ch40-q25",
+            "text": "Why does the Surah include warnings about past nations and their destruction?",
+            "answer": "To show patterns of denial and to warn that rejecting truth leads to the same end."
+        },
+        {
+            "id": "ch40-q26",
+            "text": "What does the Surah teach about the reality of the Barzakh?",
+            "answer": "That some people experience punishment before the final judgment, showing accountability begins beyond death."
+        },
+        {
+            "id": "ch40-q27",
+            "text": "What does Surah Ghafir teach about the danger of pride in arguments about religion?",
+            "answer": "Pride makes a person reject evidence and argue for the sake of ego, leading to misguidance."
+        },
+        {
+            "id": "ch40-q28",
+            "text": "How does the Surah motivate a believer to keep their family connected to righteousness?",
+            "answer": "By mentioning angels asking Allah to unite believers with righteous family in Paradise."
+        },
+        {
+            "id": "ch40-q29",
+            "text": "What is one personal application lesson from the believing man who defended Musa (AS)?",
+            "answer": "Speak truth with wisdom, avoid rashness, and prioritize the Hereafter over fear of people."
+        },
+        {
+            "id": "ch40-q30",
+            "text": "How does the Surah teach that guidance is not purely intellectual but spiritual?",
+            "answer": "It links guidance to humility, fear of Allah, and a heart that accepts truth rather than locks itself by pride."
+        },
+        {
+            "id": "ch40-q31",
+            "text": "True/False: The Surah teaches that Allah's mercy means wrongdoing has no consequences.",
+            "answer": "False. Mercy includes forgiveness for repentance, but persistent wrongdoing faces severe punishment."
+        },
+        {
+            "id": "ch40-q32",
+            "text": "What does Surah Ghafir teach about seeking protection from Allah from evil outcomes?",
+            "answer": "Believers should ask Allah to protect them from evil and to grant them a good end."
+        },
+        {
+            "id": "ch40-q33",
+            "text": "What does the Surah teach about the value of istighfar (seeking forgiveness)?",
+            "answer": "It is beloved to Allah and a means of mercy, protection, and spiritual purification."
+        },
+        {
+            "id": "ch40-q34",
+            "text": "Why is the description of Allah as 'Severe in punishment' important for spiritual health?",
+            "answer": "It prevents complacency and motivates a person to avoid sin and return to Allah sincerely."
+        },
+        {
+            "id": "ch40-q35",
+            "text": "How does Surah Ghafir teach that Allah's victory does not always look immediate?",
+            "answer": "Allah may delay, but His promise is true; outcomes unfold with wisdom and final justice is certain."
+        },
+        {
+            "id": "ch40-q36",
+            "text": "What is the Surah's warning about being deluded by worldly life?",
+            "answer": "Worldly life can distract from the Hereafter, leading people to deny, argue, and forget accountability."
+        },
+        {
+            "id": "ch40-q37",
+            "text": "What does the Surah teach about Allah's sovereignty on the Day of Judgment?",
+            "answer": "All kingship and authority belong to Allah alone; no one can claim power then."
+        },
+        {
+            "id": "ch40-q38",
+            "text": "How can a believer implement the Surah's teaching about avoiding arrogance?",
+            "answer": "By keeping dua, seeking forgiveness, accepting advice, and submitting to Allah's guidance when corrected."
+        },
+        {
+            "id": "ch40-q39",
+            "text": "What is one spiritual takeaway about 'truth' from Surah Ghafir?",
+            "answer": "Truth is from Allah and will prevail; denial only delays a person's acceptance, not the reality."
+        },
+        {
+            "id": "ch40-q40",
+            "text": "What is the Surah's strongest call to action for someone reading it today?",
+            "answer": "Repent, make dua, avoid arrogance, and prepare for the Hereafter with sincere faith and righteous deeds."
+        },
+        {
+            "id": "ch40-q41",
+            "text": "What does the Surah teach about the danger of mocking or dismissing revelation?",
+            "answer": "It hardens the heart and leads to punishment, as seen in the fate of rejecting nations."
+        },
+        {
+            "id": "ch40-q42",
+            "text": "How does Surah Ghafir teach that Allah's mercy includes family and community wellbeing?",
+            "answer": "It highlights angels praying for believers and their families, showing faith impacts relationships."
+        },
+        {
+            "id": "ch40-q43",
+            "text": "What does the Surah imply about the psychological effect of remembering the Hereafter?",
+            "answer": "It reduces arrogance, increases seriousness, and helps a person make better moral choices."
+        },
+        {
+            "id": "ch40-q44",
+            "text": "What is one ethical lesson about speaking under tyranny from the story of Pharaoh?",
+            "answer": "Speak truth with wisdom and courage, and rely on Allah for protection rather than fear people."
+        },
+        {
+            "id": "ch40-q45",
+            "text": "True/False: The Surah suggests that Allah does not care about small hidden actions.",
+            "answer": "False. It emphasizes Allah knows even subtle betrayals and hidden intentions."
+        },
+        {
+            "id": "ch40-q46",
+            "text": "How does the Surah encourage believers to view trials and conflicts?",
+            "answer": "As tests that reveal sincerity, patience, and reliance on Allah, not as proof of abandonment."
+        },
+        {
+            "id": "ch40-q47",
+            "text": "What is one final lesson about dua from Surah Ghafir?",
+            "answer": "Dua is a door of mercy; leaving it out of pride is spiritually dangerous."
+        },
+        {
+            "id": "ch40-q48",
+            "text": "What does the Surah teach about Allah's knowledge being a comfort for believers?",
+            "answer": "It reassures them that injustice, pain, and hidden deeds are known to Allah and will be judged fairly."
+        },
+        {
+            "id": "ch40-q49",
+            "text": "How does Surah Ghafir teach that repentance is urgent?",
+            "answer": "Because death and punishment can come suddenly, and late belief after seeing punishment does not benefit."
+        },
+        {
+            "id": "ch40-q50",
+            "text": "What are the three attributes of Allah mentioned in the opening of the Surah?",
+            "answer": "Forgiver of sin, Accepter of repentance, and Severe in punishment."
+        },
+        {
+            "id": "ch40-q51",
+            "text": "Who are the 'Carriers of the Throne' (Hamalat al-Arsh) and what do they do?",
+            "answer": "Angels who carry the Throne of Allah; they exalt Him and ask for forgiveness for the believers."
+        },
+        {
+            "id": "ch40-q52",
+            "text": "What is the 'Dua' of the angels for the believers regarding their families?",
+            "answer": "To admit them into the Gardens of perpetual residence along with the righteous among their fathers, spouses, and offspring."
+        },
+        {
+            "id": "ch40-q53",
+            "text": "What will the disbelievers admit regarding their deaths and lives on Judgment Day?",
+            "answer": "They will say 'Our Lord, You have made us lifeless twice and given us life twice, and we have confessed our sins'."
+        },
+        {
+            "id": "ch40-q54",
+            "text": "To whom does the 'Sovereignty' belong on the Day of Judgment?",
+            "answer": "'To Allah, the One, the Prevailing' (Lillāhil Wāḥidil Qahhār)."
+        },
+        {
+            "id": "ch40-q55",
+            "text": "What is the 'Day of the Approaching Hour' (Yawm al-Azifah)?",
+            "answer": "A name for the Day of Judgment when hearts will be at the throats, choking."
+        },
+        {
+            "id": "ch40-q56",
+            "text": "Does Allah know the 'treachery of the eyes'?",
+            "answer": "Yes, He knows that which the eyes betray and what the hearts conceal."
+        },
+        {
+            "id": "ch40-q57",
+            "text": "Who was the 'Believing Man' from the family of Pharaoh?",
+            "answer": "A man who hid his faith but spoke up to defend Musa (AS) when Pharaoh plotted to kill him."
+        },
+        {
+            "id": "ch40-q58",
+            "text": "What was the argument of the Believing Man to his people?",
+            "answer": "He asked 'Would you kill a man [just] because he says, My Lord is Allah?' and warned them of the 'Day of Mutual Calling'."
+        },
+        {
+            "id": "ch40-q59",
+            "text": "What did Pharaoh ask Haman to build for him in this Surah?",
+            "answer": "A tower (high construction) so he could reach the 'ways of the heavens' to look at the God of Musa."
+        },
+        {
+            "id": "ch40-q60",
+            "text": "How did Allah protect the Believing Man?",
+            "answer": "Allah protected him from the evils they plotted, while an evil punishment enveloped the people of Pharaoh."
+        },
+        {
+            "id": "ch40-q61",
+            "text": "What does the Surah describe about the fate of Pharaoh's people in the Barzakh (intermediate life)?",
+            "answer": "They are exposed to the Fire morning and afternoon, before the final punishment."
+        },
+        {
+            "id": "ch40-q62",
+            "text": "What will the people in Hell ask the keepers of Hell?",
+            "answer": "'Supplicate your Lord to lighten for us a day from the punishment'."
+        },
+        {
+            "id": "ch40-q63",
+            "text": "What is the famous command regarding dua in this Surah?",
+            "answer": "'Call upon Me; I will respond to you'."
+        },
+        {
+            "id": "ch40-q64",
+            "text": "What is the 'arrogance' mentioned in the context of Dua?",
+            "answer": "Those who are too proud to worship/supplicate to Allah will enter Hell in humiliation."
+        },
+        {
+            "id": "ch40-q65",
+            "text": "Why did Allah make the night for mankind?",
+            "answer": "So they may rest therein."
+        },
+        {
+            "id": "ch40-q66",
+            "text": "What stages of human creation and life does the Surah mention?",
+            "answer": "Dust, then a sperm-drop, then a clinging clot, then brought out as a child, then reaching maturity, then becoming old."
+        },
+        {
+            "id": "ch40-q67",
+            "text": "Which Prophet is Ghafir sometimes associated with in its narrative?",
+            "answer": "Musa (AS), due to the long account of his interaction with Pharaoh."
+        },
+        {
+            "id": "ch40-q68",
+            "text": "What did the disbelieving nations say when they saw the punishment of Allah?",
+            "answer": "They said 'We believe in Allah alone and disbelieve in that which we used to associate with Him'."
+        },
+        {
+            "id": "ch40-q69",
+            "text": "Did the 'faith' of the disbelievers benefit them once they saw the punishment?",
+            "answer": "No; it is the 'Sunnah' (way) of Allah that has passed among His servants; the disbelievers were then in loss."
+        }
+    ]
 }

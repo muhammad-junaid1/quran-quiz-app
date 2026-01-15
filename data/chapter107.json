@@ -6,101 +6,156 @@
     "questions": [
         {
             "id": "ch107-q1",
+            "text": "How does this Surah connect belief in judgment with daily compassion?",
+            "answer": "It shows denial leads to harshness toward orphans and neglect of feeding the poor."
+        },
+        {
+            "id": "ch107-q2",
+            "text": "True/False: The Surah teaches prayer is enough even if a person is cruel to others.",
+            "answer": "False. It criticizes prayer that is heedless and without compassion."
+        },
+        {
+            "id": "ch107-q3",
+            "text": "What is one modern example of ‘repelling the orphan’?",
+            "answer": "Humiliating vulnerable children, denying them rights, or using power to push them away from help."
+        },
+        {
+            "id": "ch107-q4",
+            "text": "What is one modern example of not encouraging feeding the poor?",
+            "answer": "Mocking charity, discouraging zakat, or normalizing selfishness when people are hungry."
+        },
+        {
+            "id": "ch107-q5",
+            "text": "How does the Surah define a dangerous kind of prayer?",
+            "answer": "Prayer that is heedless—delayed, careless, or empty of sincerity and moral impact."
+        },
+        {
+            "id": "ch107-q6",
+            "text": "What does ‘riya’ destroy in a person’s deeds?",
+            "answer": "It corrupts intention, turning worship into performance instead of devotion to Allah."
+        },
+        {
+            "id": "ch107-q7",
+            "text": "True/False: The Surah teaches small acts of kindness are spiritually insignificant.",
+            "answer": "False. It condemns withholding even small kindnesses, showing they matter."
+        },
+        {
+            "id": "ch107-q8",
+            "text": "What is one practical example of 'ma'un' today?",
+            "answer": "Lending a tool, sharing food, helping with a quick task, or letting someone use a small utility."
+        },
+        {
+            "id": "ch107-q9",
+            "text": "How can a believer protect their prayer from becoming ‘heedless’?",
+            "answer": "Pray on time, learn meanings, focus, and let prayer improve character and compassion."
+        },
+        {
+            "id": "ch107-q10",
+            "text": "How does this Surah teach that ethics are part of iman?",
+            "answer": "It treats cruelty and stinginess as signs of denying accountability, not as minor personality flaws."
+        },
+        {
+            "id": "ch107-q11",
+            "text": "How can someone repent from riya in worship?",
+            "answer": "Hide good deeds, renew intention, ask Allah for sincerity, and stop seeking praise."
+        },
+        {
+            "id": "ch107-q12",
+            "text": "True/False: The Surah suggests hypocrisy is only a belief issue, not a behavior issue.",
+            "answer": "False. It exposes hypocrisy through behavior: prayer, charity, and kindness."
+        },
+        {
+            "id": "ch107-q13",
             "text": "What does 'Al-Ma'un' mean?",
             "answer": "Small kindnesses, common neighborly needs, or small utilities."
         },
         {
-            "id": "ch107-q2",
+            "id": "ch107-q14",
             "text": "Who is the one who 'denies the Recompense' (Judgment)?",
             "answer": "The one who repels the orphan and does not encourage the feeding of the poor."
         },
         {
-            "id": "ch107-q3",
+            "id": "ch107-q15",
             "text": "How does the person described treat the orphan?",
             "answer": "He repels/pushes them away (Yadu''ul yatim)."
         },
         {
-            "id": "ch107-q4",
-            "text": "What social duty does this person neglect (Verse 3)?",
+            "id": "ch107-q16",
+            "text": "What social duty does this person neglect in this Surah?",
             "answer": "Encouraging the feeding of the poor (Miskin)."
         },
         {
-            "id": "ch107-q5",
-            "text": "Who is the 'Woe' (Wayl) for in Verse 4?",
+            "id": "ch107-q17",
+            "text": "Who is the 'Woe' (Wayl) for in this Surah?",
             "answer": "Those who pray (but are hypocritical)."
         },
         {
-            "id": "ch107-q6",
-            "text": "What is wrong with the prayer of these people (Verse 5)?",
+            "id": "ch107-q18",
+            "text": "What is wrong with the prayer of these people in this Surah?",
             "answer": "They are 'Sahun' (heedless/neglectful) of their prayers."
         },
         {
-            "id": "ch107-q7",
-            "text": "What is 'Riya'' mentioned in Verse 6?",
+            "id": "ch107-q19",
+            "text": "What is 'Riya'' mentioned in this Surah?",
             "answer": "Showing off / doing deeds to be seen by people."
         },
         {
-            "id": "ch107-q8",
-            "text": "What do these people withhold (Verse 7)?",
+            "id": "ch107-q20",
+            "text": "What do these people withhold according to this Surah?",
             "answer": "Al-Ma'un (small kindnesses/utilities)."
         },
         {
-            "id": "ch107-q9",
+            "id": "ch107-q21",
             "text": "What is the link between denying the Day of Judgment and social behavior?",
             "answer": "When a person doesn't believe they will be held accountable, they lose compassion for the weak and needy."
         },
         {
-            "id": "ch107-q10",
+            "id": "ch107-q22",
             "text": "Does 'Sahun' mean accidentally forgetting a prayer?",
             "answer": "No, it refers to those who take prayer lightly, delay it without reason, or pray without presence of heart."
         },
         {
-            "id": "ch107-q11",
-            "text": "What are some examples of 'Ma'un'?",
-            "answer": "Lending a tool, a pot, salt, water, or helping with a small task."
-        },
-        {
-            "id": "ch107-q12",
+            "id": "ch107-q23",
             "text": "How many verses are in Surah Al-Ma'un?",
             "answer": "Seven verses."
         },
         {
-            "id": "ch107-q13",
+            "id": "ch107-q24",
             "text": "What is the theme of the first half of the Surah?",
             "answer": "Crimes against humanity (orphans/poor)."
         },
         {
-            "id": "ch107-q14",
+            "id": "ch107-q25",
             "text": "What is the theme of the second half of the Surah?",
             "answer": "Crimes against the worship of Allah (prayer/hypocrisy)."
         },
         {
-            "id": "ch107-q15",
+            "id": "ch107-q26",
             "text": "Can a person be a true believer if they pray but are cruel to orphans?",
             "answer": "The Surah suggests their prayer is hollow and identifies them with those who deny the faith."
         },
         {
-            "id": "ch107-q16",
+            "id": "ch107-q27",
             "text": "What is the Arabic word for 'showing off'?",
             "answer": "Yura'un."
         },
         {
-            "id": "ch107-q17",
+            "id": "ch107-q28",
             "text": "Who was the 'one who denies the Recompense' (historical context)?",
             "answer": "Scholars say it referred to certain pagan leaders like Abu Jahl or Abu Sufyan (before his Islam)."
         },
         {
-            "id": "ch107-q18",
-            "text": "What is the meaning of 'Ad-Din' in Verse 1?",
+            "id": "ch107-q29",
+            "text": "What is the meaning of 'Ad-Din' in this Surah?",
             "answer": "The Judgment, the Recompense, or the Religion itself."
         },
         {
-            "id": "ch107-q19",
+            "id": "ch107-q30",
             "text": "Is this a Makkan or Madinan Surah?",
             "answer": "Scholars differ; some say Makkan, others say Madinan, and some say mixed."
         },
         {
-            "id": "ch107-q20",
+            "id": "ch107-q31",
             "text": "What is the ultimate message of the Surah?",
             "answer": "That true faith must manifest in sincere worship and genuine compassion for others."
         }

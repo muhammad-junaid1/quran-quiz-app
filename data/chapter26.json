@@ -1,108 +1,408 @@
 {
-  "id": 26,
-  "englishName": "Ash-Shu'ara",
-  "arabicName": "الشعراء",
-  "translation": "The Poets",
-  "questions": [
-    {
-      "id": "ch26-q1",
-      "text": "What is the recurring refrain that follows the story of every Prophet mentioned in this Surah?",
-      "answer": "Indeed in that is a sign, but most of them were not believers. And indeed, your Lord - He is the Exalted in Might, the Merciful."
-    },
-    {
-      "id": "ch26-q2",
-      "text": "How did Allah comfort the Prophet (SAW) regarding his grief over the disbelievers?",
-      "answer": "He asked rhetorically if the Prophet would kill himself with grief because they do not believe, and reminded him that if He willed, He could send a sign from heaven that would force their necks to bow."
-    },
-    {
-      "id": "ch26-q3",
-      "text": "What was Pharaoh's personal argument against Musa (AS) when he first arrived?",
-      "answer": "He reminded Musa that they had raised him as a child among them and accused him of being ungrateful for the 'favor' they did for him."
-    },
-    {
-      "id": "ch26-q4",
-      "text": "What was the 'miracle of the staff' as described in this Surah?",
-      "answer": "It swallowed up the falsehood (illusions) that the sorcerers produced."
-    },
-    {
-      "id": "ch26-q5",
-      "text": "What did the sorcerers say to Pharaoh after they were threatened with crucifixion?",
-      "answer": "They said 'No harm (Lā dayr). Indeed, to our Lord we will return'."
-    },
-    {
-      "id": "ch26-q6",
-      "text": "Describe Ibrahim's (AS) description of his Lord in his debate with his people.",
-      "answer": "He described Allah as the One who created him, guides him, feeds him, gives him drink, heals him when sick, and will cause him to die then bring him to life."
-    },
-    {
-      "id": "ch26-q7",
-      "text": "What was Ibrahim's (AS) prayer regarding his 'mention' in the future?",
-      "answer": "He asked Allah to 'grant me a reputation of honor among later generations'."
-    },
-    {
-      "id": "ch26-q8",
-      "text": "Who will be saved on the Day of Judgment according to Ibrahim's (AS) prayer?",
-      "answer": "Only those who come to Allah with a 'Qalbun Salim' (a sound/pure heart)."
-    },
-    {
-      "id": "ch26-q9",
-      "text": "What was the specific message of Prophet Nuh to his people in this Surah?",
-      "answer": "To fear Allah and obey him; he asked for no reward as his reward was only with the Lord of the worlds."
-    },
-    {
-      "id": "ch26-q10",
-      "text": "What did the people of 'Ad take pride in building (Verse 128)?",
-      "answer": "Monuments/signs on every high place for amusement and strongholds as if they would live forever."
-    },
-    {
-      "id": "ch26-q11",
-      "text": "What was the sin of the people of Salih regarding the She-Camel?",
-      "answer": "They hamstrung (killed) her after being warned not to touch her with harm."
-    },
-    {
-      "id": "ch26-q12",
-      "text": "How did the people of Lut respond to his call to morality?",
-      "answer": "They threatened to expel him from the city because he and his followers were 'people who keep themselves pure'."
-    },
-    {
-      "id": "ch26-q13",
-      "text": "What was the specific message of Prophet Nuh to his people in this Surah?",
-      "answer": "To fear Allah and obey him; he asked for no reward as his reward was only with the Lord of the worlds."
-    },
-    {
-      "id": "ch26-q14",
-      "text": "What is the Quranic response to the claim that Devils (Shayatin) brought down the Quran?",
-      "answer": "It is not suited for them, they are not able to do it, and they are removed from even hearing it."
-    },
-    {
-      "id": "ch26-q15",
-      "text": "What instruction did Allah give the Prophet (SAW) regarding his relatives in Verse 214?",
-      "answer": "And warn, [O Muhammad], your closest kindred."
-    },
-    {
-      "id": "ch26-q16",
-      "text": "How should the Prophet treat the believers who follow him?",
-      "answer": "He should lower his wing (be kind and humble) to them."
-    },
-    {
-      "id": "ch26-q17",
-      "text": "Why is the Surah named 'The Poets'?",
-      "answer": "Because it concludes by distinguishing the Prophet from poets, noting that poets are followed by the deviant and wander in every valley of speech."
-    },
-    {
-      "id": "ch26-q18",
-      "text": "Which poets are exempted from the general criticism at the end of the Surah?",
-      "answer": "Those who believe, do righteous deeds, remember Allah much, and defend themselves after they were wronged."
-    },
-    {
-      "id": "ch26-q19",
-      "text": "What happened to the people of Nuh when they rejected him?",
-      "answer": "They were drowned in the flood."
-    },
-    {
-      "id": "ch26-q20",
-      "text": "What is the 'clear proof' Musa (AS) brought to Pharaoh?",
-      "answer": "The miracles of the staff and his shining white hand."
-    }
-  ]
+    "id": 26,
+    "englishName": "Ash-Shu'ara",
+    "arabicName": "الشعراء",
+    "translation": "The Poets",
+    "questions": [
+        {
+            "id": "ch26-q1",
+            "text": "What is the recurring refrain that follows the story of every Prophet mentioned in this Surah?",
+            "answer": "Indeed in that is a sign, but most of them were not believers. And indeed, your Lord - He is the Exalted in Might, the Merciful."
+        },
+        {
+            "id": "ch26-q2",
+            "text": "How did Allah comfort the Prophet (SAW) regarding his grief over the disbelievers' rejection?",
+            "answer": "He asked if the Prophet would kill himself with grief because they do not believe, and reminded him that if He willed, He could send a sign from heaven that would force them to submit."
+        },
+        {
+            "id": "ch26-q3",
+            "text": "What was the fear Musa (AS) expressed when Allah commanded him to go to Pharaoh?",
+            "answer": "He feared they would deny him, that his breast would be straitened, his tongue would not be fluent, and they had a charge of a crime against him (killing an Egyptian)."
+        },
+        {
+            "id": "ch26-q4",
+            "text": "What was Pharaoh's personal argument against Musa (AS) when he first arrived?",
+            "answer": "He reminded Musa that they had raised him as a child among them and accused him of being ungrateful for the 'favor' they did for him."
+        },
+        {
+            "id": "ch26-q5",
+            "text": "How did Musa (AS) define the 'Lord of the worlds' to Pharaoh?",
+            "answer": "The Lord of the heavens and the earth, the Lord of your forefathers, and the Lord of the East and the West."
+        },
+        {
+            "id": "ch26-q6",
+            "text": "What was the 'miracle of the staff' as described in the contest with the sorcerers?",
+            "answer": "It turned into a real serpent and swallowed up the falsehoods (illusions) that the sorcerers produced."
+        },
+        {
+            "id": "ch26-q7",
+            "text": "What did the sorcerers say to Pharaoh after they were threatened with crucifixion?",
+            "answer": "They said 'No harm. Indeed, to our Lord we will return. We hope our Lord will forgive us our sins because we were the first of the believers.'"
+        },
+        {
+            "id": "ch26-q8",
+            "text": "What command was given to Musa (AS) when Pharaoh and his army pursued the Children of Israel to the sea?",
+            "answer": "'Strike the sea with your staff.' It parted, and each part was like a great towering mountain."
+        },
+        {
+            "id": "ch26-q9",
+            "text": "What happened to Pharaoh's army after the Children of Israel crossed the sea?",
+            "answer": "Allah drowned the other party (the Egyptians) completely."
+        },
+        {
+            "id": "ch26-q10",
+            "text": "What did Ibrahim (AS) ask his father and his people regarding what they worshipped?",
+            "answer": "He asked, 'Do they hear you when you supplicate? Or do they benefit you or harm you?'"
+        },
+        {
+            "id": "ch26-q11",
+            "text": "Describe Ibrahim's (AS) description of his Lord in his debate with his people.",
+            "answer": "He described Allah as the One who created him, guides him, feeds him, gives him drink, heals him when sick, and will cause him to die then bring him to life."
+        },
+        {
+            "id": "ch26-q12",
+            "text": "What was Ibrahim's (AS) prayer regarding his 'mention' in the future?",
+            "answer": "He asked Allah to 'grant me a reputation of honor (Lisan Sidq) among later generations'."
+        },
+        {
+            "id": "ch26-q13",
+            "text": "Who will be saved on the Day of Judgment according to Ibrahim's (AS) prayer?",
+            "answer": "Only those who come to Allah with a 'Qalbun Salim' (a sound and pure heart)."
+        },
+        {
+            "id": "ch26-q14",
+            "text": "What did the 'lowest' people of Nuh's nation say to him regarding his followers?",
+            "answer": "They said, 'Shall we believe in you while the lowest [of people] follow you?'"
+        },
+        {
+            "id": "ch26-q15",
+            "text": "How did Nuh (AS) respond to his people's request to drive away the poor believers?",
+            "answer": "He said their account is only with his Lord and he is not one to drive away the believers."
+        },
+        {
+            "id": "ch26-q16",
+            "text": "What was the punishment for the people of Nuh mentioned in this Surah?",
+            "answer": "They were drowned, while Nuh and those with him were saved in the laden ship."
+        },
+        {
+            "id": "ch26-q17",
+            "text": "What did the people of 'Ad take pride in building as monuments?",
+            "answer": "Signs/buildings on every high place for amusement and strongholds as if they would live forever."
+        },
+        {
+            "id": "ch26-q18",
+            "text": "Which Prophet was sent to the people of 'Ad?",
+            "answer": "Prophet Hud (AS)."
+        },
+        {
+            "id": "ch26-q19",
+            "text": "How did Hud (AS) describe the people of 'Ad's behavior when they seized people?",
+            "answer": "He said they seized people as tyrants (Jabbarin)."
+        },
+        {
+            "id": "ch26-q20",
+            "text": "What was the punishment for the people of 'Ad?",
+            "answer": "They were destroyed, and Allah says in that is a sign, but most were not believers."
+        },
+        {
+            "id": "ch26-q21",
+            "text": "Which Prophet was sent to the people of Thamud?",
+            "answer": "Prophet Salih (AS)."
+        },
+        {
+            "id": "ch26-q22",
+            "text": "What were the people of Thamud skilled at building?",
+            "answer": "Hewing houses out of the mountains with great skill."
+        },
+        {
+            "id": "ch26-q23",
+            "text": "What was the miraculous sign given to the people of Thamud?",
+            "answer": "A She-Camel which had a designated day for drinking water, as did the people."
+        },
+        {
+            "id": "ch26-q24",
+            "text": "What happened after the people of Thamud hamstrung the She-Camel?",
+            "answer": "A punishment (shriek/earthquake) seized them and they became corpses in their homes."
+        },
+        {
+            "id": "ch26-q25",
+            "text": "Which Prophet was sent to the people who committed immorality never before seen?",
+            "answer": "Prophet Lut (AS)."
+        },
+        {
+            "id": "ch26-q26",
+            "text": "What was the people of Lut's reaction to his warnings?",
+            "answer": "They threatened to expel him from the city because he and his followers were 'people who keep themselves pure'."
+        },
+        {
+            "id": "ch26-q27",
+            "text": "What was the punishment for the people of Lut in this Surah?",
+            "answer": "Allah rained upon them a rain of stones, destroying all except Lut and his family (excluding his wife)."
+        },
+        {
+            "id": "ch26-q28",
+            "text": "Who were the 'People of the Wood' (Ashab al-Aykah)?",
+            "answer": "The people of Prophet Shu'ayb (AS)."
+        },
+        {
+            "id": "ch26-q29",
+            "text": "What economic commands did Shu'ayb give his people?",
+            "answer": "To give full measure, weigh with an even balance, and not deprive people of their due."
+        },
+        {
+            "id": "ch26-q30",
+            "text": "What was the 'Day of the Shadow' punishment?",
+            "answer": "A cloud that provided shade from the heat but then rained down fire/punishment on the people of Madyan."
+        },
+        {
+            "id": "ch26-q31",
+            "text": "Who brought down the Quran to the heart of the Prophet Muhammad (SAW)?",
+            "answer": "The Trustworthy Spirit (Jibril/Gabriel)."
+        },
+        {
+            "id": "ch26-q32",
+            "text": "In what language was the Quran revealed to be clear to its people?",
+            "answer": "In a clear Arabic tongue."
+        },
+        {
+            "id": "ch26-q33",
+            "text": "Was the Quran mentioned in the scriptures of former peoples?",
+            "answer": "Yes, 'And indeed, it is in the scriptures of former peoples.'"
+        },
+        {
+            "id": "ch26-q34",
+            "text": "What was a 'sign' for the disbelieving Quraysh that the Quran was true?",
+            "answer": "That the scholars of the Children of Israel recognized it."
+        },
+        {
+            "id": "ch26-q35",
+            "text": "If the Quran had been revealed to a non-Arab in a foreign language, would the Quraysh have believed?",
+            "answer": "No, they still would not have believed in it."
+        },
+        {
+            "id": "ch26-q36",
+            "text": "What is the Quranic response to the claim that Devils (Shayatin) brought down the Quran?",
+            "answer": "It is not suited for them, they are not able to do it, and they are removed from even hearing it."
+        },
+        {
+            "id": "ch26-q37",
+            "text": "What instruction did Allah give the Prophet (SAW) regarding his relatives?",
+            "answer": "To warn his closest kindred."
+        },
+        {
+            "id": "ch26-q38",
+            "text": "How should the Prophet treat the believers who follow him?",
+            "answer": "He should lower his wing (be kind and humble) to them."
+        },
+        {
+            "id": "ch26-q39",
+            "text": "What should the Prophet say if his relatives disobey him?",
+            "answer": "'Indeed, I am innocent of what you are doing.'"
+        },
+        {
+            "id": "ch26-q40",
+            "text": "Upon whom do the devils descend according to this Surah?",
+            "answer": "Upon every sinful liar."
+        },
+        {
+            "id": "ch26-q41",
+            "text": "Why is the Surah named 'The Poets'?",
+            "answer": "Because it distinguishes the Prophet from poets, noting that poets are followed by the deviant and wander in every valley of speech."
+        },
+        {
+            "id": "ch26-q42",
+            "text": "Which poets are exempted from the general criticism at the end?",
+            "answer": "Those who believe, do righteous deeds, remember Allah much, and defend themselves after being wronged."
+        },
+        {
+            "id": "ch26-q43",
+            "text": "What is the meaning of the word 'Ash-Shu'ara'?",
+            "answer": "The Poets."
+        },
+        {
+            "id": "ch26-q44",
+            "text": "What is the 'clear Book' mentioned in the opening?",
+            "answer": "The Quran."
+        },
+        {
+            "id": "ch26-q45",
+            "text": "What is the 'noble pair' mentioned regarding plants?",
+            "answer": "That Allah grows on the earth every kind of noble pair of vegetation as a sign."
+        },
+        {
+            "id": "ch26-q46",
+            "text": "What is the 'straitened breast' Musa feared?",
+            "answer": "A feeling of anxiety and inability to express himself clearly under pressure."
+        },
+        {
+            "id": "ch26-q47",
+            "text": "What is the 'tongue' issue Musa asked Allah to help with?",
+            "answer": "He asked that his tongue be fluent so people could understand his message."
+        },
+        {
+            "id": "ch26-q48",
+            "text": "What is the 'charge' Pharaoh held against Musa?",
+            "answer": "The accidental killing of an Egyptian man before he fled to Madyan."
+        },
+        {
+            "id": "ch26-q49",
+            "text": "What is the 'favor' Pharaoh claimed to have done for Musa?",
+            "answer": "Raising him in his palace and providing for him."
+        },
+        {
+            "id": "ch26-q50",
+            "text": "What was Musa's response to Pharaoh's 'favor' claim?",
+            "answer": "He said it was a favor only because Pharaoh had enslaved the Children of Israel."
+        },
+        {
+            "id": "ch26-q51",
+            "text": "What did Pharaoh threaten to do to Musa if he took a god other than him?",
+            "answer": "He threatened to make him among the prisoners."
+        },
+        {
+            "id": "ch26-q52",
+            "text": "What is the 'Day of the Festival' (Yawm al-Zinah)?",
+            "answer": "The day appointed for the public contest between Musa and the sorcerers."
+        },
+        {
+            "id": "ch26-q53",
+            "text": "What is the 'laden ship' (Al-Fulk al-Mashhun)?",
+            "answer": "The Ark of Nuh which was full of people and animals."
+        },
+        {
+            "id": "ch26-q54",
+            "text": "What is the 'reputation of honor' (Lisan Sidq)?",
+            "answer": "A legacy of being remembered truthfully and positively by future generations."
+        },
+        {
+            "id": "ch26-q55",
+            "text": "What is the 'Sound Heart' (Qalbun Salim)?",
+            "answer": "A heart free from shirk, doubt, and spiritual diseases."
+        },
+        {
+            "id": "ch26-q56",
+            "text": "What is the 'Shadow' (Zullah) in the context of the punishment of Madyan?",
+            "answer": "A cloud that appeared to provide relief but was actually the source of their destruction."
+        },
+        {
+            "id": "ch26-q57",
+            "text": "What is the 'Trustworthy Spirit' (Ar-Ruh al-Amin)?",
+            "answer": "The Angel Jibril (Gabriel)."
+        },
+        {
+            "id": "ch26-q58",
+            "text": "What is the 'clear Arabic tongue' (Lisanin Arabiyyin Mubin)?",
+            "answer": "The language of the Quran which is easy to understand and eloquent."
+        },
+        {
+            "id": "ch26-q59",
+            "text": "Who are the 'scholars of the Children of Israel' mentioned?",
+            "answer": "The sincere ones among them who knew the truth of the coming Prophet from their own scriptures."
+        },
+        {
+            "id": "ch26-q60",
+            "text": "What is the 'incitement' of the devils?",
+            "answer": "The way they inspire falsehood and sin in the hearts of people."
+        },
+        {
+            "id": "ch26-q61",
+            "text": "What is the 'Lowering of the wing'?",
+            "answer": "A metaphor for being humble, gentle, and compassionate toward others."
+        },
+        {
+            "id": "ch26-q62",
+            "text": "What is the 'Exalted in Might' (Al-Aziz) attribute?",
+            "answer": "Allah's supreme power and authority."
+        },
+        {
+            "id": "ch26-q63",
+            "text": "What is the 'Merciful' (Ar-Rahim) attribute?",
+            "answer": "Allah's deep compassion and kindness toward His creation."
+        },
+        {
+            "id": "ch26-q64",
+            "text": "What is the 'Sign' (Ayah) mentioned after every story?",
+            "answer": "A lesson or proof of Allah's power and the truth of His messengers."
+        },
+        {
+            "id": "ch26-q65",
+            "text": "Why were the 'strongholds' of 'Ad criticized?",
+            "answer": "Because they built them out of arrogance, thinking they would live forever."
+        },
+        {
+            "id": "ch26-q66",
+            "text": "What is the 'Skill' of the people of Thamud?",
+            "answer": "Their architectural ability to carve intricate homes into solid rock."
+        },
+        {
+            "id": "ch26-q67",
+            "text": "What was the 'designated day' for the She-Camel?",
+            "answer": "A day when she alone would drink from the well, and the people would drink on other days."
+        },
+        {
+            "id": "ch26-q68",
+            "text": "Why did the people of Lut dislike 'purity'?",
+            "answer": "Because it exposed and condemned their own immoral lifestyles."
+        },
+        {
+            "id": "ch26-q69",
+            "text": "What is the 'even balance' (Qistas al-Mustaqim)?",
+            "answer": "Fairness and justice in all business and social dealings."
+        },
+        {
+            "id": "ch26-q70",
+            "text": "What is the 'Repentance' mentioned for the poets?",
+            "answer": "Turning back to Allah and using their talents for good after having done wrong."
+        },
+        {
+            "id": "ch26-q71",
+            "text": "What is the 'Conclusion' (Munqalab) mentioned at the very end?",
+            "answer": "The ultimate destination and return of the wrongdoers to Allah's judgment."
+        },
+        {
+            "id": "ch26-q72",
+            "text": "What is the 'Messenger of the Lord of the worlds' title?",
+            "answer": "The status Musa claimed when addressing Pharaoh."
+        },
+        {
+            "id": "ch26-q73",
+            "text": "What is the 'Shining white hand' miracle?",
+            "answer": "Musa's hand becoming brilliantly white as a sign from Allah."
+        },
+        {
+            "id": "ch26-q74",
+            "text": "What was the 'Magic' of the sorcerers?",
+            "answer": "A visual deception produced with ropes and staffs."
+        },
+        {
+            "id": "ch26-q75",
+            "text": "What is the 'laden ship'?",
+            "answer": "The Ark which carried the seeds of a new humanity."
+        },
+        {
+            "id": "ch26-q76",
+            "text": "What is the 'Great Day' (Yawm al-Azim) punishment?",
+            "answer": "The Day of Judgment or the day of a specific nation's destruction."
+        },
+        {
+            "id": "ch26-q77",
+            "text": "What is the 'Truth' (Haqq) which Allah is?",
+            "answer": "The absolute and only true Deity."
+        },
+        {
+            "id": "ch26-q78",
+            "text": "What is the 'Record' (Dhikr) of the ancients?",
+            "answer": "The history and scriptures of past civilizations."
+        },
+        {
+            "id": "ch26-q79",
+            "text": "What is the 'Trustworthy' (Amin) quality of the messengers?",
+            "answer": "Their honesty and reliability in delivering Allah's message."
+        },
+        {
+            "id": "ch26-q80",
+            "text": "What is the final warning to the wrongdoers?",
+            "answer": "That they will soon know to what kind of return they will return."
+        }
+    ]
 }

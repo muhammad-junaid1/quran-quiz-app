@@ -1,0 +1,338 @@
+{
+    "id": 60,
+    "englishName": "Al-Mumtahanah",
+    "arabicName": "الممتحنة",
+    "translation": "The Examined One",
+    "questions": [
+        {
+            "id": "ch60-q1",
+            "text": "What is the central theme of Surah Al-Mumtahanah?",
+            "answer": "It teaches loyalty to Allah, ethics in relationships with non-Muslims, and guidance for community and family boundaries."
+        },
+        {
+            "id": "ch60-q2",
+            "text": "Why does the Surah warn against giving loyalty to those who actively fight faith and justice?",
+            "answer": "Because such loyalty harms the believer's faith and community and supports ظلم against truth."
+        },
+        {
+            "id": "ch60-q3",
+            "text": "True/False: The Surah teaches Muslims must hate all non-Muslims in all circumstances.",
+            "answer": "False. It distinguishes between hostility and peaceful relations, allowing kindness and justice with those who are not hostile."
+        },
+        {
+            "id": "ch60-q4",
+            "text": "How does Surah Al-Mumtahanah teach fairness toward non-hostile non-Muslims?",
+            "answer": "It permits kindness and justice toward those who do not fight Muslims or expel them."
+        },
+        {
+            "id": "ch60-q5",
+            "text": "What is one ethical principle about dealing with opponents taught by the Surah?",
+            "answer": "Do not betray faith and community; maintain integrity while upholding justice."
+        },
+        {
+            "id": "ch60-q6",
+            "text": "What example does the Surah highlight from Ibrahim (AS) regarding loyalty and clarity in faith?",
+            "answer": "Ibrahim modeled clear dissociation from shirk while maintaining principles and seeking guidance from Allah."
+        },
+        {
+            "id": "ch60-q7",
+            "text": "True/False: The Surah teaches that family relationships can override faith commitments.",
+            "answer": "False. It teaches faith and loyalty to Allah come first when values conflict."
+        },
+        {
+            "id": "ch60-q8",
+            "text": "How does the Surah teach believers to hope for change in relationships?",
+            "answer": "It indicates Allah can place affection after hostility, encouraging patience and good character."
+        },
+        {
+            "id": "ch60-q9",
+            "text": "What does Surah Al-Mumtahanah teach about Allah's power to change hearts?",
+            "answer": "Allah can transform relationships and guide people; believers should never lose hope in Allah."
+        },
+        {
+            "id": "ch60-q10",
+            "text": "What does the Surah teach about secrets and loyalty in community matters?",
+            "answer": "Do not disclose sensitive information to hostile enemies; loyalty and trust are part of faith."
+        },
+        {
+            "id": "ch60-q11",
+            "text": "True/False: The Surah suggests betrayal is acceptable if it brings worldly benefit.",
+            "answer": "False. It condemns betrayal and prioritizes faith over worldly gain."
+        },
+        {
+            "id": "ch60-q12",
+            "text": "What does Surah Al-Mumtahanah teach about Allah knowing hidden intentions?",
+            "answer": "Allah knows what hearts conceal, so sincerity and loyalty must be genuine."
+        },
+        {
+            "id": "ch60-q13",
+            "text": "How does this Surah guide a believer's behavior when living among different faiths?",
+            "answer": "Be just and kind with peaceful people while keeping loyalty to Allah and not supporting hostility."
+        },
+        {
+            "id": "ch60-q14",
+            "text": "What is one practical example of being just and kind without compromising faith?",
+            "answer": "Help neighbors, speak respectfully, and keep agreements, while rejecting participation in ظلم or shirk."
+        },
+        {
+            "id": "ch60-q15",
+            "text": "What does the Surah teach about testing sincerity in community decisions?",
+            "answer": "Believers must prove loyalty through actions, not just words, especially in sensitive situations."
+        },
+        {
+            "id": "ch60-q16",
+            "text": "True/False: The Surah teaches that kindness is weakness and should be avoided.",
+            "answer": "False. It encourages justice and kindness where appropriate."
+        },
+        {
+            "id": "ch60-q17",
+            "text": "What does the Surah teach about repentance for those who make mistakes in loyalty?",
+            "answer": "Repentance is open; believers should return to Allah and correct wrong actions."
+        },
+        {
+            "id": "ch60-q18",
+            "text": "What is the Surah's lesson about relying on Allah rather than human alliances?",
+            "answer": "Human alliances can fail, but Allah's support is reliable; rely on Allah with obedience."
+        },
+        {
+            "id": "ch60-q19",
+            "text": "How does Surah Al-Mumtahanah teach boundaries in love and friendship?",
+            "answer": "Love and friendship should not lead to supporting hostility toward faith; boundaries protect the heart."
+        },
+        {
+            "id": "ch60-q20",
+            "text": "What is one daily-life application for Muslims interacting with coworkers or classmates of other faiths?",
+            "answer": "Be respectful and fair, avoid religious compromise, and do not join wrongdoing against Muslims."
+        },
+        {
+            "id": "ch60-q21",
+            "text": "How does the Surah teach the difference between personal kindness and political betrayal?",
+            "answer": "Personal kindness can be good, but giving strategic support to hostile injustice is betrayal."
+        },
+        {
+            "id": "ch60-q22",
+            "text": "True/False: The Surah teaches that believers must be harsh in every interaction.",
+            "answer": "False. It allows kindness and justice with those who are not hostile."
+        },
+        {
+            "id": "ch60-q23",
+            "text": "What does the Surah teach about Allah's attributes in handling conflict?",
+            "answer": "Allah is powerful and wise; His guidance teaches balanced justice, not impulsive reactions."
+        },
+        {
+            "id": "ch60-q24",
+            "text": "How does the Surah teach that faith is tested (mumtahanah)?",
+            "answer": "Believers face situations where loyalty to Allah conflicts with worldly pressures, revealing sincerity."
+        },
+        {
+            "id": "ch60-q25",
+            "text": "What is one sign of sincere loyalty to Allah in difficult circumstances?",
+            "answer": "Choosing Allah's guidance over personal benefit, fear, or social approval."
+        },
+        {
+            "id": "ch60-q26",
+            "text": "How does Surah Al-Mumtahanah encourage believers to keep hope even with enemies?",
+            "answer": "It reminds that Allah can create affection and change outcomes, so believers should act with wisdom."
+        },
+        {
+            "id": "ch60-q27",
+            "text": "True/False: The Surah teaches that reconciliation is never possible.",
+            "answer": "False. It leaves room for Allah to change hearts and relationships."
+        },
+        {
+            "id": "ch60-q28",
+            "text": "What does the Surah teach about the limits of family loyalty when family opposes faith?",
+            "answer": "Family ties are respected, but faith and obedience to Allah are not sacrificed for family pressure."
+        },
+        {
+            "id": "ch60-q29",
+            "text": "What is one practical way to maintain family respect while keeping faith boundaries?",
+            "answer": "Be kind and respectful while refusing participation in shirk or wrongdoing."
+        },
+        {
+            "id": "ch60-q30",
+            "text": "How does Surah Al-Mumtahanah teach integrity in communication?",
+            "answer": "Do not leak secrets to harmful parties; honesty and trustworthiness are part of faith."
+        },
+        {
+            "id": "ch60-q31",
+            "text": "True/False: The Surah teaches that intentions do not matter as long as actions look good.",
+            "answer": "False. Allah knows intentions; sincerity is essential."
+        },
+        {
+            "id": "ch60-q32",
+            "text": "What does the Surah teach about Allah knowing what we conceal and reveal?",
+            "answer": "Allah knows both; therefore, believers must keep loyalty and ethics consistent."
+        },
+        {
+            "id": "ch60-q33",
+            "text": "How can believers avoid being manipulated by worldly pressure in conflicts?",
+            "answer": "Hold firmly to taqwa, consult wise believers, and remember Allah controls outcomes."
+        },
+        {
+            "id": "ch60-q34",
+            "text": "What is one moral lesson from Ibrahim's example mentioned in this Surah?",
+            "answer": "Be principled in tawhid while relying on Allah and avoiding compromise with shirk."
+        },
+        {
+            "id": "ch60-q35",
+            "text": "How does the Surah teach that true love must be guided by faith?",
+            "answer": "Because love without boundaries can lead to betrayal; faith keeps love righteous and safe."
+        },
+        {
+            "id": "ch60-q36",
+            "text": "True/False: The Surah suggests that being kind to peaceful non-Muslims is disloyalty.",
+            "answer": "False. It permits kindness and justice while maintaining faith loyalty."
+        },
+        {
+            "id": "ch60-q37",
+            "text": "How does this Surah help in navigating modern multicultural societies?",
+            "answer": "It provides a balanced framework: justice and kindness without compromising faith or supporting hostility."
+        },
+        {
+            "id": "ch60-q38",
+            "text": "What does the Surah teach about repentance and returning to Allah after mistakes?",
+            "answer": "Allah is forgiving and wise; believers can repent and correct their actions."
+        },
+        {
+            "id": "ch60-q39",
+            "text": "What is one daily practice to strengthen loyalty to Allah?",
+            "answer": "Consistent prayer, remembrance, and keeping priorities aligned with Allah's commands."
+        },
+        {
+            "id": "ch60-q40",
+            "text": "How does the Surah teach that community security includes moral security?",
+            "answer": "Protecting trust and preventing betrayal safeguards both the community and the soul."
+        },
+        {
+            "id": "ch60-q41",
+            "text": "True/False: The Surah teaches that ethics are flexible when dealing with enemies.",
+            "answer": "False. It teaches ethics and loyalty remain, while responses must be wise and just."
+        },
+        {
+            "id": "ch60-q42",
+            "text": "What does Surah Al-Mumtahanah teach about Allah's ability to reconcile people?",
+            "answer": "Allah can replace hostility with affection, reminding believers to remain hopeful and principled."
+        },
+        {
+            "id": "ch60-q43",
+            "text": "How can believers avoid extreme reactions (either hatred or naive trust) taught by this Surah?",
+            "answer": "Follow the Surah's balance: be just and kind with peaceful people, but keep firm boundaries with hostility."
+        },
+        {
+            "id": "ch60-q44",
+            "text": "What is one misconception corrected by this Surah about faith and relationships?",
+            "answer": "That faith requires either total isolation or total compromise; the Surah teaches balanced interaction."
+        },
+        {
+            "id": "ch60-q45",
+            "text": "True/False: The Surah teaches that building good character can never change someone's attitude toward Islam.",
+            "answer": "False. It leaves room for Allah to place affection and change hearts."
+        },
+        {
+            "id": "ch60-q46",
+            "text": "What does the Surah teach about community trust and confidentiality?",
+            "answer": "Trust is sacred; leaking sensitive information to hostile parties violates faith ethics."
+        },
+        {
+            "id": "ch60-q47",
+            "text": "How does this Surah encourage believers to manage emotions during hostility?",
+            "answer": "With taqwa, patience, and justice, not impulsive betrayal or oppression."
+        },
+        {
+            "id": "ch60-q48",
+            "text": "True/False: The Surah teaches that morality in war/peace is irrelevant compared to winning.",
+            "answer": "False. It emphasizes ethical boundaries and loyalty to Allah."
+        },
+        {
+            "id": "ch60-q49",
+            "text": "How does the Surah teach that faith is tested in real life, not only in prayer?",
+            "answer": "It addresses loyalty decisions, secrecy, relationships, and community ethics as tests of sincerity."
+        },
+        {
+            "id": "ch60-q50",
+            "text": "What is one ethical lesson from the Surah about social networks and information sharing?",
+            "answer": "Do not share information that can harm believers or support oppression; protect trust."
+        },
+        {
+            "id": "ch60-q51",
+            "text": "How can a believer make decisions when friendship conflicts with faith principles?",
+            "answer": "Choose Allah's guidance while maintaining fairness and good manners where possible."
+        },
+        {
+            "id": "ch60-q52",
+            "text": "True/False: The Surah suggests that faith is only an internal feeling with no practical boundaries.",
+            "answer": "False. It sets practical boundaries in loyalty and relationships."
+        },
+        {
+            "id": "ch60-q53",
+            "text": "What does the Surah teach about relying on Allah when feeling alone in faith?",
+            "answer": "Allah is sufficient; He can change outcomes and hearts, so believers remain steadfast."
+        },
+        {
+            "id": "ch60-q54",
+            "text": "How can this Surah help Muslims avoid both extremism and assimilation?",
+            "answer": "It teaches balanced justice and kindness with firm loyalty to Allah and refusal to support hostility."
+        },
+        {
+            "id": "ch60-q55",
+            "text": "What is one practical habit inspired by this Surah to keep priorities aligned?",
+            "answer": "Before big decisions, ask: does this please Allah and protect my faith and community trust?"
+        },
+        {
+            "id": "ch60-q56",
+            "text": "True/False: The Surah teaches that if someone is hostile, believers may become unjust.",
+            "answer": "False. It maintains justice as a principle even in difficult situations."
+        },
+        {
+            "id": "ch60-q57",
+            "text": "What is a concluding takeaway from Surah Al-Mumtahanah?",
+            "answer": "Faith requires principled loyalty, ethical conduct, and balanced relationships rooted in taqwa."
+        },
+        {
+            "id": "ch60-q58",
+            "text": "What is a final call to action inspired by this Surah?",
+            "answer": "Be just and kind where allowed, but never betray your faith or support oppression—Allah knows and judges."
+        },
+        {
+            "id": "ch60-q59",
+            "text": "How does the Surah teach maturity in handling disagreement?",
+            "answer": "By distinguishing hostility from peaceful difference and setting appropriate boundaries."
+        },
+        {
+            "id": "ch60-q60",
+            "text": "What is one misconception corrected about kindness and loyalty?",
+            "answer": "That kindness equals disloyalty; the Surah allows kindness while maintaining loyalty to Allah."
+        },
+        {
+            "id": "ch60-q61",
+            "text": "How does the Surah encourage believers to keep hope for guidance of others?",
+            "answer": "It reminds that Allah can place affection and change hearts."
+        },
+        {
+            "id": "ch60-q62",
+            "text": "True/False: The Surah teaches that personal emotions should determine moral boundaries.",
+            "answer": "False. Boundaries are guided by Allah's commands and wisdom."
+        },
+        {
+            "id": "ch60-q63",
+            "text": "How can a believer respond if they realize they shared something harmful?",
+            "answer": "Repent to Allah, correct the harm if possible, and strengthen future boundaries and trust."
+        },
+        {
+            "id": "ch60-q64",
+            "text": "What does Surah Al-Mumtahanah teach about the role of taqwa in politics and society?",
+            "answer": "Taqwa guides alliances, speech, and actions so justice is maintained and betrayal avoided."
+        },
+        {
+            "id": "ch60-q65",
+            "text": "How does this Surah connect tawhid to social ethics?",
+            "answer": "Loyalty to Allah shapes ethical conduct, boundaries, and trustworthiness in relationships."
+        },
+        {
+            "id": "ch60-q66",
+            "text": "What is one daily reminder inspired by this Surah about Allah's knowledge?",
+            "answer": "Allah knows what you conceal, so keep intentions pure and actions consistent."
+        }
+    ]
+}

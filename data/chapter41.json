@@ -1,108 +1,353 @@
 {
-  "id": 41,
-  "englishName": "Fussilat",
-  "arabicName": "فصلت",
-  "translation": "Explained in Detail",
-  "questions": [
-    {
-      "id": "ch41-q1",
-      "text": "What does the title 'Fussilat' mean?",
-      "answer": "It means 'Explained in Detail', referring to the verses of the Quran being clearly explained for a people who know."
-    },
-    {
-      "id": "ch41-q2",
-      "text": "What was the reaction of the disbelievers when the Quran was recited to them (Verse 5)?",
-      "answer": "They said their hearts were under coverings, their ears were deaf, and there was a screen between them and the Prophet."
-    },
-    {
-      "id": "ch41-q3",
-      "text": "How many days did it take for Allah to create the earth and its provisions?",
-      "answer": "The earth was created in two days, and its provisions were ordained in four days (totaling four for the earth's process)."
-    },
-    {
-      "id": "ch41-q4",
-      "text": "What was the response of the heavens and earth when Allah commanded them to come into being?",
-      "answer": "They said, 'We come willingly'."
-    },
-    {
-      "id": "ch41-q5",
-      "text": "How did Allah adorn the lowest heaven?",
-      "answer": "With lamps (stars) and as a protection."
-    },
-    {
-      "id": "ch41-q6",
-      "text": "What was the punishment for the people of 'Ad?",
-      "answer": "A screaming, cold wind during days of misfortune."
-    },
-    {
-      "id": "ch41-q7",
-      "text": "What was the pride of the people of 'Ad (Verse 15)?",
-      "answer": "They said, 'Who is greater than us in strength?'."
-    },
-    {
-      "id": "ch41-q8",
-      "text": "What will testify against the enemies of Allah on the Day of Judgment?",
-      "answer": "Their hearing, their sight, and their skins."
-    },
-    {
-      "id": "ch41-q9",
-      "text": "What will the people ask their skins on that Day?",
-      "answer": "'Why have you testified against us?' and the skins will reply that Allah, who gives speech to all things, gave them speech."
-    },
-    {
-      "id": "ch41-q10",
-      "text": "What did the disbelievers suggest people do to overcome the Quran (Verse 26)?",
-      "answer": "They said, 'Do not listen to this Quran and make noise during it that you may overcome'."
-    },
-    {
-      "id": "ch41-q11",
-      "text": "Who descends upon those who say 'Our Lord is Allah' and then remain steadfast?",
-      "answer": "The angels, giving them glad tidings of Paradise and telling them not to fear or grieve."
-    },
-    {
-      "id": "ch41-q12",
-      "text": "Who is better in speech than one who invites to Allah?",
-      "answer": "No one is better than the one who invites to Allah, does righteousness, and says 'Indeed, I am of the Muslims'."
-    },
-    {
-      "id": "ch41-q13",
-      "text": "How should a believer repel an evil deed (Verse 34)?",
-      "answer": "Repel it by that which is better, so that an enemy may become like a close friend."
-    },
-    {
-      "id": "ch41-q14",
-      "text": "Who is granted the ability to repel evil with good?",
-      "answer": "Only those who are patient and those who possess a great portion of good fortune."
-    },
-    {
-      "id": "ch41-q15",
-      "text": "What should one do if a whisper from Satan (Shaytan) touches them?",
-      "answer": "Seek refuge in Allah."
-    },
-    {
-      "id": "ch41-q16",
-      "text": "Why are the sun and the moon mentioned in Verse 37?",
-      "answer": "As signs of Allah; believers are commanded not to prostrate to the sun or moon, but to the One who created them."
-    },
-    {
-      "id": "ch41-q17",
-      "text": "How is the Quran described in Verse 41-42 regarding its protection?",
-      "answer": "As a mighty Book; falsehood cannot approach it from before it or from behind it."
-    },
-    {
-      "id": "ch41-q18",
-      "text": "What would the disbelievers have said if the Quran was revealed in a foreign language?",
-      "answer": "They would have asked why its verses were not explained in detail and how a foreign book could be for an Arab messenger."
-    },
-    {
-      "id": "ch41-q19",
-      "text": "Where will Allah show His signs to mankind so they know the truth (Verse 53)?",
-      "answer": "In the horizons (the universe) and within themselves."
-    },
-    {
-      "id": "ch41-q20",
-      "text": "Is Allah sufficient as a witness over all things?",
-      "answer": "Yes, He is a witness over everything."
-    }
-  ]
+    "id": 41,
+    "englishName": "Fussilat",
+    "arabicName": "فصلت",
+    "translation": "Explained in Detail",
+    "questions": [
+        {
+            "id": "ch41-q1",
+            "text": "True/False: The Surah suggests that clarity of the Quran guarantees everyone will accept it.",
+            "answer": "False. Some reject despite clarity because of pride and stubbornness."
+        },
+        {
+            "id": "ch41-q2",
+            "text": "What does the Surah teach about treating revelation as something to be drowned out or ignored?",
+            "answer": "It exposes this as a tactic of denial and warns it will not remove accountability."
+        },
+        {
+            "id": "ch41-q3",
+            "text": "How does Surah Fussilat balance warning and good news?",
+            "answer": "It warns of consequences for denial while giving glad tidings to those who believe and remain steadfast."
+        },
+        {
+            "id": "ch41-q4",
+            "text": "What lesson does the Surah teach about Allah's creation of the heavens and earth?",
+            "answer": "That creation is purposeful and ordered, pointing to Allah's wisdom and right to be worshipped."
+        },
+        {
+            "id": "ch41-q5",
+            "text": "Why does the Surah mention the obedience of the heavens and earth to Allah's command?",
+            "answer": "To show that all creation submits to Allah, so human arrogance is unreasonable."
+        },
+        {
+            "id": "ch41-q6",
+            "text": "What does the Surah teach about worshipping the sun and moon?",
+            "answer": "They are signs, not gods; worship belongs only to the One who created them."
+        },
+        {
+            "id": "ch41-q7",
+            "text": "True/False: The Surah treats shirk as compatible with acknowledging Allah as Creator.",
+            "answer": "False. It calls to worship Allah alone and rejects associating partners with Him."
+        },
+        {
+            "id": "ch41-q8",
+            "text": "How does the Surah describe the punishment of 'Ad as a warning to later peoples?",
+            "answer": "It shows that pride in strength did not save them; Allah destroyed them with a severe wind."
+        },
+        {
+            "id": "ch41-q9",
+            "text": "What is one psychological root of denial highlighted by the people of 'Ad?",
+            "answer": "Arrogance—thinking power and strength make them untouchable."
+        },
+        {
+            "id": "ch41-q10",
+            "text": "What does the Surah teach about body parts testifying in the Hereafter?",
+            "answer": "Even hearing, sight, and skin can speak by Allah's permission, making denial impossible."
+        },
+        {
+            "id": "ch41-q11",
+            "text": "What does the Surah teach about hidden sins that people think no one notices?",
+            "answer": "Nothing is truly hidden; Allah can bring even the body's testimony against a person."
+        },
+        {
+            "id": "ch41-q12",
+            "text": "How should a believer respond to harm or insults according to this Surah?",
+            "answer": "By repelling evil with what is better, which can soften hostility."
+        },
+        {
+            "id": "ch41-q13",
+            "text": "Why is repelling evil with good described as something only certain people can do?",
+            "answer": "Because it requires patience, self-control, and a strong portion of righteousness."
+        },
+        {
+            "id": "ch41-q14",
+            "text": "What should a person do when they feel a whisper from Satan?",
+            "answer": "Seek refuge in Allah and resist the impulse toward anger or sin."
+        },
+        {
+            "id": "ch41-q15",
+            "text": "What does Surah Fussilat teach about inviting others to Allah?",
+            "answer": "The best speech is calling to Allah, doing righteous deeds, and openly identifying as Muslim."
+        },
+        {
+            "id": "ch41-q16",
+            "text": "How does the Surah connect da'wah (inviting to Allah) with personal righteousness?",
+            "answer": "It links credibility to living righteously; good character strengthens the invitation."
+        },
+        {
+            "id": "ch41-q17",
+            "text": "What is one sign of steadfastness after declaring 'Our Lord is Allah'?",
+            "answer": "Remaining consistent in faith, avoiding major sins, and holding firm through trials."
+        },
+        {
+            "id": "ch41-q18",
+            "text": "What good news do angels give to the steadfast believers?",
+            "answer": "Do not fear or grieve; they are promised Paradise and support."
+        },
+        {
+            "id": "ch41-q19",
+            "text": "True/False: The Surah teaches that the Quran can be defeated by noise and distraction.",
+            "answer": "False. Distraction may prevent some hearts from listening, but it does not weaken the truth."
+        },
+        {
+            "id": "ch41-q20",
+            "text": "How does the Surah describe the Quran's strength and protection?",
+            "answer": "As a mighty book that falsehood cannot approach from any direction."
+        },
+        {
+            "id": "ch41-q21",
+            "text": "What does the Surah teach about people demanding the Quran be different (language/style) as an excuse?",
+            "answer": "That such demands are inconsistent and insincere; denial would continue regardless."
+        },
+        {
+            "id": "ch41-q22",
+            "text": "What does Surah Fussilat teach about Allah showing signs in the universe and within ourselves?",
+            "answer": "That external and internal signs will make the truth clear to sincere observers."
+        },
+        {
+            "id": "ch41-q23",
+            "text": "What is one practical way to reflect on Allah's signs 'within ourselves'?",
+            "answer": "By reflecting on conscience, life stages, emotions, and the soul's need for meaning and guidance."
+        },
+        {
+            "id": "ch41-q24",
+            "text": "How does the Surah correct the misconception that Allah is distant or unaware?",
+            "answer": "It emphasizes Allah's complete knowledge and that He is a sufficient witness over all things."
+        },
+        {
+            "id": "ch41-q25",
+            "text": "True/False: The Surah suggests that hearing the Quran automatically softens every heart.",
+            "answer": "False. Hearts can become hardened by pride and deliberate refusal."
+        },
+        {
+            "id": "ch41-q26",
+            "text": "What is one moral lesson from the destruction of 'Ad for modern people?",
+            "answer": "Do not be fooled by strength or technology; injustice and arrogance can still bring downfall."
+        },
+        {
+            "id": "ch41-q27",
+            "text": "How does the Surah teach emotional maturity in conflict?",
+            "answer": "By instructing believers to restrain anger, respond with excellence, and seek Allah's protection from Satan."
+        },
+        {
+            "id": "ch41-q28",
+            "text": "What does the Surah teach about the difference between a real friend and an enemy turning into a friend?",
+            "answer": "Consistent goodness can transform hostility into closeness by Allah's permission."
+        },
+        {
+            "id": "ch41-q29",
+            "text": "What does Surah Fussilat teach about humility in worship?",
+            "answer": "It directs worship away from created signs to the Creator, which is the essence of humility."
+        },
+        {
+            "id": "ch41-q30",
+            "text": "Why does the Surah highlight that Allah gives speech to all things?",
+            "answer": "To show Allah's absolute power and to remove the illusion that anyone can hide from judgment."
+        },
+        {
+            "id": "ch41-q31",
+            "text": "What is one lesson from the Surah about arrogance toward guidance?",
+            "answer": "Arrogance makes a person act as if they never heard Allah's verses, leading to loss."
+        },
+        {
+            "id": "ch41-q32",
+            "text": "How does this Surah encourage a believer to remain consistent in private and public?",
+            "answer": "By reminding that even the body can testify, so sincerity must be real, not performative."
+        },
+        {
+            "id": "ch41-q33",
+            "text": "True/False: The Surah teaches that repentance is unnecessary if someone feels 'good inside'.",
+            "answer": "False. It emphasizes truth, accountability, and the need to submit to Allah's guidance."
+        },
+        {
+            "id": "ch41-q34",
+            "text": "What does Surah Fussilat teach about the role of patience in achieving good character?",
+            "answer": "Patience is essential to respond with excellence, restrain anger, and keep worship sincere."
+        },
+        {
+            "id": "ch41-q35",
+            "text": "How can a person protect their heart when exposed to constant distractions from truth?",
+            "answer": "By actively listening, reflecting, seeking refuge in Allah, and building habits of remembrance."
+        },
+        {
+            "id": "ch41-q36",
+            "text": "What does the Surah teach about Allah's justice when people face consequences?",
+            "answer": "That people face outcomes based on what they chose, and Allah's judgment is fair and fully informed."
+        },
+        {
+            "id": "ch41-q37",
+            "text": "What is one spiritual benefit of responding to evil with good?",
+            "answer": "It purifies the heart from resentment and can become a means of guidance for others."
+        },
+        {
+            "id": "ch41-q38",
+            "text": "How does Surah Fussilat define true honor in speech?",
+            "answer": "True honor is in speech that invites to Allah and is backed by righteous action."
+        },
+        {
+            "id": "ch41-q39",
+            "text": "What is one concluding goal for someone studying Surah Fussilat?",
+            "answer": "To increase certainty in the Quran, worship Allah alone, strengthen character, and prepare for accountability."
+        },
+        {
+            "id": "ch41-q40",
+            "text": "What does the Surah teach about accepting correction when truth becomes clear?",
+            "answer": "A sincere person submits and reforms, while arrogant hearts resist and create excuses."
+        },
+        {
+            "id": "ch41-q41",
+            "text": "What is one way this Surah strengthens belief in the Hereafter without relying on ayah memorization?",
+            "answer": "By describing accountability, testimony of the body, and clear moral consequences of choices."
+        },
+        {
+            "id": "ch41-q42",
+            "text": "True/False: The Surah suggests that Allah's signs are too subtle to be meaningful.",
+            "answer": "False. It presents signs as abundant in creation and within ourselves."
+        },
+        {
+            "id": "ch41-q43",
+            "text": "What does the Surah teach about using power responsibly?",
+            "answer": "It warns that pride in power leads to destruction, and that submission to Allah is the path to safety."
+        },
+        {
+            "id": "ch41-q44",
+            "text": "How does Surah Fussilat encourage gratitude toward Allah?",
+            "answer": "By pointing to creation, provision, and guidance as signs that deserve gratitude and obedience."
+        },
+        {
+            "id": "ch41-q45",
+            "text": "What does the Surah teach about the value of calm reflection versus stubborn reaction?",
+            "answer": "Calm reflection opens the heart to truth, while stubborn reaction locks the heart from guidance."
+        },
+        {
+            "id": "ch41-q46",
+            "text": "What is one daily-life application of the Surah's instruction to seek refuge in Allah?",
+            "answer": "When anger rises, pause, seek refuge, and choose the better response instead of impulsive harm."
+        },
+        {
+            "id": "ch41-q47",
+            "text": "Why does Surah Fussilat emphasize that Allah is sufficient as a witness?",
+            "answer": "Because Allah's knowledge and testimony are complete, removing all excuses in judgment."
+        },
+        {
+            "id": "ch41-q48",
+            "text": "What does the Surah imply about the final outcome of truth versus falsehood?",
+            "answer": "Truth becomes clear and prevails, while falsehood and denial end in regret and punishment."
+        },
+        {
+            "id": "ch41-q49",
+            "text": "What is the Surah's strongest call to action for a believer's character?",
+            "answer": "Live tawhid with steadfastness, repel evil with good, and stay protected from Satan through remembrance."
+        },
+        {
+            "id": "ch41-q50",
+            "text": "What does the title 'Fussilat' mean?",
+            "answer": "It means 'Explained in Detail', referring to the verses of the Quran being clearly explained for a people who know."
+        },
+        {
+            "id": "ch41-q51",
+            "text": "What reaction does the Surah describe from some disbelievers when the Quran is recited?",
+            "answer": "They said their hearts were under coverings, their ears were deaf, and there was a screen between them and the Prophet."
+        },
+        {
+            "id": "ch41-q52",
+            "text": "How many days did it take for Allah to create the earth and its provisions?",
+            "answer": "The earth was created in two days, and its provisions were ordained in four days (totaling four for the earth's process)."
+        },
+        {
+            "id": "ch41-q53",
+            "text": "What was the response of the heavens and earth when Allah commanded them to come into being?",
+            "answer": "They said, 'We come willingly'."
+        },
+        {
+            "id": "ch41-q54",
+            "text": "How did Allah adorn the lowest heaven?",
+            "answer": "With lamps (stars) and as a protection."
+        },
+        {
+            "id": "ch41-q55",
+            "text": "What was the punishment for the people of 'Ad?",
+            "answer": "A screaming, cold wind during days of misfortune."
+        },
+        {
+            "id": "ch41-q56",
+            "text": "What was the prideful claim of the people of 'Ad?",
+            "answer": "They said, 'Who is greater than us in strength?'."
+        },
+        {
+            "id": "ch41-q57",
+            "text": "What will testify against the enemies of Allah on the Day of Judgment?",
+            "answer": "Their hearing, their sight, and their skins."
+        },
+        {
+            "id": "ch41-q58",
+            "text": "What will the people ask their skins on that Day?",
+            "answer": "'Why have you testified against us?' and the skins will reply that Allah, who gives speech to all things, gave them speech."
+        },
+        {
+            "id": "ch41-q59",
+            "text": "What tactic did some disbelievers suggest to drown out the Quran's message?",
+            "answer": "They said, 'Do not listen to this Quran and make noise during it that you may overcome'."
+        },
+        {
+            "id": "ch41-q60",
+            "text": "Who descends upon those who say 'Our Lord is Allah' and then remain steadfast?",
+            "answer": "The angels, giving them glad tidings of Paradise and telling them not to fear or grieve."
+        },
+        {
+            "id": "ch41-q61",
+            "text": "Who is better in speech than one who invites to Allah?",
+            "answer": "No one is better than the one who invites to Allah, does righteousness, and says 'Indeed, I am of the Muslims'."
+        },
+        {
+            "id": "ch41-q62",
+            "text": "How should a believer respond to an evil deed according to this Surah?",
+            "answer": "Repel it by that which is better, so that an enemy may become like a close friend."
+        },
+        {
+            "id": "ch41-q63",
+            "text": "Who is granted the ability to repel evil with good?",
+            "answer": "Only those who are patient and those who possess a great portion of good fortune."
+        },
+        {
+            "id": "ch41-q64",
+            "text": "What should one do if a whisper from Satan (Shaytan) touches them?",
+            "answer": "Seek refuge in Allah."
+        },
+        {
+            "id": "ch41-q65",
+            "text": "Why are the sun and the moon mentioned in this Surah?",
+            "answer": "As signs of Allah; believers are commanded not to prostrate to the sun or moon, but to the One who created them."
+        },
+        {
+            "id": "ch41-q66",
+            "text": "How does the Surah describe the Quran regarding its protection from falsehood?",
+            "answer": "As a mighty Book; falsehood cannot approach it from before it or from behind it."
+        },
+        {
+            "id": "ch41-q67",
+            "text": "What would the disbelievers have said if the Quran was revealed in a foreign language?",
+            "answer": "They would have asked why its verses were not explained in detail and how a foreign book could be for an Arab messenger."
+        },
+        {
+            "id": "ch41-q68",
+            "text": "Where will Allah show His signs to mankind so they recognize the truth?",
+            "answer": "In the horizons (the universe) and within themselves."
+        },
+        {
+            "id": "ch41-q69",
+            "text": "Is Allah sufficient as a witness over all things?",
+            "answer": "Yes, He is a witness over everything."
+        }
+    ]
 }

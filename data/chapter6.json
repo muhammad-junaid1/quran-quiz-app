@@ -11,48 +11,398 @@
     },
     {
       "id": "ch6-q2",
+      "text": "What does the Surah say about the creation of the heavens and the earth at the very beginning?",
+      "answer": "It affirms that all praise is for Allah who created the heavens and the earth and made the darkness and the light."
+    },
+    {
+      "id": "ch6-q3",
+      "text": "How does Allah describe the creation of man in this Surah?",
+      "answer": "He created you from clay and then decreed a term (for your life)."
+    },
+    {
+      "id": "ch6-q4",
       "text": "How does Allah respond to the disbelievers' demand for an Angel to be sent as a Messenger?",
       "answer": "If an angel were sent, he would have been made to look like a man, and the matter would have been decided immediately, leaving them no time for repentance."
     },
     {
-      "id": "ch6-q3",
+      "id": "ch6-q5",
+      "text": "What is the attribute of Mercy that Allah has decreed for Himself in this Surah?",
+      "answer": "He has prescribed Mercy upon Himself; He will surely gather you on the Day of Resurrection, about which there is no doubt."
+    },
+    {
+      "id": "ch6-q6",
+      "text": "What is the 'greatest testimony' mentioned in this Surah?",
+      "answer": "The testimony of Allah Himself that there is no deity except Him, and that Muhammad is His messenger."
+    },
+    {
+      "id": "ch6-q7",
+      "text": "How do those who were given the Scripture (People of the Book) recognize the Prophet Muhammad according to this Surah?",
+      "answer": "They recognize him just as they recognize their own sons."
+    },
+    {
+      "id": "ch6-q8",
+      "text": "What will the disbelievers wish for when they are made to stand before the Fire?",
+      "answer": "They will say, 'Oh, would that we could be returned [to the world] and not deny the signs of our Lord and be among the believers.'"
+    },
+    {
+      "id": "ch6-q9",
+      "text": "How does the Surah describe the life of this world compared to the Hereafter?",
+      "answer": "The life of this world is nothing but amusement and diversion, but the home of the Hereafter is best for those who fear Allah."
+    },
+    {
+      "id": "ch6-q10",
+      "text": "What comfort does Allah give the Prophet regarding the disbelievers' rejection of him?",
+      "answer": "Allah tells him that they do not really deny him, but it is the verses of Allah that the wrongdoers reject; messengers before him were also denied and were patient."
+    },
+    {
+      "id": "ch6-q11",
+      "text": "Are animals and birds considered 'communities' according to this Surah?",
+      "answer": "Yes, 'there is no creature on the earth or bird that flies with its wings except that they are communities like you.'"
+    },
+    {
+      "id": "ch6-q12",
+      "text": "What happens to the hearts and eyes of those who refuse to believe despite seeing signs?",
+      "answer": "Allah turns their hearts and their eyes away, just as they refused to believe the first time, leaving them to wander blindly in their transgression."
+    },
+    {
+      "id": "ch6-q13",
+      "text": "What is the purpose of the trials (distress and adversity) that Allah sent to previous nations?",
+      "answer": "So that they might humble themselves before Him."
+    },
+    {
+      "id": "ch6-q14",
+      "text": "Who has the power over a person's hearing and sight according to the Surah?",
+      "answer": "Allah; He asks the disbelievers: 'If Allah should take away your hearing and your sight and seal your hearts, which deity other than Allah could restore them to you?'"
+    },
+    {
+      "id": "ch6-q15",
+      "text": "What are the 'Mafatih al-Ghayb' (Keys of the Unseen) mentioned in this Surah?",
+      "answer": "The keys of the unseen, known only to Allah; He knows everything on land and in the sea, every leaf that falls, and every grain in the darkness of the earth."
+    },
+    {
+      "id": "ch6-q16",
+      "text": "What happens to the soul during sleep according to this Surah?",
+      "answer": "Allah takes the souls at night and knows what you have committed by day, then He returns them to complete a decreed term."
+    },
+    {
+      "id": "ch6-q17",
+      "text": "How does Allah describe His protection over His servants in this Surah?",
+      "answer": "He is the Dominant over His servants, and He sends over you guardian angels until death comes to one of you."
+    },
+    {
+      "id": "ch6-q18",
+      "text": "What should a believer do when they see people mocking the verses of the Quran?",
+      "answer": "They should turn away from them until they enter into another conversation."
+    },
+    {
+      "id": "ch6-q19",
       "text": "Describe the process Ibrahim (AS) used to realize the Oneness of Allah in this Surah.",
       "answer": "He observed the stars, the moon, and the sun, noting that they all 'set' (disappear), concluding that he does not love things that set and that only the Creator of the heavens and earth is worthy of worship."
     },
     {
-      "id": "ch6-q4",
-      "text": "How many Prophets are mentioned by name in a single sequence in this Surah (Verses 83-86)?",
-      "answer": "Eighteen Prophets."
+      "id": "ch6-q20",
+      "text": "What was the name of Ibrahim's father as mentioned in this Surah?",
+      "answer": "Azar."
     },
     {
-      "id": "ch6-q5",
+      "id": "ch6-q21",
+      "text": "What is the 'clear proof' Ibrahim (AS) used against his people's polytheism?",
+      "answer": "He asked them how they could expect him to fear their idols when they do not fear associating partners with Allah without any authority."
+    },
+    {
+      "id": "ch6-q22",
+      "text": "Who are the ones who have 'security' and are guided?",
+      "answer": "Those who believe and do not mix their belief with 'Zulm' (wrongdoing/shirk)."
+    },
+    {
+      "id": "ch6-q23",
+      "text": "How many Prophets are mentioned by name in a single sequence in this Surah (Verses 83-86)?",
+      "answer": "Eighteen Prophets (including Ibrahim, Ishaq, Yaqub, Nuh, Dawud, Sulayman, Ayyub, Yusuf, Musa, Harun, Zakariyya, Yahya, Isa, Ilyas, Isma'il, Al-Yasa', Yunus, and Lut)."
+    },
+    {
+      "id": "ch6-q24",
+      "text": "What would have happened even to these great prophets if they had associated partners with Allah (Shirk)?",
+      "answer": "All the good deeds they had done would have become worthless."
+    },
+    {
+      "id": "ch6-q25",
+      "text": "What is the response to those who say, 'Allah has not revealed anything to a human being'?",
+      "answer": "Allah asks: 'Who then revealed the Scripture which Musa brought as a light and guidance for the people?'"
+    },
+    {
+      "id": "ch6-q26",
+      "text": "How does Allah describe the state of the wrongdoers during the agonies of death?",
+      "answer": "The angels will stretch out their hands, saying, 'Deliver your souls! This day you shall be recompensed with the punishment of humiliation.'"
+    },
+    {
+      "id": "ch6-q27",
+      "text": "What signs of Allah's power are mentioned regarding the earth and the sky?",
+      "answer": "Splitting the grain and the date-stone, bringing the living from the dead, the dawning of the morning, and making the sun and moon for counting time."
+    },
+    {
+      "id": "ch6-q28",
+      "text": "What is the purpose of the stars according to this Surah?",
+      "answer": "So that people may guide themselves by them through the darkness of the land and the sea."
+    },
+    {
+      "id": "ch6-q29",
+      "text": "How does Allah describe His relationship with vision in this Surah?",
+      "answer": "'Vision perceives Him not, but He perceives all vision; and He is the Subtle, the Acquainted.'"
+    },
+    {
+      "id": "ch6-q30",
+      "text": "Is the Prophet Muhammad (SAW) a guardian over the people's choices?",
+      "answer": "No, he is told to say: 'I am not a guardian over you.' His duty is only to convey the insights that have come from the Lord."
+    },
+    {
+      "id": "ch6-q31",
+      "text": "What is the prohibition regarding insulting the idols of other religions?",
+      "answer": "Believers are forbidden from insulting those they call upon besides Allah, lest they insult Allah out of enmity without knowledge."
+    },
+    {
+      "id": "ch6-q32",
+      "text": "What is the 'Jinn and Men' enmity mentioned regarding messengers?",
+      "answer": "Every prophet had enemies—devils from among mankind and jinn—inspiring one another with flowery speech of deception."
+    },
+    {
+      "id": "ch6-q33",
+      "text": "What is the danger of following the majority of people on earth?",
+      "answer": "If you obey most of those upon the earth, they will lead you away from the path of Allah; they follow nothing but assumption."
+    },
+    {
+      "id": "ch6-q34",
+      "text": "What is the ruling on eating meat over which the name of Allah has been mentioned?",
+      "answer": "Believers are told to eat of that over which the name of Allah has been mentioned if they are believers in His verses."
+    },
+    {
+      "id": "ch6-q35",
+      "text": "Is it permissible to eat meat over which the name of Allah was NOT mentioned?",
+      "answer": "No, it is described as 'Fisq' (grave disobedience) and a deception from the devils."
+    },
+    {
+      "id": "ch6-q36",
+      "text": "What is the parable given for someone who was 'dead' and then Allah gave them life?",
+      "answer": "It refers to someone who was in misguidance (dead) and Allah gave them faith (life) and a light by which to walk among people."
+    },
+    {
+      "id": "ch6-q37",
+      "text": "What happens to the chest of a person whom Allah wills to guide?",
+      "answer": "He expands their chest to contain Islam."
+    },
+    {
+      "id": "ch6-q38",
+      "text": "What happens to the chest of a person whom Allah wills to leave astray?",
+      "answer": "He makes their chest tight and constricted as though they were climbing into the sky."
+    },
+    {
+      "id": "ch6-q39",
+      "text": "What is 'Dar al-Salam' (The Home of Peace)?",
+      "answer": "It is Paradise, which Allah promises to those who follow the Straight Path."
+    },
+    {
+      "id": "ch6-q40",
+      "text": "What will the Jinn be asked on the Day of Judgment regarding the Messengers?",
+      "answer": "They will be asked: 'Did there not come to you messengers from among yourselves, relating to you My verses and warning you of the meeting of this Day?'"
+    },
+    {
+      "id": "ch6-q41",
+      "text": "Does Allah destroy cities for their wrongdoing while their people are unaware?",
+      "answer": "No, Allah does not destroy cities for wrongdoing unless He has first sent a messenger to warn them."
+    },
+    {
+      "id": "ch6-q42",
+      "text": "What were some of the pagan superstitions regarding crops and cattle mentioned in this Surah?",
+      "answer": "They would assign a portion of their crops and cattle to Allah and a portion to their 'partners' (idols), often favoring the idols over Allah."
+    },
+    {
+      "id": "ch6-q43",
+      "text": "What heinous practice did some polytheists do to their children, inspired by their idols?",
+      "answer": "They would kill their children (infanticide) thinking it was a righteous act."
+    },
+    {
+      "id": "ch6-q44",
       "text": "What does 'Al-An'am' mean and why is the Surah named this?",
       "answer": "It means 'The Cattle,' named so because it refutes the pagan superstitious beliefs and practices regarding livestock."
     },
     {
-      "id": "ch6-q6",
-      "text": "What is the prohibition regarding insulting the idols or gods of other religions?",
-      "answer": "Verse 108 forbids insulting those they call upon besides Allah, lest they insult Allah out of enmity without knowledge."
+      "id": "ch6-q45",
+      "text": "What are the four types of meat explicitly mentioned as forbidden in this Surah?",
+      "answer": "Dead animals, spilled blood, the flesh of swine, and that which has been dedicated to other than Allah."
     },
     {
-      "id": "ch6-q7",
-      "text": "How does Allah describe the 'Keys of the Unseen' (Mafatih al-Ghayb)?",
-      "answer": "No one knows them except Him. He knows what is on the land and in the sea; not a leaf falls but He knows it."
+      "id": "ch6-q46",
+      "text": "Why were certain animals with 'claws' or the fat of certain animals forbidden for the Jews?",
+      "answer": "As a punishment for their rebellion and transgression."
     },
     {
-      "id": "ch6-q8",
+      "id": "ch6-q47",
       "text": "What is the 'Straight Path' (Sirat al-Mustaqim) summarized in the 'Ten Commandments' of this Surah?",
-      "answer": "Verses 151-153: No Shirk, kindness to parents, not killing children out of poverty, avoiding immorality, not killing unjustly, protecting orphan wealth, justice in weights/measures, justice in speech, and fulfilling Allah's covenant."
+      "answer": "A set of moral and spiritual laws found in Verses 151-153 covering belief, family, and social justice."
     },
     {
-      "id": "ch6-q9",
-      "text": "What is the reward for a good deed compared to a bad deed in Verse 160?",
-      "answer": "A good deed is rewarded tenfold, while a bad deed is recompensed only with its equivalent."
+      "id": "ch6-q48",
+      "text": "What is the first of the Ten Commandments mentioned in Surah Al-An'am?",
+      "answer": "Do not associate anything with Allah (No Shirk)."
     },
     {
-      "id": "ch6-q10",
-      "text": "What is the ultimate declaration of a believer's life in Verse 162?",
-      "answer": "'Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds'."
+      "id": "ch6-q49",
+      "text": "What is the command regarding parents in the Ten Commandments?",
+      "answer": "To be good and kind to one's parents."
+    },
+    {
+      "id": "ch6-q50",
+      "text": "What is the command regarding children and poverty?",
+      "answer": "Do not kill your children out of poverty; Allah provides for you and for them."
+    },
+    {
+      "id": "ch6-q51",
+      "text": "What is the command regarding 'immoralities' (Fawahish)?",
+      "answer": "Do not approach immoralities—whether open or secret."
+    },
+    {
+      "id": "ch6-q52",
+      "text": "What is the command regarding the sanctity of life?",
+      "answer": "Do not kill the soul which Allah has forbidden, except by right (legal justice)."
+    },
+    {
+      "id": "ch6-q53",
+      "text": "What is the command regarding the property of orphans?",
+      "answer": "Do not approach the property of an orphan except in the best way (to improve it), until he reaches maturity."
+    },
+    {
+      "id": "ch6-q54",
+      "text": "What is the command regarding business transactions?",
+      "answer": "Give full measure and weight with justice."
+    },
+    {
+      "id": "ch6-q55",
+      "text": "What is the command regarding speech and testimony?",
+      "answer": "When you speak, be just, even if it concerns a near relative."
+    },
+    {
+      "id": "ch6-q56",
+      "text": "What is the command regarding Allah's covenant?",
+      "answer": "Fulfill the covenant of Allah."
+    },
+    {
+      "id": "ch6-q57",
+      "text": "How does Allah describe the 'Straight Path' in relation to other paths?",
+      "answer": "The Straight Path is one; believers are told to follow it and not follow other paths that would separate them from His path."
+    },
+    {
+      "id": "ch6-q58",
+      "text": "How is the Quran described in the final section of the Surah?",
+      "answer": "As a blessed Book that has been revealed, which must be followed with Taqwa (consciousness of Allah) so that you may receive mercy."
+    },
+    {
+      "id": "ch6-q59",
+      "text": "What will happen on the Day when some of the 'Signs of your Lord' finally come?",
+      "answer": "No soul will benefit from its faith if it had not believed before or earned through its faith some good."
+    },
+    {
+      "id": "ch6-q60",
+      "text": "What is the warning against those who divide their religion into sects?",
+      "answer": "The Prophet is told that he has nothing to do with those who have divided their religion and become sects; their affair is only with Allah."
+    },
+    {
+      "id": "ch6-q61",
+      "text": "What is the reward for a good deed compared to a bad deed in this Surah?",
+      "answer": "A person who brings a good deed will have ten times like it, while the one who brings an evil deed will be recompensed only with the equivalent."
+    },
+    {
+      "id": "ch6-q62",
+      "text": "What is the ultimate declaration of a believer's life and worship mentioned at the end of the Surah?",
+      "answer": "'Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds.'"
+    },
+    {
+      "id": "ch6-q63",
+      "text": "Does any soul bear the burden of another soul's sins?",
+      "answer": "No, 'no bearer of burdens will bear the burden of another.'"
+    },
+    {
+      "id": "ch6-q64",
+      "text": "How does Allah describe the succession of generations on earth?",
+      "answer": "He has made you successors (Khalifa) upon the earth and has raised some of you above others in degrees of rank to test you."
+    },
+    {
+      "id": "ch6-q65",
+      "text": "How does the Surah conclude regarding Allah's attributes?",
+      "answer": "It states that Allah is swift in retribution, but He is also certainly Forgiving and Merciful."
+    },
+    {
+      "id": "ch6-q66",
+      "text": "What is the 'argument' that Allah gave to Ibrahim against his people?",
+      "answer": "The realization that celestial bodies are created and temporary, while the Creator is eternal."
+    },
+    {
+      "id": "ch6-q67",
+      "text": "Why does Allah mention that the disbelievers would not believe even if angels were sent down to them?",
+      "answer": "To show that their rejection is due to arrogance and hard-heartedness, not a lack of evidence."
+    },
+    {
+      "id": "ch6-q68",
+      "text": "What is the meaning of 'Al-An'am' in the context of Islamic law?",
+      "answer": "It refers to domestic livestock: camels, cattle, sheep, and goats."
+    },
+    {
+      "id": "ch6-q69",
+      "text": "What is the 'truth' with which the heavens and the earth were created?",
+      "answer": "With purpose, justice, and wisdom, not aimlessly."
+    },
+    {
+      "id": "ch6-q70",
+      "text": "How does Allah describe the darkness and light in this Surah?",
+      "answer": "As creations of Allah; yet the disbelievers hold others as equal to their Lord."
+    },
+    {
+      "id": "ch6-q71",
+      "text": "What is the 'decreed term' (Ajal) mentioned regarding human life?",
+      "answer": "The fixed lifespan of every individual known only to Allah."
+    },
+    {
+      "id": "ch6-q72",
+      "text": "What is the consequence of those who invent lies against Allah?",
+      "answer": "They are the most unjust and will never succeed."
+    },
+    {
+      "id": "ch6-q73",
+      "text": "What is the 'Meeting with Allah' which the losers have denied?",
+      "answer": "The Day of Resurrection and the standing for judgment."
+    },
+    {
+      "id": "ch6-q74",
+      "text": "What does the Surah say about the 'blind' and the 'seeing'?",
+      "answer": "That they are not equal; just as the darkness and light are not equal."
+    },
+    {
+      "id": "ch6-q75",
+      "text": "What is the 'message' that the Prophet is commanded to deliver regarding himself?",
+      "answer": "That he does not possess the treasuries of Allah, nor does he know the unseen, nor is he an angel; he only follows what is revealed to him."
+    },
+    {
+      "id": "ch6-q76",
+      "text": "How should the believers treat those who fear being gathered to their Lord?",
+      "answer": "They should warn them with the Quran so they may gain Taqwa."
+    },
+    {
+      "id": "ch6-q77",
+      "text": "What is the reward for the 'Home of Peace'?",
+      "answer": "A place with their Lord as a reward for what they used to do."
+    },
+    {
+      "id": "ch6-q78",
+      "text": "What is the 'weight and measure' a metaphor for in this Surah?",
+      "answer": "Justice and fairness in all dealings and judgments."
+    },
+    {
+      "id": "ch6-q79",
+      "text": "What does the Surah say about the 'Path of Allah' being straight?",
+      "answer": "It is the only path that leads to success, and all other paths lead to division and ruin."
+    },
+    {
+      "id": "ch6-q80",
+      "text": "What is the final message regarding the 'Degrees of Rank' in this life?",
+      "answer": "They are a trial from Allah to see how people use what they have been given."
     }
   ]
 }

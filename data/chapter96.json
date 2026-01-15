@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch96-q1",
+            "text": "Why does the Surah begin with 'Read/Recite'?",
+            "answer": "To establish that Islam is built on revelation, knowledge, and learning in Allah’s name."
+        },
+        {
+            "id": "ch96-q2",
+            "text": "True/False: The Surah teaches knowledge should be separated from worship and Allah’s name.",
+            "answer": "False. It commands reading in the name of the Lord who created."
+        },
+        {
+            "id": "ch96-q3",
+            "text": "What does the Surah teach by mentioning human creation from a clinging substance?",
+            "answer": "Humility: humans come from a humble origin, so arrogance against Allah is irrational."
+        },
+        {
+            "id": "ch96-q4",
+            "text": "What does describing Allah as 'The Most Generous' teach about learning?",
+            "answer": "Knowledge is a gift from Allah; learning should lead to gratitude and obedience."
+        },
+        {
+            "id": "ch96-q5",
+            "text": "What is one lesson from mentioning the Pen?",
+            "answer": "Writing and teaching are honored means of preserving guidance and spreading beneficial knowledge."
+        },
+        {
+            "id": "ch96-q6",
+            "text": "How does Surah Al-'Alaq explain why humans become rebellious?",
+            "answer": "People transgress when they feel self-sufficient and forget their dependence on Allah."
+        },
+        {
+            "id": "ch96-q7",
+            "text": "True/False: The Surah teaches that wealth or status makes a person truly independent.",
+            "answer": "False. It exposes self-sufficiency as an illusion that leads to rebellion."
+        },
+        {
+            "id": "ch96-q8",
+            "text": "What does the Surah teach about the final return of every person?",
+            "answer": "Everyone returns to Allah, so life must be lived with accountability."
+        },
+        {
+            "id": "ch96-q9",
+            "text": "What moral message is taught by the story of someone trying to block prayer?",
+            "answer": "Tyranny often attacks worship; believers must remain firm and not obey such oppression."
+        },
+        {
+            "id": "ch96-q10",
+            "text": "What is one modern example of ‘forbidding the servant’ from worship?",
+            "answer": "Mocking prayer, pressuring Muslims to hide Islam, or punishing people for practicing faith."
+        },
+        {
+            "id": "ch96-q11",
+            "text": "How does the Surah expose the danger of lying and sinning leadership?",
+            "answer": "It condemns the arrogant oppressor and warns that Allah can seize him decisively."
+        },
+        {
+            "id": "ch96-q12",
+            "text": "True/False: The Surah suggests powerful social circles can protect someone from Allah.",
+            "answer": "False. It contrasts human councils with angels of punishment."
+        },
+        {
+            "id": "ch96-q13",
+            "text": "What does being dragged by the forelock symbolize morally?",
+            "answer": "Humiliation of arrogant rebellion and Allah’s complete authority over the oppressor."
+        },
+        {
+            "id": "ch96-q14",
+            "text": "What is one lesson about courage from the Surah’s ending?",
+            "answer": "Do not obey the tyrant; continue worship and draw near to Allah."
+        },
+        {
+            "id": "ch96-q15",
+            "text": "How does the Surah connect knowledge with humility?",
+            "answer": "True knowledge begins with recognizing Allah as Creator and ends with prostration, not pride."
+        },
+        {
+            "id": "ch96-q16",
+            "text": "True/False: The Surah teaches that prostration is merely physical movement without meaning.",
+            "answer": "False. It presents prostration as closeness to Allah."
+        },
+        {
+            "id": "ch96-q17",
+            "text": "How can a believer apply the Surah’s message about self-sufficiency today?",
+            "answer": "Fight غرور by gratitude, charity, and remembering dependence on Allah in daily decisions."
+        },
+        {
+            "id": "ch96-q18",
+            "text": "What is one practical habit inspired by the Surah’s opening command?",
+            "answer": "Begin learning sessions with intention for Allah and end them by acting on what you learn."
+        },
+        {
+            "id": "ch96-q19",
+            "text": "How does this Surah balance warning and hope?",
+            "answer": "It warns the arrogant oppressor while calling the believer to draw near to Allah."
+        },
+        {
+            "id": "ch96-q20",
+            "text": "True/False: The Surah teaches that Allah’s generosity means sin has no consequences.",
+            "answer": "False. It shows judgment and consequences for arrogant rebellion."
+        },
+        {
+            "id": "ch96-q21",
             "text": "What is the historical significance of the first five verses of this Surah?",
             "answer": "They were the very first verses of the Quran revealed to Prophet Muhammad (SAW) in the Cave of Hira."
         },
         {
-            "id": "ch96-q2",
+            "id": "ch96-q22",
             "text": "What is the first command in the Quran?",
             "answer": "Iqra! (Read / Recite!)."
         },
         {
-            "id": "ch96-q3",
+            "id": "ch96-q23",
             "text": "In whose name should the reading be done?",
             "answer": "In the name of your Lord who created."
         },
         {
-            "id": "ch96-q4",
-            "text": "From what was the human created according to Verse 2?",
+            "id": "ch96-q24",
+            "text": "From what was the human created according to this Surah?",
             "answer": "From an 'Alaq' (a clinging clot or a blood-like substance)."
         },
         {
-            "id": "ch96-q5",
-            "text": "How is the Lord described in Verse 3?",
+            "id": "ch96-q25",
+            "text": "How is the Lord described in this Surah’s opening?",
             "answer": "Al-Akram (The Most Generous)."
         },
         {
-            "id": "ch96-q6",
-            "text": "What was the instrument of teaching mentioned in Verse 4?",
+            "id": "ch96-q26",
+            "text": "What was the instrument of teaching mentioned in this Surah?",
             "answer": "The Pen (Al-Qalam)."
         },
         {
-            "id": "ch96-q7",
-            "text": "What did Allah teach the human in Verse 5?",
+            "id": "ch96-q27",
+            "text": "What did Allah teach the human according to this Surah?",
             "answer": "He taught him that which he knew not."
         },
         {
-            "id": "ch96-q8",
-            "text": "Why does man transgress according to Verse 6-7?",
+            "id": "ch96-q28",
+            "text": "Why does man transgress according to this Surah?",
             "answer": "Because he sees himself as self-sufficient (Istaghna)."
         },
         {
-            "id": "ch96-q9",
+            "id": "ch96-q29",
             "text": "To whom is the final return?",
             "answer": "To your Lord."
         },
         {
-            "id": "ch96-q10",
-            "text": "Who is the 'one who forbids' mentioned in Verse 9?",
+            "id": "ch96-q30",
+            "text": "Who is the 'one who forbids' mentioned in this Surah?",
             "answer": "Abu Jahl, who tried to prevent the Prophet (SAW) from praying."
         },
         {
-            "id": "ch96-q11",
+            "id": "ch96-q31",
             "text": "What was the 'servant' (Prophet) doing when he was forbidden?",
             "answer": "He was praying."
         },
         {
-            "id": "ch96-q12",
+            "id": "ch96-q32",
             "text": "What is the 'lying, sinning forelock' (Nasiyah)?",
             "answer": "It refers to Abu Jahl's forehead/mind which led his arrogant actions."
         },
         {
-            "id": "ch96-q13",
-            "text": "What will Allah do if the transgressor does not desist (Verse 15)?",
+            "id": "ch96-q33",
+            "text": "What will Allah do if the transgressor does not desist, according to this Surah?",
             "answer": "He will drag him by the forelock."
         },
         {
-            "id": "ch96-q14",
+            "id": "ch96-q34",
             "text": "What did Abu Jahl threaten to call if the Prophet continued praying?",
             "answer": "His 'Nadiyah' (council/associates)."
         },
         {
-            "id": "ch96-q15",
+            "id": "ch96-q35",
             "text": "Who will Allah call if the enemy calls his associates?",
             "answer": "The 'Zabaniyah' (Angels of punishment/Hell)."
         },
         {
-            "id": "ch96-q16",
+            "id": "ch96-q36",
             "text": "What is the final command of the Surah?",
             "answer": "Do not obey him (the transgressor). Prostrate and draw near [to Allah]."
         },
         {
-            "id": "ch96-q17",
-            "text": "Does this Surah contain a verse of Sajdah?",
+            "id": "ch96-q37",
+            "text": "Yes, It includes an ayah for prostration.",
             "answer": "Yes, the last verse is a verse of obligatory prostration."
         },
         {
-            "id": "ch96-q18",
+            "id": "ch96-q38",
             "text": "What is the link between 'The Pen' and 'The Clot' in this Surah?",
             "answer": "It contrasts the humble, biological origin of man (clot) with his high intellectual potential (writing/knowledge)."
         },
         {
-            "id": "ch96-q19",
+            "id": "ch96-q39",
             "text": "What does 'Iqra' signify for the Muslim Ummah?",
             "answer": "The high value placed on literacy, knowledge, and divine revelation."
         },
         {
-            "id": "ch96-q20",
+            "id": "ch96-q40",
             "text": "How does Allah address the arrogance of Abu Jahl?",
             "answer": "By reminding him that he is entirely within Allah's power and that his worldly support (his council) is nothing compared to the angels of Hell."
         }

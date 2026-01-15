@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch93-q1",
+            "text": "Why does the Surah swear by morning brightness and the still night?",
+            "answer": "To teach that changes (like day and night) are normal, including pauses, and Allah’s care continues."
+        },
+        {
+            "id": "ch93-q2",
+            "text": "True/False: The Surah teaches that delays in relief mean Allah hates a believer.",
+            "answer": "False. It shows Allah may test with pauses, but His care remains."
+        },
+        {
+            "id": "ch93-q3",
+            "text": "How does Surah Ad-Duha correct despair during spiritual dryness?",
+            "answer": "It reassures that Allah has not left the servant and that future good is coming by Allah’s mercy."
+        },
+        {
+            "id": "ch93-q4",
+            "text": "What does the Surah teach about the Hereafter compared to dunya for the Prophet?",
+            "answer": "The Hereafter is better and more lasting, so believers should keep their priorities aligned."
+        },
+        {
+            "id": "ch93-q5",
+            "text": "What is one lesson from the promise ‘your Lord will give you and you will be satisfied’?",
+            "answer": "Allah’s gifts are purposeful and complete; trust Allah’s timing and outcome."
+        },
+        {
+            "id": "ch93-q6",
+            "text": "How does the Surah teach gratitude through recalling past blessings?",
+            "answer": "It reminds how Allah helped in vulnerability (orphanhood, searching, need) to strengthen trust now."
+        },
+        {
+            "id": "ch93-q7",
+            "text": "True/False: The Surah teaches that remembering past hardships is only painful and should be avoided.",
+            "answer": "False. Remembering Allah’s past help strengthens faith and resilience."
+        },
+        {
+            "id": "ch93-q8",
+            "text": "What does the command about the orphan teach about Islamic character?",
+            "answer": "Mercy and dignity for the vulnerable are central; do not oppress or humiliate them."
+        },
+        {
+            "id": "ch93-q9",
+            "text": "What does the command about the petitioner teach about community ethics?",
+            "answer": "Treat people who ask with kindness and respect, even if you cannot give."
+        },
+        {
+            "id": "ch93-q10",
+            "text": "What is a practical way to apply ‘do not repel the one who asks’ today?",
+            "answer": "Respond politely, offer what you can, or guide them to help—without harshness or shame."
+        },
+        {
+            "id": "ch93-q11",
+            "text": "How can a believer ‘proclaim the favor of your Lord’ without showing off?",
+            "answer": "Speak with gratitude, attribute blessings to Allah, and use blessings in obedience and service."
+        },
+        {
+            "id": "ch93-q12",
+            "text": "True/False: The Surah teaches that gratitude is only words and not action.",
+            "answer": "False. Gratitude includes how you treat others and how you use blessings."
+        },
+        {
+            "id": "ch93-q13",
+            "text": "How does this Surah teach that Allah’s future support is built on past support?",
+            "answer": "It points to Allah’s care in earlier weakness as proof Allah will continue helping."
+        },
+        {
+            "id": "ch93-q14",
+            "text": "What is one way this Surah can help someone dealing with loneliness?",
+            "answer": "It reminds that Allah did not abandon the Prophet, and Allah’s care is near for the believer too."
+        },
+        {
+            "id": "ch93-q15",
+            "text": "How does Surah Ad-Duha connect spirituality with social mercy?",
+            "answer": "Comfort from Allah is followed by commands to be gentle with orphans and those who ask."
+        },
+        {
+            "id": "ch93-q16",
+            "text": "True/False: The Surah suggests a believer can be close to Allah while being harsh to the weak.",
+            "answer": "False. It ties closeness to mercy and gratitude."
+        },
+        {
+            "id": "ch93-q17",
+            "text": "What does the Surah teach about interpreting tests and pauses correctly?",
+            "answer": "Do not assume abandonment; keep hope and continue obedience until relief comes."
+        },
+        {
+            "id": "ch93-q18",
+            "text": "How can a believer respond when they feel their dua is delayed?",
+            "answer": "Stay patient, continue worship, and remember Allah’s past favors and wisdom in timing."
+        },
+        {
+            "id": "ch93-q19",
+            "text": "What is one daily practice inspired by this Surah’s tone of comfort?",
+            "answer": "Start the day with gratitude and end it by recalling one past mercy Allah granted you."
+        },
+        {
+            "id": "ch93-q20",
+            "text": "True/False: The Surah teaches that the Prophet’s value depends on people’s opinions.",
+            "answer": "False. It centers Allah’s care and honor, not people’s rumors."
+        },
+        {
+            "id": "ch93-q21",
             "text": "What does 'Ad-Duha' refer to?",
             "answer": "The morning brightness or the forenoon."
         },
         {
-            "id": "ch93-q2",
+            "id": "ch93-q22",
             "text": "What is the second oath in the Surah?",
             "answer": "The night when it covers with darkness/is still."
         },
         {
-            "id": "ch93-q3",
+            "id": "ch93-q23",
             "text": "What was the rumor the disbelievers spread that this Surah refutes?",
             "answer": "They said that Allah had forsaken Prophet Muhammad (SAW) because revelation had paused."
         },
         {
-            "id": "ch93-q4",
-            "text": "What is the reassurance given in Verse 3?",
+            "id": "ch93-q24",
+            "text": "What is the reassurance given in this Surah?",
             "answer": "Your Lord has not taken leave of you, nor has He detested you."
         },
         {
-            "id": "ch93-q5",
+            "id": "ch93-q25",
             "text": "How does the Hereafter compare to the first [life] for the Prophet (SAW)?",
             "answer": "The Hereafter is better for him than the first (worldly) life."
         },
         {
-            "id": "ch93-q6",
-            "text": "What is the promise in Verse 5?",
+            "id": "ch93-q26",
+            "text": "What is the promise in this Surah about Allah’s gift and satisfaction?",
             "answer": "Your Lord is going to give to you, and you will be satisfied."
         },
         {
-            "id": "ch93-q7",
-            "text": "What three states of the Prophet's early life are mentioned in Verses 6-8?",
+            "id": "ch93-q27",
+            "text": "What three states of the Prophet's early life are mentioned in this Surah?",
             "answer": "He was an orphan, he was wandering/lost (seeking truth), and he was poor/in need."
         },
         {
-            "id": "ch93-q8",
+            "id": "ch93-q28",
             "text": "How did Allah resolve the Prophet's state as an orphan?",
             "answer": "He found him an orphan and gave him shelter."
         },
         {
-            "id": "ch93-q9",
+            "id": "ch93-q29",
             "text": "How did Allah resolve the Prophet's state of 'wandering'?",
             "answer": "He found him lost/wandering and guided him."
         },
         {
-            "id": "ch93-q10",
+            "id": "ch93-q30",
             "text": "How did Allah resolve the Prophet's state of 'need'?",
             "answer": "He found him in need and made him self-sufficient/wealthy."
         },
         {
-            "id": "ch93-q11",
-            "text": "What is the command regarding the orphan (Verse 9)?",
+            "id": "ch93-q31",
+            "text": "What is the command regarding the orphan in this Surah?",
             "answer": "Do not oppress or treat the orphan with harshness."
         },
         {
-            "id": "ch93-q12",
-            "text": "What is the command regarding the petitioner/beggar (Verse 10)?",
+            "id": "ch93-q32",
+            "text": "What is the command regarding the petitioner/beggar in this Surah?",
             "answer": "Do not repel or scold the one who asks."
         },
         {
-            "id": "ch93-q13",
+            "id": "ch93-q33",
             "text": "What should the Prophet (and believers) do regarding the favor of their Lord?",
-            "answer": "Proclaim it / Speak of it (Verse 11)."
+            "answer": "Proclaim it / speak of it with gratitude."
         },
         {
-            "id": "ch93-q14",
+            "id": "ch93-q34",
             "text": "What is the 'favor' (Ni'mah) referred to at the end?",
             "answer": "It includes the Quran, Prophethood, and all spiritual and material blessings."
         },
         {
-            "id": "ch93-q15",
+            "id": "ch93-q35",
             "text": "What is the emotional tone of Surah Ad-Duha?",
             "answer": "One of intense comfort, affection, and reassurance."
         },
         {
-            "id": "ch93-q16",
+            "id": "ch93-q36",
             "text": "True or False: This Surah teaches that past help from Allah is a proof of future support.",
             "answer": "True."
         },
         {
-            "id": "ch93-q17",
+            "id": "ch93-q37",
             "text": "Why is 'the night when it is still' mentioned after 'the morning brightness'?",
             "answer": "It may represent the pause in revelation, which is as natural and necessary as the night following the day."
         },
         {
-            "id": "ch93-q18",
-            "text": "What is the relationship between Verse 5 and the concept of 'Shafa'ah' (Intercession)?",
+            "id": "ch93-q38",
+            "text": "What is the relationship between this Surah’s promise of satisfaction and the concept of intercession (shafa'ah)?",
             "answer": "Scholars say the Prophet (SAW) will not be satisfied until his entire Ummah is forgiven."
         },
         {
-            "id": "ch93-q19",
+            "id": "ch93-q39",
             "text": "What does 'Fa-Aghna' (made self-sufficient) mean for the Prophet?",
             "answer": "Contentment of the heart and the wealth Khadijah (RA) brought to him."
         },
         {
-            "id": "ch93-q20",
+            "id": "ch93-q40",
             "text": "How does this Surah instruct us to handle our past?",
             "answer": "By reflecting on how Allah took care of us when we were vulnerable, to strengthen our current faith."
         }

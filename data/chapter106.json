@@ -6,101 +6,156 @@
     "questions": [
         {
             "id": "ch106-q1",
+            "text": "How does Surah Quraysh define gratitude in one action?",
+            "answer": "Worship the Lord of the House—the One who gave food and security."
+        },
+        {
+            "id": "ch106-q2",
+            "text": "True/False: The Surah teaches that prosperity is proof of Allah’s approval even if people commit shirk.",
+            "answer": "False. It uses prosperity as an argument for tawhid, not for arrogance."
+        },
+        {
+            "id": "ch106-q3",
+            "text": "What does ‘ilaf’ teach about Allah’s favor in daily systems like trade?",
+            "answer": "Allah can make routines stable and safe; even ‘normal’ economic life is a gift."
+        },
+        {
+            "id": "ch106-q4",
+            "text": "What is one modern equivalent of the two journeys (winter/summer) as a blessing?",
+            "answer": "Stable supply chains, safe travel, and predictable work opportunities."
+        },
+        {
+            "id": "ch106-q5",
+            "text": "How does the Surah connect provision (food) with spiritual responsibility?",
+            "answer": "Provision should lead to worship and obedience, not heedlessness."
+        },
+        {
+            "id": "ch106-q6",
+            "text": "Why does the Surah mention security (against fear) as a blessing?",
+            "answer": "Because safety is necessary for worship and life; it is a major mercy from Allah."
+        },
+        {
+            "id": "ch106-q7",
+            "text": "True/False: The Surah teaches safety comes only from human alliances and politics.",
+            "answer": "False. It attributes safety and provision to Allah."
+        },
+        {
+            "id": "ch106-q8",
+            "text": "What are practical ways to show gratitude for both safety and provision?",
+            "answer": "Safety: Pray on time, avoid ظلم, and use safety to do good rather than sin. Provision: Earn halal, give charity, and avoid waste and arrogance."
+        },
+        {
+            "id": "ch106-q9",
+            "text": "How does Surah Quraysh warn against taking blessings for granted?",
+            "answer": "It implies these favors could be removed; the right response is worship."
+        },
+        {
+            "id": "ch106-q10",
+            "text": "How can this Surah guide a community’s economics ethically?",
+            "answer": "See trade as a trust from Allah and keep it halal, fair, and connected to worship."
+        },
+        {
+            "id": "ch106-q11",
+            "text": "True/False: The Surah teaches worship is separate from economic life.",
+            "answer": "False. It ties commerce blessings directly to the duty of worship."
+        },
+        {
+            "id": "ch106-q12",
             "text": "Who is the Surah named after?",
             "answer": "The tribe of Quraysh."
         },
         {
-            "id": "ch106-q2",
+            "id": "ch106-q13",
             "text": "What does 'Ilaf' mean in the context of this Surah?",
             "answer": "Familiarity, custom, habit, or the protective covenants for their trade."
         },
         {
-            "id": "ch106-q3",
+            "id": "ch106-q14",
             "text": "How many trade journeys are mentioned?",
             "answer": "Two journeys: the winter journey and the summer journey."
         },
         {
-            "id": "ch106-q4",
+            "id": "ch106-q15",
             "text": "Where did the winter journey go?",
             "answer": "To Yemen."
         },
         {
-            "id": "ch106-q5",
+            "id": "ch106-q16",
             "text": "Where did the summer journey go?",
             "answer": "To Ash-Sham (Greater Syria)."
         },
         {
-            "id": "ch106-q6",
-            "text": "What is the primary command given to the Quraysh in Verse 3?",
+            "id": "ch106-q17",
+            "text": "What is the primary command given to the Quraysh in this Surah?",
             "answer": "To worship the Lord of this House (the Kaaba)."
         },
         {
-            "id": "ch106-q7",
+            "id": "ch106-q18",
             "text": "What are the two favors of Allah mentioned in the last verse?",
             "answer": "He fed them against hunger and made them secure against fear."
         },
         {
-            "id": "ch106-q8",
+            "id": "ch106-q19",
             "text": "Why were the Quraysh respected and allowed to travel safely?",
             "answer": "Because they were the custodians of the Kaaba (Allah's House)."
         },
         {
-            "id": "ch106-q9",
+            "id": "ch106-q20",
             "text": "What is the connection between Surah Al-Fil and Surah Quraysh?",
             "answer": "In Al-Fil, Allah destroyed their enemies; in Quraysh, He reminds them to worship Him because of the security and prosperity resulting from that protection."
         },
         {
-            "id": "ch106-q10",
+            "id": "ch106-q21",
             "text": "What is the significance of the word 'Bayt' in this Surah?",
             "answer": "It refers to the Kaaba, the center of their honor and livelihood."
         },
         {
-            "id": "ch106-q11",
+            "id": "ch106-q22",
             "text": "What does 'security against fear' refer to?",
             "answer": "The safety from attacks by other tribes and the general peace in the city of Makkah."
         },
         {
-            "id": "ch106-q12",
+            "id": "ch106-q23",
             "text": "Is this a Makkan or Madinan Surah?",
             "answer": "Makkan."
         },
         {
-            "id": "ch106-q13",
+            "id": "ch106-q24",
             "text": "How many verses are in Surah Quraysh?",
             "answer": "Four verses."
         },
         {
-            "id": "ch106-q14",
+            "id": "ch106-q25",
             "text": "What is the lesson on gratitude in this Surah?",
             "answer": "That when Allah provides food and security, the proper response is to worship Him alone."
         },
         {
-            "id": "ch106-q15",
+            "id": "ch106-q26",
             "text": "What does 'Ilafihim' imply about their trade?",
             "answer": "That Allah made their trade journeys smooth and customary for them."
         },
         {
-            "id": "ch106-q16",
+            "id": "ch106-q27",
             "text": "Can this Surah be seen as a call to Tawhid?",
             "answer": "Yes, by identifying Allah as the 'Lord of the House' and the only provider."
         },
         {
-            "id": "ch106-q17",
+            "id": "ch106-q28",
             "text": "What is the meaning of 'Min Ju''?",
             "answer": "From / Against hunger."
         },
         {
-            "id": "ch106-q18",
+            "id": "ch106-q29",
             "text": "What is the meaning of 'Min Khawf'?",
             "answer": "From / Against fear."
         },
         {
-            "id": "ch106-q19",
+            "id": "ch106-q30",
             "text": "True or False: The Quraysh were prosperous because of their own cleverness alone.",
             "answer": "False, the Surah attributes their sustenance and safety to Allah."
         },
         {
-            "id": "ch106-q20",
+            "id": "ch106-q31",
             "text": "How many 'favors' are summarized in the final verse?",
             "answer": "Two: Provision (food) and Protection (safety)."
         }

@@ -1,430 +1,1008 @@
-
+{
+  "id": 2,
+  "englishName": "Al-Baqarah",
+  "arabicName": "البقرة",
+  "translation": "The Cow",
+  "questions": [
     {
-      "id": 2,
-      "englishName": "Al-Baqarah",
-      "arabicName": "البقرة",
-      "translation": "The Cow",
-    "questions": [
-        {
-          "id": "ch2-q1",
-          "text": "What is the significance of the 'Muqatta'at' (disconnected letters) like 'Alif, Lam, Mim' at the start of the Surah?",
-          "answer": "They are a challenge to the master linguists of Arabia, showing that while the Quran uses their letters, they cannot replicate its divine origin. Their specific meanings are known only to Allah."
-        },
-        {
-          "id": "ch2-q2",
-          "text": "In the opening, for whom is the Quran described as a 'guidance'?",
-          "answer": "It is a guidance for the 'Muttaqin' (those conscious of Allah/the God-fearing)."
-        },
-        {
-          "id": "ch2-q3",
-          "text": "True or False: Belief in the 'Ghaib' (Unseen) is a fundamental characteristic of the Muttaqin.",
-          "answer": "True."
-        },
-        {
-          "id": "ch2-q4",
-          "text": "The Surah describes three types of people in the first 20 verses. Name them.",
-          "answer": "The Believers (Mu'minun), the Disbelievers (Kafirun), and the Hypocrites (Munafiqun)."
-        },
-        {
-          "id": "ch2-q5",
-          "text": "How does Surah Al-Baqarah describe the 'sickness' in the hearts of the hypocrites?",
-          "answer": "It is a sickness of doubt and hypocrisy which Allah increases because of their persistence in lying and deception."
-        },
-        {
-          "id": "ch2-q6",
-          "text": "What parable is used to describe the hypocrites' state of confusion regarding the light of guidance?",
-          "answer": "The parable of someone who kindles a fire but then loses its light, and the parable of a rainstorm with darkness, thunder, and lightning."
-        },
-        {
-          "id": "ch2-q7",
-          "text": "What is the very first command (Amr) addressed to all of mankind in this Surah?",
-          "answer": "The command to 'Worship your Lord, who created you and those before you' (Verse 21)."
-        },
-        {
-          "id": "ch2-q8",
-          "text": "What challenge does Allah pose to those who doubt the authenticity of the Quran?",
-          "answer": "To produce even a single Surah similar to it and to call upon their witnesses besides Allah if they are truthful."
-        },
-        {
-          "id": "ch2-q9",
-          "text": "Why did the Angels question Allah when He announced the creation of a 'Khalifah' (vicegerent) on Earth?",
-          "answer": "They feared the new creation would spread corruption and shed blood, based on their observation of previous inhabitants or general nature."
-        },
-        {
-          "id": "ch2-q10",
-          "text": "What specific ability did Allah give Adam (AS) to prove his superiority over the Angels?",
-          "answer": "Allah taught Adam the names of all things (knowledge/intellect)."
-        },
-        {
-          "id": "ch2-q11",
-          "text": "Who refused to prostrate to Adam and what was the reason given for the refusal?",
-          "answer": "Iblis (Satan) refused out of arrogance (Kibr), believing he was superior because he was made of fire and Adam of clay."
-        },
-        {
-          "id": "ch2-q12",
-          "text": "What was the immediate consequence for Adam and Hawa (Eve) after eating from the forbidden tree?",
-          "answer": "Their private parts became apparent to them, and they were sent down from the Garden to dwell on Earth."
-        },
-        {
-          "id": "ch2-q13",
-          "text": "Did Adam (AS) remain in a state of sin after the fall, or was he forgiven?",
-          "answer": "He was forgiven after receiving specific words of repentance from Allah and turning back to Him."
-        },
-        {
-          "id": "ch2-q14",
-          "text": "Why does the Surah address the Children of Israel (Bani Israel) extensively?",
-          "answer": "To provide lessons from their history, warn the Muslims against repeating their mistakes, and remind them of the fulfilled prophecies regarding Prophet Muhammad."
-        },
-        {
-          "id": "ch2-q15",
-          "text": "What was the 'Covenant' Allah took from the Children of Israel that they violated?",
-          "answer": "To worship only Allah, be good to parents and kin, establish prayer, and give Zakat."
-        },
-        {
-          "id": "ch2-q16",
-          "text": "Explain the significance of the incident of the 'Cow' (Al-Baqarah) from which the Surah takes its name.",
-          "answer": "It involved a murder mystery where Allah commanded the sacrifice of a cow to identify the killer, testing their obedience as they tried to avoid the command with excessive questioning."
-        },
-        {
-          "id": "ch2-q17",
-          "text": "What does the phrase 'their hearts became like stones or even harder' refer to?",
-          "answer": "It refers to the Children of Israel whose hearts became hardened against signs, unlike stones which sometimes gush water or fall out of fear of Allah."
-        },
-        {
-          "id": "ch2-q18",
-          "text": "What did the people of Prophet Musa (AS) demand to see before they would believe?",
-          "answer": "They demanded to see Allah 'plainly' (manifestly), resulting in them being struck by a thunderbolt."
-        },
-        {
-          "id": "ch2-q19",
-          "text": "Which two angels were sent to Babylon as a trial for the people regarding magic (Sihr)?",
-          "answer": "Harut and Marut."
-        },
-        {
-          "id": "ch2-q20",
-          "text": "What is the Quranic stance on the 'Abrogation' (Naskh) of verses?",
-          "answer": "Allah states that if He abrogates a verse or causes it to be forgotten, He brings one better than it or similar to it."
-        },
-        {
-          "id": "ch2-q21",
-          "text": "Which Prophet is credited with raising the foundations of the Kaaba with his son?",
-          "answer": "Prophet Ibrahim (Abraham) and his son Isma'il (Ishmael)."
-        },
-        {
-          "id": "ch2-q22",
-          "text": "What was the prayer of Ibrahim (AS) for the city of Makkah and its future people?",
-          "answer": "He prayed for its security, for its people to have provision, and for a Messenger to be raised from among them."
-        },
-        {
-          "id": "ch2-q23",
-          "text": "What is the 'Millah' (religion/way) of Ibrahim described as in this Surah?",
-          "answer": "The way of 'Hanif' (pure monotheism), being one who submits entirely to Allah."
-        },
-        {
-          "id": "ch2-q24",
-          "text": "Where was the original Qiblah (direction of prayer) before it was changed to the Kaaba?",
-          "answer": "Bait al-Maqdis (Jerusalem)."
-        },
-        {
-          "id": "ch2-q25",
-          "text": "What does Allah say is the reason for changing the Qiblah?",
-          "answer": "To test the people and distinguish those who follow the Messenger from those who turn on their heels."
-        },
-        {
-          "id": "ch2-q26",
-          "text": "Does Allah expect the believers to be tested? If so, with what?",
-          "answer": "Yes, with fear, hunger, loss of wealth, lives, and fruits."
-        },
-        {
-          "id": "ch2-q27",
-          "text": "What is the 'Safa and Marwa' referred to in the Surah?",
-          "answer": "They are among the symbols (Sha'a'ir) of Allah, and it is no sin to perform the walk between them during Hajj or Umrah."
-        },
-        {
-          "id": "ch2-q28",
-          "text": "What is the punishment for those who hide the clear signs and guidance Allah has revealed?",
-          "answer": "They are cursed by Allah and cursed by the angels and the believers."
-        },
-        {
-          "id": "ch2-q29",
-          "text": "What are the four things mentioned that are forbidden (Haram) to eat?",
-          "answer": "Dead animals (carrion), blood, the flesh of swine, and that which has been dedicated to other than Allah."
-        },
-        {
-          "id": "ch2-q30",
-          "text": "How does the Quran define 'Al-Birr' (True Righteousness)?",
-          "answer": "Believing in Allah, the Last Day, Angels, Books, Prophets, giving wealth despite loving it, establishing prayer, giving Zakat, fulfilling contracts, and being patient."
-        },
-        {
-          "id": "ch2-q31",
-          "text": "What is the primary purpose of Fasting (Siyam) as stated in the Surah?",
-          "answer": "So that you may attain 'Taqwa' (God-consciousness)."
-        },
-        {
-          "id": "ch2-q32",
-          "text": "In which month was the Quran revealed?",
-          "answer": "The month of Ramadan."
-        },
-        {
-          "id": "ch2-q33",
-          "text": "How does Allah describe His proximity to the believer in the context of Dua (supplication)?",
-          "answer": "He says: 'Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me'."
-        },
-        {
-          "id": "ch2-q34",
-          "text": "What is the ruling on fighting during the Sacred Months?",
-          "answer": "Fighting is a great sin therein, but preventing people from the way of Allah and expelling them from the Masjid al-Haram is even greater."
-        },
-        {
-          "id": "ch2-q35",
-          "text": "What is the 'best provision' for the journey of Hajj?",
-          "answer": "Taqwa (God-consciousness/piety)."
-        },
-        {
-          "id": "ch2-q36",
-          "text": "What are the two types of people mentioned regarding their supplications?",
-          "answer": "Those who only ask for the good of this world, and those who ask for 'good in this world, good in the Hereafter, and protection from the Fire'."
-        },
-        {
-          "id": "ch2-q37",
-          "text": "Who is the person described as 'the most quarrelsome of opponents' (Aladdul Khisam)?",
-          "answer": "The hypocrite who speaks well of this life and calls Allah to witness what is in his heart, but spreads corruption on earth once he leaves."
-        },
-        {
-          "id": "ch2-q38",
-          "text": "Does the Surah allow a believer to enter Islam partially?",
-          "answer": "No, it commands: 'Enter into Islam completely (Kaffah)' and do not follow the footsteps of Satan."
-        },
-        {
-          "id": "ch2-q39",
-          "text": "What is the 'root' reason given for why people began to differ in religion after being one nation?",
-          "answer": "Envy and animosity (Baghyan) between themselves after knowledge had come to them."
-        },
-        {
-          "id": "ch2-q40",
-          "text": "Is it permissible to marry a polytheist (Mushrik)?",
-          "answer": "No, until they believe; a believing slave is better than a free polytheist even if the latter attracts you."
-        },
-        {
-          "id": "ch2-q41",
-          "text": "What is the 'Iddah' (waiting period) for a divorced woman who has menstrual cycles?",
-          "answer": "Three menstrual periods (Quru')."
-        },
-        {
-          "id": "ch2-q42",
-          "text": "How many times can a divorce (Talaq) be revocable before it becomes final?",
-          "answer": "Two times. After the third, it is final."
-        },
-        {
-          "id": "ch2-q43",
-          "text": "What is the recommended duration for breastfeeding a child?",
-          "answer": "Two whole years for those who wish to complete the term."
-        },
-        {
-          "id": "ch2-q44",
-          "text": "What is the waiting period for a widow (whose husband has died)?",
-          "answer": "Four months and ten days."
-        },
-        {
-          "id": "ch2-q45",
-          "text": "Which prayer is specifically emphasized to be guarded?",
-          "answer": "The 'middle prayer' (Al-Salat al-Wusta), generally understood as the 'Asr prayer."
-        },
-        {
-          "id": "ch2-q46",
-          "text": "In the story of Talut (Saul) and Jalut (Goliath), how did Allah test the army of Talut?",
-          "answer": "By a river; they were told not to drink from it except a handful, but most of them drank abundantly."
-        },
-        {
-          "id": "ch2-q47",
-          "text": "Who killed Jalut (Goliath)?",
-          "answer": "Prophet Dawud (David) (AS)."
-        },
-        {
-          "id": "ch2-q48",
-          "text": "What is the name of the greatest verse in the Quran found in this Surah?",
-          "answer": "Ayat al-Kursi (Verse of the Throne)."
-        },
-        {
-          "id": "ch2-q49",
-          "text": "List three attributes of Allah mentioned in Ayat al-Kursi.",
-          "answer": "Al-Hayy (The Ever-Living), Al-Qayyum (The Sustainer of all), and that neither slumber nor sleep overtakes Him."
-        },
-        {
-          "id": "ch2-q50",
-          "text": "What does the Surah say about compulsion in religion?",
-          "answer": "'There is no compulsion in religion' because the right way has become clear from the wrong."
-        },
-        {
-          "id": "ch2-q51",
-          "text": "Describe the parable of the man who passed by a city in ruins and doubted how Allah could bring it to life.",
-          "answer": "Allah caused him to die for a hundred years, then revived him, showing him his food had not spoiled while his donkey had become bones, then reconstructed the donkey."
-        },
-        {
-          "id": "ch2-q52",
-          "text": "How did Ibrahim (AS) ask Allah to show him how He gives life to the dead?",
-          "answer": "Allah commanded him to take four birds, train them, distribute them on hills, then call them, and they came flying to him."
-        },
-        {
-          "id": "ch2-q53",
-          "text": "What is the parable of those who spend their wealth in the way of Allah?",
-          "answer": "A grain of corn which grows seven ears, each ear having a hundred grains (700-fold increase)."
-        },
-        {
-          "id": "ch2-q54",
-          "text": "What two things nullify the reward of charity according to the Surah?",
-          "answer": "Reminders of generosity (Mann) and injury/insult (Adha)."
-        },
-        {
-          "id": "ch2-q55",
-          "text": "How does Satan (Shaytan) threaten those who want to give charity?",
-          "answer": "He threatens them with poverty and orders them to immorality."
-        },
-        {
-          "id": "ch2-q56",
-          "text": "What is the Quranic stance on 'Riba' (Usury/Interest)?",
-          "answer": "It is strictly forbidden; those who consume it are compared to one beaten by Satan into insanity, and Allah declares war against those who do not give it up."
-        },
-        {
-          "id": "ch2-q57",
-          "text": "What is the longest verse in the Quran about?",
-          "answer": "Contracts and debts, emphasizing writing them down and having witnesses."
-        },
-        {
-          "id": "ch2-q58",
-          "text": "Does Allah charge a soul with more than it can bear?",
-          "answer": "No, Allah does not charge a soul except within its capacity."
-        },
-        {
-          "id": "ch2-q59",
-          "text": "True or False: We are allowed to make distinctions between the Messengers of Allah by believing in some and rejecting others.",
-          "answer": "False. The believers say, 'We make no distinction between any of His messengers'."
-        },
-        {
-          "id": "ch2-q60",
-          "text": "What is the closing supplication of the Surah asking for regarding our mistakes?",
-          "answer": "'Our Lord, do not impose blame upon us if we have forgotten or erred... and pardon us; forgive us; and have mercy upon us'."
-        },
-        {
-          "id": "ch2-q61",
-          "text": "What does the name 'Al-Baqarah' mean in English?",
-          "answer": "The Cow."
-        },
-        {
-          "id": "ch2-q62",
-          "text": "How is the Quran described in the very second verse regarding its authenticity?",
-          "answer": "As a Book 'about which there is no doubt' (La Rayba Fih)."
-        },
-        {
-          "id": "ch2-q63",
-          "text": "What is the specific punishment mentioned for the disbelievers in the early verses?",
-          "answer": "A 'great punishment' and that Allah has set a seal upon their hearts and hearing."
-        },
-        {
-          "id": "ch2-q64",
-          "text": "What do the hypocrites claim they are doing while they are actually spreading corruption?",
-          "answer": "They claim: 'We are only reformers' (Innama nahnu muslihun)."
-        },
-        {
-          "id": "ch2-q65",
-          "text": "True or False: The hypocrites are described as 'purchasing error at the price of guidance'.",
-          "answer": "True."
-        },
-        { "id": "ch2-q66", "text": "What happens to the hypocrites' 'light' in the parable of the fire?", "answer": "Allah takes away their light and leaves them in darkness so they could not see." },
-        { "id": "ch2-q67", "text": "What is the fuel of the Hellfire mentioned in the challenge against the Quran?", "answer": "Men and stones." },
-        { "id": "ch2-q68", "text": "What are the 'pure spouses' promised to the believers in Paradise?", "answer": "Spouses free from all physical and character impurities." },
-        { "id": "ch2-q69", "text": "How does Allah respond to those who question why He uses parables of small things like gnats/mosquitoes?", "answer": "He says it is a test; He misleads many thereby and guides many thereby, but misleads only the defiantly disobedient." },
-        { "id": "ch2-q70", "text": "What is the 'Covenant of Allah' that the losers break?", "answer": "The natural and revealed oath of obedience to Allah and maintaining ties of kinship." },
-        { "id": "ch2-q71", "text": "What question does Allah ask man to reflect on his disbelief in the face of life and death?", "answer": "'How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life?'" },
-        { "id": "ch2-q72", "text": "Who did Allah tell the Angels about the names of things after Adam excelled?", "answer": "He told the Angels that He knows what they do not know and proved it through Adam's knowledge." },
-        { "id": "ch2-q73", "text": "What was the specific command given to Adam regarding the Garden and the 'tree'?", "answer": "To eat freely from anywhere but not to approach 'this tree' or become wrongdoers." },
-        { "id": "ch2-q74", "text": "How did Satan cause Adam and Hawa to slip?", "answer": "By deceiving/whispering to them, which led to their removal from the state they were in." },
-        { "id": "ch2-q75", "text": "What is the 'Guidance' Allah promised to send down to Adam's descendants on earth?", "answer": "Revelations and Messengers; those who follow them will have no fear nor will they grieve." },
-        { "id": "ch2-q76", "text": "What does Allah command the Children of Israel regarding the 'Truth' in their scriptures?", "answer": "'Do not mix the truth with falsehood or conceal the truth while you know [it]'." },
-        { "id": "ch2-q77", "text": "What should one seek help through, as mentioned multiple times in the Surah?", "answer": "Patience (Sabr) and Prayer (Salat)." },
-        { "id": "ch2-q78", "text": "Why is the command to be patient and pray described as 'difficult'?", "answer": "It is difficult except for the 'Khashi'un' (those humbly submissive to Allah)." },
-        { "id": "ch2-q79", "text": "Who are the 'Khashi'un'?", "answer": "Those who are certain that they will meet their Lord and that to Him they will return." },
-        { "id": "ch2-q80", "text": "What was the 'miracle of the sea' for the Children of Israel?", "answer": "Allah parted the sea for them, saved them, and drowned the people of Pharaoh while they were looking on." },
-        { "id": "ch2-q81", "text": "For how many nights did Musa (AS) go to meet Allah?", "answer": "Forty nights." },
-        { "id": "ch2-q82", "text": "What did the people do in Musa's absence?", "answer": "They took the calf for worship, committing a great wrong." },
-        { "id": "ch2-q83", "text": "What was the unique 'repentance' commanded to those who worshipped the calf?", "answer": "They were commanded to kill those among themselves who were guilty (as a capital punishment/purification)." },
-        { "id": "ch2-q84", "text": "What did Allah provide as shade for the Children of Israel in the desert?", "answer": "Clouds." },
-        { "id": "ch2-q85", "text": "What foods were provided to them in the wilderness?", "answer": "Manna and Salwa (quail)." },
-        { "id": "ch2-q86", "text": "What happened when Musa (AS) struck the rock with his staff for water?", "answer": "Twelve springs gushed forth, one for each tribe." },
-        { "id": "ch2-q87", "text": "Why did the Children of Israel ask for 'herbs, cucumbers, garlic, lentils, and onions'?", "answer": "They were dissatisfied with the divine food (Manna and Salwa) and wanted the lowly foods of the earth they were used to in Egypt." },
-        { "id": "ch2-q88", "text": "What was the consequence of their constant 'disobedience and transgression'?", "answer": "They were covered with humiliation and poverty and drew upon themselves the wrath of Allah." },
-        { "id": "ch2-q89", "text": "Does Allah reward the Sabians and Christians who truly believe and do good?", "answer": "Yes, 'whoever believes in Allah and the Last Day and does righteousness - will have their reward with their Lord'." },
-        { "id": "ch2-q90", "text": "What happened at Mount Tur regarding the Covenant?", "answer": "Allah raised the mountain over them and told them to 'take what We have given you with determination'." },
-        { "id": "ch2-q91", "text": "What were the 'Sabbath breakers' transformed into?", "answer": "Apes, despised." },
-        { "id": "ch2-q92", "text": "Describe the physical characteristics of the 'Cow' that the Jews were eventually told to sacrifice.", "answer": "It was to be a yellow cow, bright in color, pleasing to observers, neither old nor young, and never used for plowing or watering the fields." },
-        { "id": "ch2-q93", "text": "In the murder case of the Cow story, how did the dead man come back to life?", "answer": "He was struck with a piece of the sacrificed cow by Allah's command." },
-        { "id": "ch2-q94", "text": "What did the 'illiterate' among the People of the Book know of the Scripture?", "answer": "Only wishful thinking and hearsay (Amaniyya)." },
-        { "id": "ch2-q95", "text": "What is the punishment for those who write the Scripture with their own hands and say 'This is from Allah'?", "answer": "'Woe to them for what their hands have written and woe to them for what they earn'." },
-        { "id": "ch2-q96", "text": "What was the Jews' claim about how long they would stay in Hellfire?", "answer": "They claimed: 'The Fire will never touch us, except for a few numbered days'." },
-        { "id": "ch2-q97", "text": "True or False: Surah Al-Baqarah says that 'whoever earns evil and is surrounded by his sin' is a companion of the Fire.", "answer": "True." },
-        { "id": "ch2-q98", "text": "What was the command regarding speech with people in the Covenant?", "answer": "'Speak to people good [words]'." },
-        { "id": "ch2-q99", "text": "How did the Children of Israel treat the Messengers who brought what they did not desire?", "answer": "They became arrogant; some they denied and others they killed." },
-        { "id": "ch2-q100", "text": "What did they say when invited to believe in the Quran?", "answer": "'We believe in what was revealed to us,' while they rejected what came after it, even though it was the truth." },
-        { "id": "ch2-q101", "text": "Who is the enemy of Angel Jibreel (Gabriel)?", "answer": "The disbelievers among the Jews (as Jibreel brings the revelation they disliked)." },
-        { "id": "ch2-q102", "text": "What is the ruling on being an enemy to Allah, His angels, and His messengers?", "answer": "Allah is an enemy to the disbelievers." },
-        { "id": "ch2-q103", "text": "What did the people learn from magic in Babylon that caused social harm?", "answer": "How to cause separation between a man and his wife." },
-        { "id": "ch2-q104", "text": "Can magic harm anyone without Allah's permission?", "answer": "No, 'they do not harm anyone through it except by permission of Allah'." },
-        { "id": "ch2-q105", "text": "What word were the believers told to use instead of 'Ra'ina' (listen to us) to avoid ambiguity?", "answer": "'Unzurna' (look at us/observe us)." },
-        { "id": "ch2-q106", "text": "What do the People of the Book wish to do to the believers out of envy?", "answer": "To turn them back into disbelievers after they have believed." },
-        { "id": "ch2-q107", "text": "What is the 'legacy' or 'face' one must submit to Allah to have no fear?", "answer": "'Whoever submits his face to Allah while he is a doer of good' (Muhsin)." },
-        { "id": "ch2-q108", "text": "What did the Jews and Christians say about each other's validity?", "answer": "The Jews said the Christians have nothing to stand on, and the Christians said the Jews have nothing to stand on." },
-        { "id": "ch2-q109", "text": "Who is more unjust than the one who prevents the name of Allah from being mentioned in His mosques?", "answer": "No one; they will have disgrace in this world and a great punishment in the next." },
-        { "id": "ch2-q110", "text": "To whom belong the East and the West?", "answer": "To Allah; so wherever you turn, there is the Face of Allah." },
-        { "id": "ch2-q111", "text": "How does Allah describe His 'will' when He decides a matter?", "answer": "He only says to it, 'Be,' and it is." },
-        { "id": "ch2-q112", "text": "What was Ibrahim (AS) tested with before being made an 'Imam' (leader) for mankind?", "answer": "With certain words/commands (Kalimat) which he fulfilled." },
-        { "id": "ch2-q113", "text": "What did Ibrahim and Isma'il pray for as they built the Kaaba?", "answer": "'Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing'." },
-        { "id": "ch2-q114", "text": "What did Ya'qub (Jacob) ask his sons at the time of his death?", "answer": "'What will you worship after me?'" },
-        { "id": "ch2-q115", "text": "What was the answer of Ya'qub's sons to his question?", "answer": "'We will worship your God and the God of your fathers... the One God. And we are Muslims [submitting] to Him'." },
-        { "id": "ch2-q116", "text": "What is 'Sibghatullah'?", "answer": "The 'color' or 'religion' of Allah; and who is better than Allah in coloring/ordaining religion?" },
-        { "id": "ch2-q117", "text": "What is the 'Middle Nation' (Ummatan Wasatan)?", "answer": "The Muslim Ummah, described as balanced and just, to be witnesses over mankind." },
-        { "id": "ch2-q118", "text": "Did the Prophet (SAW) know people would turn back when the Qiblah was changed?", "answer": "Allah informed him it would be difficult except for those whom Allah guided." },
-        { "id": "ch2-q119", "text": "What should the believers do if the People of the Book bring every sign to them?", "answer": "Remain firm; the People of the Book will not follow the believers' Qiblah, and the believers should not follow theirs." },
-        { "id": "ch2-q120", "text": "What should we say when a calamity strikes us?", "answer": "'Inna lillahi wa inna ilayhi raji'un' (Indeed we belong to Allah, and indeed to Him we will return)." },
-        { "id": "ch2-q121", "text": "What is the penalty for those who hide the 'Clear Proofs' regarding the Prophet and the Truth?", "answer": "They are cursed by Allah and the cursers, unless they repent and make things clear." },
-        { "id": "ch2-q122", "text": "What is the 'sign' in the creation of the heavens and earth and the ships?", "answer": "They are signs for a people who use their intellect ('Aql)." },
-        { "id": "ch2-q123", "text": "How is the 'love' of the believers for Allah described compared to the polytheists' love for idols?", "answer": "The believers are 'stronger in love for Allah'." },
-        { "id": "ch2-q124", "text": "What will the leaders of disbelief do to their followers on Judgment Day?", "answer": "They will disassociate themselves from their followers and their ties will be cut." },
-        { "id": "ch2-q125", "text": "What are 'Halal' and 'Tayyib' things?", "answer": "Lawful (Halal) and good/pure (Tayyib) provisions." },
-        { "id": "ch2-q126", "text": "What is the parable of the disbeliever who follows his ancestors blindly?", "answer": "Like a herd that is shouted at and hears nothing but calls and cries; they are deaf, dumb, and blind." },
-        { "id": "ch2-q127", "text": "Is there a sin for someone who eats forbidden food under 'absolute necessity'?", "answer": "No, provided they do not desire it or transgress the limit." },
-        { "id": "ch2-q128", "text": "What is the law of 'Qisas'?", "answer": "The law of legal retribution/equality in cases of murder, meant to save lives through deterrence." },
-        { "id": "ch2-q129", "text": "What is the ruling on writing a 'Will' (Wasiyyah)?", "answer": "It was prescribed for those leaving wealth to parents and near relatives, though later inheritance laws specified the shares." },
-        { "id": "ch2-q130", "text": "What is the 'fidyah' for those who cannot fast due to old age or chronic illness?", "answer": "Feeding a needy person for each day missed." },
-        { "id": "ch2-q131", "text": "What are the 'boundaries' (Hudud) of Allah?", "answer": "The limits set by Allah in His laws which must not be crossed." },
-        { "id": "ch2-q132", "text": "What does the Surah say about using wealth to bribe judges?", "answer": "It is forbidden to consume wealth unjustly or send it to authorities to consume a portion of people's wealth sinfully." },
-        { "id": "ch2-q133", "text": "What is the purpose of the 'New Moons' (Ahillah)?", "answer": "They are measurements of time for the people and for the Hajj." },
-        { "id": "ch2-q134", "text": "How should one enter houses according to the Surah?", "answer": "Through their doors, not from the back, as was a superstitious practice during Hajj." },
-        { "id": "ch2-q135", "text": "What is the instruction for fighting those who fight you?", "answer": "Fight in the way of Allah those who fight you but do not transgress; indeed, Allah does not like transgressors." },
-        { "id": "ch2-q136", "text": "Is 'Fitnah' (persecution/oppression) worse than killing?", "answer": "Yes, 'Fitnah is greater than killing'." },
-        { "id": "ch2-q137", "text": "What is the command regarding the 'Sacred House' during Hajj?", "answer": "Do not fight them there unless they fight you; if they cease, then Allah is Forgiving." },
-        { "id": "ch2-q138", "text": "What is the ruling on performing Hajj and Umrah?", "answer": "They must be completed for Allah." },
-        { "id": "ch2-q139", "text": "What if a person is prevented from finishing Hajj?", "answer": "They should offer such sacrifice as can be obtained." },
-        { "id": "ch2-q140", "text": "What are the forbidden acts during the months of Hajj?", "answer": "No sexual relations (Rafath), no disobedience (Fusuq), and no disputing (Jidal)." },
-        { "id": "ch2-q141", "text": "How should believers remember Allah at the 'Sacred Monument' (Mash'ar al-Haram)?", "answer": "Remember Him as He has guided you, for indeed you were before that among those astray." },
-        { "id": "ch2-q142", "text": "What is the 'Jihaad' of the person who 'sells himself'?", "answer": "It refers to the believer who sacrifices his life to seek the pleasure of Allah." },
-        { "id": "ch2-q143", "text": "What is the parable of the 'rain and the rock' regarding charity?", "answer": "Charity done for show is like a smooth rock with dust on it; heavy rain falls and leaves it bare, yielding nothing." },
-        { "id": "ch2-q144", "text": "What is the parable of the 'garden on a height' regarding sincere charity?", "answer": "It is like a fertile garden that yields double its harvest if heavy rain falls, or even a drizzle is sufficient." },
-        { "id": "ch2-q145", "text": "What kind of things should a believer give in charity?", "answer": "From the good things earned and from what Allah has produced from the earth; do not aim for the bad things to give away." },
-        { "id": "ch2-q146", "text": "What is the 'wisdom' (Hikmah) Allah mentions in Verse 269?", "answer": "Allah gives it to whom He wills, and whoever is given wisdom has been given much good." },
-        { "id": "ch2-q147", "text": "What happens if a believer gives charity openly versus secretly?", "answer": "Openly is good, but giving it secretly to the poor is better and expiates some sins." },
-        { "id": "ch2-q148", "text": "How are the 'poor who are restricted in the way of Allah' described?", "answer": "They cannot travel for trade; the ignorant think they are wealthy because of their dignity (self-restraint), but they are known by their mark and do not beg." },
-        { "id": "ch2-q149", "text": "Will those who spend by night and day have fear on Judgment Day?", "answer": "No, 'they will have their reward with their Lord'." },
-        { "id": "ch2-q150", "text": "Does Allah permit 'trade' but forbid 'usury' (Riba)?", "answer": "Yes, 'Allah has permitted trade and has forbidden interest'." },
-        { "id": "ch2-q151", "text": "What happens to the wealth of usury versus the wealth of charity?", "answer": "Allah destroys usury and gives increase for charities." },
-        { "id": "ch2-q152", "text": "What is the advice for a creditor if the debtor is in 'hardship'?", "answer": "Let there be postponement until a time of ease, and giving it as charity is better." },
-        { "id": "ch2-q153", "text": "Why must debt contracts be written down?", "answer": "To ensure justice, prevent doubts, and provide evidence." },
-        { "id": "ch2-q154", "text": "Is it required to write down 'immediate' trade transactions?", "answer": "No, it is no sin if you do not write them, but have witnesses when you conclude the agreement." },
-        { "id": "ch2-q155", "text": "Should a scribe or witness be harmed?", "answer": "No, they should not be harmed for doing their duty." },
-        { "id": "ch2-q156", "text": "What if someone is on a journey and no scribe is available for a debt?", "answer": "A pledge/security (Rihan) should be taken." },
-        { "id": "ch2-q157", "text": "What is the ruling on concealing testimony?", "answer": "It is forbidden; whoever conceals it has a sinful heart." },
-        { "id": "ch2-q158", "text": "Does Allah know what is in our souls even if we hide it?", "answer": "Yes, 'Whether you show what is within yourselves or conceal it, Allah will bring you to account for it'." },
-        { "id": "ch2-q159", "text": "What are the four things the Messenger and the believers believe in?", "answer": "Allah, His angels, His books, and His messengers." },
-        { "id": "ch2-q160", "text": "What is the final plea for victory at the end of the Surah?", "answer": "'You are our protector, so give us victory over the disbelieving people'." }
-      ]
+      "id": "ch2-q1",
+      "text": "What is the significance of the 'Muqatta'at' (disconnected letters) like 'Alif, Lam, Mim' at the start of the Surah?",
+      "answer": "They are a challenge to the master linguists of Arabia, showing that while the Quran uses their letters, they cannot replicate its divine origin. Their specific meanings are known only to Allah."
+    },
+    {
+      "id": "ch2-q2",
+      "text": "In the opening, for whom is the Quran described as a 'guidance'?",
+      "answer": "It is a guidance for the 'Muttaqin' (those conscious of Allah/the God-fearing)."
+    },
+    {
+      "id": "ch2-q3",
+      "text": "True or False: Belief in the 'Ghaib' (Unseen) is a fundamental characteristic of the Muttaqin.",
+      "answer": "True."
+    },
+    {
+      "id": "ch2-q4",
+      "text": "The Surah describes three types of people in the first 20 verses. Name them.",
+      "answer": "The Believers (Mu'minun), the Disbelievers (Kafirun), and the Hypocrites (Munafiqun)."
+    },
+    {
+      "id": "ch2-q5",
+      "text": "How does Surah Al-Baqarah describe the 'sickness' in the hearts of the hypocrites?",
+      "answer": "It is a sickness of doubt and hypocrisy which Allah increases because of their persistence in lying and deception."
+    },
+    {
+      "id": "ch2-q6",
+      "text": "What parable is used to describe the hypocrites' state of confusion regarding the light of guidance?",
+      "answer": "The parable of someone who kindles a fire but then loses its light, and the parable of a rainstorm with darkness, thunder, and lightning."
+    },
+    {
+      "id": "ch2-q7",
+      "text": "What is the very first command (Amr) addressed to all of mankind in this Surah?",
+      "answer": "The command to 'Worship your Lord, who created you and those before you' ()."
+    },
+    {
+      "id": "ch2-q8",
+      "text": "What challenge does Allah pose to those who doubt the authenticity of the Quran?",
+      "answer": "To produce even a single Surah similar to it and to call upon their witnesses besides Allah if they are truthful."
+    },
+    {
+      "id": "ch2-q9",
+      "text": "Why did the Angels question Allah when He announced the creation of a 'Khalifah' (vicegerent) on Earth?",
+      "answer": "They feared the new creation would spread corruption and shed blood, based on their observation of previous inhabitants or general nature."
+    },
+    {
+      "id": "ch2-q10",
+      "text": "What specific ability did Allah give Adam (AS) to prove his superiority over the Angels?",
+      "answer": "Allah taught Adam the names of all things (knowledge/intellect)."
+    },
+    {
+      "id": "ch2-q11",
+      "text": "Who refused to prostrate to Adam and what was the reason given for the refusal?",
+      "answer": "Iblis (Satan) refused out of arrogance (Kibr), believing he was superior because he was made of fire and Adam of clay."
+    },
+    {
+      "id": "ch2-q12",
+      "text": "What was the immediate consequence for Adam and Hawa (Eve) after eating from the forbidden tree?",
+      "answer": "Their private parts became apparent to them, and they were sent down from the Garden to dwell on Earth."
+    },
+    {
+      "id": "ch2-q13",
+      "text": "Did Adam (AS) remain in a state of sin after the fall, or was he forgiven?",
+      "answer": "He was forgiven after receiving specific words of repentance from Allah and turning back to Him."
+    },
+    {
+      "id": "ch2-q14",
+      "text": "Why does the Surah address the Children of Israel (Bani Israel) extensively?",
+      "answer": "To provide lessons from their history, warn the Muslims against repeating their mistakes, and remind them of the fulfilled prophecies regarding Prophet Muhammad."
+    },
+    {
+      "id": "ch2-q15",
+      "text": "What was the 'Covenant' Allah took from the Children of Israel that they violated?",
+      "answer": "To worship only Allah, be good to parents and kin, establish prayer, and give Zakat."
+    },
+    {
+      "id": "ch2-q16",
+      "text": "Explain the significance of the incident of the 'Cow' (Al-Baqarah) from which the Surah takes its name.",
+      "answer": "It involved a murder mystery where Allah commanded the sacrifice of a cow to identify the killer, testing their obedience as they tried to avoid the command with excessive questioning."
+    },
+    {
+      "id": "ch2-q17",
+      "text": "What does the phrase 'their hearts became like stones or even harder' refer to?",
+      "answer": "It refers to the Children of Israel whose hearts became hardened against signs, unlike stones which sometimes gush water or fall out of fear of Allah."
+    },
+    {
+      "id": "ch2-q18",
+      "text": "What did the people of Prophet Musa (AS) demand to see before they would believe?",
+      "answer": "They demanded to see Allah 'plainly' (manifestly), resulting in them being struck by a thunderbolt."
+    },
+    {
+      "id": "ch2-q19",
+      "text": "Which two angels were sent to Babylon as a trial for the people regarding magic (Sihr)?",
+      "answer": "Harut and Marut."
+    },
+    {
+      "id": "ch2-q20",
+      "text": "What is the Quranic stance on abrogation (naskh) in revelation?",
+      "answer": "Allah teaches that when a ruling or recitation is replaced, He brings what is better or similar—showing wisdom and mercy in legislation."
+    },
+    {
+      "id": "ch2-q21",
+      "text": "Which Prophet is credited with raising the foundations of the Kaaba with his son?",
+      "answer": "Prophet Ibrahim (Abraham) and his son Isma'il (Ishmael)."
+    },
+    {
+      "id": "ch2-q22",
+      "text": "What was the prayer of Ibrahim (AS) for the city of Makkah and its future people?",
+      "answer": "He prayed for its security, for its people to have provision, and for a Messenger to be raised from among them."
+    },
+    {
+      "id": "ch2-q23",
+      "text": "What is the 'Millah' (religion/way) of Ibrahim described as in this Surah?",
+      "answer": "The way of 'Hanif' (pure monotheism), being one who submits entirely to Allah."
+    },
+    {
+      "id": "ch2-q24",
+      "text": "Where was the original Qiblah (direction of prayer) before it was changed to the Kaaba?",
+      "answer": "Bait al-Maqdis (Jerusalem)."
+    },
+    {
+      "id": "ch2-q25",
+      "text": "What does Allah say is the reason for changing the Qiblah?",
+      "answer": "To test the people and distinguish those who follow the Messenger from those who turn on their heels."
+    },
+    {
+      "id": "ch2-q26",
+      "text": "Does Allah expect the believers to be tested? If so, with what?",
+      "answer": "Yes, with fear, hunger, loss of wealth, lives, and fruits."
+    },
+    {
+      "id": "ch2-q27",
+      "text": "What is the 'Safa and Marwa' referred to in the Surah?",
+      "answer": "They are among the symbols (Sha'a'ir) of Allah, and it is no sin to perform the walk between them during Hajj or Umrah."
+    },
+    {
+      "id": "ch2-q28",
+      "text": "What is the punishment for those who hide the clear signs and guidance Allah has revealed?",
+      "answer": "They are cursed by Allah and cursed by the angels and the believers."
+    },
+    {
+      "id": "ch2-q29",
+      "text": "What are the four things mentioned that are forbidden (Haram) to eat?",
+      "answer": "Dead animals (carrion), blood, the flesh of swine, and that which has been dedicated to other than Allah."
+    },
+    {
+      "id": "ch2-q30",
+      "text": "How does the Quran define 'Al-Birr' (True Righteousness)?",
+      "answer": "Believing in Allah, the Last Day, Angels, Books, Prophets, giving wealth despite loving it, establishing prayer, giving Zakat, fulfilling contracts, and being patient."
+    },
+    {
+      "id": "ch2-q31",
+      "text": "What is the primary purpose of Fasting (Siyam) as stated in the Surah?",
+      "answer": "So that you may attain 'Taqwa' (God-consciousness)."
+    },
+    {
+      "id": "ch2-q32",
+      "text": "In which month was the Quran revealed?",
+      "answer": "The month of Ramadan."
+    },
+    {
+      "id": "ch2-q33",
+      "text": "How does Allah describe His proximity to the believer in the context of Dua (supplication)?",
+      "answer": "He says: 'Indeed I am near. I respond to the invocation of the supplicant when he calls upon Me'."
+    },
+    {
+      "id": "ch2-q34",
+      "text": "What is the ruling on fighting during the Sacred Months?",
+      "answer": "Fighting is a great sin therein, but preventing people from the way of Allah and expelling them from the Masjid al-Haram is even greater."
+    },
+    {
+      "id": "ch2-q35",
+      "text": "What is the 'best provision' for the journey of Hajj?",
+      "answer": "Taqwa (God-consciousness/piety)."
+    },
+    {
+      "id": "ch2-q36",
+      "text": "What are the two types of people mentioned regarding their supplications?",
+      "answer": "Those who only ask for the good of this world, and those who ask for 'good in this world, good in the Hereafter, and protection from the Fire'."
+    },
+    {
+      "id": "ch2-q37",
+      "text": "Who is the person described as 'the most quarrelsome of opponents' (Aladdul Khisam)?",
+      "answer": "The hypocrite who speaks well of this life and calls Allah to witness what is in his heart, but spreads corruption on earth once he leaves."
+    },
+    {
+      "id": "ch2-q38",
+      "text": "Does the Surah allow a believer to enter Islam partially?",
+      "answer": "No, it commands: 'Enter into Islam completely (Kaffah)' and do not follow the footsteps of Satan."
+    },
+    {
+      "id": "ch2-q39",
+      "text": "What is the 'root' reason given for why people began to differ in religion after being one nation?",
+      "answer": "Envy and animosity (Baghyan) between themselves after knowledge had come to them."
+    },
+    {
+      "id": "ch2-q40",
+      "text": "Is it permissible to marry a polytheist (Mushrik)?",
+      "answer": "No, until they believe; a believing slave is better than a free polytheist even if the latter attracts you."
+    },
+    {
+      "id": "ch2-q41",
+      "text": "What is the 'Iddah' (waiting period) for a divorced woman who has menstrual cycles?",
+      "answer": "Three menstrual periods (Quru')."
+    },
+    {
+      "id": "ch2-q42",
+      "text": "How many times can a divorce (Talaq) be revocable before it becomes final?",
+      "answer": "Two times. After the third, it is final."
+    },
+    {
+      "id": "ch2-q43",
+      "text": "What is the recommended duration for breastfeeding a child?",
+      "answer": "Two whole years for those who wish to complete the term."
+    },
+    {
+      "id": "ch2-q44",
+      "text": "What is the waiting period for a widow (whose husband has died)?",
+      "answer": "Four months and ten days."
+    },
+    {
+      "id": "ch2-q45",
+      "text": "Which prayer is specifically emphasized to be guarded?",
+      "answer": "The 'middle prayer' (Al-Salat al-Wusta), generally understood as the 'Asr prayer."
+    },
+    {
+      "id": "ch2-q46",
+      "text": "In the story of Talut (Saul) and Jalut (Goliath), how did Allah test the army of Talut?",
+      "answer": "By a river; they were told not to drink from it except a handful, but most of them drank abundantly."
+    },
+    {
+      "id": "ch2-q47",
+      "text": "Who killed Jalut (Goliath)?",
+      "answer": "Prophet Dawud (David) (AS)."
+    },
+    {
+      "id": "ch2-q48",
+      "text": "What is the name of the greatest ayah in the Quran found in this Surah?",
+      "answer": "Ayat al-Kursi (the Throne Ayah)."
+    },
+    {
+      "id": "ch2-q49",
+      "text": "List three attributes of Allah mentioned in Ayat al-Kursi.",
+      "answer": "Al-Hayy (The Ever-Living), Al-Qayyum (The Sustainer of all), and that neither slumber nor sleep overtakes Him."
+    },
+    {
+      "id": "ch2-q50",
+      "text": "What does the Surah say about compulsion in religion?",
+      "answer": "'There is no compulsion in religion' because the right way has become clear from the wrong."
+    },
+    {
+      "id": "ch2-q51",
+      "text": "Describe the parable of the man who passed by a city in ruins and doubted how Allah could bring it to life.",
+      "answer": "Allah caused him to die for a hundred years, then revived him, showing him his food had not spoiled while his donkey had become bones, then reconstructed the donkey."
+    },
+    {
+      "id": "ch2-q52",
+      "text": "How did Ibrahim (AS) ask Allah to show him how He gives life to the dead?",
+      "answer": "Allah commanded him to take four birds, train them, distribute them on hills, then call them, and they came flying to him."
+    },
+    {
+      "id": "ch2-q53",
+      "text": "What is the parable of those who spend their wealth in the way of Allah?",
+      "answer": "A grain of corn which grows seven ears, each ear having a hundred grains (700-fold increase)."
+    },
+    {
+      "id": "ch2-q54",
+      "text": "What two things nullify the reward of charity according to the Surah?",
+      "answer": "Reminders of generosity (Mann) and injury/insult (Adha)."
+    },
+    {
+      "id": "ch2-q55",
+      "text": "How does Satan (Shaytan) threaten those who want to give charity?",
+      "answer": "He threatens them with poverty and orders them to immorality."
+    },
+    {
+      "id": "ch2-q56",
+      "text": "What is the Quranic stance on 'Riba' (Usury/Interest)?",
+      "answer": "It is strictly forbidden; those who consume it are compared to one beaten by Satan into insanity, and Allah declares war against those who do not give it up."
+    },
+    {
+      "id": "ch2-q57",
+      "text": "What is the longest ayah in the Quran about?",
+      "answer": "Contracts and debts, emphasizing writing them down and having witnesses."
+    },
+    {
+      "id": "ch2-q58",
+      "text": "Does Allah charge a soul with more than it can bear?",
+      "answer": "No, Allah does not charge a soul except within its capacity."
+    },
+    {
+      "id": "ch2-q59",
+      "text": "True or False: We are allowed to make distinctions between the Messengers of Allah by believing in some and rejecting others.",
+      "answer": "False. The believers say, 'We make no distinction between any of His messengers'."
+    },
+    {
+      "id": "ch2-q60",
+      "text": "What is the closing supplication of the Surah asking for regarding our mistakes?",
+      "answer": "'Our Lord, do not impose blame upon us if we have forgotten or erred... and pardon us; forgive us; and have mercy upon us'."
+    },
+    {
+      "id": "ch2-q61",
+      "text": "What does the name 'Al-Baqarah' mean in English?",
+      "answer": "The Cow."
+    },
+    {
+      "id": "ch2-q62",
+      "text": "How is the Quran described in the early in the Surah regarding its authenticity?",
+      "answer": "As a Book 'about which there is no doubt' (La Rayba Fih)."
+    },
+    {
+      "id": "ch2-q63",
+      "text": "What is the specific punishment mentioned for the disbelievers in the early verses?",
+      "answer": "A 'great punishment' and that Allah has set a seal upon their hearts and hearing."
+    },
+    {
+      "id": "ch2-q64",
+      "text": "What do the hypocrites claim they are doing while they are actually spreading corruption?",
+      "answer": "They claim: 'We are only reformers' (Innama nahnu muslihun)."
+    },
+    {
+      "id": "ch2-q65",
+      "text": "True or False: The hypocrites are described as 'purchasing error at the price of guidance'.",
+      "answer": "True."
+    },
+    {
+      "id": "ch2-q66",
+      "text": "What happens to the hypocrites' 'light' in the parable of the fire?",
+      "answer": "Allah takes away their light and leaves them in darkness so they could not see."
+    },
+    {
+      "id": "ch2-q67",
+      "text": "What is the fuel of the Hellfire mentioned in the challenge against the Quran?",
+      "answer": "Men and stones."
+    },
+    {
+      "id": "ch2-q68",
+      "text": "What are the 'pure spouses' promised to the believers in Paradise?",
+      "answer": "Spouses free from all physical and character impurities."
+    },
+    {
+      "id": "ch2-q69",
+      "text": "How does Allah respond to those who question why He uses parables of small things like gnats/mosquitoes?",
+      "answer": "He says it is a test; He misleads many thereby and guides many thereby, but misleads only the defiantly disobedient."
+    },
+    {
+      "id": "ch2-q70",
+      "text": "What is the 'Covenant of Allah' that the losers break?",
+      "answer": "The natural and revealed oath of obedience to Allah and maintaining ties of kinship."
+    },
+    {
+      "id": "ch2-q71",
+      "text": "What question does Allah ask man to reflect on his disbelief in the face of life and death?",
+      "answer": "'How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life?'"
+    },
+    {
+      "id": "ch2-q72",
+      "text": "Who did Allah tell the Angels about the names of things after Adam excelled?",
+      "answer": "He told the Angels that He knows what they do not know and proved it through Adam's knowledge."
+    },
+    {
+      "id": "ch2-q73",
+      "text": "What was the specific command given to Adam regarding the Garden and the 'tree'?",
+      "answer": "To eat freely from anywhere but not to approach 'this tree' or become wrongdoers."
+    },
+    {
+      "id": "ch2-q74",
+      "text": "How did Satan cause Adam and Hawa to slip?",
+      "answer": "By deceiving/whispering to them, which led to their removal from the state they were in."
+    },
+    {
+      "id": "ch2-q75",
+      "text": "What is the 'Guidance' Allah promised to send down to Adam's descendants on earth?",
+      "answer": "Revelations and Messengers; those who follow them will have no fear nor will they grieve."
+    },
+    {
+      "id": "ch2-q76",
+      "text": "What does Allah command the Children of Israel regarding the 'Truth' in their scriptures?",
+      "answer": "'Do not mix the truth with falsehood or conceal the truth while you know [it]'."
+    },
+    {
+      "id": "ch2-q77",
+      "text": "What should one seek help through, as mentioned multiple times in the Surah?",
+      "answer": "Patience (Sabr) and Prayer (Salat)."
+    },
+    {
+      "id": "ch2-q78",
+      "text": "Why is the command to be patient and pray described as 'difficult'?",
+      "answer": "It is difficult except for the 'Khashi'un' (those humbly submissive to Allah)."
+    },
+    {
+      "id": "ch2-q79",
+      "text": "Who are the 'Khashi'un'?",
+      "answer": "Those who are certain that they will meet their Lord and that to Him they will return."
+    },
+    {
+      "id": "ch2-q80",
+      "text": "What was the 'miracle of the sea' for the Children of Israel?",
+      "answer": "Allah parted the sea for them, saved them, and drowned the people of Pharaoh while they were looking on."
+    },
+    {
+      "id": "ch2-q81",
+      "text": "For how many nights did Musa (AS) go to meet Allah?",
+      "answer": "Forty nights."
+    },
+    {
+      "id": "ch2-q82",
+      "text": "What did the people do in Musa's absence?",
+      "answer": "They took the calf for worship, committing a great wrong."
+    },
+    {
+      "id": "ch2-q83",
+      "text": "What was the unique 'repentance' commanded to those who worshipped the calf?",
+      "answer": "They were commanded to kill those among themselves who were guilty (as a capital punishment/purification)."
+    },
+    {
+      "id": "ch2-q84",
+      "text": "What did Allah provide as shade for the Children of Israel in the desert?",
+      "answer": "Clouds."
+    },
+    {
+      "id": "ch2-q85",
+      "text": "What foods were provided to them in the wilderness?",
+      "answer": "Manna and Salwa (quail)."
+    },
+    {
+      "id": "ch2-q86",
+      "text": "What happened when Musa (AS) struck the rock with his staff for water?",
+      "answer": "Twelve springs gushed forth, one for each tribe."
+    },
+    {
+      "id": "ch2-q87",
+      "text": "Why did the Children of Israel ask for 'herbs, cucumbers, garlic, lentils, and onions'?",
+      "answer": "They were dissatisfied with the divine food (Manna and Salwa) and wanted the lowly foods of the earth they were used to in Egypt."
+    },
+    {
+      "id": "ch2-q88",
+      "text": "What was the consequence of their constant 'disobedience and transgression'?",
+      "answer": "They were covered with humiliation and poverty and drew upon themselves the wrath of Allah."
+    },
+    {
+      "id": "ch2-q89",
+      "text": "Does Allah reward the Sabians and Christians who truly believe and do good?",
+      "answer": "Yes, 'whoever believes in Allah and the Last Day and does righteousness - will have their reward with their Lord'."
+    },
+    {
+      "id": "ch2-q90",
+      "text": "What happened at Mount Tur regarding the Covenant?",
+      "answer": "Allah raised the mountain over them and told them to 'take what We have given you with determination'."
+    },
+    {
+      "id": "ch2-q91",
+      "text": "What were the 'Sabbath breakers' transformed into?",
+      "answer": "Apes, despised."
+    },
+    {
+      "id": "ch2-q92",
+      "text": "Describe the physical characteristics of the 'Cow' that the Jews were eventually told to sacrifice.",
+      "answer": "It was to be a yellow cow, bright in color, pleasing to observers, neither old nor young, and never used for plowing or watering the fields."
+    },
+    {
+      "id": "ch2-q93",
+      "text": "In the murder case of the Cow story, how did the dead man come back to life?",
+      "answer": "He was struck with a piece of the sacrificed cow by Allah's command."
+    },
+    {
+      "id": "ch2-q94",
+      "text": "What did the 'illiterate' among the People of the Book know of the Scripture?",
+      "answer": "Only wishful thinking and hearsay (Amaniyya)."
+    },
+    {
+      "id": "ch2-q95",
+      "text": "What is the punishment for those who write the Scripture with their own hands and say 'This is from Allah'?",
+      "answer": "'Woe to them for what their hands have written and woe to them for what they earn'."
+    },
+    {
+      "id": "ch2-q96",
+      "text": "What was the Jews' claim about how long they would stay in Hellfire?",
+      "answer": "They claimed: 'The Fire will never touch us, except for a few numbered days'."
+    },
+    {
+      "id": "ch2-q97",
+      "text": "True or False: Surah Al-Baqarah says that 'whoever earns evil and is surrounded by his sin' is a companion of the Fire.",
+      "answer": "True."
+    },
+    {
+      "id": "ch2-q98",
+      "text": "What was the command regarding speech with people in the Covenant?",
+      "answer": "'Speak to people good [words]'."
+    },
+    {
+      "id": "ch2-q99",
+      "text": "How did the Children of Israel treat the Messengers who brought what they did not desire?",
+      "answer": "They became arrogant; some they denied and others they killed."
+    },
+    {
+      "id": "ch2-q100",
+      "text": "What did they say when invited to believe in the Quran?",
+      "answer": "'We believe in what was revealed to us,' while they rejected what came after it, even though it was the truth."
+    },
+    {
+      "id": "ch2-q101",
+      "text": "Who is the enemy of Angel Jibreel (Gabriel)?",
+      "answer": "The disbelievers among the Jews (as Jibreel brings the revelation they disliked)."
+    },
+    {
+      "id": "ch2-q102",
+      "text": "What is the ruling on being an enemy to Allah, His angels, and His messengers?",
+      "answer": "Allah is an enemy to the disbelievers."
+    },
+    {
+      "id": "ch2-q103",
+      "text": "What did the people learn from magic in Babylon that caused social harm?",
+      "answer": "How to cause separation between a man and his wife."
+    },
+    {
+      "id": "ch2-q104",
+      "text": "Can magic harm anyone without Allah's permission?",
+      "answer": "No, 'they do not harm anyone through it except by permission of Allah'."
+    },
+    {
+      "id": "ch2-q105",
+      "text": "What word were the believers told to use instead of 'Ra'ina' (listen to us) to avoid ambiguity?",
+      "answer": "'Unzurna' (look at us/observe us)."
+    },
+    {
+      "id": "ch2-q106",
+      "text": "What do the People of the Book wish to do to the believers out of envy?",
+      "answer": "To turn them back into disbelievers after they have believed."
+    },
+    {
+      "id": "ch2-q107",
+      "text": "What is the 'legacy' or 'face' one must submit to Allah to have no fear?",
+      "answer": "'Whoever submits his face to Allah while he is a doer of good' (Muhsin)."
+    },
+    {
+      "id": "ch2-q108",
+      "text": "What did the Jews and Christians say about each other's validity?",
+      "answer": "The Jews said the Christians have nothing to stand on, and the Christians said the Jews have nothing to stand on."
+    },
+    {
+      "id": "ch2-q109",
+      "text": "Who is more unjust than the one who prevents the name of Allah from being mentioned in His mosques?",
+      "answer": "No one; they will have disgrace in this world and a great punishment in the next."
+    },
+    {
+      "id": "ch2-q110",
+      "text": "To whom belong the East and the West?",
+      "answer": "To Allah; so wherever you turn, there is the Face of Allah."
+    },
+    {
+      "id": "ch2-q111",
+      "text": "How does Allah describe His 'will' when He decides a matter?",
+      "answer": "He only says to it, 'Be,' and it is."
+    },
+    {
+      "id": "ch2-q112",
+      "text": "What was Ibrahim (AS) tested with before being made an 'Imam' (leader) for mankind?",
+      "answer": "With certain words/commands (Kalimat) which he fulfilled."
+    },
+    {
+      "id": "ch2-q113",
+      "text": "What did Ibrahim and Isma'il pray for as they built the Kaaba?",
+      "answer": "'Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing'."
+    },
+    {
+      "id": "ch2-q114",
+      "text": "What did Ya'qub (Jacob) ask his sons at the time of his death?",
+      "answer": "'What will you worship after me?'"
+    },
+    {
+      "id": "ch2-q115",
+      "text": "What was the answer of Ya'qub's sons to his question?",
+      "answer": "'We will worship your God and the God of your fathers... the One God. And we are Muslims [submitting] to Him'."
+    },
+    {
+      "id": "ch2-q116",
+      "text": "What is 'Sibghatullah'?",
+      "answer": "The 'color' or 'religion' of Allah; and who is better than Allah in coloring/ordaining religion?"
+    },
+    {
+      "id": "ch2-q117",
+      "text": "What is the 'Middle Nation' (Ummatan Wasatan)?",
+      "answer": "The Muslim Ummah, described as balanced and just, to be witnesses over mankind."
+    },
+    {
+      "id": "ch2-q118",
+      "text": "Did the Prophet (SAW) know people would turn back when the Qiblah was changed?",
+      "answer": "Allah informed him it would be difficult except for those whom Allah guided."
+    },
+    {
+      "id": "ch2-q119",
+      "text": "What should the believers do if the People of the Book bring every sign to them?",
+      "answer": "Remain firm; the People of the Book will not follow the believers' Qiblah, and the believers should not follow theirs."
+    },
+    {
+      "id": "ch2-q120",
+      "text": "What should we say when a calamity strikes us?",
+      "answer": "'Inna lillahi wa inna ilayhi raji'un' (Indeed we belong to Allah, and indeed to Him we will return)."
+    },
+    {
+      "id": "ch2-q121",
+      "text": "What is the penalty for those who hide the 'Clear Proofs' regarding the Prophet and the Truth?",
+      "answer": "They are cursed by Allah and the cursers, unless they repent and make things clear."
+    },
+    {
+      "id": "ch2-q122",
+      "text": "What is the 'sign' in the creation of the heavens and earth and the ships?",
+      "answer": "They are signs for a people who use their intellect ('Aql)."
+    },
+    {
+      "id": "ch2-q123",
+      "text": "How is the 'love' of the believers for Allah described compared to the polytheists' love for idols?",
+      "answer": "The believers are 'stronger in love for Allah'."
+    },
+    {
+      "id": "ch2-q124",
+      "text": "What will the leaders of disbelief do to their followers on Judgment Day?",
+      "answer": "They will disassociate themselves from their followers and their ties will be cut."
+    },
+    {
+      "id": "ch2-q125",
+      "text": "What are 'Halal' and 'Tayyib' things?",
+      "answer": "Lawful (Halal) and good/pure (Tayyib) provisions."
+    },
+    {
+      "id": "ch2-q126",
+      "text": "What is the parable of the disbeliever who follows his ancestors blindly?",
+      "answer": "Like a herd that is shouted at and hears nothing but calls and cries; they are deaf, dumb, and blind."
+    },
+    {
+      "id": "ch2-q127",
+      "text": "Is there a sin for someone who eats forbidden food under 'absolute necessity'?",
+      "answer": "No, provided they do not desire it or transgress the limit."
+    },
+    {
+      "id": "ch2-q128",
+      "text": "What is the law of 'Qisas'?",
+      "answer": "The law of legal retribution/equality in cases of murder, meant to save lives through deterrence."
+    },
+    {
+      "id": "ch2-q129",
+      "text": "What is the ruling on writing a 'Will' (Wasiyyah)?",
+      "answer": "It was prescribed for those leaving wealth to parents and near relatives, though later inheritance laws specified the shares."
+    },
+    {
+      "id": "ch2-q130",
+      "text": "What is the 'fidyah' for those who cannot fast due to old age or chronic illness?",
+      "answer": "Feeding a needy person for each day missed."
+    },
+    {
+      "id": "ch2-q131",
+      "text": "What are the 'boundaries' (Hudud) of Allah?",
+      "answer": "The limits set by Allah in His laws which must not be crossed."
+    },
+    {
+      "id": "ch2-q132",
+      "text": "What does the Surah say about using wealth to bribe judges?",
+      "answer": "It is forbidden to consume wealth unjustly or send it to authorities to consume a portion of people's wealth sinfully."
+    },
+    {
+      "id": "ch2-q133",
+      "text": "What is the purpose of the 'New Moons' (Ahillah)?",
+      "answer": "They are measurements of time for the people and for the Hajj."
+    },
+    {
+      "id": "ch2-q134",
+      "text": "How should one enter houses according to the Surah?",
+      "answer": "Through their doors, not from the back, as was a superstitious practice during Hajj."
+    },
+    {
+      "id": "ch2-q135",
+      "text": "What is the instruction for fighting those who fight you?",
+      "answer": "Fight in the way of Allah those who fight you but do not transgress; indeed, Allah does not like transgressors."
+    },
+    {
+      "id": "ch2-q136",
+      "text": "Is 'Fitnah' (persecution/oppression) worse than killing?",
+      "answer": "Yes, 'Fitnah is greater than killing'."
+    },
+    {
+      "id": "ch2-q137",
+      "text": "What is the command regarding the 'Sacred House' during Hajj?",
+      "answer": "Do not fight them there unless they fight you; if they cease, then Allah is Forgiving."
+    },
+    {
+      "id": "ch2-q138",
+      "text": "What is the ruling on performing Hajj and Umrah?",
+      "answer": "They must be completed for Allah."
+    },
+    {
+      "id": "ch2-q139",
+      "text": "What if a person is prevented from finishing Hajj?",
+      "answer": "They should offer such sacrifice as can be obtained."
+    },
+    {
+      "id": "ch2-q140",
+      "text": "What are the forbidden acts during the months of Hajj?",
+      "answer": "No sexual relations (Rafath), no disobedience (Fusuq), and no disputing (Jidal)."
+    },
+    {
+      "id": "ch2-q141",
+      "text": "How should believers remember Allah at the 'Sacred Monument' (Mash'ar al-Haram)?",
+      "answer": "Remember Him as He has guided you, for indeed you were before that among those astray."
+    },
+    {
+      "id": "ch2-q142",
+      "text": "What is the 'Jihaad' of the person who 'sells himself'?",
+      "answer": "It refers to the believer who sacrifices his life to seek the pleasure of Allah."
+    },
+    {
+      "id": "ch2-q143",
+      "text": "What is the parable of the 'rain and the rock' regarding charity?",
+      "answer": "Charity done for show is like a smooth rock with dust on it; heavy rain falls and leaves it bare, yielding nothing."
+    },
+    {
+      "id": "ch2-q144",
+      "text": "What is the parable of the 'garden on a height' regarding sincere charity?",
+      "answer": "It is like a fertile garden that yields double its harvest if heavy rain falls, or even a drizzle is sufficient."
+    },
+    {
+      "id": "ch2-q145",
+      "text": "What kind of things should a believer give in charity?",
+      "answer": "From the good things earned and from what Allah has produced from the earth; do not aim for the bad things to give away."
+    },
+    {
+      "id": "ch2-q146",
+      "text": "What is the 'wisdom' (Hikmah) Allah mentions in a specific ayah?",
+      "answer": "Allah gives it to whom He wills, and whoever is given wisdom has been given much good."
+    },
+    {
+      "id": "ch2-q147",
+      "text": "What happens if a believer gives charity openly versus secretly?",
+      "answer": "Openly is good, but giving it secretly to the poor is better and expiates some sins."
+    },
+    {
+      "id": "ch2-q148",
+      "text": "How are the 'poor who are restricted in the way of Allah' described?",
+      "answer": "They cannot travel for trade; the ignorant think they are wealthy because of their dignity (self-restraint), but they are known by their mark and do not beg."
+    },
+    {
+      "id": "ch2-q149",
+      "text": "Will those who spend by night and day have fear on Judgment Day?",
+      "answer": "No, 'they will have their reward with their Lord'."
+    },
+    {
+      "id": "ch2-q150",
+      "text": "Does Allah permit 'trade' but forbid 'usury' (Riba)?",
+      "answer": "Yes, 'Allah has permitted trade and has forbidden interest'."
+    },
+    {
+      "id": "ch2-q151",
+      "text": "What happens to the wealth of usury versus the wealth of charity?",
+      "answer": "Allah destroys usury and gives increase for charities."
+    },
+    {
+      "id": "ch2-q152",
+      "text": "What is the advice for a creditor if the debtor is in 'hardship'?",
+      "answer": "Let there be postponement until a time of ease, and giving it as charity is better."
+    },
+    {
+      "id": "ch2-q153",
+      "text": "Why must debt contracts be written down?",
+      "answer": "To ensure justice, prevent doubts, and provide evidence."
+    },
+    {
+      "id": "ch2-q154",
+      "text": "Is it required to write down 'immediate' trade transactions?",
+      "answer": "No, it is no sin if you do not write them, but have witnesses when you conclude the agreement."
+    },
+    {
+      "id": "ch2-q155",
+      "text": "Should a scribe or witness be harmed?",
+      "answer": "No, they should not be harmed for doing their duty."
+    },
+    {
+      "id": "ch2-q156",
+      "text": "What if someone is on a journey and no scribe is available for a debt?",
+      "answer": "A pledge/security (Rihan) should be taken."
+    },
+    {
+      "id": "ch2-q157",
+      "text": "What is the ruling on concealing testimony?",
+      "answer": "It is forbidden; whoever conceals it has a sinful heart."
+    },
+    {
+      "id": "ch2-q158",
+      "text": "Does Allah know what is in our souls even if we hide it?",
+      "answer": "Yes, 'Whether you show what is within yourselves or conceal it, Allah will bring you to account for it'."
+    },
+    {
+      "id": "ch2-q159",
+      "text": "What are the four things the Messenger and the believers believe in?",
+      "answer": "Allah, His angels, His books, and His messengers."
+    },
+    {
+      "id": "ch2-q160",
+      "text": "What is the final plea for victory at the end of the Surah?",
+      "answer": "'You are our protector, so give us victory over the disbelieving people'."
+    },
+    {
+      "id": "ch2-q161",
+      "text": "What does Surah Al-Baqarah teach about guidance being a mercy, not merely information?",
+      "answer": "It presents guidance as something that reforms the heart and life; benefiting from it requires humility, sincerity, and willingness to obey Allah."
+    },
+    {
+      "id": "ch2-q162",
+      "text": "Why does the Surah repeatedly connect belief with action, not only statements?",
+      "answer": "Because true iman shows itself through worship, character, and obedience; claims without deeds are easily empty or hypocritical."
+    },
+    {
+      "id": "ch2-q163",
+      "text": "What is one sign of hypocrisy highlighted early in the Surah that can appear in modern life?",
+      "answer": "Saying what sounds religious while consistently choosing dunya, lying, or harming others when it costs something to be truthful."
+    },
+    {
+      "id": "ch2-q164",
+      "text": "How does the Surah teach that sin can damage a person’s ability to recognize truth?",
+      "answer": "It describes hearts becoming sealed or sick when people persistently reject guidance, making repentance harder unless they return to Allah."
+    },
+    {
+      "id": "ch2-q165",
+      "text": "What lesson does the story of Adam teach about handling mistakes?",
+      "answer": "Adam repented and sought Allah’s forgiveness; the right response to error is humility, remorse, and returning to Allah—not pride."
+    },
+    {
+      "id": "ch2-q166",
+      "text": "What does the Surah teach about Shaytan’s strategy when he leads people into wrongdoing?",
+      "answer": "He beautifies sin, encourages delay in repentance, and uses doubts and desires to pull people away from obedience."
+    },
+    {
+      "id": "ch2-q167",
+      "text": "What is the difference between ‘being tested’ and ‘being abandoned’ according to the Surah’s overall message?",
+      "answer": "Tests are part of faith-building; Allah still guides, teaches patience, and rewards perseverance—abandonment is when a person rejects guidance knowingly."
+    },
+    {
+      "id": "ch2-q168",
+      "text": "How does the Surah correct the idea that ‘being chosen’ guarantees salvation regardless of deeds?",
+      "answer": "It stresses personal accountability: honor comes with obedience, not with lineage, slogans, or group identity."
+    },
+    {
+      "id": "ch2-q169",
+      "text": "What does the Surah teach about making religion difficult for yourself unnecessarily?",
+      "answer": "Obedience is required, but excessive strictness and excuses are condemned; Allah wants sincerity and compliance without stubbornness."
+    },
+    {
+      "id": "ch2-q170",
+      "text": "What is one key character trait that the Surah praises in believers when they hear Allah’s commands?",
+      "answer": "Readiness to obey with humility—accepting correction and acting, rather than arguing or delaying."
+    },
+    {
+      "id": "ch2-q171",
+      "text": "How does the Surah train a believer to balance private worship and public responsibility?",
+      "answer": "It combines inner faith, prayer, and sincerity with social duties like justice, charity, and protecting rights."
+    },
+    {
+      "id": "ch2-q172",
+      "text": "What does the Surah teach about the spiritual danger of showing off in charity?",
+      "answer": "It can erase reward; charity should be for Allah, with kindness and dignity, not for reputation or control."
+    },
+    {
+      "id": "ch2-q173",
+      "text": "Why does the Surah emphasize giving from what is good and lawful rather than what is leftover or disliked?",
+      "answer": "Because Allah is pure and deserves sincerity; giving low-quality charity reflects stinginess and weak gratitude."
+    },
+    {
+      "id": "ch2-q174",
+      "text": "What is a practical meaning of ‘spending in Allah’s way’ beyond money?",
+      "answer": "It includes time, skills, effort, and support for family and community in halal ways for Allah’s pleasure."
+    },
+    {
+      "id": "ch2-q175",
+      "text": "How does the Surah describe the mindset of someone who sincerely seeks Allah’s approval?",
+      "answer": "They aim for Allah’s pleasure even when unseen, accept hardship, and keep their intentions clean from ego and manipulation."
+    },
+    {
+      "id": "ch2-q176",
+      "text": "What does the Surah teach about repentance after major sins?",
+      "answer": "The door remains open if repentance is sincere—regret, stopping the sin, returning to obedience, and making amends where needed."
+    },
+    {
+      "id": "ch2-q177",
+      "text": "How does the Surah protect people from spiritual despair?",
+      "answer": "By showing Allah’s mercy, opening repentance, and teaching that guidance and forgiveness are available to those who turn back sincerely."
+    },
+    {
+      "id": "ch2-q178",
+      "text": "What is one misconception about dua that Surah Al-Baqarah corrects?",
+      "answer": "That dua is only for big crises; it teaches calling on Allah consistently with trust, patience, and lawful effort."
+    },
+    {
+      "id": "ch2-q179",
+      "text": "How does the Surah teach that Islamic law aims to protect people, not punish them?",
+      "answer": "Many rulings are tied to mercy, preventing harm, protecting families, and building a just community."
+    },
+    {
+      "id": "ch2-q180",
+      "text": "What does the Surah teach about alcohol and gambling as social harms, not only personal sins?",
+      "answer": "They create addiction, conflict, financial ruin, and broken families; the Surah frames them as major sources of فساد (corruption)."
+    },
+    {
+      "id": "ch2-q181",
+      "text": "How does the Surah guide Muslims on handling money ethically?",
+      "answer": "It encourages honest trade, fulfilling contracts, avoiding exploitation, and refusing interest-based ظلم that traps the vulnerable."
+    },
+    {
+      "id": "ch2-q182",
+      "text": "What is the spiritual difference between charity and interest-based profit according to the Surah’s message?",
+      "answer": "Charity purifies wealth and heart; interest feeds greed and injustice, harming society and hardening the soul."
+    },
+    {
+      "id": "ch2-q183",
+      "text": "What does the Surah teach about documenting financial obligations?",
+      "answer": "To prevent disputes and ظلم: write clearly, be just, use witnesses when possible, and avoid ambiguity."
+    },
+    {
+      "id": "ch2-q184",
+      "text": "How does Surah Al-Baqarah teach the importance of trustworthy witnesses and honesty in testimony?",
+      "answer": "It treats truthful testimony as a religious duty; hiding or twisting it is a sin that harms justice."
+    },
+    {
+      "id": "ch2-q185",
+      "text": "What does the Surah teach about reconciliation in family conflicts?",
+      "answer": "Seek fairness, avoid ظلم, and aim for peaceful solutions; separation may be allowed but should not be done with cruelty or revenge."
+    },
+    {
+      "id": "ch2-q186",
+      "text": "How does the Surah protect women’s dignity in marriage and divorce matters?",
+      "answer": "It sets boundaries against harm, commands kind treatment, and requires responsibility and fairness rather than using divorce as a weapon."
+    },
+    {
+      "id": "ch2-q187",
+      "text": "What is one principle the Surah teaches about consent and kindness in marriage?",
+      "answer": "Marriage should be built on lawful commitment, respect, and mutual rights—harm and coercion contradict Islamic character."
+    },
+    {
+      "id": "ch2-q188",
+      "text": "How does the Surah teach believers to deal with uncertainty about the future?",
+      "answer": "Rely on Allah, take lawful means, and remember that provision and outcomes are in Allah’s hand; anxiety should not lead to haram."
+    },
+    {
+      "id": "ch2-q189",
+      "text": "What does the Surah teach about the value of patience when facing community pressure?",
+      "answer": "Truth may be unpopular; believers are asked to remain steady, prioritize Allah’s approval, and avoid being dragged by people’s expectations."
+    },
+    {
+      "id": "ch2-q190",
+      "text": "How does the Surah define true righteousness (birr) as more than rituals?",
+      "answer": "It includes faith, prayer, charity, fulfilling promises, patience, and moral integrity—not only outward directions or symbols."
+    },
+    {
+      "id": "ch2-q191",
+      "text": "What does the Surah teach about fulfilling promises, whether to Allah or people?",
+      "answer": "Promises are a trust; breaking them damages faith and society. Believers are commanded to honor commitments and be reliable."
+    },
+    {
+      "id": "ch2-q192",
+      "text": "How does the Surah teach a believer to respond when they see ظلم in society?",
+      "answer": "Stand for justice with wisdom, avoid participating in oppression, and support what is right through lawful means and sincere intention."
+    },
+    {
+      "id": "ch2-q193",
+      "text": "What is one key lesson from the Surah’s repeated mention of Allah’s knowledge?",
+      "answer": "Allah knows hidden motives and private choices; sincerity matters and self-deception will not benefit on the Day of Judgment."
+    },
+    {
+      "id": "ch2-q194",
+      "text": "How does the Surah teach that knowledge without humility can become harmful?",
+      "answer": "People may argue, twist words, or use knowledge for ego; true knowledge leads to submission, honesty, and fear of Allah."
+    },
+    {
+      "id": "ch2-q195",
+      "text": "What does the Surah teach about respecting places of worship and avoiding corruption in them?",
+      "answer": "Preventing worship or harming sacred spaces is a grave ظلم; believers are taught to honor worship and protect community access to it."
+    },
+    {
+      "id": "ch2-q196",
+      "text": "How does the Surah guide believers about food and consumption habits?",
+      "answer": "Eat what is lawful and wholesome, avoid excess, and don’t let desire lead to haram or ingratitude."
+    },
+    {
+      "id": "ch2-q197",
+      "text": "What does the Surah teach about leadership and responsibility, based on its stories and laws?",
+      "answer": "Authority is a trust from Allah; leaders must be just, accountable, and protective of people’s rights—not arrogant or self-serving."
+    },
+    {
+      "id": "ch2-q198",
+      "text": "How does the Surah teach a believer to think about death and the Hereafter in daily decisions?",
+      "answer": "It makes accountability real: choices about money, family, and worship should be made with the Hereafter in mind, not only short-term gain."
+    },
+    {
+      "id": "ch2-q199",
+      "text": "What does Surah Al-Baqarah teach about seeking Allah’s help in hardship?",
+      "answer": "Seek help through patience and prayer, maintain hope, and remember that Allah supports those who remain steadfast."
+    },
+    {
+      "id": "ch2-q200",
+      "text": "What does the Surah teach about responding to Allah’s favors with gratitude rather than entitlement?",
+      "answer": "Gratitude means recognizing blessings from Allah, using them in obedience, and avoiding arrogance and complaint when tested."
     }
-  
+  ]
+}

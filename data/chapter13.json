@@ -6,103 +6,383 @@
   "questions": [
     {
       "id": "ch13-q1",
-      "text": "What natural phenomena are mentioned in the beginning of the Surah as signs of Allah?",
-      "answer": "The raising of the heavens without pillars, the sun, the moon, and the spreading of the earth with mountains and rivers."
+      "text": "What does the Surah say about the heavens in its opening verses?",
+      "answer": "Allah is the One who raised the heavens without pillars that you can see."
     },
     {
       "id": "ch13-q2",
+      "text": "How does Allah describe the sun and the moon in this Surah?",
+      "answer": "He has subjected the sun and the moon, each running its course for a specified term."
+    },
+    {
+      "id": "ch13-q3",
+      "text": "What natural phenomena on earth are mentioned as signs of Allah's power?",
+      "answer": "The spreading of the earth, setting of firm mountains, rivers, and every kind of fruit in pairs."
+    },
+    {
+      "id": "ch13-q4",
+      "text": "What is the sign of Allah's power regarding the soil and crops?",
+      "answer": "On the earth are neighboring tracts, gardens of grapevines, crops, and palm trees, growing in clusters or individually, all watered with the same water, yet some are made better than others in taste."
+    },
+    {
+      "id": "ch13-q5",
+      "text": "What is the strange question of the disbelievers regarding the afterlife?",
+      "answer": "They ask, 'When we are dust, will we indeed be brought into a new creation?'"
+    },
+    {
+      "id": "ch13-q6",
       "text": "How does Allah describe His knowledge of what every female carries?",
       "answer": "Allah knows what every female carries and what the wombs lose or exceed, as everything has a precise measure with Him."
     },
     {
-      "id": "ch13-q3",
-      "text": "Who are the 'Mu'aqqibat' mentioned in Verse 11?",
+      "id": "ch13-q7",
+      "text": "Does it make a difference to Allah if someone speaks in secret or in public?",
+      "answer": "No, it is the same to Him whether one conceals his speech or declares it, and whether one is hidden by night or moving freely by day."
+    },
+    {
+      "id": "ch13-q8",
+      "text": "Who are the 'Mu'aqqibat' mentioned in this Surah?",
       "answer": "Angels who follow one another before and behind the human, guarding them by the command of Allah."
     },
     {
-      "id": "ch13-q4",
-      "text": "State the famous principle of social change mentioned in Verse 11.",
-      "answer": "Allah will not change the condition of a people until they change what is in themselves."
+      "id": "ch13-q9",
+      "text": "State the famous principle of social change mentioned in this Surah.",
+      "answer": "Indeed, Allah will not change the condition of a people until they change what is in themselves."
     },
     {
-      "id": "ch13-q5",
+      "id": "ch13-q10",
+      "text": "What natural phenomena does Allah show as signs of both fear and hope?",
+      "answer": "The lightening, which causes fear and hope, and the heavy clouds He produces."
+    },
+    {
+      "id": "ch13-q11",
       "text": "What does the thunder do out of fear and awe of Allah?",
       "answer": "The thunder exalts Allah with praise, as do the angels."
     },
     {
-      "id": "ch13-q6",
+      "id": "ch13-q12",
       "text": "To whom belongs the 'True Supplication' (Da'watul Haqq)?",
       "answer": "To Allah alone; those called upon besides Him do not respond to anything."
     },
     {
-      "id": "ch13-q7",
-      "text": "How is the 'Prostration of Shadows' described in Verse 15?",
+      "id": "ch13-q13",
+      "text": "What parable is used for those who call upon idols?",
+      "answer": "It is like one who stretches his hands toward water to reach his mouth, but it does not reach it."
+    },
+    {
+      "id": "ch13-q14",
+      "text": "How is the 'Prostration of Shadows' described in this Surah?",
       "answer": "Everything in the heavens and the earth prostrates to Allah, willingly or unwillingly, as do their shadows in the morning and afternoon."
     },
     {
-      "id": "ch13-q8",
-      "text": "What parable is used to describe the difference between Truth and Falsehood?",
+      "id": "ch13-q15",
+      "text": "Can those who are 'blind' (spiritually) be equal to those who can 'see'?",
+      "answer": "No, just as the darkness is not equal to the light."
+    },
+    {
+      "id": "ch13-q16",
+      "text": "What parable is used to describe the difference between Truth and Falsehood regarding water?",
       "answer": "Water that flows in valleys, where the scum disappears like foam, while that which benefits mankind remains on the earth."
     },
     {
-      "id": "ch13-q9",
-      "text": "What is the key characteristic of the 'Ulul-Albab' (People of Understanding) in this Surah?",
-      "answer": "They fulfill the covenant of Allah, do not break the contract, and join what Allah has commanded to be joined."
+      "id": "ch13-q17",
+      "text": "What parable is used for Truth and Falsehood regarding metal?",
+      "answer": "When metal is heated in the fire to make ornaments or tools, a similar scum (slag) rises from it and then vanishes, while the pure metal remains."
     },
     {
-      "id": "ch13-q10",
-      "text": "According to Verse 26, how does Allah distribute provision?",
-      "answer": "He extends provision for whom He wills and restricts it."
+      "id": "ch13-q18",
+      "text": "What is the reward for those who respond to their Lord?",
+      "answer": "For them is the best [reward], which is Paradise."
     },
     {
-      "id": "ch13-q11",
-      "text": "What brings true peace and tranquility to the hearts?",
-      "answer": "The remembrance of Allah (Dhikirullah)."
+      "id": "ch13-q19",
+      "text": "Will a person be able to ransom themselves with all the wealth on earth on the Day of Judgment?",
+      "answer": "No, even if they had everything on earth and as much again, they would try to ransom themselves with it, but their account will be evil."
     },
     {
-      "id": "ch13-q12",
-      "text": "What is the final 'Home' (Uqbad-Dar) for the righteous?",
+      "id": "ch13-q20",
+      "text": "What is the first quality of the 'Ulul-Albab' (People of Understanding) mentioned here?",
+      "answer": "They fulfill the covenant of Allah and do not break the contract."
+    },
+    {
+      "id": "ch13-q21",
+      "text": "List the 5 quality of the people of understanding.",
+      "answer": "They join what Allah has commanded to be joined (family ties and relations).; They fear their Lord and are afraid of the evil of the account.; They are patient, seeking the countenance of their Lord.; They establish prayer and spend from what Allah has provided them, secretly and publicly.; They repel evil with good; for such is the final home."
+    },
+    {
+      "id": "ch13-q22",
+      "text": "What is the 'Home' (Uqbad-Dar) for the righteous?",
       "answer": "The Gardens of perpetual residence (Jannatu 'Adn), which they enter with the righteous among their parents, spouses, and descendants."
     },
     {
-      "id": "ch13-q13",
+      "id": "ch13-q23",
       "text": "What do the angels say to the inhabitants of Paradise upon entering?",
       "answer": "Peace be upon you for what you patiently endured. And excellent is the final home."
     },
     {
-      "id": "ch13-q14",
+      "id": "ch13-q24",
       "text": "What is the fate of those who break the covenant of Allah and spread corruption?",
       "answer": "They will have the curse and an evil home."
     },
     {
-      "id": "ch13-q15",
-      "text": "How does Allah respond to the demand for a physical miracle (sign) from the Prophet?",
-      "answer": "He states that He is the only one who can send signs, and the Prophet is only a warner."
+      "id": "ch13-q25",
+      "text": "How does Allah distribute provision?",
+      "answer": "He extends provision for whom He wills and restricts it."
     },
     {
-      "id": "ch13-q16",
+      "id": "ch13-q26",
+      "text": "What brings true peace and tranquility to the hearts?",
+      "answer": "The remembrance of Allah (Dhikirullah)."
+    },
+    {
+      "id": "ch13-q27",
+      "text": "What is 'Tuba' for those who believe and do righteous deeds?",
+      "answer": "A blessed state (or a tree in Paradise) and a beautiful place of return."
+    },
+    {
+      "id": "ch13-q28",
+      "text": "Why was the Prophet Muhammad sent to his nation according to this Surah?",
+      "answer": "To recite to them what Allah revealed to him, while they disbelieve in the Most Merciful."
+    },
+    {
+      "id": "ch13-q29",
       "text": "If a Quran could move mountains or speak to the dead, would the disbelievers believe?",
-      "answer": "No, for to Allah belongs the command entirely; He guides and leaves astray according to His wisdom."
+      "answer": "The Surah implies that even then they might not, for to Allah belongs the command entirely; He guides and leaves astray according to His wisdom."
     },
     {
-      "id": "ch13-q17",
-      "text": "What happens to the 'scum' of falsehood?",
-      "answer": "It passes away as a vanishing thing (Jufa'an)."
+      "id": "ch13-q30",
+      "text": "What will continue to strike the disbelievers because of their deeds until Allah's promise comes?",
+      "answer": "A disaster (Qari'ah) will strike them or settle close to their homes."
     },
     {
-      "id": "ch13-q18",
+      "id": "ch13-q31",
+      "text": "Were messengers before Muhammad (SAW) mocked as well?",
+      "answer": "Yes, but Allah gave respite to those who disbelieved and then seized them with a terrible punishment."
+    },
+    {
+      "id": "ch13-q32",
+      "text": "What is the description of the 'Paradise' promised to the righteous?",
+      "answer": "Gardens beneath which rivers flow; its fruit is lasting, and so is its shade."
+    },
+    {
+      "id": "ch13-q33",
+      "text": "What is the reaction of those who were given the Scripture (sincere ones) to the Quran?",
+      "answer": "They rejoice in what has been revealed to the Prophet."
+    },
+    {
+      "id": "ch13-q34",
+      "text": "What is the command given to the Prophet regarding the 'Arabic Revelation'?",
+      "answer": "He is told to follow it and not follow the desires of the disbelievers after knowledge has come to him."
+    },
+    {
+      "id": "ch13-q35",
+      "text": "Did the messengers before Muhammad (SAW) have families?",
+      "answer": "Yes, Allah sent messengers before him and made for them wives and descendants."
+    },
+    {
+      "id": "ch13-q36",
+      "text": "Can a messenger bring a miracle (sign) of his own accord?",
+      "answer": "No, it is only by the permission of Allah; for every term there is a decree (Kitab)."
+    },
+    {
+      "id": "ch13-q37",
+      "text": "What does Allah do with His decrees in the 'Mother of the Book' (Umm al-Kitab)?",
+      "answer": "Allah eliminates what He wills or confirms what He wills, and with Him is the Mother of the Book."
+    },
+    {
+      "id": "ch13-q38",
+      "text": "What is the duty of the Messenger as per the end of the Surah?",
+      "answer": "His duty is only to convey the message, while the account is with Allah."
+    },
+    {
+      "id": "ch13-q39",
+      "text": "Does the earth remain the same size to the disbelievers?",
+      "answer": "No, Allah shows them that He diminishes the land from its edges (referring to the spread of Islam and the weakening of disbelief)."
+    },
+    {
+      "id": "ch13-q40",
       "text": "Who is sufficient as a witness between the Prophet (SAW) and the disbelievers?",
       "answer": "Allah, and whoever has knowledge of the Scripture."
     },
     {
-      "id": "ch13-q19",
-      "text": "Does the earth remain the same size to the disbelievers?",
-      "answer": "No, Allah shows them that He diminishes the land from its edges (referring to the spread of Islam)."
+      "id": "ch13-q41",
+      "text": "What is the 'Thunder' (Ar-Ra'd) in this Surah?",
+      "answer": "It is a creation of Allah that praises Him and serves as a sign of His majesty."
     },
     {
-      "id": "ch13-q20",
-      "text": "What is the duty of the Messenger as per the end of the Surah?",
-      "answer": "His duty is only to convey the message, while the account is with Allah."
+      "id": "ch13-q42",
+      "text": "What is the 'Specified Term' mentioned for the sun and the moon?",
+      "answer": "The duration of their existence until the end of the world."
+    },
+    {
+      "id": "ch13-q43",
+      "text": "What is the 'Truth' (Al-Haqq) that is revealed from the Lord?",
+      "answer": "The Quran and the message of Tawhid, which most people do not believe in."
+    },
+    {
+      "id": "ch13-q44",
+      "text": "What is the 'scum' (slag) a metaphor for?",
+      "answer": "Falsehood, which appears dominant but has no substance and eventually vanishes."
+    },
+    {
+      "id": "ch13-q45",
+      "text": "What is the 'benefit to mankind' a metaphor for?",
+      "answer": "The Truth (the message of Islam), which remains and provides life to the souls."
+    },
+    {
+      "id": "ch13-q46",
+      "text": "What is the 'evil of the account' that the righteous fear?",
+      "answer": "The strict judgment of Allah on the Day of Resurrection for every deed."
+    },
+    {
+      "id": "ch13-q47",
+      "text": "How do the angels congratulate the people of Paradise?",
+      "answer": "By saying 'Salam' (Peace) to them for their patience."
+    },
+    {
+      "id": "ch13-q48",
+      "text": "What is the 'curse' for those who break covenants?",
+      "answer": "Expulsion from Allah's mercy and an evil destination."
+    },
+    {
+      "id": "ch13-q49",
+      "text": "Why do some people rejoice in the life of this world?",
+      "answer": "Because they are heedless of the Hereafter, though worldly life is but a brief enjoyment."
+    },
+    {
+      "id": "ch13-q50",
+      "text": "What is the 'guidance' of Allah for those who turn to Him?",
+      "answer": "He guides those who remember Him and whose hearts find rest in His remembrance."
+    },
+    {
+      "id": "ch13-q51",
+      "text": "What is the 'Arabic Judgment' (Hukman Arabiyyan) mentioned in this Surah?",
+      "answer": "The Quran, revealed in the Arabic language as a decisive rule."
+    },
+    {
+      "id": "ch13-q52",
+      "text": "What is the 'Mother of the Book'?",
+      "answer": "The original source of all revelation (Al-Lawh al-Mahfuz)."
+    },
+    {
+      "id": "ch13-q53",
+      "text": "What is the 'account' with Allah?",
+      "answer": "The final audit of everyone's life and deeds."
+    },
+    {
+      "id": "ch13-q54",
+      "text": "How does Allah describe His 'dominance' over the land?",
+      "answer": "By showing how His message prevails and the influence of disbelief shrinks."
+    },
+    {
+      "id": "ch13-q55",
+      "text": "What is the 'True Supplication'?",
+      "answer": "A prayer directed only to Allah, who is the only one capable of responding."
+    },
+    {
+      "id": "ch13-q56",
+      "text": "What is the 'Prostration of all creation'?",
+      "answer": "The universal submission of everything in the universe to the laws of Allah."
+    },
+    {
+      "id": "ch13-q57",
+      "text": "Why does Allah mention 'shadows'?",
+      "answer": "To show how even the physical shadows are dependent on the sun and follow the laws of their Creator."
+    },
+    {
+      "id": "ch13-q58",
+      "text": "What is the 'foam' mentioned in the water parable?",
+      "answer": "The useless part of the water that rises and disappears."
+    },
+    {
+      "id": "ch13-q59",
+      "text": "What is the 'ornament' mentioned in the metal parable?",
+      "answer": "The valuable part of the metal that is used by people."
+    },
+    {
+      "id": "ch13-q60",
+      "text": "What is the 'precise measure' with Allah?",
+      "answer": "That everything in existence is calculated and planned by His wisdom."
+    },
+    {
+      "id": "ch13-q61",
+      "text": "What is the 'watch' (Mu'aqqibat) of the angels?",
+      "answer": "Their continuous protection and recording of a person's life."
+    },
+    {
+      "id": "ch13-q62",
+      "text": "What is the 'despair' of the disbelievers?",
+      "answer": "Their lack of hope in the mercy of Allah and the Hereafter."
+    },
+    {
+      "id": "ch13-q63",
+      "text": "What is the 'boast' of the disbelievers?",
+      "answer": "Their arrogance when they receive worldly favors."
+    },
+    {
+      "id": "ch13-q64",
+      "text": "What is the 'security' provided by Allah?",
+      "answer": "The peace and protection given to the believers."
+    },
+    {
+      "id": "ch13-q65",
+      "text": "What is the 'witness of the Scripture'?",
+      "answer": "The testimony of those who truly understand the previous revelations and recognize the truth of the Quran."
+    },
+    {
+      "id": "ch13-q66",
+      "text": "What is the 'Elimination and Confirmation' of Allah?",
+      "answer": "His power to change or establish His decrees as He wills."
+    },
+    {
+      "id": "ch13-q67",
+      "text": "What is the 'Arabic Revelation'?",
+      "answer": "The Quran revealed in the language of the people to whom it was first sent."
+    },
+    {
+      "id": "ch13-q68",
+      "text": "What is the 'counting of years'?",
+      "answer": "A benefit of the phases of the moon and sun for human organization."
+    },
+    {
+      "id": "ch13-q69",
+      "text": "What is the ' taste' of fruits?",
+      "answer": "A sign of Allah's diverse creation from the same water."
+    },
+    {
+      "id": "ch13-q70",
+      "text": "What is the 'fear and hope' in lightening?",
+      "answer": "Fear of the strike and hope for the rain it brings."
+    },
+    {
+      "id": "ch13-q71",
+      "text": "What is the 'heavy cloud'?",
+      "answer": "A cloud filled with water, sent by Allah to provide rain."
+    },
+    {
+      "id": "ch13-q72",
+      "text": "What is the 'unwilling prostration'?",
+      "answer": "The submission of the bodies and physical elements of disbelievers to the laws of Allah."
+    },
+    {
+      "id": "ch13-q73",
+      "text": "What is the 'will of Allah' in guidance?",
+      "answer": "That He guides those who seek the truth and leaves astray those who persist in arrogance."
+    },
+    {
+      "id": "ch13-q74",
+      "text": "What is the 'account' mentioned for the Messenger?",
+      "answer": "That he is not responsible for the outcome, only for the delivery of the message."
+    },
+    {
+      "id": "ch13-q75",
+      "text": "What is the 'witness' of Allah?",
+      "answer": "His presence and knowledge over all things."
+    },
+    {
+      "id": "ch13-q76",
+      "text": "What is the final message about the 'Lord'?",
+      "answer": "That He is the only Lord of the heavens and the earth, worthy of all worship."
     }
   ]
 }

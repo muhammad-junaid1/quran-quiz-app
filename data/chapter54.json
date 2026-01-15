@@ -1,0 +1,343 @@
+{
+    "id": 54,
+    "englishName": "Al-Qamar",
+    "arabicName": "القمر",
+    "translation": "The Moon",
+    "questions": [
+        {
+            "id": "ch54-q1",
+            "text": "What is the central theme of Surah Al-Qamar?",
+            "answer": "It warns that the Hour is near, shows how previous nations denied and were destroyed, and emphasizes that the Quran is a clear reminder."
+        },
+        {
+            "id": "ch54-q2",
+            "text": "Why does the Surah emphasize that the Hour is near?",
+            "answer": "To awaken urgency and push people to repent and stop delaying obedience."
+        },
+        {
+            "id": "ch54-q3",
+            "text": "True/False: The Surah teaches that miracles guarantee guidance for stubborn hearts.",
+            "answer": "False. It shows some people still deny even after signs due to arrogance."
+        },
+        {
+            "id": "ch54-q4",
+            "text": "What does the Surah teach about people calling miracles 'magic'?",
+            "answer": "It exposes denial as stubbornness; labeling truth as magic is an excuse to avoid submission."
+        },
+        {
+            "id": "ch54-q5",
+            "text": "How does Surah Al-Qamar use history as a warning?",
+            "answer": "It recounts destroyed nations to show denial has consequences and Allah's punishment is real."
+        },
+        {
+            "id": "ch54-q6",
+            "text": "What is one repeated moral message throughout the Surah?",
+            "answer": "Take warning before it is too late, because denial leads to regret and punishment."
+        },
+        {
+            "id": "ch54-q7",
+            "text": "What does the Surah teach about Prophet Nuh (AS) and his people's denial?",
+            "answer": "They rejected him and mocked him, but Allah saved him and punished the deniers."
+        },
+        {
+            "id": "ch54-q8",
+            "text": "What is one lesson from Nuh's story about du'a?",
+            "answer": "A sincere cry to Allah in oppression is heard, and Allah's help comes by His decree."
+        },
+        {
+            "id": "ch54-q9",
+            "text": "How does the Surah describe Allah's control over natural forces in punishment?",
+            "answer": "Allah can open the sky and the earth to bring overwhelming flood or destruction."
+        },
+        {
+            "id": "ch54-q10",
+            "text": "True/False: The Surah portrays punishment as random and unfair.",
+            "answer": "False. Punishment follows clear warning and persistent denial."
+        },
+        {
+            "id": "ch54-q11",
+            "text": "What does Surah Al-Qamar teach about the people of 'Ad?",
+            "answer": "They denied and were destroyed by a harsh wind, showing strength does not save from Allah."
+        },
+        {
+            "id": "ch54-q12",
+            "text": "What is one lesson from the destruction of 'Ad for modern societies?",
+            "answer": "Technology and power cannot protect a people who persist in arrogance and injustice."
+        },
+        {
+            "id": "ch54-q13",
+            "text": "What does the Surah teach about Thamud and their denial of Salih (AS)?",
+            "answer": "They rejected the warning and committed wrongdoing, leading to sudden punishment."
+        },
+        {
+            "id": "ch54-q14",
+            "text": "How does the Surah teach that major sins can escalate quickly?",
+            "answer": "It shows how denial leads to bold wrongdoing, then sudden, decisive consequences."
+        },
+        {
+            "id": "ch54-q15",
+            "text": "What does the Surah teach about the people of Lut (AS)?",
+            "answer": "They persisted in corruption and were punished, while Allah saved Lut and the believers."
+        },
+        {
+            "id": "ch54-q16",
+            "text": "True/False: Being near a prophet guarantees safety regardless of belief.",
+            "answer": "False. The Surah's historical lessons show personal faith and obedience are required."
+        },
+        {
+            "id": "ch54-q17",
+            "text": "What does Surah Al-Qamar teach about Pharaoh's people in the pattern of denial?",
+            "answer": "They rejected signs, so Allah seized them, showing that repeated denial increases blame."
+        },
+        {
+            "id": "ch54-q18",
+            "text": "What is one repeated phrase idea in the Surah about the Quran being easy?",
+            "answer": "That the Quran has been made easy for remembrance—so people should take heed."
+        },
+        {
+            "id": "ch54-q19",
+            "text": "How does the Surah use the phrase 'is there any who will remember?'",
+            "answer": "It challenges the heart to respond, showing guidance is available but must be chosen."
+        },
+        {
+            "id": "ch54-q20",
+            "text": "What does Surah Al-Qamar teach about the psychological effect of denial?",
+            "answer": "Denial makes people interpret truth as falsehood and repeat mistakes despite warnings."
+        },
+        {
+            "id": "ch54-q21",
+            "text": "Why does the Surah emphasize that the Hour is near rather than giving exact timing?",
+            "answer": "To make people prepare immediately, since exact timing can become an excuse for delay."
+        },
+        {
+            "id": "ch54-q22",
+            "text": "True/False: The Surah teaches that repeated reminders become unnecessary after one warning.",
+            "answer": "False. It shows reminders are repeated as mercy and proof."
+        },
+        {
+            "id": "ch54-q23",
+            "text": "What does the Surah teach about arrogance when people are warned?",
+            "answer": "Arrogance leads to mockery and denial, which then leads to punishment."
+        },
+        {
+            "id": "ch54-q24",
+            "text": "What is one lesson about leadership and community pressure from the stories in this Surah?",
+            "answer": "Communities often follow arrogance; believers must resist pressure and follow truth."
+        },
+        {
+            "id": "ch54-q25",
+            "text": "How does Surah Al-Qamar strengthen faith through repetition?",
+            "answer": "By repeating lessons from different nations, it drives the message into the heart."
+        },
+        {
+            "id": "ch54-q26",
+            "text": "What does the Surah teach about Allah's ability to punish suddenly?",
+            "answer": "Allah's command can seize people quickly; delaying repentance is dangerous."
+        },
+        {
+            "id": "ch54-q27",
+            "text": "True/False: The Surah suggests punishment is always delayed for a long time.",
+            "answer": "False. It shows punishment can be swift once the term ends."
+        },
+        {
+            "id": "ch54-q28",
+            "text": "What does the Surah teach about the fate of those who reject a messenger after clear signs?",
+            "answer": "They face consequences that match their denial, and their false confidence collapses."
+        },
+        {
+            "id": "ch54-q29",
+            "text": "What is one practical way to respond to the Quran being 'easy for remembrance'?",
+            "answer": "Recite regularly, understand meanings, and translate reminders into daily repentance and change."
+        },
+        {
+            "id": "ch54-q30",
+            "text": "What does Surah Al-Qamar teach about the value of learning from history?",
+            "answer": "History is not entertainment; it is guidance showing patterns of truth, denial, and consequences."
+        },
+        {
+            "id": "ch54-q31",
+            "text": "How does the Surah teach that miracles are not the only proof of truth?",
+            "answer": "It shows that hearts reject even miracles, so the deeper proof is sincerity and submission to Allah."
+        },
+        {
+            "id": "ch54-q32",
+            "text": "What does the Surah teach about the Hereafter being a real, final sorting?",
+            "answer": "People will be gathered and judged; the righteous and wicked will not be treated the same."
+        },
+        {
+            "id": "ch54-q33",
+            "text": "True/False: The Surah teaches that sins disappear if society normalizes them.",
+            "answer": "False. Normalization does not change Allah's judgment."
+        },
+        {
+            "id": "ch54-q34",
+            "text": "What is one lesson from these stories about delaying repentance?",
+            "answer": "Delay often becomes permanent until punishment arrives; repent while there is time."
+        },
+        {
+            "id": "ch54-q35",
+            "text": "How does Surah Al-Qamar teach the believer to respond when mocked for faith?",
+            "answer": "Remain steadfast, remember Allah's past support of messengers, and trust the final outcome."
+        },
+        {
+            "id": "ch54-q36",
+            "text": "What does the Surah teach about Allah's mercy in making guidance accessible?",
+            "answer": "Allah made the Quran easy to remember, so people have no excuse to ignore it."
+        },
+        {
+            "id": "ch54-q37",
+            "text": "How can a parent use this Surah to teach children about consequences?",
+            "answer": "Use stories of past nations to show choices have outcomes and that Allah sees and judges fairly."
+        },
+        {
+            "id": "ch54-q38",
+            "text": "What does the Surah teach about the righteous at the end compared to sinners?",
+            "answer": "The righteous are honored and safe, while sinners face harsh consequences."
+        },
+        {
+            "id": "ch54-q39",
+            "text": "True/False: The Surah suggests Allah's mercy removes all need for fear of consequences.",
+            "answer": "False. Mercy invites repentance; fear of consequences keeps a person from arrogance."
+        },
+        {
+            "id": "ch54-q40",
+            "text": "What is one spiritual benefit of repeating 'is there any who will remember?'",
+            "answer": "It awakens the conscience and invites immediate self-correction."
+        },
+        {
+            "id": "ch54-q41",
+            "text": "How does the Surah teach that people's excuses in denial are repetitive across history?",
+            "answer": "Different nations used similar excuses, showing denial is a pattern of the نفس and pride."
+        },
+        {
+            "id": "ch54-q42",
+            "text": "What does Surah Al-Qamar teach about Allah's record of deeds and events?",
+            "answer": "It implies nothing is forgotten; accountability is complete and precise."
+        },
+        {
+            "id": "ch54-q43",
+            "text": "What is one way to respond to this Surah if you feel spiritually complacent?",
+            "answer": "Renew repentance, increase remembrance, and take the warnings personally rather than as stories."
+        },
+        {
+            "id": "ch54-q44",
+            "text": "What does the Surah teach about the danger of pride in intellect or status?",
+            "answer": "Pride makes people dismiss truth and leads to ruin regardless of worldly position."
+        },
+        {
+            "id": "ch54-q45",
+            "text": "True/False: The Surah encourages fatalism and hopelessness.",
+            "answer": "False. It encourages remembrance and repentance before the end."
+        },
+        {
+            "id": "ch54-q46",
+            "text": "How does Surah Al-Qamar strengthen a believer's certainty in Allah's justice?",
+            "answer": "By showing that rejection and ظلم were punished repeatedly across history."
+        },
+        {
+            "id": "ch54-q47",
+            "text": "What is one misconception corrected by this Surah about ignoring warnings?",
+            "answer": "That ignoring warnings makes them go away; in reality it increases accountability."
+        },
+        {
+            "id": "ch54-q48",
+            "text": "How can a believer make the Quran a practical reminder as emphasized here?",
+            "answer": "Choose one warning, one command, and one character trait to work on daily."
+        },
+        {
+            "id": "ch54-q49",
+            "text": "What does the Surah teach about Allah's power over nature as a sign?",
+            "answer": "Nature obeys Allah; He can use it as mercy or punishment, proving His lordship."
+        },
+        {
+            "id": "ch54-q50",
+            "text": "How does the Surah help build resilience when facing societal denial of faith?",
+            "answer": "It reminds believers that denial is ancient, and Allah's support and judgment are certain."
+        },
+        {
+            "id": "ch54-q51",
+            "text": "What is one daily-life application of 'the Hour is near'?",
+            "answer": "Live with urgency: fulfill obligations, avoid procrastination in repentance, and prioritize the Hereafter."
+        },
+        {
+            "id": "ch54-q52",
+            "text": "True/False: The Surah teaches that if people see signs, they will automatically stop sinning.",
+            "answer": "False. It shows that without humility, signs may be dismissed."
+        },
+        {
+            "id": "ch54-q53",
+            "text": "What does Surah Al-Qamar teach about the Quran's style as a reminder?",
+            "answer": "Its reminders are clear, repeated, and accessible so people can remember and change."
+        },
+        {
+            "id": "ch54-q54",
+            "text": "How does the Surah teach that guidance requires a willing heart?",
+            "answer": "It repeatedly asks if there is anyone who will remember, implying the choice must be made."
+        },
+        {
+            "id": "ch54-q55",
+            "text": "What is one ethical lesson from the repeated destruction stories?",
+            "answer": "Stop ظلم early; injustice grows until it invites punishment and collapse."
+        },
+        {
+            "id": "ch54-q56",
+            "text": "How does this Surah motivate humility compared to arrogance?",
+            "answer": "It shows arrogant nations were humbled completely, while humility leads to safety."
+        },
+        {
+            "id": "ch54-q57",
+            "text": "True/False: The Surah suggests only private worship matters, not public reform.",
+            "answer": "False. Its warnings address societies and public wrongdoing as well as individual hearts."
+        },
+        {
+            "id": "ch54-q58",
+            "text": "What is a concluding takeaway from Surah Al-Qamar?",
+            "answer": "Take the Quran as an urgent reminder, learn from past nations, and repent before it is too late."
+        },
+        {
+            "id": "ch54-q59",
+            "text": "How does the Surah teach the danger of repeating mistakes?",
+            "answer": "It shows repeated patterns of denial; repeating them leads to the same end."
+        },
+        {
+            "id": "ch54-q60",
+            "text": "What does the Surah teach about the relationship between reminder and mercy?",
+            "answer": "Reminders are mercy; ignoring them turns mercy into proof against a person."
+        },
+        {
+            "id": "ch54-q61",
+            "text": "What is one way to strengthen remembrance using the Surah's repeated lines?",
+            "answer": "Memorize and reflect on its repeated warning phrases and use them for daily self-check."
+        },
+        {
+            "id": "ch54-q62",
+            "text": "How does Surah Al-Qamar help fight procrastination?",
+            "answer": "It constantly reminds that time is short and consequences can arrive suddenly."
+        },
+        {
+            "id": "ch54-q63",
+            "text": "True/False: The Surah suggests people are safe as long as they deny quietly.",
+            "answer": "False. Denial itself is blameworthy and has consequences."
+        },
+        {
+            "id": "ch54-q64",
+            "text": "What does the Surah teach about Allah's help to His messengers?",
+            "answer": "Allah protects and supports His messengers and saves believers when the decree comes."
+        },
+        {
+            "id": "ch54-q65",
+            "text": "How can the Surah be used in personal repentance practice?",
+            "answer": "Read it regularly, identify one warning that fits your life, and make a specific change with dua."
+        },
+        {
+            "id": "ch54-q66",
+            "text": "What is one misconception corrected about 'easy Quran'?",
+            "answer": "That ease means it can be ignored; ease actually increases responsibility to remember and act."
+        },
+        {
+            "id": "ch54-q67",
+            "text": "What is a final call to action from Surah Al-Qamar?",
+            "answer": "Remember, repent, and respond to the Quran—do not be among those who repeat history's denial."
+        }
+    ]
+}

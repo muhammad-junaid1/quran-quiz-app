@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch91-q1",
+            "text": "Why does the Surah begin with many oaths (sun, moon, day, night, sky, earth, soul)?",
+            "answer": "To strongly confirm the message: the soul’s purification and corruption have real consequences."
+        },
+        {
+            "id": "ch91-q2",
+            "text": "True/False: The Surah teaches that people are morally neutral and have no inner awareness of right and wrong.",
+            "answer": "False. It teaches the soul is inspired with awareness of both wickedness and righteousness."
+        },
+        {
+            "id": "ch91-q3",
+            "text": "What does the contrast of day and night teach about moral clarity?",
+            "answer": "Just as light reveals and darkness covers, truth and sin affect the soul’s clarity."
+        },
+        {
+            "id": "ch91-q4",
+            "text": "What does it mean to purify the soul (tazkiyah) practically?",
+            "answer": "To cleanse the heart from shirk and sins, build taqwa, and train good character consistently."
+        },
+        {
+            "id": "ch91-q5",
+            "text": "What is one sign that someone is corrupting their soul?",
+            "answer": "They repeatedly ignore conscience, justify sin, and become comfortable with ظلم and disobedience."
+        },
+        {
+            "id": "ch91-q6",
+            "text": "True/False: The Surah teaches success is accidental and unrelated to effort.",
+            "answer": "False. It links success to active purification of the soul."
+        },
+        {
+            "id": "ch91-q7",
+            "text": "How can a believer strengthen the soul’s taqwa side daily?",
+            "answer": "By prayer, Quran, dhikr, avoiding major sins, and making sincere repentance quickly."
+        },
+        {
+            "id": "ch91-q8",
+            "text": "Why does the Surah mention Thamud as an example?",
+            "answer": "To show how arrogance and transgression lead to rejecting truth and suffering destruction."
+        },
+        {
+            "id": "ch91-q9",
+            "text": "What moral lesson is taught by the story of the she-camel?",
+            "answer": "When people attack clear signs and oppress what Allah has honored, they invite severe punishment."
+        },
+        {
+            "id": "ch91-q10",
+            "text": "What is one modern example of transgression like Thamud’s attitude?",
+            "answer": "Rejecting clear guidance out of pride and trying to silence reminders that challenge desires."
+        },
+        {
+            "id": "ch91-q11",
+            "text": "How does this Surah teach accountability for community crimes?",
+            "answer": "Even if one person leads a crime, the society that supports or accepts it shares responsibility."
+        },
+        {
+            "id": "ch91-q12",
+            "text": "True/False: The Surah teaches that Allah’s punishment is unjust or uncontrolled.",
+            "answer": "False. It presents punishment as a just response to sin and rebellion."
+        },
+        {
+            "id": "ch91-q13",
+            "text": "What does it mean that Allah does not fear the consequence of His punishment?",
+            "answer": "Allah’s justice is complete and not limited by weakness or regret; He is the absolute Judge."
+        },
+        {
+            "id": "ch91-q14",
+            "text": "How can someone avoid becoming like the ‘most wretched’ among Thamud?",
+            "answer": "Do not follow destructive leaders; listen to guidance, respect Allah’s limits, and repent."
+        },
+        {
+            "id": "ch91-q15",
+            "text": "How does this Surah correct the idea that morality is only social convention?",
+            "answer": "It roots morality in the soul’s God-given awareness and in divine judgment."
+        },
+        {
+            "id": "ch91-q16",
+            "text": "True/False: The Surah teaches that hiding sin removes its harm.",
+            "answer": "False. Corruption affects the soul even if others don’t see it."
+        },
+        {
+            "id": "ch91-q17",
+            "text": "What is one daily self-audit practice inspired by this Surah?",
+            "answer": "Before sleep, review one sin to repent from and one good deed to continue."
+        },
+        {
+            "id": "ch91-q18",
+            "text": "How does the Surah teach balance between hope and fear?",
+            "answer": "It offers hope through purification and success, and fear through corruption and destruction."
+        },
+        {
+            "id": "ch91-q19",
+            "text": "What does the Surah imply about the danger of normalizing sin?",
+            "answer": "Persistent sin hardens the soul and makes denial easier, leading to failure."
+        },
+        {
+            "id": "ch91-q20",
+            "text": "True/False: The Surah teaches that a person’s inner state is irrelevant if they appear good.",
+            "answer": "False. It centers success on the state of the soul."
+        },
+        {
+            "id": "ch91-q21",
             "text": "How many consecutive oaths does Allah take at the start of Surah Ash-Shams?",
             "answer": "Seven oaths (Sun, Moon, Day, Night, Sky, Earth, and the Soul)."
         },
         {
-            "id": "ch91-q2",
-            "text": "What does 'Duhaha' mean in Verse 1?",
+            "id": "ch91-q22",
+            "text": "What does 'Duhaha' mean in this Surah?",
             "answer": "The brightness or morning light of the sun."
         },
         {
-            "id": "ch91-q3",
-            "text": "What does the Moon do in Verse 2?",
+            "id": "ch91-q23",
+            "text": "What does the Surah say the Moon does in relation to the sun?",
             "answer": "It follows the sun."
         },
         {
-            "id": "ch91-q4",
+            "id": "ch91-q24",
             "text": "How is the 'Day' described in relation to the sun?",
             "answer": "As that which reveals or displays its glory."
         },
         {
-            "id": "ch91-q5",
+            "id": "ch91-q25",
             "text": "How is the 'Night' described in relation to the sun?",
             "answer": "As that which covers or conceals it."
         },
         {
-            "id": "ch91-q6",
-            "text": "What did Allah inspire the soul with (Verse 8)?",
+            "id": "ch91-q26",
+            "text": "What did Allah inspire the soul with according to this Surah?",
             "answer": "Its wickedness (Fujur) and its righteousness (Taqwa)."
         },
         {
-            "id": "ch91-q7",
-            "text": "Who has succeeded according to Verse 9?",
+            "id": "ch91-q27",
+            "text": "Who has succeeded according to this Surah?",
             "answer": "He who has purified the soul (Zakkaha)."
         },
         {
-            "id": "ch91-q8",
-            "text": "Who has failed according to Verse 10?",
+            "id": "ch91-q28",
+            "text": "Who has failed according to this Surah?",
             "answer": "He who has corrupted/instilled it with sin (Dassaha)."
         },
         {
-            "id": "ch91-q9",
+            "id": "ch91-q29",
             "text": "Which nation is used as an example of failure?",
             "answer": "The nation of Thamud."
         },
         {
-            "id": "ch91-q10",
+            "id": "ch91-q30",
             "text": "Why did Thamud deny their Prophet?",
             "answer": "Because of their 'transgression' (Taghwaha)."
         },
         {
-            "id": "ch91-q11",
+            "id": "ch91-q31",
             "text": "Who was the 'most wretched' (Ashqaha) of Thamud?",
             "answer": "The man (Qudar bin Salif) who stepped forward to kill the She-Camel."
         },
         {
-            "id": "ch91-q12",
+            "id": "ch91-q32",
             "text": "What was the command of the Messenger of Allah (Salih) regarding the She-Camel?",
             "answer": "'[Do not harm] the she-camel of Allah or [prevent her from] her drink'."
         },
         {
-            "id": "ch91-q13",
+            "id": "ch91-q33",
             "text": "What did the people of Thamud do to the camel?",
             "answer": "They denied him (the Prophet) and hamstrung/killed her."
         },
         {
-            "id": "ch91-q14",
+            "id": "ch91-q34",
             "text": "How did Allah punish Thamud?",
             "answer": "He crushed them for their sin and leveled them."
         },
         {
-            "id": "ch91-q15",
+            "id": "ch91-q35",
             "text": "Does Allah fear the 'consequence' of His punishment?",
-            "answer": "No, 'He does not fear its consequence' (Verse 15)."
+            "answer": "No, He does not fear its consequence."
         },
         {
-            "id": "ch91-q16",
+            "id": "ch91-q36",
             "text": "What is the spiritual significance of the sun/moon contrast in this Surah?",
             "answer": "It reflects the dual nature of the human soul (good and evil) and the clarity of guidance."
         },
         {
-            "id": "ch91-q17",
-            "text": "What does 'Tahlaha' mean in Verse 6?",
+            "id": "ch91-q37",
+            "text": "What does 'Tahlaha' mean in this Surah?",
             "answer": "How Allah spread or expanded the earth."
         },
         {
-            "id": "ch91-q18",
+            "id": "ch91-q38",
             "text": "Is the ability to choose between good and evil innate to humans?",
-            "answer": "Yes, Verse 8 indicates Allah inspired the soul with the knowledge of both."
+            "answer": "Yes, Allah inspired the soul with awareness of both right and wrong."
         },
         {
-            "id": "ch91-q19",
+            "id": "ch91-q39",
             "text": "What is the 'She-Camel of Allah'?",
             "answer": "A miraculous sign sent to Thamud that was directly attributed to Allah's power."
         },
         {
-            "id": "ch91-q20",
+            "id": "ch91-q40",
             "text": "What is the main takeaway regarding the soul?",
             "answer": "Success is not accidental; it is the result of active purification (Tazkiyah)."
         }

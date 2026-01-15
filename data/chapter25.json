@@ -1,108 +1,408 @@
 {
-  "id": 25,
-  "englishName": "Al-Furqan",
-  "arabicName": "الفرقان",
-  "translation": "The Criterion",
-  "questions": [
-    {
-      "id": "ch25-q1",
-      "text": "What does 'Al-Furqan' mean?",
-      "answer": "The Criterion (the standard to judge between right and wrong)."
-    },
-    {
-      "id": "ch25-q2",
-      "text": "What was the disbelievers' criticism of the Quran being revealed gradually?",
-      "answer": "They asked: 'Why was the Quran not sent down to him all at once?'"
-    },
-    {
-      "id": "ch25-q3",
-      "text": "What was Allah's reason for revealing the Quran in stages?",
-      "answer": "To strengthen the heart of the Prophet (SAW) and to explain it in a better way."
-    },
-    {
-      "id": "ch25-q4",
-      "text": "How did the disbelievers mock the human nature of the Prophet (SAW)?",
-      "answer": "They said: 'What is this messenger that eats food and walks in the markets?'"
-    },
-    {
-      "id": "ch25-q5",
-      "text": "What will the wrongdoer do on the Day of Judgment out of regret (Verse 27)?",
-      "answer": "He will bite on his hands, saying: 'Oh, I wish I had taken a path with the Messenger'."
-    },
-    {
-      "id": "ch25-q6",
-      "text": "What is the regret regarding 'friendship' mentioned in Verse 28?",
-      "answer": "'Oh, woe to me! I wish I had not taken that one as a friend'."
-    },
-    {
-      "id": "ch25-q7",
-      "text": "What complaint will the Messenger make against his people on the Last Day (Verse 30)?",
-      "answer": "'O my Lord, indeed my people have taken this Quran as something abandoned (Mahjura)'."
-    },
-    {
-      "id": "ch25-q8",
-      "text": "Who are the 'Ibadur Rahman'?",
-      "answer": "The 'Servants of the Most Merciful' described at the end of the Surah."
-    },
-    {
-      "id": "ch25-q9",
-      "text": "How do the 'Ibadur Rahman' respond when the ignorant address them?",
-      "answer": "They say: 'Salam' (peace)."
-    },
-    {
-      "id": "ch25-q10",
-      "text": "What is the prayer of the 'Ibadur Rahman' regarding Hell?",
-      "answer": "'Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering'."
-    },
-    {
-      "id": "ch25-q11",
-      "text": "What is their attitude towards spending (Verse 67)?",
-      "answer": "They are neither extravagant nor stingy, but maintain a balance between the two."
-    },
-    {
-      "id": "ch25-q12",
-      "text": "Which three major sins are mentioned in Verse 68 that they avoid?",
-      "answer": "Shirk (associating partners with Allah), killing an innocent soul, and adultery/fornication."
-    },
-    {
-      "id": "ch25-q13",
-      "text": "What happens to the bad deeds of those who repent, believe, and do righteous work?",
-      "answer": "Allah replaces their evil deeds with good ones."
-    },
-    {
-      "id": "ch25-q14",
-      "text": "What is the prayer of the 'Ibadur Rahman' for their families?",
-      "answer": "'Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous'."
-    },
-    {
-      "id": "ch25-q15",
-      "text": "What is the 'barrier' between the two seas mentioned in Verse 53?",
-      "answer": "An invisible partition (Barzakh) and a forbidden separation between fresh water and salty, bitter water."
-    },
-    {
-      "id": "ch25-q16",
-      "text": "From what did Allah create every human being in this Surah?",
-      "answer": "From water, then made for him blood relationship and relationship by marriage."
-    },
-    {
-      "id": "ch25-q17",
-      "text": "What is the shadow's purpose mentioned in Verse 45?",
-      "answer": "It is a sign of Allah's power; He could have made it still, but He made the sun its guide."
-    },
-    {
-      "id": "ch25-q18",
-      "text": "What is the 'Gharama' mentioned in Verse 65?",
-      "answer": "The punishment of Hell which is 'continuous' or 'inescapable'."
-    },
-    {
-      "id": "ch25-q19",
-      "text": "Why does Allah say He wouldn't care for people if not for their 'Dua' (Verse 77)?",
-      "answer": "Because worship and calling upon Him is the primary purpose of their existence; without it, they have no value to Him."
-    },
-    {
-      "id": "ch25-q20",
-      "text": "How do the servants of the Merciful spend their nights?",
-      "answer": "Prostrating and standing in prayer before their Lord."
-    }
-  ]
+    "id": 25,
+    "englishName": "Al-Furqan",
+    "arabicName": "الفرقان",
+    "translation": "The Criterion",
+    "questions": [
+        {
+            "id": "ch25-q1",
+            "text": "What is the meaning of the word 'Al-Furqan' and to whom was it revealed?",
+            "answer": "It means 'The Criterion' (to judge between right and wrong), and it was revealed to Prophet Muhammad (SAW) so he may be a warner to the worlds."
+        },
+        {
+            "id": "ch25-q2",
+            "text": "How does Allah describe His dominion in the opening of the Surah?",
+            "answer": "To Him belongs the dominion of the heavens and the earth; He has not taken a son and has no partner in dominion, and He created all things and determined them with precise determination."
+        },
+        {
+            "id": "ch25-q3",
+            "text": "What was the disbelievers' accusation against the Quran?",
+            "answer": "They said, 'This is nothing but a lie he has invented and others have helped him with it,' and they called it 'legends of the former peoples' which were dictated to him."
+        },
+        {
+            "id": "ch25-q4",
+            "text": "How does Allah respond to the claim that the Quran is dictated?",
+            "answer": "He says: 'It has been sent down by Him who knows the secret within the heavens and the earth. Indeed, He is ever Forgiving and Merciful.'"
+        },
+        {
+            "id": "ch25-q5",
+            "text": "How did the disbelievers mock the human nature of the Prophet (SAW)?",
+            "answer": "They said: 'What is this messenger that eats food and walks in the markets? Why was there not sent down to him an angel or a treasure, or why does he not have a garden to eat from?'"
+        },
+        {
+            "id": "ch25-q6",
+            "text": "What did the wrongdoers call the Prophet when they rejected him?",
+            "answer": "They said, 'You follow not but a man affected by magic.'"
+        },
+        {
+            "id": "ch25-q7",
+            "text": "What is the fate of those who deny the Hour (Day of Judgment)?",
+            "answer": "Allah has prepared for them a Blaze (Hell)."
+        },
+        {
+            "id": "ch25-q8",
+            "text": "How does Hell react when it sees the disbelievers from a distance?",
+            "answer": "They will hear its raging and its roaring."
+        },
+        {
+            "id": "ch25-q9",
+            "text": "What will the disbelievers cry out for when they are thrown into a narrow place in the Fire?",
+            "answer": "They will cry out for destruction (death), but they will be told: 'Do not cry this day for one destruction but cry for many destructions.'"
+        },
+        {
+            "id": "ch25-q10",
+            "text": "What is the 'Garden of Eternity' (Jannat al-Khuld) promised to the righteous?",
+            "answer": "It is their reward and destination, where they will have whatever they wish, abiding therein forever."
+        },
+        {
+            "id": "ch25-q11",
+            "text": "What will Allah ask the false gods on the Day of Judgment regarding their worshippers?",
+            "answer": "He will ask: 'Was it you who misled these, My servants, or did they [themselves] stray from the way?'"
+        },
+        {
+            "id": "ch25-q12",
+            "text": "What will be the response of the false gods to Allah's question?",
+            "answer": "They will say: 'Exalted are You! It was not for us to take any allies besides You. But You provided for them and their fathers until they forgot the message and became a people ruined.'"
+        },
+        {
+            "id": "ch25-q13",
+            "text": "Were the messengers sent before Muhammad (SAW) also human?",
+            "answer": "Yes, 'We did not send before you any of the messengers except that they ate food and walked in the markets.'"
+        },
+        {
+            "id": "ch25-q14",
+            "text": "What was the demand of those who did not expect the meeting with Allah?",
+            "answer": "They said, 'Why were the angels not sent down to us, or why do we not see our Lord?'"
+        },
+        {
+            "id": "ch25-q15",
+            "text": "Will the disbelievers be happy when they finally see the angels on the Day of Judgment?",
+            "answer": "No, on that Day there will be no glad tidings for the criminals, and the angels will say, '[Joy is] forbidden and prevented!'"
+        },
+        {
+            "id": "ch25-q16",
+            "text": "What will happen to the deeds of the disbelievers on the Day of Judgment?",
+            "answer": "Allah will regard whatever deeds they did and make them like dispersed dust (Haba'an Manthura)."
+        },
+        {
+            "id": "ch25-q17",
+            "text": "What will be the state of the people of Paradise on that Day?",
+            "answer": "They will have the best settlement and the finest resting place."
+        },
+        {
+            "id": "ch25-q18",
+            "text": "What will happen to the heaven on the Day of Judgment according to this Surah?",
+            "answer": "The heaven will split open with clouds and the angels will be sent down in succession."
+        },
+        {
+            "id": "ch25-q19",
+            "text": "To whom belongs the true sovereignty on the Day of Judgment?",
+            "answer": "To the Most Merciful (Ar-Rahman), and it will be a difficult day for the disbelievers."
+        },
+        {
+            "id": "ch25-q20",
+            "text": "What will the wrongdoer do out of regret on the Day of Judgment?",
+            "answer": "He will bite on his hands, saying: 'Oh, I wish I had taken a path with the Messenger'."
+        },
+        {
+            "id": "ch25-q21",
+            "text": "What is the regret regarding 'friendship' mentioned in this Surah?",
+            "answer": "'Oh, woe to me! I wish I had not taken that one as a friend. He misled me from the message after it had come to me.'"
+        },
+        {
+            "id": "ch25-q22",
+            "text": "What complaint will the Messenger make against his people on the Last Day?",
+            "answer": "'O my Lord, indeed my people have taken this Quran as something abandoned (Mahjura).'"
+        },
+        {
+            "id": "ch25-q23",
+            "text": "Who are the 'enemies' every prophet had to face?",
+            "answer": "Criminals from among their own people; but Allah is sufficient as a Guide and Helper."
+        },
+        {
+            "id": "ch25-q24",
+            "text": "What was the disbelievers' criticism of the Quran being revealed gradually?",
+            "answer": "They asked: 'Why was the Quran not sent down to him all at once?'"
+        },
+        {
+            "id": "ch25-q25",
+            "text": "What was Allah's reason for revealing the Quran in stages?",
+            "answer": "To strengthen the heart of the Prophet (SAW) and to explain it in a better way (orderly and clearly)."
+        },
+        {
+            "id": "ch25-q26",
+            "text": "Who are those who will be 'dragged on their faces' to Hell?",
+            "answer": "Those who are in the worst place and the most astray from the path."
+        },
+        {
+            "id": "ch25-q27",
+            "text": "Briefly mention the people of Musa and the punishment of those who denied them.",
+            "answer": "Allah gave Musa the Scripture and made Harun his helper; those who denied them were destroyed utterly."
+        },
+        {
+            "id": "ch25-q28",
+            "text": "Who were the 'People of the Well' (Ashab al-Rass)?",
+            "answer": "A nation mentioned along with 'Ad and Thamud who were destroyed for their disbelief."
+        },
+        {
+            "id": "ch25-q29",
+            "text": "Did the disbelievers learn from the 'town of evil rain' (the people of Lut)?",
+            "answer": "No, even though they passed by it, they did not expect resurrection and remained in denial."
+        },
+        {
+            "id": "ch25-q30",
+            "text": "How does Allah describe someone who takes his 'desire' as his god?",
+            "answer": "As someone whom the Prophet cannot be a guardian over; they are like cattle, or even more astray from the path."
+        },
+        {
+            "id": "ch25-q31",
+            "text": "What is the shadow's purpose mentioned as a sign of Allah's power?",
+            "answer": "Allah extends it and could have made it still, but He made the sun its guide, then He withdraws it to Himself gradually."
+        },
+        {
+            "id": "ch25-q32",
+            "text": "How does Allah describe the night and the day in terms of rest and movement?",
+            "answer": "He made the night as a clothing, sleep for rest, and the day for rising (living)."
+        },
+        {
+            "id": "ch25-q33",
+            "text": "What is the 'Pure Water' (Ma'an Tahura) sent from the sky for?",
+            "answer": "To give life to dead land and to provide drink for animals and many people."
+        },
+        {
+            "id": "ch25-q34",
+            "text": "What is the 'barrier' between the two seas mentioned in this Surah?",
+            "answer": "An invisible partition (Barzakh) between fresh, sweet water and salty, bitter water, keeping them from mixing."
+        },
+        {
+            "id": "ch25-q35",
+            "text": "From what did Allah create every human being according to this Surah?",
+            "answer": "From water, then made for him blood relationship and relationship by marriage."
+        },
+        {
+            "id": "ch25-q36",
+            "text": "What is the response of the disbelievers when told to prostrate to the Most Merciful (Ar-Rahman)?",
+            "answer": "They say, 'And what is the Most Merciful? Should we prostrate to that which you order us?' and it increases them in aversion."
+        },
+        {
+            "id": "ch25-q37",
+            "text": "What celestial features has Allah placed in the sky?",
+            "answer": "Constellations (Buruj), a great lamp (the sun), and a glowing moon."
+        },
+        {
+            "id": "ch25-q38",
+            "text": "What is the purpose of the alternation of the night and the day according to this section?",
+            "answer": "For whoever desires to remember or desires gratitude."
+        },
+        {
+            "id": "ch25-q39",
+            "text": "Who are the 'Ibadur Rahman'?",
+            "answer": "The 'Servants of the Most Merciful' whose qualities are described at the end of the Surah."
+        },
+        {
+            "id": "ch25-q40",
+            "text": "How do the 'Ibadur Rahman' walk upon the earth?",
+            "answer": "They walk with humility and ease (Hawnan)."
+        },
+        {
+            "id": "ch25-q41",
+            "text": "How do the 'Ibadur Rahman' respond when the ignorant address them?",
+            "answer": "They respond by saying: 'Salam' (Peace)."
+        },
+        {
+            "id": "ch25-q42",
+            "text": "How do the servants of the Merciful spend their nights?",
+            "answer": "Prostrating and standing in prayer before their Lord."
+        },
+        {
+            "id": "ch25-q43",
+            "text": "What is the prayer of the 'Ibadur Rahman' regarding Hell?",
+            "answer": "'Our Lord, avert from us the punishment of Hell. Indeed, its punishment is ever adhering (Gharama).'"
+        },
+        {
+            "id": "ch25-q44",
+            "text": "What is the attitude of the 'Ibadur Rahman' toward spending?",
+            "answer": "They are neither extravagant nor stingy, but maintain a just balance between the two."
+        },
+        {
+            "id": "ch25-q45",
+            "text": "Which three major sins are mentioned that the servants of Allah avoid?",
+            "answer": "Associating partners with Allah (Shirk), killing a soul which Allah has forbidden except by right, and committing adultery/fornication (Zina)."
+        },
+        {
+            "id": "ch25-q46",
+            "text": "What happens to the punishment of those who commit these major sins?",
+            "answer": "It will be multiplied for them on the Day of Resurrection, and they will abide in it humiliated."
+        },
+        {
+            "id": "ch25-q47",
+            "text": "What is the exception for those who have committed such sins?",
+            "answer": "Those who repent, believe, and do righteous work; for them, Allah will replace their evil deeds with good ones."
+        },
+        {
+            "id": "ch25-q48",
+            "text": "What is the quality of the 'Ibadur Rahman' regarding false testimony?",
+            "answer": "They do not bear witness to falsehood, and when they pass by ill speech, they pass by with dignity."
+        },
+        {
+            "id": "ch25-q49",
+            "text": "How do they react when reminded of the verses of their Lord?",
+            "answer": "They do not fall upon them deaf and blind, but listen and understand."
+        },
+        {
+            "id": "ch25-q50",
+            "text": "What is the prayer of the 'Ibadur Rahman' for their families?",
+            "answer": "'Our Lord, grant us from among our wives and offspring comfort to our eyes and make us an example for the righteous (Imaman lil-Muttaqin).'"
+        },
+        {
+            "id": "ch25-q51",
+            "text": "What is the reward for the servants of the Most Merciful for their patience?",
+            "answer": "They will be awarded the high chamber (Paradise) and greeted therein with 'Salam'."
+        },
+        {
+            "id": "ch25-q52",
+            "text": "Why does Allah say He wouldn't care for people if not for their 'Dua' (supplication)?",
+            "answer": "Because worship and calling upon Him is the primary purpose of their existence; without it, they have no value to Him."
+        },
+        {
+            "id": "ch25-q53",
+            "text": "What is the 'High Chamber' (Al-Ghurfah)?",
+            "answer": "A noble and high station in Paradise."
+        },
+        {
+            "id": "ch25-q54",
+            "text": "What is the 'Dispersed Dust' (Haba'an Manthura)?",
+            "answer": "The worthlessness of the deeds of those who reject faith."
+        },
+        {
+            "id": "ch25-q55",
+            "text": "What is the 'Great Lamp' (Siraj) in the sky?",
+            "answer": "The sun."
+        },
+        {
+            "id": "ch25-q56",
+            "text": "What is the 'Barrier' (Hijran Mahjura)?",
+            "answer": "The natural separation between bodies of water that do not mix."
+        },
+        {
+            "id": "ch25-q57",
+            "text": "What is the 'Relationship by marriage' (Sihra)?",
+            "answer": "The social bonds created through the union of families."
+        },
+        {
+            "id": "ch25-q58",
+            "text": "What is the 'Abandoned Quran' (Mahjura)?",
+            "answer": "Neglecting its recitation, understanding, and application."
+        },
+        {
+            "id": "ch25-q59",
+            "text": "What is the 'Saihah' mentioned regarding past nations?",
+            "answer": "A powerful divine shriek or sound used for punishment."
+        },
+        {
+            "id": "ch25-q60",
+            "text": "What is the 'Great Jihad' mentioned in this Surah?",
+            "answer": "Striving with the Quran against disbelief and falsehood."
+        },
+        {
+            "id": "ch25-q61",
+            "text": "What is the 'Resting place' (Maqila)?",
+            "answer": "A place of peace and comfort in the Hereafter."
+        },
+        {
+            "id": "ch25-q62",
+            "text": "What is the 'Shadow' (Zill) a metaphor for?",
+            "answer": "The temporary nature of life and Allah's control over it."
+        },
+        {
+            "id": "ch25-q63",
+            "text": "What is the 'Gharama' punishment?",
+            "answer": "A continuous and inescapable suffering in Hell."
+        },
+        {
+            "id": "ch25-q64",
+            "text": "What is 'Extravagance' (Israf)?",
+            "answer": "Spending beyond necessity and in sinful ways."
+        },
+        {
+            "id": "ch25-q65",
+            "text": "What is 'Stinginess' (Iqtar)?",
+            "answer": "Withholding wealth from where it is due."
+        },
+        {
+            "id": "ch25-q66",
+            "text": "What is the 'Example for the righteous' (Imaman lil-Muttaqin)?",
+            "answer": "A role model of faith and character for others to follow."
+        },
+        {
+            "id": "ch25-q67",
+            "text": "What is the 'Dignity' (Karama) of the servants of Allah?",
+            "answer": "Passing by evil or useless things without getting involved or debasing themselves."
+        },
+        {
+            "id": "ch25-q68",
+            "text": "What is the 'Comfort of the eyes' (Qurrata A'yun)?",
+            "answer": "The joy and peace one feels seeing their family on the straight path."
+        },
+        {
+            "id": "ch25-q69",
+            "text": "What is the 'Criterion' revealed for?",
+            "answer": "To warn all of mankind."
+        },
+        {
+            "id": "ch25-q70",
+            "text": "Why does Allah mention the 'walking in markets' of prophets?",
+            "answer": "To emphasize that they were real, relatable human beings with normal lives."
+        },
+        {
+            "id": "ch25-q71",
+            "text": "What is the 'Evil Rain'?",
+            "answer": "The stones that rained down upon the people of Sodom."
+        },
+        {
+            "id": "ch25-q72",
+            "text": "What is the 'Raging' of the Fire?",
+            "answer": "The intense sound and fury of Hell."
+        },
+        {
+            "id": "ch25-q73",
+            "text": "What is the 'Shadow' guided by the sun?",
+            "answer": "A sign of how Allah manages the physical world for us."
+        },
+        {
+            "id": "ch25-q74",
+            "text": "What is the 'Clothing' of the night?",
+            "answer": "The darkness that covers everything, providing privacy and rest."
+        },
+        {
+            "id": "ch25-q75",
+            "text": "What is the 'Resurrection' (Nushura)?",
+            "answer": "Being raised up for judgment after death."
+        },
+        {
+            "id": "ch25-q76",
+            "text": "What is the 'Salty and Bitter' water?",
+            "answer": "The water of the oceans, made distinct from the rivers."
+        },
+        {
+            "id": "ch25-q77",
+            "text": "What is the 'Blood relationship' (Nasaba)?",
+            "answer": "Kinship through birth and direct lineage."
+        },
+        {
+            "id": "ch25-q78",
+            "text": "What is the 'Secret' known to Allah?",
+            "answer": "Everything hidden in the universe and in human hearts."
+        },
+        {
+            "id": "ch25-q79",
+            "text": "What is the 'Warner' (Nadhira) role of the Quran?",
+            "answer": "To alert people to the consequences of rejecting the Truth."
+        },
+        {
+            "id": "ch25-q80",
+            "text": "What is the 'Forgiving and Merciful' nature of Allah?",
+            "answer": "His readiness to accept repentance and His kindness toward His creation."
+        }
+    ]
 }

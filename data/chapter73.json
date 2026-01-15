@@ -6,101 +6,231 @@
     "questions": [
         {
             "id": "ch73-q1",
+            "text": "What is the main spiritual focus of Surah Al-Muzzammil?",
+            "answer": "Building inner strength through night prayer, Quran recitation, remembrance, and patience for the mission."
+        },
+        {
+            "id": "ch73-q2",
+            "text": "Why does the Surah emphasize night prayer as a foundation for the Prophet’s mission?",
+            "answer": "Because night worship strengthens sincerity, focus, and resilience in facing opposition."
+        },
+        {
+            "id": "ch73-q3",
+            "text": "True/False: The Surah teaches that spirituality is only private and has no effect on public mission.",
+            "answer": "False. It shows private worship fuels public steadfastness and responsibility."
+        },
+        {
+            "id": "ch73-q4",
+            "text": "What does the Surah teach about reciting the Quran with 'tarteel'?",
+            "answer": "Recite calmly and clearly with reflection, not rushed or careless."
+        },
+        {
+            "id": "ch73-q5",
+            "text": "What is one practical way to apply tarteel today?",
+            "answer": "Slow down recitation, learn meanings, and reflect on one passage instead of rushing pages."
+        },
+        {
+            "id": "ch73-q6",
+            "text": "Why is the Quran described as a 'heavy word' in meaning?",
+            "answer": "Because it carries deep truth and serious responsibilities for belief, character, and society."
+        },
+        {
+            "id": "ch73-q7",
+            "text": "How does the Surah teach believers to handle insults and mockery?",
+            "answer": "With patience and ‘beautiful avoidance’—not escalating conflict or compromising truth."
+        },
+        {
+            "id": "ch73-q8",
+            "text": "What is ‘beautiful avoidance’ in modern life?",
+            "answer": "Avoiding pointless arguments, staying respectful, and not reacting impulsively to provocation."
+        },
+        {
+            "id": "ch73-q9",
+            "text": "True/False: The Surah teaches that responding harshly to harshness is always the best approach.",
+            "answer": "False. It teaches patience and dignified restraint."
+        },
+        {
+            "id": "ch73-q10",
+            "text": "What does 'tabattul' teach about reliance on Allah?",
+            "answer": "Devote yourself fully to Allah and detach your heart from dependence on worldly approval."
+        },
+        {
+            "id": "ch73-q11",
+            "text": "How can someone practice tabattul without abandoning responsibilities?",
+            "answer": "Keep the heart attached to Allah while fulfilling duties honestly and prioritizing worship."
+        },
+        {
+            "id": "ch73-q12",
+            "text": "What does Surah Al-Muzzammil teach about balancing worship and daytime work?",
+            "answer": "Night worship strengthens faith, while daytime is for lawful responsibilities—both are part of the mission."
+        },
+        {
+            "id": "ch73-q13",
+            "text": "What does the Surah teach about the terror of the Day of Judgment?",
+            "answer": "It describes an overwhelming reality that makes people desperate, pushing urgency in repentance now."
+        },
+        {
+            "id": "ch73-q14",
+            "text": "True/False: The Surah teaches that remembering the Hereafter is unhealthy fear.",
+            "answer": "False. It teaches that remembrance creates seriousness and moral clarity."
+        },
+        {
+            "id": "ch73-q15",
+            "text": "Why does the Surah mention Allah lightening obligations for some believers?",
+            "answer": "Because Allah knows human circumstances—illness, travel, struggle—and legislates with mercy."
+        },
+        {
+            "id": "ch73-q16",
+            "text": "What is one lesson about Islam’s ease from the Surah’s conclusion?",
+            "answer": "Allah does not burden beyond ability; worship is adapted with mercy while keeping core obligations."
+        },
+        {
+            "id": "ch73-q17",
+            "text": "What does the Surah teach about giving ‘a goodly loan’ to Allah?",
+            "answer": "Spend sincerely for Allah’s sake, knowing He will repay with better reward."
+        },
+        {
+            "id": "ch73-q18",
+            "text": "How does the Surah connect worship with social responsibility like zakat and charity?",
+            "answer": "True worship includes prayer and also supporting others; faith is not selfish."
+        },
+        {
+            "id": "ch73-q19",
+            "text": "True/False: The Surah suggests that charity can replace prayer.",
+            "answer": "False. It calls to both prayer and charity."
+        },
+        {
+            "id": "ch73-q20",
+            "text": "What does the Surah teach about seeking forgiveness (istighfar) even while doing good deeds?",
+            "answer": "Believers still need forgiveness; istighfar keeps the heart humble and clean."
+        },
+        {
+            "id": "ch73-q21",
+            "text": "What is one daily routine inspired by Surah Al-Muzzammil?",
+            "answer": "A small portion of night prayer, slow Quran recitation, and regular istighfar."
+        },
+        {
+            "id": "ch73-q22",
+            "text": "How does this Surah help someone struggling with distractions in worship?",
+            "answer": "It points to the quiet night as a time of focus and encourages measured recitation."
+        },
+        {
+            "id": "ch73-q23",
+            "text": "What does the Surah teach about the role of patience in da'wah?",
+            "answer": "Patience is essential; the caller remains dignified and consistent despite rejection."
+        },
+        {
+            "id": "ch73-q24",
+            "text": "True/False: The Surah teaches that moral preparation is optional for religious leadership.",
+            "answer": "False. It emphasizes deep preparation through worship and remembrance."
+        },
+        {
+            "id": "ch73-q25",
+            "text": "How does Surah Al-Muzzammil teach that Allah’s mercy includes flexibility?",
+            "answer": "It acknowledges different human circumstances and adjusts obligations while keeping worship central."
+        },
+        {
+            "id": "ch73-q26",
+            "text": "How can a modern reader apply the Surah without overburdening themselves?",
+            "answer": "Start small and consistent: a few minutes of night worship and steady Quran reflection."
+        },
+        {
+            "id": "ch73-q27",
             "text": "What does 'Al-Muzzammil' mean?",
             "answer": "The Enwrapped One or The Shrouded One (referring to the Prophet SAW)."
         },
         {
-            "id": "ch73-q2",
+            "id": "ch73-q28",
             "text": "What is the command given to the Prophet (SAW) in the beginning of the Surah?",
             "answer": "To stand in prayer during the night, except for a little."
         },
         {
-            "id": "ch73-q3",
+            "id": "ch73-q29",
             "text": "What is the recommended duration for the night prayer?",
             "answer": "Half of the night, or a little less, or a little more."
         },
         {
-            "id": "ch73-q4",
-            "text": "How should the Quran be recited according to Verse 4?",
+            "id": "ch73-q30",
+            "text": "How should the Quran be recited according to this Surah?",
             "answer": "With measured recitation (Tarteel)."
         },
         {
-            "id": "ch73-q5",
-            "text": "What is the 'Heavy Word' mentioned in Verse 5?",
+            "id": "ch73-q31",
+            "text": "What is the 'Heavy Word' mentioned in this Surah?",
             "answer": "The Quran and the responsibilities of the message."
         },
         {
-            "id": "ch73-q6",
+            "id": "ch73-q32",
             "text": "Why is the 'rising by night' (Qiyam al-Layl) more effective?",
             "answer": "Because it is more striking for the soul and more focused for the word (recitation)."
         },
         {
-            "id": "ch73-q7",
+            "id": "ch73-q33",
             "text": "What should the Prophet do in the daytime?",
             "answer": "He has prolonged occupations/duties during the day."
         },
         {
-            "id": "ch73-q8",
-            "text": "What does 'Tabattul' mean in Verse 8?",
+            "id": "ch73-q34",
+            "text": "What does 'Tabattul' mean in this Surah?",
             "answer": "Devoting oneself to Allah with complete devotion/detachment from the world."
         },
         {
-            "id": "ch73-q9",
+            "id": "ch73-q35",
             "text": "What should the Prophet (SAW) do regarding the insults of the disbelievers?",
             "answer": "Be patient over what they say and avoid them with a 'beautiful avoidance' (Hajran Jameela)."
         },
         {
-            "id": "ch73-q10",
-            "text": "What has Allah prepared for the deniers of the truth (Verse 12-13)?",
+            "id": "ch73-q36",
+            "text": "What does this Surah warn Allah has prepared for persistent deniers of the truth?",
             "answer": "Shackles, burning fire, food that chokes, and a painful punishment."
         },
         {
-            "id": "ch73-q11",
+            "id": "ch73-q37",
             "text": "What will happen to the earth and mountains on that Day?",
             "answer": "They will shake, and the mountains will become a heap of running sand."
         },
         {
-            "id": "ch13-q12",
-            "text": "To whom is the Prophet (SAW) compared in Verse 15 regarding his mission?",
-            "answer": "To Musa (AS), as a messenger was sent to Pharaoh and he disobeyed."
+            "id": "ch73-q38",
+            "text": "To whom is the Prophet (SAW) compared regarding his mission of warning a resistant people?",
+            "answer": "To Musa (AS), who was sent as a messenger to Pharaoh but was disobeyed."
         },
         {
-            "id": "ch73-q13",
-            "text": "What will happen to children on the Day of Judgment (Verse 17)?",
+            "id": "ch73-q39",
+            "text": "How does the Surah describe the terror of the Day of Judgment affecting people?",
             "answer": "The day will make children white-haired (old) from terror."
         },
         {
-            "id": "ch73-q14",
+            "id": "ch73-q40",
             "text": "What will happen to the heaven on that Day?",
             "answer": "It will be rent asunder."
         },
         {
-            "id": "ch73-q15",
+            "id": "ch73-q41",
             "text": "Why was the length of the night prayer lightened at the end of the Surah?",
             "answer": "Because Allah knew there would be those among the believers who are sick, or traveling for business, or fighting in the cause of Allah."
         },
         {
-            "id": "ch73-q16",
-            "text": "What is the final command regarding the Quran in Verse 20?",
+            "id": "ch73-q42",
+            "text": "What is the Surah's final command regarding reciting the Quran?",
             "answer": "Recite what is easy for you from the Quran."
         },
         {
-            "id": "ch73-q17",
-            "text": "What are the four other commands in the final verse?",
-            "answer": "Establish prayer, give Zakat, and loan Allah a goodly loan."
+            "id": "ch73-q43",
+            "text": "Establish prayer, give zakat, give Allah a goodly loan (spend in His path), and seek Allah’s forgiveness.",
+            "answer": "Establish prayer, give zakat, give Allah a goodly loan (spend in His path), and seek Allah’s forgiveness."
         },
         {
-            "id": "ch73-q18",
+            "id": "ch73-q44",
             "text": "What happens to the good that you send before yourselves?",
             "answer": "You will find it with Allah as better and greater in reward."
         },
         {
-            "id": "ch73-q19",
+            "id": "ch73-q45",
             "text": "What is the final word of the Surah?",
             "answer": "Allah is Forgiving and Merciful."
         },
         {
-            "id": "ch73-q20",
+            "id": "ch73-q46",
             "text": "True or False: Surah Al-Muzzammil highlights the spiritual preparation needed for the Prophet's mission.",
             "answer": "True."
         }

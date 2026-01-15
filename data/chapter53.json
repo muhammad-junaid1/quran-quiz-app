@@ -1,0 +1,348 @@
+{
+    "id": 53,
+    "englishName": "An-Najm",
+    "arabicName": "النجم",
+    "translation": "The Star",
+    "questions": [
+        {
+            "id": "ch53-q1",
+            "text": "What is the central theme of Surah An-Najm?",
+            "answer": "It affirms the truth of revelation to the Prophet, refutes shirk, and reminds of accountability and the Hereafter."
+        },
+        {
+            "id": "ch53-q2",
+            "text": "Why does the Surah begin by emphasizing the Prophet is not astray or deluded?",
+            "answer": "To defend the Prophet's truthfulness and establish that revelation is from Allah, not personal desire."
+        },
+        {
+            "id": "ch53-q3",
+            "text": "True/False: The Surah teaches the Prophet spoke the Quran from his own desires.",
+            "answer": "False. It states he speaks by revelation, taught by a mighty messenger."
+        },
+        {
+            "id": "ch53-q4",
+            "text": "What does Surah An-Najm teach about the source of revelation?",
+            "answer": "Revelation comes from Allah, conveyed through the angel Jibril, not invented by the Prophet."
+        },
+        {
+            "id": "ch53-q5",
+            "text": "How does the Surah correct the idea that religious truth is based on guesswork?",
+            "answer": "It condemns following الظن (assumption) and desires instead of revelation and certainty."
+        },
+        {
+            "id": "ch53-q6",
+            "text": "What does the Surah teach about the danger of glorifying idols or false intermediaries?",
+            "answer": "It exposes them as baseless names and claims that have no authority from Allah."
+        },
+        {
+            "id": "ch53-q7",
+            "text": "True/False: The Surah supports the belief that angels are female and daughters of Allah.",
+            "answer": "False. It rejects this as an ignorant claim without knowledge."
+        },
+        {
+            "id": "ch53-q8",
+            "text": "What is one key lesson about speaking on religious matters without knowledge?",
+            "answer": "It is sinful and misleading; faith must be grounded in revelation and evidence."
+        },
+        {
+            "id": "ch53-q9",
+            "text": "How does the Surah teach humility about one's own righteousness?",
+            "answer": "It warns against self-praise; Allah knows best who truly has taqwa."
+        },
+        {
+            "id": "ch53-q10",
+            "text": "What does Surah An-Najm teach about accountability for deeds?",
+            "answer": "Each person will be recompensed for what they did; no one can carry another's burden."
+        },
+        {
+            "id": "ch53-q11",
+            "text": "What does the Surah teach about effort and reward?",
+            "answer": "A person will only receive what they strive for, and their effort will be seen and repaid."
+        },
+        {
+            "id": "ch53-q12",
+            "text": "True/False: The Surah teaches that intentions alone replace effort.",
+            "answer": "False. It emphasizes striving and that effort will be judged and rewarded."
+        },
+        {
+            "id": "ch53-q13",
+            "text": "What does the Surah teach about Allah's control over life stages and destiny?",
+            "answer": "Allah controls life, death, and return; everything ends with Him."
+        },
+        {
+            "id": "ch53-q14",
+            "text": "How does the Surah describe Allah's mercy and forgiveness?",
+            "answer": "Allah is vast in forgiveness and knows human weakness, while still holding people accountable."
+        },
+        {
+            "id": "ch53-q15",
+            "text": "What is one balanced lesson about sin and hope from this Surah?",
+            "answer": "Do not despair, but do not be arrogant; repent sincerely and rely on Allah's mercy."
+        },
+        {
+            "id": "ch53-q16",
+            "text": "Why does the Surah mention earlier destroyed nations?",
+            "answer": "To warn that denial and arrogance led to destruction before, and the pattern can repeat."
+        },
+        {
+            "id": "ch53-q17",
+            "text": "What does the Surah teach about laughter and weeping?",
+            "answer": "Allah controls human states; therefore, people should humble themselves and remember the Hereafter."
+        },
+        {
+            "id": "ch53-q18",
+            "text": "True/False: The Surah encourages endless entertainment while ignoring remembrance.",
+            "answer": "False. It criticizes laughing and being heedless while turning away from warning."
+        },
+        {
+            "id": "ch53-q19",
+            "text": "What is one major call to action at the end of Surah An-Najm?",
+            "answer": "To prostrate to Allah and worship Him, showing submission to truth."
+        },
+        {
+            "id": "ch53-q20",
+            "text": "How does prostration function as a response to revelation?",
+            "answer": "It is physical and spiritual submission, acknowledging Allah's greatness and the truth of guidance."
+        },
+        {
+            "id": "ch53-q21",
+            "text": "What does the Surah teach about intercession and false hopes in intermediaries?",
+            "answer": "Intercession is only by Allah's permission; false beliefs in idols do not save."
+        },
+        {
+            "id": "ch53-q22",
+            "text": "Why does the Surah challenge the claim that idols have authority with Allah?",
+            "answer": "Because it is based on names and assumptions, not divine evidence or permission."
+        },
+        {
+            "id": "ch53-q23",
+            "text": "What is one practical way to avoid following assumptions in religion?",
+            "answer": "Learn authentic knowledge, consult scholars, and base beliefs on Quran and Sunnah."
+        },
+        {
+            "id": "ch53-q24",
+            "text": "How does the Surah correct spiritual pride in people who 'think they are pure'?",
+            "answer": "It teaches Allah knows best who has taqwa, so self-praise is dangerous."
+        },
+        {
+            "id": "ch53-q25",
+            "text": "True/False: The Surah teaches that claiming purity is a substitute for repentance.",
+            "answer": "False. It discourages self-praise and implies the need for humility and repentance."
+        },
+        {
+            "id": "ch53-q26",
+            "text": "What does the Surah teach about the justice of Allah's recompense?",
+            "answer": "That it is based on deeds and striving; no one is wronged."
+        },
+        {
+            "id": "ch53-q27",
+            "text": "How does the Surah teach the danger of being distracted by dunya from the Hereafter?",
+            "answer": "Dunya can make people laugh and forget accountability; the Surah warns this leads to regret."
+        },
+        {
+            "id": "ch53-q28",
+            "text": "What is one emotional lesson from the Surah about heedlessness?",
+            "answer": "Heedlessness hardens the heart; remembrance softens it and makes a person ready for judgment."
+        },
+        {
+            "id": "ch53-q29",
+            "text": "How does Surah An-Najm defend the credibility of the Prophet's message?",
+            "answer": "It emphasizes revelation is from Allah and refutes claims of madness or fabrication."
+        },
+        {
+            "id": "ch53-q30",
+            "text": "What does the Surah teach about Allah's ownership of everything?",
+            "answer": "That to Allah belongs the end and return, so worship should be directed to Him alone."
+        },
+        {
+            "id": "ch53-q31",
+            "text": "True/False: The Surah suggests that a person can rely on family lineage to be saved.",
+            "answer": "False. It emphasizes personal striving and accountability."
+        },
+        {
+            "id": "ch53-q32",
+            "text": "What is one daily-life application of 'a person only gets what they strive for'?",
+            "answer": "Set sincere goals in worship and character and work consistently rather than relying on wishes."
+        },
+        {
+            "id": "ch53-q33",
+            "text": "How does the Surah teach balance between fear and hope?",
+            "answer": "It warns of judgment and destroyed nations but highlights Allah's forgiveness and mercy."
+        },
+        {
+            "id": "ch53-q34",
+            "text": "What does the Surah teach about Allah's knowledge of hidden deeds?",
+            "answer": "Allah knows the secret and the hidden, so sincerity and inner reform matter."
+        },
+        {
+            "id": "ch53-q35",
+            "text": "How can the Surah help someone struggling with self-deception?",
+            "answer": "It warns against self-praise and pushes honest repentance and humility."
+        },
+        {
+            "id": "ch53-q36",
+            "text": "What does Surah An-Najm teach about the folly of idol worship from a reasoning perspective?",
+            "answer": "Idols are only names without proof, so relying on them is irrational and unjust."
+        },
+        {
+            "id": "ch53-q37",
+            "text": "True/False: The Surah suggests truth can be determined by majority opinion alone.",
+            "answer": "False. It emphasizes revelation and evidence over social assumptions."
+        },
+        {
+            "id": "ch53-q38",
+            "text": "Why does the Surah mention prostration as a final response?",
+            "answer": "Because when truth is clear, the correct response is submission and worship."
+        },
+        {
+            "id": "ch53-q39",
+            "text": "What does the Surah teach about the Prophet's sincerity in conveying revelation?",
+            "answer": "That he conveys what he receives and does not speak from personal desire."
+        },
+        {
+            "id": "ch53-q40",
+            "text": "How does this Surah shape a believer's understanding of guidance?",
+            "answer": "Guidance is from Allah and requires humility, reflection, and obedience."
+        },
+        {
+            "id": "ch53-q41",
+            "text": "What is one lesson from the Surah about spiritual entertainment replacing worship?",
+            "answer": "It can make the heart numb; the Surah calls people back to seriousness and prostration."
+        },
+        {
+            "id": "ch53-q42",
+            "text": "How can a person respond when they feel spiritually 'numb'?",
+            "answer": "Return to Quran, remembrance, sincere repentance, and worship with humility."
+        },
+        {
+            "id": "ch53-q43",
+            "text": "True/False: The Surah teaches that repentance is useless if someone sinned much.",
+            "answer": "False. It highlights Allah's vast forgiveness for those who turn back sincerely."
+        },
+        {
+            "id": "ch53-q44",
+            "text": "What does the Surah teach about small sins versus major sins?",
+            "answer": "It suggests Allah forgives widely, but believers should avoid major sins and remain humble about shortcomings."
+        },
+        {
+            "id": "ch53-q45",
+            "text": "How does Surah An-Najm encourage honest self-assessment without despair?",
+            "answer": "By discouraging self-praise while reminding of Allah's forgiveness, encouraging humble repentance."
+        },
+        {
+            "id": "ch53-q46",
+            "text": "What does the Surah teach about the final return of all people?",
+            "answer": "All return to Allah for judgment; therefore worship and obedience must be for Him."
+        },
+        {
+            "id": "ch53-q47",
+            "text": "What is one key misconception corrected about angels in this Surah?",
+            "answer": "That they are female or daughters of Allah; the Surah rejects this as ignorance."
+        },
+        {
+            "id": "ch53-q48",
+            "text": "How does this Surah strengthen tawhid?",
+            "answer": "By affirming revelation, refuting idols, and emphasizing Allah's exclusive authority and final return."
+        },
+        {
+            "id": "ch53-q49",
+            "text": "What is one practical way to avoid religious innovation based on this Surah's warning about assumptions?",
+            "answer": "Follow authentic texts and avoid inventing beliefs or rituals without evidence."
+        },
+        {
+            "id": "ch53-q50",
+            "text": "How does Surah An-Najm teach the believer to respond to arrogance in society?",
+            "answer": "By staying humble, worshipping Allah, and not being influenced by baseless claims or pride."
+        },
+        {
+            "id": "ch53-q51",
+            "text": "True/False: The Surah suggests the Quran's message is merely a cultural opinion.",
+            "answer": "False. It presents it as divine revelation and proof."
+        },
+        {
+            "id": "ch53-q52",
+            "text": "What does the Surah teach about Allah's control over joy and sorrow?",
+            "answer": "Allah gives laughter and makes weep; life states are under His wisdom and should guide us to humility."
+        },
+        {
+            "id": "ch53-q53",
+            "text": "How does the Surah encourage gratitude in times of happiness?",
+            "answer": "By reminding that joy is from Allah and should lead to worship, not heedlessness."
+        },
+        {
+            "id": "ch53-q54",
+            "text": "How does Surah An-Najm teach caution in praising oneself publicly?",
+            "answer": "It warns that Allah knows best who is righteous, so self-praise can be delusion."
+        },
+        {
+            "id": "ch53-q55",
+            "text": "What is one daily habit inspired by this Surah to build sincerity?",
+            "answer": "Regular prostration and repentance, and avoiding boastful speech about one's religiosity."
+        },
+        {
+            "id": "ch53-q56",
+            "text": "What does the Surah teach about the end of arrogant civilizations?",
+            "answer": "Arrogance and denial lead to destruction; history proves Allah's justice."
+        },
+        {
+            "id": "ch53-q57",
+            "text": "True/False: The Surah teaches that worldly success proves a person is right.",
+            "answer": "False. It emphasizes truth is determined by revelation and accountability, not worldly status."
+        },
+        {
+            "id": "ch53-q58",
+            "text": "How does Surah An-Najm help someone strengthen certainty (yaqin)?",
+            "answer": "By grounding faith in revelation, exposing baseless beliefs, and reminding of past nations and judgment."
+        },
+        {
+            "id": "ch53-q59",
+            "text": "What does the Surah teach about the seriousness of the Hereafter compared to dunya's distractions?",
+            "answer": "It calls people to stop heedless laughter and return to remembrance and submission."
+        },
+        {
+            "id": "ch53-q60",
+            "text": "What is one lesson about sincerity in worship implied by the Surah's ending?",
+            "answer": "Sincere worship is shown by actual submission (sujud), not by arguments or pride."
+        },
+        {
+            "id": "ch53-q61",
+            "text": "How can a believer respond when exposed to mocking of Islam?",
+            "answer": "Stay patient, avoid self-praise, and keep worship sincere, trusting Allah's final judgment."
+        },
+        {
+            "id": "ch53-q62",
+            "text": "What does the Surah teach about making religion a matter of fashion or trends?",
+            "answer": "It condemns following desire and assumptions; religion is revelation and accountability."
+        },
+        {
+            "id": "ch53-q63",
+            "text": "True/False: The Surah teaches that a person can be forgiven without turning back to Allah.",
+            "answer": "False. Forgiveness is linked to repentance, humility, and avoiding major sins."
+        },
+        {
+            "id": "ch53-q64",
+            "text": "What is one ethical lesson from the Surah about speech?",
+            "answer": "Do not speak about Allah or religion without knowledge; avoid claims based on assumptions."
+        },
+        {
+            "id": "ch53-q65",
+            "text": "How does Surah An-Najm motivate moral discipline?",
+            "answer": "By stressing accountability, reward for striving, and the certainty of return to Allah."
+        },
+        {
+            "id": "ch53-q66",
+            "text": "What does the Surah teach about the value of repentance even for small mistakes?",
+            "answer": "Frequent turning back keeps the heart humble and prevents major spiritual decline."
+        },
+        {
+            "id": "ch53-q67",
+            "text": "What is one concluding takeaway from Surah An-Najm?",
+            "answer": "Revelation is true; shirk is false; respond with humility, striving, and worship."
+        },
+        {
+            "id": "ch53-q68",
+            "text": "What is a final call to action inspired by this Surah?",
+            "answer": "Prostrate to Allah, worship Him alone, and live with honest accountability."
+        }
+    ]
+}

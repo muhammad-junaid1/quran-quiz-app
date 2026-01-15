@@ -1,108 +1,338 @@
 {
-  "id": 50,
-  "englishName": "Qaf",
-  "arabicName": "ق",
-  "translation": "The Letter Qaf",
-  "questions": [
-    {
-      "id": "ch50-q1",
-      "text": "By what does Allah swear in the first verse?",
-      "answer": "By the Glorious Quran."
-    },
-    {
-      "id": "ch50-q2",
-      "text": "What did the disbelievers find amazing about the resurrection?",
-      "answer": "They said, 'This is a far-fetched return (resurrection)' after they had become dust."
-    },
-    {
-      "id": "ch50-q3",
-      "text": "What are the signs in the sky mentioned in Verse 6?",
-      "answer": "The sky above them, how Allah built it and adorned it, and there are no rifts in it."
-    },
-    {
-      "id": "ch50-q4",
-      "text": "How is the rainwater described in Verse 9?",
-      "answer": "As 'blessed water' (Ma'an mubarakan)."
-    },
-    {
-      "id": "ch50-q5",
-      "text": "Which ancient people are mentioned as examples of those who rejected the messengers?",
-      "answer": "The people of Nuh, the people of Rass, Thamud, 'Ad, Pharaoh, the brothers of Lut, and the people of Tubba."
-    },
-    {
-      "id": "ch50-q6",
-      "text": "How close is Allah to a human being (Verse 16)?",
-      "answer": "Closer to him than his jugular vein."
-    },
-    {
-      "id": "ch50-q7",
-      "text": "Who are the two 'receivers' (angels) mentioned in Verse 17?",
-      "answer": "Two angels sitting on the right and on the left, recording deeds."
-    },
-    {
-      "id": "ch50-q8",
-      "text": "Does any word escape the recording angels?",
-      "answer": "No, 'He utters no word except that with him is an observer prepared' (Raqibun Atid)."
-    },
-    {
-      "id": "ch50-q9",
-      "text": "What is the 'Stupor of Death' (Sakrat al-Mawt)?",
-      "answer": "The agony or intoxication of death which brings the truth."
-    },
-    {
-      "id": "ch50-q10",
-      "text": "What will accompany every soul on the Day of Judgment (Verse 21)?",
-      "answer": "A driver (Sa'iq) and a witness (Shahid)."
-    },
-    {
-      "id": "ch50-q11",
-      "text": "What will Allah say to the 'shackled' companion devil (Verse 27-28)?",
-      "answer": "Allah will tell them not to dispute in His presence, as He had already sent them the warning."
-    },
-    {
-      "id": "ch50-q12",
-      "text": "Will Hell be filled on the Day of Judgment?",
-      "answer": "Allah will ask Hell 'Are you full?' and it will say 'Are there any more?'."
-    },
-    {
-      "id": "ch50-q13",
-      "text": "Who is Paradise brought near to?",
-      "answer": "The righteous (Muttaqin), who were not far from it."
-    },
-    {
-      "id": "ch50-q14",
-      "text": "Who is the 'Munib' mentioned in Verse 33?",
-      "answer": "One who feared the Merciful in the unseen and came with a 'heart turned in repentance'."
-    },
-    {
-      "id": "ch50-q15",
-      "text": "What is the greeting to the people of Paradise (Verse 34)?",
-      "answer": "'Enter it in peace. This is the Day of Eternity'."
-    },
-    {
-      "id": "ch50-q16",
-      "text": "How many days did the creation of the heavens and earth take in this Surah?",
-      "answer": "Six days, and no fatigue touched Allah."
-    },
-    {
-      "id": "ch50-q17",
-      "text": "What are the times for exalting Allah mentioned in Verses 39-40?",
-      "answer": "Before the rising of the sun, before its setting, and in part of the night and after prostration (prayers)."
-    },
-    {
-      "id": "ch50-q18",
-      "text": "What is the 'Crier' (Munadi) mentioned in Verse 41?",
-      "answer": "The angel who will call from a place near for the resurrection."
-    },
-    {
-      "id": "ch50-q19",
-      "text": "Is the Prophet (SAW) a 'tyrant' over the people?",
-      "answer": "No, Verse 45 says 'You are not over them a tyrant (Jabbar)'."
-    },
-    {
-      "id": "ch50-q20",
-      "text": "What is the Prophet's task regarding the Quran at the end of the Surah?",
-      "answer": "To remind with the Quran whoever fears Allah's threat."
-    }
-  ]
+    "id": 50,
+    "englishName": "Qaf",
+    "arabicName": "ق",
+    "translation": "The Letter Qaf",
+    "questions": [
+        {
+            "id": "ch50-q1",
+            "text": "Why does the Surah open with an oath by the Quran?",
+            "answer": "To emphasize the truth and seriousness of the message and the reality of resurrection."
+        },
+        {
+            "id": "ch50-q2",
+            "text": "True/False: The Surah treats resurrection as a far-fetched myth.",
+            "answer": "False. It rejects that claim and presents resurrection as certain and easy for Allah."
+        },
+        {
+            "id": "ch50-q3",
+            "text": "What does the Surah teach about Allah's knowledge of human thoughts and inner life?",
+            "answer": "Allah knows what the soul whispers and is closer in knowledge than a person's jugular vein."
+        },
+        {
+            "id": "ch50-q4",
+            "text": "How does the Surah use the sky as a sign for reflection?",
+            "answer": "It points to the sky's ordered structure and beauty as evidence of Allah's power and wisdom."
+        },
+        {
+            "id": "ch50-q5",
+            "text": "What does the Surah teach through rain being called 'blessed'?",
+            "answer": "That Allah sends life-giving mercy and provision through water, reviving the earth after death."
+        },
+        {
+            "id": "ch50-q6",
+            "text": "How does reviving dead land support belief in resurrection?",
+            "answer": "It shows Allah brings life from death repeatedly, proving He can raise the dead."
+        },
+        {
+            "id": "ch50-q7",
+            "text": "Why does the Surah list earlier nations that rejected messengers?",
+            "answer": "To show denial is an old pattern and to warn that rejection leads to destruction."
+        },
+        {
+            "id": "ch50-q8",
+            "text": "True/False: The Surah suggests humans will not be questioned because life is random.",
+            "answer": "False. It describes detailed accountability and a precise record."
+        },
+        {
+            "id": "ch50-q9",
+            "text": "What does the Surah teach about the recording of speech and deeds?",
+            "answer": "Every word is recorded by prepared angels, showing complete accountability."
+        },
+        {
+            "id": "ch50-q10",
+            "text": "What is one life lesson from knowing every word is recorded?",
+            "answer": "Guard your tongue, speak truthfully, and avoid harmful speech even in private."
+        },
+        {
+            "id": "ch50-q11",
+            "text": "What does the Surah teach about the 'stupor of death'?",
+            "answer": "Death brings undeniable truth; illusions fall away and the reality of the Hereafter approaches."
+        },
+        {
+            "id": "ch50-q12",
+            "text": "How can reflecting on death improve daily choices according to the Surah's message?",
+            "answer": "It reduces arrogance, increases repentance, and helps prioritize what matters for the Hereafter."
+        },
+        {
+            "id": "ch50-q13",
+            "text": "What does the Surah describe about each soul arriving for judgment?",
+            "answer": "Each person comes accompanied by a driver and a witness, showing no escape from accountability."
+        },
+        {
+            "id": "ch50-q14",
+            "text": "Why does the Surah mention a conversation involving a companion devil?",
+            "answer": "To show blame-shifting will not help; Allah's warning was already given and judgment is final."
+        },
+        {
+            "id": "ch50-q15",
+            "text": "True/False: The Surah teaches that Satan can force a person into sin and remove responsibility.",
+            "answer": "False. People remain responsible; excuses and disputes will not remove guilt."
+        },
+        {
+            "id": "ch50-q16",
+            "text": "What does the Surah teach about Hell asking for more?",
+            "answer": "That Hell's punishment is vast and that many people will enter due to persistent denial and wrongdoing."
+        },
+        {
+            "id": "ch50-q17",
+            "text": "According to the Surah, to whom is Paradise brought near, and what does that show?",
+            "answer": "It is brought near to those who turn to Allah and guard themselves; it shows honor, closeness, and certainty of the promise. (The righteous (Muttaqin), who were not far from it. Paradise is brought close to the righteous, honoring them and removing distance and fear.)"
+        },
+        {
+            "id": "ch50-q18",
+            "text": "Who is described as a 'munib' (one who turns back) in this Surah?",
+            "answer": "One who fears the Merciful unseen and returns to Allah with a repentant heart."
+        },
+        {
+            "id": "ch50-q19",
+            "text": "What is one sign of genuine repentance emphasized by the word 'munib'?",
+            "answer": "Returning repeatedly to Allah with humility, avoiding stubbornness and making real change."
+        },
+        {
+            "id": "ch50-q20",
+            "text": "What does the greeting 'enter in peace' teach about the believers' final state?",
+            "answer": "They are safe from fear and sorrow, entering eternal security by Allah's mercy."
+        },
+        {
+            "id": "ch50-q21",
+            "text": "What does the Surah teach about Allah creating without fatigue?",
+            "answer": "That Allah's power is perfect; creation and resurrection do not tire Him."
+        },
+        {
+            "id": "ch50-q22",
+            "text": "How does the Surah respond to the idea that resurrection is difficult for Allah?",
+            "answer": "It shows Allah created the first time without fatigue, so recreating is even more certain."
+        },
+        {
+            "id": "ch50-q23",
+            "text": "True/False: The Prophet (SAW) is commanded to force people into belief.",
+            "answer": "False. The Surah says he is not a tyrant; he reminds with the Quran."
+        },
+        {
+            "id": "ch50-q24",
+            "text": "What does the Surah teach about the best method of reminding people?",
+            "answer": "Use the Quran as the reminder, appealing to hearts that fear Allah's warning."
+        },
+        {
+            "id": "ch50-q25",
+            "text": "What does the Surah teach about the value of tasbih (glorifying Allah) at specific times?",
+            "answer": "Regular remembrance anchors faith and prepares the heart for meeting Allah."
+        },
+        {
+            "id": "ch50-q26",
+            "text": "How can a modern believer apply the Surah's instruction about glorifying Allah?",
+            "answer": "Keep consistent prayers and remembrance morning and evening and in the quiet of night."
+        },
+        {
+            "id": "ch50-q27",
+            "text": "What does the Surah teach about the call to resurrection?",
+            "answer": "An angel will call, and people will respond; rising from the graves will be swift and real."
+        },
+        {
+            "id": "ch50-q28",
+            "text": "Why does the Surah repeatedly emphasize Allah's knowledge and record?",
+            "answer": "To remove excuses and build certainty that nothing is forgotten or missed in judgment."
+        },
+        {
+            "id": "ch50-q29",
+            "text": "What is one misconception corrected by listing earlier destroyed nations?",
+            "answer": "That denial has no consequences; history shows rejection leads to ruin."
+        },
+        {
+            "id": "ch50-q30",
+            "text": "How does Surah Qaf encourage humility toward the Quran?",
+            "answer": "By presenting it as a glorious reminder and warning that exposes the weakness of human denial."
+        },
+        {
+            "id": "ch50-q31",
+            "text": "What does the Surah teach about private sins compared to public sins?",
+            "answer": "Both are known to Allah; secrecy does not remove accountability."
+        },
+        {
+            "id": "ch50-q32",
+            "text": "True/False: The Surah teaches that people can hide from the recording angels by being silent.",
+            "answer": "False. Words and deeds are recorded, and silence does not hide intentions from Allah."
+        },
+        {
+            "id": "ch50-q33",
+            "text": "What is one ethical lesson from the Surah about speech (including online speech)?",
+            "answer": "Speak responsibly, avoid harm and lies, and remember every word is recorded."
+        },
+        {
+            "id": "ch50-q34",
+            "text": "What does the Surah teach about the psychological shock of the Hereafter for deniers?",
+            "answer": "They will realize the truth suddenly, and their excuses will collapse."
+        },
+        {
+            "id": "ch50-q35",
+            "text": "How does the Surah help someone overcome doubt about resurrection?",
+            "answer": "By combining signs in nature, history of past nations, and Allah's perfect knowledge and power."
+        },
+        {
+            "id": "ch50-q36",
+            "text": "What does Surah Qaf teach about the heart's role in salvation?",
+            "answer": "A repentant, returning heart (qalb munib) is central to being among the righteous."
+        },
+        {
+            "id": "ch50-q37",
+            "text": "How can someone cultivate a 'qalb munib' practically?",
+            "answer": "Through repentance, sincere dua, consistent worship, and avoiding stubborn persistence in sin."
+        },
+        {
+            "id": "ch50-q38",
+            "text": "What is one key lesson about accountability from Surah Qaf?",
+            "answer": "Accountability covers speech, deeds, and inner realities; no one escapes Allah's record."
+        },
+        {
+            "id": "ch50-q39",
+            "text": "What does the Surah teach about Allah's mercy toward those who fear Him unseen?",
+            "answer": "They receive Paradise brought near and a peaceful eternal welcome."
+        },
+        {
+            "id": "ch50-q40",
+            "text": "How does the Surah teach that the Quran is enough as a reminder?",
+            "answer": "It presents the Quran as a powerful warning and proof that reaches the heart more than arguments alone."
+        },
+        {
+            "id": "ch50-q41",
+            "text": "True/False: The Surah suggests that being religious publicly is enough even if the heart is arrogant.",
+            "answer": "False. It emphasizes the heart that turns back and fears Allah unseen."
+        },
+        {
+            "id": "ch50-q42",
+            "text": "What is one practical reflection exercise inspired by this Surah?",
+            "answer": "Reflect daily on death, the record of deeds, and Allah's closeness, then repent and improve one habit."
+        },
+        {
+            "id": "ch50-q43",
+            "text": "How does Surah Qaf shape a believer's attitude toward time?",
+            "answer": "It makes time feel urgent and valuable because death and judgment are certain and near."
+        },
+        {
+            "id": "ch50-q44",
+            "text": "What does the Surah teach about disputing in Allah's presence on Judgment Day?",
+            "answer": "Disputes will not benefit; Allah's warning already came and judgment is final."
+        },
+        {
+            "id": "ch50-q45",
+            "text": "What is one misconception corrected by the Surah about human independence?",
+            "answer": "That humans control outcomes; the Surah shows Allah controls life, death, and judgment."
+        },
+        {
+            "id": "ch50-q46",
+            "text": "How can this Surah improve a believer's sincerity in worship?",
+            "answer": "By reminding of Allah's closeness and record, it pushes a person to worship as if being observed."
+        },
+        {
+            "id": "ch50-q47",
+            "text": "What is one concluding takeaway about truth from Surah Qaf?",
+            "answer": "Truth will become undeniable; accepting it early saves, delaying it leads to regret."
+        },
+        {
+            "id": "ch50-q48",
+            "text": "What is the Surah's strongest call to action for modern readers?",
+            "answer": "Listen to the Quran as a living warning, repent sincerely, and live with awareness that every word and deed is recorded."
+        },
+        {
+            "id": "ch50-q49",
+            "text": "By what does Allah swear in the first ayah?",
+            "answer": "By the Glorious Quran."
+        },
+        {
+            "id": "ch50-q50",
+            "text": "What did the disbelievers find amazing about the resurrection?",
+            "answer": "They said, 'This is a far-fetched return (resurrection)' after they had become dust."
+        },
+        {
+            "id": "ch50-q51",
+            "text": "What signs in the sky does the Surah mention?",
+            "answer": "The sky above them, how Allah built it and adorned it, and there are no rifts in it."
+        },
+        {
+            "id": "ch50-q52",
+            "text": "How does the Surah describe rainwater and its effects?",
+            "answer": "As 'blessed water' (Ma'an mubarakan)."
+        },
+        {
+            "id": "ch50-q53",
+            "text": "Which ancient people are mentioned as examples of those who rejected the messengers?",
+            "answer": "The people of Nuh, the people of Rass, Thamud, 'Ad, Pharaoh, the brothers of Lut, and the people of Tubba."
+        },
+        {
+            "id": "ch50-q54",
+            "text": "How close does the Surah describe Allah's knowledge and awareness to a human being?",
+            "answer": "Closer to him than his jugular vein."
+        },
+        {
+            "id": "ch50-q55",
+            "text": "Who are the two recording angels mentioned in this Surah?",
+            "answer": "Two angels sitting on the right and on the left, recording deeds."
+        },
+        {
+            "id": "ch50-q56",
+            "text": "Does any word escape the recording angels?",
+            "answer": "No. The Surah teaches every word is recorded by an observer prepared."
+        },
+        {
+            "id": "ch50-q57",
+            "text": "What is the 'Stupor of Death' (Sakrat al-Mawt)?",
+            "answer": "The agony or intoxication of death which brings the truth."
+        },
+        {
+            "id": "ch50-q58",
+            "text": "What will accompany every soul on the Day of Judgment according to this Surah?",
+            "answer": "A driver (Sa'iq) and a witness (Shahid)."
+        },
+        {
+            "id": "ch50-q59",
+            "text": "What does the Surah describe about the dispute between a person and their companion devil on the Day of Judgment?",
+            "answer": "Allah will tell them not to dispute in His presence, as He had already sent them the warning."
+        },
+        {
+            "id": "ch50-q60",
+            "text": "Will Hell be filled on the Day of Judgment?",
+            "answer": "Allah will ask Hell 'Are you full?' and it will say 'Are there any more?'."
+        },
+        {
+            "id": "ch50-q61",
+            "text": "What is the greeting to the people of Paradise mentioned in this Surah?",
+            "answer": "'Enter it in peace. This is the Day of Eternity'."
+        },
+        {
+            "id": "ch50-q62",
+            "text": "How many days did the creation of the heavens and earth take in this Surah?",
+            "answer": "Six days, and no fatigue touched Allah."
+        },
+        {
+            "id": "ch50-q63",
+            "text": "What times for glorifying Allah does the Surah mention?",
+            "answer": "Before the rising of the sun, before its setting, and in part of the night and after prostration (prayers)."
+        },
+        {
+            "id": "ch50-q64",
+            "text": "Who is the 'Crier' (munadi) mentioned regarding resurrection?",
+            "answer": "The angel who will call from a place near for the resurrection."
+        },
+        {
+            "id": "ch50-q65",
+            "text": "Is the Prophet (SAW) a 'tyrant' over the people?",
+            "answer": "No. The Surah states he is not over them a tyrant."
+        },
+        {
+            "id": "ch50-q66",
+            "text": "What is the Prophet's task regarding the Quran at the end of the Surah?",
+            "answer": "To remind with the Quran whoever fears Allah's threat."
+        }
+    ]
 }

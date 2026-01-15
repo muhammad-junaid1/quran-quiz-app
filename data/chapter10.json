@@ -11,48 +11,398 @@
     },
     {
       "id": "ch10-q2",
-      "text": "What challenge does Allah give to those who say the Prophet fabricated the Quran (Verse 38)?",
-      "answer": "To bring forth just one Surah like it and call upon anyone they can besides Allah for help."
+      "text": "Why did people find it strange that Allah sent a human messenger?",
+      "answer": "They thought a messenger should be something supernatural, but Allah clarified that he is a man sent to warn and give glad tidings."
     },
     {
       "id": "ch10-q3",
-      "text": "How does the Surah describe the 'Awliya' (friends) of Allah in Verses 62-63?",
-      "answer": "They are those who believe and used to fear Allah (Taqwa); they shall have no fear, nor shall they grieve."
+      "text": "How many days did Allah take to create the heavens and the earth as mentioned in this Surah?",
+      "answer": "Six days."
     },
     {
       "id": "ch10-q4",
-      "text": "What was the unique characteristic of the people of Prophet Yunus (AS) compared to other nations?",
-      "answer": "They were the only nation that believed as a whole when they saw the punishment coming, and Allah subsequently removed the punishment from them."
+      "text": "How does Allah describe the sun and the moon in the opening verses?",
+      "answer": "He made the sun a shining glory and the moon a derived light and determined for it phases so people could know the number of years and the count of time."
     },
     {
       "id": "ch10-q5",
+      "text": "What is the purpose of the alternation of the night and the day according to this Surah?",
+      "answer": "They are signs for a people who fear Allah (Muttaqin)."
+    },
+    {
+      "id": "ch10-q6",
+      "text": "What is the fate of those who do not expect to meet Allah and are satisfied with the life of this world?",
+      "answer": "Their refuge is the Fire because of what they used to earn."
+    },
+    {
+      "id": "ch10-q7",
+      "text": "What will be the greeting and the final prayer of the people of Paradise?",
+      "answer": "Their greeting will be 'Salam' (Peace), and their final call will be 'Praise to Allah, Lord of the worlds.'"
+    },
+    {
+      "id": "ch10-q8",
+      "text": "How does man typically react when touched by hardship compared to when he is in ease?",
+      "answer": "During hardship, he calls upon Allah lying on his side, sitting, or standing; but when the hardship is removed, he continues as if he had never called upon Him."
+    },
+    {
+      "id": "ch10-q9",
+      "text": "What was the reason for the destruction of previous generations mentioned in this Surah?",
+      "answer": "They did wrong and rejected the clear signs brought to them by their messengers."
+    },
+    {
+      "id": "ch10-q10",
+      "text": "What was the demand of those who did not expect the meeting with Allah regarding the Quran?",
+      "answer": "They said, 'Bring us a Quran other than this or change it.'"
+    },
+    {
+      "id": "ch10-q11",
+      "text": "What was the Prophet's response to the demand to change the Quran?",
+      "answer": "He said it is not for him to change it of his own accord; he only follows what is revealed to him and fears the punishment of a Great Day."
+    },
+    {
+      "id": "ch10-q12",
+      "text": "Did mankind start as one community or multiple religions?",
+      "answer": "Mankind was but one community (of one religion), then they differed."
+    },
+    {
+      "id": "ch10-q13",
+      "text": "What do the polytheists say about their idols in terms of intercession?",
+      "answer": "They say, 'These are our intercessors with Allah,' but Allah informs them that He knows all that is in the heavens and the earth and has no such partners."
+    },
+    {
+      "id": "ch10-q14",
+      "text": "What happens to people when they are on ships and a storm comes, and then when they are saved?",
+      "answer": "During the storm, they call upon Allah with sincere faith; but once saved, they again commit injustice and rebellion on earth."
+    },
+    {
+      "id": "ch10-q15",
+      "text": "Describe the parable of the life of this world given in this Surah.",
+      "answer": "It is like rain that produces lush vegetation, which then suddenly becomes dry stubble as if it had not flourished the day before."
+    },
+    {
+      "id": "ch10-q16",
+      "text": "What is 'Dar al-Salam'?",
+      "answer": "The Home of Peace (Paradise) to which Allah invites mankind."
+    },
+    {
+      "id": "ch10-q17",
+      "text": "What is the reward for those who do good ('Al-Husna') in this Surah?",
+      "answer": "They will have the best reward (Paradise) and even more (the vision of Allah)."
+    },
+    {
+      "id": "ch10-q18",
+      "text": "How will the faces of the people of Paradise and the people of Hell appear?",
+      "answer": "The faces of the people of Paradise will have no gloom or humiliation, while the faces of the people of Hell will be covered as if by pieces of a dark night."
+    },
+    {
+      "id": "ch10-q19",
+      "text": "What will the 'partners' (idols) say to their worshippers on the Day of Judgment?",
+      "answer": "They will deny that they were being worshipped and will say that Allah is a sufficient witness between them."
+    },
+    {
+      "id": "ch10-q20",
+      "text": "What questions are the polytheists asked to prove Allah's Oneness regarding provision and life?",
+      "answer": "Who provides for you from the heaven and the earth? Who owns hearing and sight? Who brings the living out of the dead and the dead out of the living?"
+    },
+    {
+      "id": "ch10-q21",
+      "text": "Does 'assumption' (Zann) avail anything against the truth?",
+      "answer": "No, assumption avails nothing against the truth; indeed, Allah is Knowing of what they do."
+    },
+    {
+      "id": "ch10-q22",
+      "text": "Could the Quran have been produced by anyone other than Allah?",
+      "answer": "No, it is a confirmation of what was before it and a detailed explanation of the Scripture—there is no doubt it is from the Lord of the worlds."
+    },
+    {
+      "id": "ch10-q23",
+      "text": "What challenge does Allah give to those who say the Prophet fabricated the Quran?",
+      "answer": "To bring forth just one Surah like it and call upon anyone they can besides Allah for help."
+    },
+    {
+      "id": "ch10-q24",
+      "text": "What is the reaction of some people to the truth that they cannot encompass with knowledge?",
+      "answer": "They deny it before its explanation has come to them."
+    },
+    {
+      "id": "ch10-q25",
+      "text": "Is Allah unjust to mankind in any way?",
+      "answer": "No, 'Indeed, Allah does not wrong the people at all, but it is the people who are wronging themselves.'"
+    },
+    {
+      "id": "ch10-q26",
+      "text": "How long will the life of this world seem to people on the Day of Resurrection?",
+      "answer": "As if they had stayed only for an hour of a day."
+    },
+    {
+      "id": "ch10-q27",
+      "text": "What will every soul wish to do if it has all the wealth on earth on the Day of Judgment?",
+      "answer": "It would try to ransom itself with it, but the judgment will be in justice."
+    },
+    {
+      "id": "ch10-q28",
+      "text": "How does the Surah describe the Quran's effect on the hearts?",
+      "answer": "As an admonition from your Lord, a healing for what is in the breasts, a guidance, and a mercy for the believers."
+    },
+    {
+      "id": "ch10-q29",
+      "text": "What should the believers rejoice in more than worldly wealth?",
+      "answer": "In the bounty of Allah and His mercy (the Quran and Islam)."
+    },
+    {
+      "id": "ch10-q30",
+      "text": "What is the rebuke for those who invent lies about what Allah has made lawful or unlawful?",
+      "answer": "They are asked: 'Has Allah permitted you [to do so], or do you invent [something] about Allah?'"
+    },
+    {
+      "id": "ch10-q31",
+      "text": "Does anything on earth or in the heaven escape Allah's knowledge?",
+      "answer": "No, not even the weight of an atom escapes Him, nor anything smaller or larger."
+    },
+    {
+      "id": "ch10-q32",
+      "text": "How does the Surah describe the 'Awliya' (friends) of Allah?",
+      "answer": "They are those who believe and used to fear Allah (Taqwa); they shall have no fear, nor shall they grieve."
+    },
+    {
+      "id": "ch10-q33",
+      "text": "What is the 'Boushra' (glad tidings) promised to the friends of Allah?",
+      "answer": "Glad tidings in the life of this world and in the Hereafter."
+    },
+    {
+      "id": "ch10-q34",
+      "text": "Should the Prophet be grieved by the words and plots of the disbelievers?",
+      "answer": "No, for all honor and power belong to Allah, and He is the Hearing, the Knowing."
+    },
+    {
+      "id": "ch10-q35",
+      "text": "What is the claim regarding Allah having a 'son' and how is it refuted?",
+      "answer": "Allah is Exalted! He is the Self-Sufficient. To Him belongs all that is in the heavens and the earth. Those who say this have no authority for it."
+    },
+    {
+      "id": "ch10-q36",
+      "text": "Briefly describe the story of Nuh mentioned in this Surah.",
+      "answer": "Nuh challenged his people to carry out their plot against him if they could, while he relied on Allah. He was saved in the ship while the deniers were drowned."
+    },
+    {
+      "id": "ch10-q37",
+      "text": "Who did Allah send to Fir'aun and his chiefs with signs?",
+      "answer": "Musa and Harun."
+    },
+    {
+      "id": "ch10-q38",
+      "text": "What did Fir'aun's chiefs call the truth when it came to them?",
+      "answer": "They called it 'clear magic'."
+    },
+    {
+      "id": "ch10-q39",
+      "text": "How many of the people of Musa believed in him initially due to fear of Fir'aun?",
+      "answer": "Only a few of his people (offspring/youths) believed, fearing that Fir'aun and his chiefs would persecute them."
+    },
+    {
+      "id": "ch10-q40",
+      "text": "What advice did Musa give to his people to survive the persecution in Egypt?",
+      "answer": "To settle in houses, make their houses places of worship (Qiblah), and establish prayer."
+    },
+    {
+      "id": "ch10-q41",
+      "text": "What was Musa's prayer regarding the wealth and power of Fir'aun?",
+      "answer": "He asked Allah to wipe out their wealth and harden their hearts so they would not believe until they saw the painful punishment."
+    },
+    {
+      "id": "ch10-q42",
       "text": "What did Fir'aun (Pharaoh) say when he was about to drown?",
       "answer": "He said, 'I believe that there is no deity except He in whom the Children of Israel believe, and I am of the Muslims'."
     },
     {
-      "id": "ch10-q6",
+      "id": "ch10-q43",
       "text": "What was Allah's response to Pharaoh's last-minute conversion?",
-      "answer": "It was rejected because he had been disobedient and a corrupter until that very moment, though his body was preserved as a sign."
+      "answer": "It was rejected because he had been disobedient and a corrupter until that very moment."
     },
     {
-      "id": "ch10-q7",
-      "text": "What does Verse 57 describe the Quran as for the hearts of people?",
-      "answer": "A healing (Shifa') for what is in the breasts, a guidance, and a mercy."
+      "id": "ch10-q44",
+      "text": "Why did Allah preserve the body of Fir'aun?",
+      "answer": "To be a sign for those who come after him, though many of the people are heedless of Allah's signs."
     },
     {
-      "id": "ch10-q8",
-      "text": "Why are the disbelievers told to travel through the earth?",
-      "answer": "To see the end of those who came before them and rejected the Messengers."
+      "id": "ch10-q45",
+      "text": "What happened to the Children of Israel after they were saved from Egypt?",
+      "answer": "They were settled in a beautiful settlement and provided with good things, yet they still differed after knowledge had come to them."
     },
     {
-      "id": "ch10-q9",
-      "text": "Does Allah force people to become believers according to Verse 99?",
-      "answer": "No; it states that if Allah had willed, everyone on earth would have believed, so the Prophet should not compel people to believe."
+      "id": "ch10-q46",
+      "text": "Who should the Prophet ask if he were in doubt about what was revealed to him?",
+      "answer": "He is told to ask those who have been reading the Scripture before him (the sincere scholars of the People of the Book)."
     },
     {
-      "id": "ch10-q10",
-      "text": "What is the 'Boushra' (glad tidings) promised to the believers in this life and the hereafter?",
-      "answer": "It refers to the peace, divine support, and righteous dreams in this life, and the reward of Paradise in the next."
+      "id": "ch10-q47",
+      "text": "What was the unique characteristic of the people of Prophet Yunus (AS)?",
+      "answer": "They were the only nation that believed as a whole when they saw the punishment coming, and Allah subsequently removed the punishment from them."
+    },
+    {
+      "id": "ch10-q48",
+      "text": "Does Allah force people to become believers?",
+      "answer": "No; 'If your Lord had willed, those on earth would have believed—all of them entirely. Then, [O Muhammad], would you compel the people in order that they become believers?'"
+    },
+    {
+      "id": "ch10-q49",
+      "text": "What happens to those who do not use their reason (Aql)?",
+      "answer": "Allah places defilement (Rijs) upon them."
+    },
+    {
+      "id": "ch10-q50",
+      "text": "What should the Prophet say if people remain in doubt about his religion?",
+      "answer": "He should say: 'I do not worship those you worship besides Allah, but I worship Allah who causes you to die.'"
+    },
+    {
+      "id": "ch10-q51",
+      "text": "What is the command regarding being a 'Hanif' (pure monotheist)?",
+      "answer": "The Prophet is commanded to direct his face toward the religion as a Hanif and never be among those who associate others with Allah."
+    },
+    {
+      "id": "ch10-q52",
+      "text": "Can anyone remove a harm if Allah touches a person with it?",
+      "answer": "No, no one can remove it except Him."
+    },
+    {
+      "id": "ch10-q53",
+      "text": "Can anyone withhold a good if Allah intends it for a person?",
+      "answer": "No, no one can repel His favor; He causes it to reach whom He wills of His servants."
+    },
+    {
+      "id": "ch10-q54",
+      "text": "What is the final advice for the Prophet at the end of the Surah?",
+      "answer": "To follow what is revealed to him and be patient until Allah gives judgment, for He is the best of judges."
+    },
+    {
+      "id": "ch10-q55",
+      "text": "What is the significance of the title 'Yunus'?",
+      "answer": "It is named after Prophet Jonah, whose people set a unique example of collective repentance."
+    },
+    {
+      "id": "ch10-q56",
+      "text": "What is the 'truth' mentioned that comes from the Lord?",
+      "answer": "The Quran and the message of Tawhid."
+    },
+    {
+      "id": "ch10-q57",
+      "text": "How does Allah describe His 'Istawa' (establishment) in this Surah?",
+      "answer": "He established Himself above the Throne, conducting the affairs of the universe."
+    },
+    {
+      "id": "ch10-q58",
+      "text": "What is the 'intercession' (Shafa'ah) rule mentioned here?",
+      "answer": "There is no intercessor except after His permission."
+    },
+    {
+      "id": "ch10-q59",
+      "text": "What is the 'return' mentioned in the opening?",
+      "answer": "To Allah is the return of all; it is a true promise."
+    },
+    {
+      "id": "ch10-q60",
+      "text": "How does Allah describe those who are ungrateful for His signs?",
+      "answer": "As being heedless (Ghafilun)."
+    },
+    {
+      "id": "ch10-q61",
+      "text": "What is the 'punishment of the burning' for?",
+      "answer": "For those who reject the signs of Allah after they have come to them."
+    },
+    {
+      "id": "ch10-q62",
+      "text": "What is the 'darkness' a metaphor for in this Surah?",
+      "answer": "Misguidance and the state of those in Hell."
+    },
+    {
+      "id": "ch10-q63",
+      "text": "What is the 'light' a metaphor for?",
+      "answer": "Guidance and the path of the believers."
+    },
+    {
+      "id": "ch10-q64",
+      "text": "What is the 'shining glory' of the sun?",
+      "answer": "Dhiya (a source of light and heat)."
+    },
+    {
+      "id": "ch10-q65",
+      "text": "What is the 'derived light' of the moon?",
+      "answer": "Nur (a reflected light)."
+    },
+    {
+      "id": "ch10-q66",
+      "text": "Why does Allah mention the years and the count of time?",
+      "answer": "To show the order and purpose in His creation."
+    },
+    {
+      "id": "ch10-q67",
+      "text": "What is the 'greatest success' (Al-Fawz al-'Azim)?",
+      "answer": "Attaining Paradise and Allah's pleasure."
+    },
+    {
+      "id": "ch10-q68",
+      "text": "What is the 'painful punishment' for?",
+      "answer": "For those who were arrogant and rejected the truth."
+    },
+    {
+      "id": "ch10-q69",
+      "text": "How does Allah view the 'inventing of lies'?",
+      "answer": "As the worst of sins."
+    },
+    {
+      "id": "ch10-q70",
+      "text": "What is the 'witness' of Allah over all things?",
+      "answer": "His complete and perfect knowledge of every action."
+    },
+    {
+      "id": "ch10-q71",
+      "text": "What is the 'admonition' (Maw'izah) of the Quran?",
+      "answer": "Its ability to warn and advise the souls."
+    },
+    {
+      "id": "ch10-q72",
+      "text": "What is the 'healing' (Shifa') of the Quran?",
+      "answer": "Its ability to cure spiritual diseases like doubt, hypocrisy, and hatred."
+    },
+    {
+      "id": "ch10-q73",
+      "text": "What is the 'mercy' (Rahmah) of the Quran?",
+      "answer": "The guidance and ease it provides to those who follow it."
+    },
+    {
+      "id": "ch10-q74",
+      "text": "What is the 'bounty' (Fadl) of Allah?",
+      "answer": "His favors and gifts, primarily the revelation."
+    },
+    {
+      "id": "ch10-q75",
+      "text": "How does Allah describe the 'plots' of the disbelievers?",
+      "answer": "As being weak against the plan of Allah."
+    },
+    {
+      "id": "ch10-q76",
+      "text": "What is the 'Home of Peace' calling people to?",
+      "answer": "A life of eternal security and happiness."
+    },
+    {
+      "id": "ch10-q77",
+      "text": "What is the 'word of your Lord' that has been fulfilled?",
+      "answer": "His decree regarding the fate of the righteous and the wicked."
+    },
+    {
+      "id": "ch10-q78",
+      "text": "What is the 'clear proof' (Bayyinah)?",
+      "answer": "Evidence that leaves no room for doubt."
+    },
+    {
+      "id": "ch10-q79",
+      "text": "What is the 'patience' required of the Prophet?",
+      "answer": "Steadfastness in delivering the message despite opposition."
+    },
+    {
+      "id": "ch10-q80",
+      "text": "What is the final message about the 'Lord of the Great Throne'?",
+      "answer": "That He is the ultimate authority and refuge."
     }
   ]
 }

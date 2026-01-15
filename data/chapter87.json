@@ -6,102 +6,202 @@
     "questions": [
         {
             "id": "ch87-q1",
+            "text": "Why does the Surah begin with glorifying Allah’s name?",
+            "answer": "To center the heart on Allah’s greatness before discussing guidance, reminders, and accountability."
+        },
+        {
+            "id": "ch87-q2",
+            "text": "True/False: The Surah teaches that nature is random and not a sign of Allah.",
+            "answer": "False. It points to creation, proportion, guidance, and provision as signs."
+        },
+        {
+            "id": "ch87-q3",
+            "text": "What does the Surah teach by mentioning pasture turning into dark stubble?",
+            "answer": "Worldly beauty fades; life changes quickly, so attach the heart to Allah and the Hereafter."
+        },
+        {
+            "id": "ch87-q4",
+            "text": "How does Surah Al-A'la teach confidence in the Quran’s preservation?",
+            "answer": "It reassures the Prophet about recitation and that Allah ensures what is needed remains."
+        },
+        {
+            "id": "ch87-q5",
+            "text": "What does Allah’s knowledge of what is declared and hidden teach about sincerity?",
+            "answer": "Allah knows intentions; worship and morality must be sincere, not performative."
+        },
+        {
+            "id": "ch87-q6",
+            "text": "True/False: The Surah suggests reminders are useless and should be abandoned.",
+            "answer": "False. It teaches giving reminders when they benefit and that the God-fearing accept them."
+        },
+        {
+            "id": "ch87-q7",
+            "text": "Who benefits most from reminders according to this Surah’s message?",
+            "answer": "Those who fear Allah and want guidance."
+        },
+        {
+            "id": "ch87-q8",
+            "text": "What is one sign of the ‘most wretched’ person described in this Surah?",
+            "answer": "They avoid reminders and persist in rejection, leading to punishment."
+        },
+        {
+            "id": "ch87-q9",
+            "text": "What does the Surah teach about the Great Fire and its misery?",
+            "answer": "It describes a torment where a person neither truly lives nor finds relief, warning against denial."
+        },
+        {
+            "id": "ch87-q10",
+            "text": "What does 'purifying oneself' (tazakka) include in a practical sense?",
+            "answer": "Leaving shirk and sins, improving character, and sincerely returning to Allah."
+        },
+        {
+            "id": "ch87-q11",
+            "text": "What does the Surah teach about the relationship between dhikr and prayer?",
+            "answer": "True success includes remembering Allah and establishing prayer as lived practice."
+        },
+        {
+            "id": "ch87-q12",
+            "text": "True/False: The Surah teaches that worldly life is better because it is immediate.",
+            "answer": "False. It teaches the Hereafter is better and more enduring."
+        },
+        {
+            "id": "ch87-q13",
+            "text": "How can someone apply the Surah’s message about preferring dunya?",
+            "answer": "Notice where dunya pulls you away from prayer or ethics, then choose the Hereafter consistently."
+        },
+        {
+            "id": "ch87-q14",
+            "text": "What does it mean that these teachings exist in earlier scriptures?",
+            "answer": "Core guidance—tawhid, purification, and accountability—was taught by earlier prophets too."
+        },
+        {
+            "id": "ch87-q15",
+            "text": "What is one lesson from mentioning the scriptures of Ibrahim and Musa?",
+            "answer": "Islam is continuous with earlier prophetic teachings and calls to the same fundamentals."
+        },
+        {
+            "id": "ch87-q16",
+            "text": "How can this Surah help someone struggling with spiritual consistency?",
+            "answer": "It emphasizes simple pillars: glorify Allah, accept reminders, purify the self, and pray."
+        },
+        {
+            "id": "ch87-q17",
+            "text": "What is one daily practice inspired by the Surah’s opening command?",
+            "answer": "Begin the day with tasbih and gratitude, then protect the prayers on time."
+        },
+        {
+            "id": "ch87-q18",
+            "text": "How does Surah Al-A'la balance hope and fear?",
+            "answer": "It highlights the path of purification and prayer (hope) and warns of the wretched and the Fire (fear)."
+        },
+        {
+            "id": "ch87-q19",
+            "text": "True/False: The Surah teaches that purification is only physical cleanliness.",
+            "answer": "False. It includes spiritual purification from shirk, sin, and bad character."
+        },
+        {
+            "id": "ch87-q20",
+            "text": "Use its themes—glorify Allah, accept reminders, purify yourself, prefer the Hereafter—to guide daily choices.",
+            "answer": "Use its themes—glorify Allah, accept reminders, purify yourself, prefer the Hereafter—to guide daily choices."
+        },
+        {
+            "id": "ch87-q21",
             "text": "What is the opening command of Surah Al-A'la?",
             "answer": "Exalt the name of your Lord, the Most High."
         },
         {
-            "id": "ch87-q2",
-            "text": "What four actions of Allah are mentioned in Verses 2-5?",
+            "id": "ch87-q22",
+            "text": "What four actions of Allah are mentioned in this Surah's opening section?",
             "answer": "He created and proportioned, ordained and guided, and brought out the pasture."
         },
         {
-            "id": "ch87-q3",
+            "id": "ch87-q23",
             "text": "What happens to the pasture (vegetation) eventually?",
             "answer": "Allah makes it 'blackened stubble' (Ghuthā'an ahwā)."
         },
         {
-            "id": "ch87-q4",
+            "id": "ch87-q24",
             "text": "What promise does Allah give the Prophet (SAW) regarding the Quran?",
             "answer": "We will make you recite, [O Muhammad], and you will not forget."
         },
         {
-            "id": "ch87-q5",
+            "id": "ch87-q25",
             "text": "Is there an exception to the Prophet not forgetting the Quran?",
-            "answer": "Yes, 'except what Allah wills' (Verse 7)."
+            "answer": "Yes, except what Allah wills."
         },
         {
-            "id": "ch87-q6",
+            "id": "ch87-q26",
             "text": "Does Allah know what is declared and what is hidden?",
             "answer": "Yes, 'He knows what is declared and what is hidden'."
         },
         {
-            "id": "ch87-q7",
+            "id": "ch87-q27",
             "text": "What will Allah ease for the Prophet (SAW)?",
             "answer": "He will ease him toward the 'easy way' (Islam and its laws)."
         },
         {
-            "id": "ch87-q8",
+            "id": "ch87-q28",
             "text": "When should the Prophet give a reminder?",
             "answer": "If the reminder benefits (the people)."
         },
         {
-            "id": "ch87-q9",
+            "id": "ch87-q29",
             "text": "Who will be reminded by the Prophet's message?",
             "answer": "He who fears Allah."
         },
         {
-            "id": "ch87-q10",
+            "id": "ch87-q30",
             "text": "Who will avoid the reminder?",
             "answer": "The 'most wretched' (Al-Ashqa)."
         },
         {
-            "id": "ch87-q11",
+            "id": "ch87-q31",
             "text": "What is the fate of the wretched one?",
             "answer": "He will enter the 'Great Fire' (An-Nar al-Kubra)."
         },
         {
-            "id": "ch87-q12",
+            "id": "ch87-q32",
             "text": "Will the person in the Great Fire die or live?",
             "answer": "He will neither die therein nor live (meaning a state of constant agony)."
         },
         {
-            "id": "ch87-q13",
-            "text": "Who is the one who has succeeded (Verse 14)?",
+            "id": "ch87-q33",
+            "text": "Who is the one who has succeeded in this Surah?",
             "answer": "He who has purified himself."
         },
         {
-            "id": "ch87-q14",
-            "text": "What two things does the successful person do in Verse 15?",
+            "id": "ch87-q34",
+            "text": "What two things does the successful person do in this Surah?",
             "answer": "Remembers the name of his Lord and prays."
         },
         {
-            "id": "ch87-q15",
-            "text": "What do people generally prefer according to Verse 16?",
+            "id": "ch87-q35",
+            "text": "What do people generally prefer according to this Surah?",
             "answer": "The life of this world."
         },
         {
-            "id": "ch87-q16",
+            "id": "ch87-q36",
             "text": "How is the Hereafter compared to the worldly life?",
             "answer": "The Hereafter is better and more enduring (Khayrun wa Abqa)."
         },
         {
-            "id": "ch87-q17",
+            "id": "ch87-q37",
             "text": "Were these teachings mentioned in previous scriptures?",
-            "answer": "Yes, 'Indeed, this is in the former scriptures' (Verse 18)."
+            "answer": "Yes, they are mentioned in the former scriptures."
         },
         {
-            "id": "ch87-q18",
+            "id": "ch87-q38",
             "text": "Name the two Prophets whose scriptures are specifically mentioned at the end.",
             "answer": "The scriptures of Ibrahim and Musa."
         },
         {
-            "id": "ch87-q19",
+            "id": "ch87-q39",
             "text": "What is the virtue of reciting this Surah in Friday and Eid prayers?",
             "answer": "It was the Sunnah of the Prophet (SAW) to recite it frequently in these prayers."
         },
         {
-            "id": "ch87-q20",
-            "text": "What is the meaning of 'Tazakka' in Verse 14?",
+            "id": "ch87-q40",
+            "text": "What is the meaning of 'Tazakka' in this Surah?",
             "answer": "Purifying oneself from shirk, sins, and bad character."
         }
     ]

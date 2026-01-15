@@ -1,108 +1,408 @@
 {
-  "id": 28,
-  "englishName": "Al-Qasas",
-  "arabicName": "القصص",
-  "translation": "The Stories",
-  "questions": [
-    {
-      "id": "ch28-q1",
-      "text": "What was Pharaoh's policy towards the Children of Israel at the time of Musa's birth?",
-      "answer": "He divided the people into sects, weakening one group by slaughtering their sons and letting their women live."
-    },
-    {
-      "id": "ch28-q2",
-      "text": "What did Allah inspire the mother of Musa (AS) to do when she feared for him?",
-      "answer": "To nurse him, and then cast him into the river (Nile) in a chest."
-    },
-    {
-      "id": "ch28-q3",
-      "text": "Who picked Musa (AS) up from the river?",
-      "answer": "The family of Pharaoh."
-    },
-    {
-      "id": "ch28-q4",
-      "text": "What did the wife of Pharaoh (Asiya) say when they found the infant Musa?",
-      "answer": "'A comfort to the eye for me and for you. Do not kill him; perhaps he may benefit us, or we may adopt him as a son'."
-    },
-    {
-      "id": "ch28-q5",
-      "text": "How was Musa (AS) returned to his mother to be nursed?",
-      "answer": "Allah caused him to refuse all wet nurses until his sister suggested their mother, and he accepted."
-    },
-    {
-      "id": "ch28-q6",
-      "text": "Why did Musa (AS) have to flee Egypt?",
-      "answer": "He accidentally killed an Egyptian while defending an Israelite and found out that the authorities were plotting to kill him."
-    },
-    {
-      "id": "ch28-q7",
-      "text": "What act of kindness did Musa (AS) do when he reached the well of Madyan?",
-      "answer": "He watered the flocks for two women who were waiting because they couldn't compete with the male shepherds."
-    },
-    {
-      "id": "ch28-q8",
-      "text": "What did one of the daughters of the old man of Madyan suggest regarding Musa?",
-      "answer": "She suggested her father hire him because 'the best one you can hire is the strong and the trustworthy'."
-    },
-    {
-      "id": "ch28-q9",
-      "text": "What was the marriage contract between Musa (AS) and the father of the two women?",
-      "answer": "Musa would work for him for eight years, and if he completed ten, it would be from his own favor."
-    },
-    {
-      "id": "ch28-q10",
-      "text": "Where did Musa (AS) see the fire and receive his first revelation after leaving Madyan?",
-      "answer": "On the side of Mount Tur."
-    },
-    {
-      "id": "ch28-q11",
-      "text": "What was Haman's role in Pharaoh's court as mentioned in this Surah?",
-      "answer": "Pharaoh commanded him to build a high tower so Pharaoh could look at the God of Musa."
-    },
-    {
-      "id": "ch28-q12",
-      "text": "What does Verse 56 say about the Prophet's ability to guide people?",
-      "answer": "'Indeed, you do not guide whom you like, but Allah guides whom He wills'."
-    },
-    {
-      "id": "ch28-q13",
-      "text": "Who was Qarun and what was his sin?",
-      "answer": "He was from the people of Musa but tyrannized them with his immense wealth, attributing his success to his own knowledge rather than Allah's favor."
-    },
-    {
-      "id": "ch28-q14",
-      "text": "How massive was the wealth of Qarun described to be?",
-      "answer": "The keys to his treasure houses were a burden for a company of strong men to carry."
-    },
-    {
-      "id": "ch28-q15",
-      "text": "What was the end of Qarun?",
-      "answer": "Allah caused the earth to swallow him and his home."
-    },
-    {
-      "id": "ch28-q16",
-      "text": "To whom does Allah grant the 'Home of the Hereafter' according to Verse 83?",
-      "answer": "To those who do not desire exaltedness (arrogance) upon the earth or corruption."
-    },
-    {
-      "id": "ch28-q17",
-      "text": "What is the 'Good Word' mentioned in Verse 84?",
-      "answer": "Whoever comes with a good deed will have better than it; whoever comes with an evil deed will only be recompensed for what they did."
-    },
-    {
-      "id": "ch28-q18",
-      "text": "What promise did Allah give the Prophet (SAW) regarding his return to Makkah (Verse 85)?",
-      "answer": "That He who imposed the Quran upon him would surely take him back to a place of return (Makkah)."
-    },
-    {
-      "id": "ch28-q19",
-      "text": "How many years did Musa (AS) stay in Madyan before returning to Egypt?",
-      "answer": "At least ten years (the completed term of his contract)."
-    },
-    {
-      "id": "ch28-q20",
-      "text": "What is the final command in the Surah regarding other gods?",
-      "answer": "'And do not invoke with Allah another deity. There is no deity except Him. Everything will be destroyed except His Face'."
-    }
-  ]
+    "id": 28,
+    "englishName": "Al-Qasas",
+    "arabicName": "القصص",
+    "translation": "The Stories",
+    "questions": [
+        {
+            "id": "ch28-q1",
+            "text": "What was Pharaoh's policy towards the Children of Israel at the time of Musa's birth?",
+            "answer": "He divided the people into sects, weakening one group by slaughtering their sons and letting their women live, acting as a corrupter."
+        },
+        {
+            "id": "ch28-q2",
+            "text": "What was Allah's intention for the oppressed Children of Israel in Egypt?",
+            "answer": "To confer favor upon them, make them leaders, make them inheritors, and establish them in the land."
+        },
+        {
+            "id": "ch28-q3",
+            "text": "What did Allah inspire the mother of Musa to do when she feared for him?",
+            "answer": "To nurse him, and then cast him into the river (Nile) in a chest, without fear or grief, promising to return him to her."
+        },
+        {
+            "id": "ch28-q4",
+            "text": "Who picked Musa up from the river and why did Allah allow it?",
+            "answer": "The family of Pharaoh picked him up so that he might become an enemy and a cause of grief for them."
+        },
+        {
+            "id": "ch28-q5",
+            "text": "What did the wife of Pharaoh say when they found the infant Musa?",
+            "answer": "'A comfort to the eye for me and for you. Do not kill him; perhaps he may benefit us, or we may adopt him as a son.'"
+        },
+        {
+            "id": "ch28-q6",
+            "text": "What was the state of Musa's mother's heart after he was taken by Pharaoh's family?",
+            "answer": "Her heart became empty of all except him, and she almost disclosed his identity if Allah had not stilled her heart."
+        },
+        {
+            "id": "ch28-q7",
+            "text": "How did Musa's sister help him while he was in Pharaoh's palace?",
+            "answer": "She watched him from a distance and suggested a household (their own mother) that could nurse and care for him."
+        },
+        {
+            "id": "ch28-q8",
+            "text": "Why did Allah return Musa to his mother so quickly?",
+            "answer": "So that her eye might be comforted, she would not grieve, and she would know that the promise of Allah is true."
+        },
+        {
+            "id": "ch28-q9",
+            "text": "What did Allah grant Musa when he reached full strength and maturity?",
+            "answer": "Wisdom and knowledge, as a reward for the doers of good."
+        },
+        {
+            "id": "ch28-q10",
+            "text": "Describe the incident that led to Musa killing an Egyptian.",
+            "answer": "He found two men fighting, one from his own people and one from his enemy; he struck the enemy to help his companion, and the man died."
+        },
+        {
+            "id": "ch28-q11",
+            "text": "What was Musa's immediate reaction after accidentally killing the man?",
+            "answer": "He said, 'This is from the work of Shaitan,' and prayed for forgiveness, which Allah granted."
+        },
+        {
+            "id": "ch28-q12",
+            "text": "Why did Musa have to flee Egypt the next day?",
+            "answer": "The same man he helped the day before called for help again; Musa realized he was being exposed, and a man came running to warn him that the chiefs were plotting to kill him."
+        },
+        {
+            "id": "ch28-q13",
+            "text": "What prayer did Musa make when he set out toward Madyan?",
+            "answer": "'My Lord, save me from the wrongdoing people' and 'Perhaps my Lord will guide me to the sound way.'"
+        },
+        {
+            "id": "ch28-q14",
+            "text": "What act of kindness did Musa do when he reached the well of Madyan?",
+            "answer": "He watered the flocks for two women who were waiting because they were too modest to compete with the male shepherds."
+        },
+        {
+            "id": "ch28-q15",
+            "text": "What was Musa's prayer after helping the two women in Madyan?",
+            "answer": "'My Lord, indeed I am, for whatever good You would send down to me, in need.'"
+        },
+        {
+            "id": "ch28-q16",
+            "text": "How did one of the women invite Musa back to her father?",
+            "answer": "She came to him walking with shyness and said her father invited him to reward him for watering their flocks."
+        },
+        {
+            "id": "ch28-q17",
+            "text": "What did the father in Madyan say to Musa after hearing his story?",
+            "answer": "'Fear not. You have escaped from the wrongdoing people.'"
+        },
+        {
+            "id": "ch28-q18",
+            "text": "What qualities did the daughter mention when suggesting her father hire Musa?",
+            "answer": "Strength and trustworthiness."
+        },
+        {
+            "id": "ch28-q19",
+            "text": "What was the marriage contract offered to Musa in Madyan?",
+            "answer": "The father offered one of his daughters in marriage if Musa would work for him for eight years, or ten if he wished."
+        },
+        {
+            "id": "ch28-q20",
+            "text": "Where did Musa see the fire after completing his term and traveling with his family?",
+            "answer": "In the direction of Mount Tur."
+        },
+        {
+            "id": "ch28-q21",
+            "text": "What was the first thing Allah said to Musa from the tree in the blessed spot?",
+            "answer": "'O Musa, indeed I am Allah, Lord of the worlds.'"
+        },
+        {
+            "id": "ch28-q22",
+            "text": "What happened when Musa threw his staff as commanded?",
+            "answer": "It moved like a snake, and Musa turned to flee in fear, but Allah called him back to not be afraid."
+        },
+        {
+            "id": "ch28-q23",
+            "text": "What was the second miracle Musa was given at Mount Tur?",
+            "answer": "His hand came out white from his garment without any disease."
+        },
+        {
+            "id": "ch28-q24",
+            "text": "Why did Musa ask for Harun (Aaron) to accompany him to Pharaoh?",
+            "answer": "Because Harun was more eloquent in speech and could support him as a witness to the truth."
+        },
+        {
+            "id": "ch28-q25",
+            "text": "What was Pharaoh's reaction to the clear signs brought by Musa?",
+            "answer": "He called it 'invented magic' and claimed he had never heard of such a thing from his forefathers."
+        },
+        {
+            "id": "ch28-q26",
+            "text": "What did Pharaoh ask Haman to do to reach the God of Musa?",
+            "answer": "To build a high tower of baked clay so he could look at Musa's God, though he thought Musa was a liar."
+        },
+        {
+            "id": "ch28-q27",
+            "text": "What happened to Pharaoh and his soldiers in the end?",
+            "answer": "Allah seized them and threw them into the sea because of their arrogance and wrongdoing."
+        },
+        {
+            "id": "ch28-q28",
+            "text": "How does Allah describe the leaders of Pharaoh's people after their destruction?",
+            "answer": "As leaders who invite to the Fire, and on the Day of Resurrection, they will not be helped."
+        },
+        {
+            "id": "ch28-q29",
+            "text": "What was given to Musa after the destruction of the former generations?",
+            "answer": "The Scripture (the Torah) as enlightenment, guidance, and mercy for mankind."
+        },
+        {
+            "id": "ch28-q30",
+            "text": "Why does Allah mention that the Prophet was not present during Musa's story?",
+            "answer": "To emphasize that the information is coming through revelation, as a mercy from his Lord."
+        },
+        {
+            "id": "ch28-q31",
+            "text": "What was the excuse of the people for not following the guidance before a messenger came?",
+            "answer": "They would have said, 'Our Lord, why did You not send to us a messenger so we could follow Your verses?'"
+        },
+        {
+            "id": "ch28-q32",
+            "text": "What did the disbelievers say when the Truth (Quran) came to them?",
+            "answer": "They asked why it wasn't like what was given to Musa, despite having disbelieved in Musa's signs before as well."
+        },
+        {
+            "id": "ch28-q33",
+            "text": "How does Allah challenge those who claim previous scriptures are enough?",
+            "answer": "He tells the Prophet to ask them to bring a book from Allah that is better in guidance than the Quran and the Torah, if they are truthful."
+        },
+        {
+            "id": "ch28-q34",
+            "text": "What does Allah say about the Prophet's ability to guide those he loves?",
+            "answer": "He cannot guide whom he likes, but Allah guides whom He wills, and He knows best who will be guided."
+        },
+        {
+            "id": "ch28-q35",
+            "text": "What did the Quraysh fear would happen if they followed the guidance?",
+            "answer": "They said, 'If we follow the guidance with you, we would be swept from our land.'"
+        },
+        {
+            "id": "ch28-q36",
+            "text": "How does Allah respond to the fear of being swept from the land?",
+            "answer": "He reminds them that He established for them a safe sanctuary (Makkah) to which fruits of all things are brought."
+        },
+        {
+            "id": "ch28-q37",
+            "text": "What happens to cities that are ungrateful for their means of livelihood?",
+            "answer": "Allah destroys them, and their dwellings become empty except for a little."
+        },
+        {
+            "id": "ch28-q38",
+            "text": "Does Allah destroy any city before sending a messenger to its mother city?",
+            "answer": "No, He never destroys a city until He has sent a messenger to its main center to recite His verses."
+        },
+        {
+            "id": "ch28-q39",
+            "text": "What is the difference between worldly enjoyment and what is with Allah?",
+            "answer": "Worldly enjoyment is temporary and a mere luxury, while what is with Allah is better and more lasting."
+        },
+        {
+            "id": "ch28-q40",
+            "text": "What will happen to the false 'partners' of Allah on the Day of Judgment?",
+            "answer": "Allah will call them, but the partners will not respond, and those who were misled will admit their error."
+        },
+        {
+            "id": "ch28-q41",
+            "text": "Does Allah create and choose whatever He wills?",
+            "answer": "Yes, 'Your Lord creates what He wills and chooses; not for them was the choice.'"
+        },
+        {
+            "id": "ch28-q42",
+            "text": "Does Allah know what is hidden in the breasts of people?",
+            "answer": "Yes, He knows what their breasts conceal and what they declare."
+        },
+        {
+            "id": "ch28-q43",
+            "text": "What is the sign of Allah in the alternation of night and day?",
+            "answer": "If Allah made the night continuous until Judgment Day, no god could bring light; and if He made the day continuous, no god could bring night for rest."
+        },
+        {
+            "id": "ch28-q44",
+            "text": "Who was Qarun and what was his relationship with his people?",
+            "answer": "He was from the people of Musa but he tyrannized them with his immense wealth."
+        },
+        {
+            "id": "ch28-q45",
+            "text": "How massive was the wealth of Qarun described to be?",
+            "answer": "The keys to his treasure houses were a burden for a company of strong men to carry."
+        },
+        {
+            "id": "ch28-q46",
+            "text": "What advice did the people give Qarun regarding his wealth?",
+            "answer": "'Do not exult. Indeed, Allah does not like the exultant. But seek, through that which Allah has given you, the home of the Hereafter; and do not forget your share of the world.'"
+        },
+        {
+            "id": "ch28-q47",
+            "text": "What was Qarun's arrogant response regarding the source of his wealth?",
+            "answer": "He said, 'I was only given it because of knowledge I have.'"
+        },
+        {
+            "id": "ch28-q48",
+            "text": "What did the people who desired the life of this world say when they saw Qarun's splendor?",
+            "answer": "'Oh, I wish we had the like of what Qarun was given. Indeed, he is one of great fortune.'"
+        },
+        {
+            "id": "ch28-q49",
+            "text": "What did the people of knowledge say to those who envied Qarun?",
+            "answer": "'Woe to you! The reward of Allah is better for him who believes and does righteousness.'"
+        },
+        {
+            "id": "ch28-q50",
+            "text": "What was the final end of Qarun and his home?",
+            "answer": "Allah caused the earth to swallow him and his home, and he had no group to help him against Allah."
+        },
+        {
+            "id": "ch28-q51",
+            "text": "What was the reaction of those who had envied Qarun the day before after he was swallowed?",
+            "answer": "They realized that Allah extends or restricts provision as He wills, and they thanked Allah for not letting them be swallowed too."
+        },
+        {
+            "id": "ch28-q52",
+            "text": "To whom does Allah grant the 'Home of the Hereafter'?",
+            "answer": "To those who do not desire exaltedness (arrogance) upon the earth or corruption; and the best outcome is for the righteous."
+        },
+        {
+            "id": "ch28-q53",
+            "text": "What is the rule of recompense for good and evil deeds?",
+            "answer": "Whoever comes with a good deed will have better than it; whoever comes with an evil deed will only be recompensed for what they did."
+        },
+        {
+            "id": "ch28-q54",
+            "text": "What promise did Allah give the Prophet regarding his return to a 'place of return'?",
+            "answer": "That He who imposed the Quran upon him would surely take him back to a place of return (Makkah)."
+        },
+        {
+            "id": "ch28-q55",
+            "text": "Did the Prophet expect that the Scripture would be revealed to him?",
+            "answer": "No, it was only a mercy from his Lord; so he should never be an assistant to the disbelievers."
+        },
+        {
+            "id": "ch28-q56",
+            "text": "What is the final command in the Surah regarding other gods?",
+            "answer": "'And do not invoke with Allah another deity. There is no deity except Him. Everything will be destroyed except His Face.'"
+        },
+        {
+            "id": "ch28-q57",
+            "text": "What is the meaning of the name 'Al-Qasas'?",
+            "answer": "The Stories."
+        },
+        {
+            "id": "ch28-q58",
+            "text": "What is the 'Blessed Spot' (Al-Buq'ah al-Mubarakah) in the story of Musa?",
+            "answer": "The specific place on the side of the mountain where Allah spoke to him."
+        },
+        {
+            "id": "ch28-q59",
+            "text": "What is the 'Haman' character known for?",
+            "answer": "Being Pharaoh's advisor and the builder of the tower."
+        },
+        {
+            "id": "ch28-q60",
+            "text": "What is the 'Safe Sanctuary' (Haramun Amin)?",
+            "answer": "The sacred area of Makkah protected by Allah."
+        },
+        {
+            "id": "ch28-q61",
+            "text": "What is the 'Criterion' mentioned in the context of the Torah?",
+            "answer": "A standard to distinguish between truth and falsehood."
+        },
+        {
+            "id": "ch28-q62",
+            "text": "What is the 'Mercy' (Rahmah) of Allah?",
+            "answer": "The divine favor and guidance sent through messengers and books."
+        },
+        {
+            "id": "ch28-q63",
+            "text": "What is the 'Sign' in the swallowing of Qarun?",
+            "answer": "A warning against arrogance and trusting in wealth over Allah."
+        },
+        {
+            "id": "ch28-q64",
+            "text": "What is the 'Sovereignty' (Hukm) mentioned at the end of the Surah?",
+            "answer": "The ultimate authority and judgment which belongs only to Allah."
+        },
+        {
+            "id": "ch28-q65",
+            "text": "What is the 'Face' of Allah?",
+            "answer": "His essence and existence, which are eternal while all else perishes."
+        },
+        {
+            "id": "ch28-q66",
+            "text": "Why was the mother of Musa told not to fear or grieve?",
+            "answer": "Because Allah promised to protect him and return him to her as a messenger."
+        },
+        {
+            "id": "ch28-q67",
+            "text": "What is the 'Nile' river role?",
+            "answer": "The means through which Musa was carried into Pharaoh's household as a test."
+        },
+        {
+            "id": "ch28-q68",
+            "text": "What is the 'adoption' Pharaoh's wife suggested?",
+            "answer": "Taking Musa as a son since they were impressed by him."
+        },
+        {
+            "id": "ch28-q69",
+            "text": "What is the 'refusal of wet nurses'?",
+            "answer": "A miracle where Musa would not drink from anyone except his own mother."
+        },
+        {
+            "id": "ch28-q70",
+            "text": "What is the 'Maturity' (Ashuddahu) of Musa?",
+            "answer": "The peak of his physical and mental strength when he received wisdom."
+        },
+        {
+            "id": "ch28-q71",
+            "text": "What is the 'Work of Shaitan' Musa referred to?",
+            "answer": "The conflict and the accidental death that occurred."
+        },
+        {
+            "id": "ch28-q72",
+            "text": "What is the 'Madyan' city?",
+            "answer": "The place where Musa found refuge and a family after leaving Egypt."
+        },
+        {
+            "id": "ch28-q73",
+            "text": "What is the 'Strength' of Musa shown at the well?",
+            "answer": "His ability to water the flocks alone when others couldn't."
+        },
+        {
+            "id": "ch28-q74",
+            "text": "What is the 'Trustworthiness' of Musa shown in Madyan?",
+            "answer": "His noble character and conduct with the women."
+        },
+        {
+            "id": "ch28-q75",
+            "text": "What is the 'Eight or Ten years' contract?",
+            "answer": "The dowry or service Musa provided to marry the old man's daughter."
+        },
+        {
+            "id": "ch28-q76",
+            "text": "What is the 'Baked clay' (Tin) used for?",
+            "answer": "To make bricks for Pharaoh's high tower."
+        },
+        {
+            "id": "ch28-q77",
+            "text": "What is the 'Mother of cities' (Umm al-Qura)?",
+            "answer": "Makkah, the central point for guidance."
+        },
+        {
+            "id": "ch28-q78",
+            "text": "What is the 'Luxury' (Atrafat) that leads to destruction?",
+            "answer": "Being blinded by wealth and neglecting Allah's commands."
+        },
+        {
+            "id": "ch28-q79",
+            "text": "What is the 'Place of return' (Ma'ad)?",
+            "answer": "Makkah or the Hereafter."
+        },
+        {
+            "id": "ch28-q80",
+            "text": "What is the final lesson of Al-Qasas?",
+            "answer": "That truth and righteousness prevail over tyranny and wealth, and all stories end with Allah's judgment."
+        }
+    ]
 }

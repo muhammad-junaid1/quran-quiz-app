@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch90-q1",
-            "text": "Which 'City' (Al-Balad) does the first verse refer to?",
-            "answer": "Makkah."
+            "text": "Why does the Surah begin by swearing by the sacred city?",
+            "answer": "To highlight the seriousness of the message and the honor of a place tied to revelation and struggle."
         },
         {
             "id": "ch90-q2",
-            "text": "How is man created according to Verse 4?",
-            "answer": "In 'Kabad' (exertion, struggle, or hardship)."
+            "text": "True/False: The Surah teaches that a comfortable life is the default for humans.",
+            "answer": "False. It teaches humans are created in hardship and exertion."
         },
         {
             "id": "ch90-q3",
-            "text": "What is the arrogant claim of the man in Verse 6?",
-            "answer": "He says: 'I have squandered/spent wealth in abundance'."
+            "text": "What does 'kabad' teach about expectations from life?",
+            "answer": "Life includes effort, tests, and challenges; ease without struggle is not guaranteed."
         },
         {
             "id": "ch90-q4",
-            "text": "Does the man think that 'no one has seen him'?",
-            "answer": "Yes (Verse 7), but Allah knows all."
+            "text": "How does the Surah expose the illusion of being unseen?",
+            "answer": "It reminds that Allah sees and knows, so private arrogance and spending for show are exposed."
         },
         {
             "id": "ch90-q5",
-            "text": "Which physical gifts of Allah are mentioned in Verses 8-9?",
-            "answer": "Two eyes, a tongue, and two lips."
+            "text": "What is one modern form of saying 'I spent so much' with arrogance?",
+            "answer": "Using charity, lifestyle spending, or generosity as self-praise rather than sincerity."
         },
         {
             "id": "ch90-q6",
+            "text": "True/False: The Surah teaches that physical abilities are only tools for worldly success.",
+            "answer": "False. It lists gifts (eyes, tongue, lips) to remind of moral responsibility."
+        },
+        {
+            "id": "ch90-q7",
+            "text": "What do the 'two paths' teach about human choice?",
+            "answer": "Allah made good and evil distinguishable; people choose and are accountable."
+        },
+        {
+            "id": "ch90-q8",
+            "text": "Why is righteousness described as a steep path?",
+            "answer": "Because it requires effort against ego—mercy, sacrifice, patience, and compassion."
+        },
+        {
+            "id": "ch90-q9",
+            "text": "What is one practical example of ‘freeing a slave’ today in terms of mercy?",
+            "answer": "Helping someone out of oppression or debt, supporting rehabilitation, or restoring people’s dignity and rights."
+        },
+        {
+            "id": "ch90-q10",
+            "text": "Why does the Surah emphasize feeding the hungry, especially orphans and the destitute?",
+            "answer": "Because mercy and social care are essential signs of true faith, especially in hardship."
+        },
+        {
+            "id": "ch90-q11",
+            "text": "What is one modern application of feeding the needy ‘on a day of hunger’?",
+            "answer": "Prioritize charity when times are difficult—during crises, unemployment, or inflation."
+        },
+        {
+            "id": "ch90-q12",
+            "text": "True/False: The Surah teaches that charity alone is enough without faith and character.",
+            "answer": "False. It links charity with faith and advising patience and compassion."
+        },
+        {
+            "id": "ch90-q13",
+            "text": "Give an example of advising one another to patience during hardship.",
+            "answer": "Encouraging endurance in obedience, restraining anger, and staying steady during trials."
+        },
+        {
+            "id": "ch90-q14",
+            "text": "Give an example of advising one another to compassion toward the needy.",
+            "answer": "Building a merciful community: kindness, forgiving, helping the weak, and refusing cruelty."
+        },
+        {
+            "id": "ch90-q15",
+            "text": "How does the Surah define the true ‘companions of the right’?",
+            "answer": "Those who believe and climb the steep path with patience and compassion."
+        },
+        {
+            "id": "ch90-q16",
+            "text": "What is one warning from the Surah about denying Allah’s signs?",
+            "answer": "Denial leads to being among the companions of the left and facing a closed, inescapable Fire."
+        },
+        {
+            "id": "ch90-q17",
+            "text": "True/False: The Surah teaches that a person can be righteous while being cruel to the needy.",
+            "answer": "False. It makes mercy and care for the needy central to righteousness."
+        },
+        {
+            "id": "ch90-q18",
+            "text": "How can this Surah help someone who feels stuck in life struggles?",
+            "answer": "It reframes struggle as normal and gives a path: faith, patience, compassion, and purposeful charity."
+        },
+        {
+            "id": "ch90-q19",
+            "text": "How does the Surah correct the idea that wealth proves superiority?",
+            "answer": "It shows real honor is in mercy and faith, not boasting about spending or possessions."
+        },
+        {
+            "id": "ch90-q20",
+            "text": "True/False: The Surah teaches that Allah’s observation should create paranoia, not hope.",
+            "answer": "False. It creates accountability and hope for those who act sincerely."
+        },
+        {
+            "id": "ch90-q21",
+            "text": "Makkah.",
+            "answer": "Makkah."
+        },
+        {
+            "id": "ch90-q22",
+            "text": "How is man created according to this Surah?",
+            "answer": "In 'Kabad' (exertion, struggle, or hardship)."
+        },
+        {
+            "id": "ch90-q23",
+            "text": "What arrogant claim does this Surah mention about spending wealth?",
+            "answer": "He says: 'I have squandered/spent wealth in abundance'."
+        },
+        {
+            "id": "ch90-q24",
+            "text": "Does the man think that 'no one has seen him'?",
+            "answer": "Yes, but Allah knows all."
+        },
+        {
+            "id": "ch90-q25",
+            "text": "Which physical gifts of Allah are mentioned in this Surah?",
+            "answer": "Two eyes, a tongue, and two lips."
+        },
+        {
+            "id": "ch90-q26",
             "text": "What are the 'two ways' (An-Najdayn) Allah has shown man?",
             "answer": "The path of good and the path of evil."
         },
         {
-            "id": "ch80-q7",
+            "id": "ch90-q27",
             "text": "What is 'Al-'Aqabah'?",
             "answer": "The 'steep path' or difficult climb toward righteousness."
         },
         {
-            "id": "ch90-q8",
-            "text": "What is the first step of the 'steep path' mentioned in Verse 13?",
+            "id": "ch90-q28",
+            "text": "What is the first step of the 'steep path' mentioned in this Surah?",
             "answer": "The freeing of a slave (Fakku raqabah)."
         },
         {
-            "id": "ch90-q9",
+            "id": "ch90-q29",
             "text": "What is the second step involving food in a day of severe hunger?",
             "answer": "Feeding an orphan who is a relative or a needy person in misery."
         },
         {
-            "id": "ch90-q10",
-            "text": "Besides acts of charity, what three qualities must a person have (Verse 17)?",
+            "id": "ch90-q30",
+            "text": "Besides acts of charity, what three qualities must a person have according to this Surah?",
             "answer": "Faith (Iman), advising each other to patience, and advising each other to compassion."
         },
         {
-            "id": "ch90-q11",
+            "id": "ch90-q31",
             "text": "Who are 'Ashab al-Maymanah'?",
             "answer": "The 'Companions of the Right' who successfully climb the steep path."
         },
         {
-            "id": "ch90-q12",
+            "id": "ch90-q32",
             "text": "Who are 'Ashab al-Mash'amah'?",
             "answer": "The 'Companions of the Left' who deny Allah's signs."
         },
         {
-            "id": "ch90-q13",
+            "id": "ch90-q33",
             "text": "What is the final fate of the Companions of the Left?",
             "answer": "A Fire closed over them (Narun Mu'sadah)."
         },
         {
-            "id": "ch90-q14",
+            "id": "ch90-q34",
             "text": "What does the term 'Kabad' teach us about human life?",
             "answer": "That life is inherently filled with challenges and that true ease is found in the Hereafter through effort in this world."
         },
         {
-            "id": "ch90-q15",
+            "id": "ch90-q35",
             "text": "Is wealth a proof of superiority according to this Surah?",
             "answer": "No, it is only a means to perform the 'steep path' of charity and service."
         },
         {
-            "id": "ch90-q16",
+            "id": "ch90-q36",
             "text": "What is the significance of the city of Makkah in this Surah?",
             "answer": "It serves as the backdrop where the Prophet (SAW) resided and where the challenge of faith was most intense."
         },
         {
-            "id": "ch90-q17",
+            "id": "ch90-q37",
             "text": "What does 'Dhay Matrabah' mean?",
             "answer": "A person in such extreme poverty that they are 'clinging to the dust'."
         },
         {
-            "id": "ch90-q18",
+            "id": "ch90-q38",
             "text": "Is faith alone enough to pass the 'steep path'?",
             "answer": "The Surah links faith with compassion and patience as essential requirements."
         },
         {
-            "id": "ch90-q19",
+            "id": "ch90-q39",
             "text": "What does 'Mu'sadah' imply about Hell?",
             "answer": "That it is an airtight, locked chamber from which there is no escape."
         },
         {
-            "id": "ch90-q20",
+            "id": "ch90-q40",
             "text": "What is the 'Orphan near of kin' emphasized?",
             "answer": "Because helping relatives who are orphans combines the reward of charity and the reward of joining ties of kinship."
         }

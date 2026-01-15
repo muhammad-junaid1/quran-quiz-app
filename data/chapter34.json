@@ -1,108 +1,358 @@
 {
-  "id": 34,
-  "englishName": "Saba",
-  "arabicName": "سبأ",
-  "translation": "Sheba",
-  "questions": [
-    {
-      "id": "ch34-q1",
-      "text": "How does the Surah begin regarding praise?",
-      "answer": "All praise is for Allah, to whom belongs whatever is in the heavens and whatever is on the earth, and to Him belongs praise in the Hereafter."
-    },
-    {
-      "id": "ch34-q2",
-      "text": "What was the unique miracle given to Prophet Dawud (David) regarding the mountains and birds?",
-      "answer": "They were commanded to repeat Allah's praises along with him."
-    },
-    {
-      "id": "ch34-q3",
-      "text": "What material was made 'pliable' (soft) for Dawud (AS)?",
-      "answer": "Iron, so he could make coats of armor."
-    },
-    {
-      "id": "ch34-q4",
-      "text": "What was the speed of the wind subjected to Sulayman (AS)?",
-      "answer": "Its morning journey was a month and its afternoon journey was a month."
-    },
-    {
-      "id": "ch34-q5",
-      "text": "What was the 'fountain' given to Sulayman?",
-      "answer": "A fountain of molten copper."
-    },
-    {
-      "id": "ch34-q6",
-      "text": "How did the Jinn find out that Sulayman (AS) had died?",
-      "answer": "They only realized he was dead when a creature of the earth (termite) ate his staff, and he fell down."
-    },
-    {
-      "id": "ch34-q7",
-      "text": "What lesson did the Jinn learn from the death of Sulayman?",
-      "answer": "That if they had known the Unseen, they would not have continued in the humiliating punishment (their labor)."
-    },
-    {
-      "id": "ch34-q8",
-      "text": "What was the 'Sign' for the people of Saba (Sheba) in their homeland?",
-      "answer": "Two gardens, one on the right and one on the left, in a land that was good and fertile."
-    },
-    {
-      "id": "ch34-q9",
-      "text": "How were the people of Saba punished for their ungratefulness?",
-      "answer": "Allah sent upon them the flood of the dam (Arim) and replaced their lush gardens with gardens of bitter fruit, tamarisks, and some lote trees."
-    },
-    {
-      "id": "ch34-q10",
-      "text": "What was the specific 'wish' of the people of Saba that led to their downfall?",
-      "answer": "They asked Allah to make the distance between their journeys longer, thus acting unjustly to themselves."
-    },
-    {
-      "id": "ch34-q11",
-      "text": "Does Iblis (Satan) have any authority over mankind?",
-      "answer": "No, he has no authority; his influence is only to distinguish those who believe in the Hereafter from those who are in doubt."
-    },
-    {
-      "id": "ch34-q12",
-      "text": "What happens to the 'argument' between the weak and the arrogant on the Day of Judgment?",
-      "answer": "The weak will blame the arrogant for misleading them, and the arrogant will say they only followed what was presented to them; both will be in punishment."
-    },
-    {
-      "id": "ch34-q13",
-      "text": "Can wealth and children bring one closer to Allah?",
-      "answer": "No, except for those who believe and do righteous deeds; for them is a manifold reward."
-    },
-    {
-      "id": "ch34-q14",
-      "text": "What is the 'Truth' described as in Verse 49?",
-      "answer": "'Say, The Truth has come, and falsehood can neither begin [anything] nor repeat [it]'."
-    },
-    {
-      "id": "ch34-q15",
-      "text": "What is the 'single advice' Allah gives to the disbelievers in Verse 46?",
-      "answer": "To stand up for Allah, in pairs and individually, and then reflect that the Prophet is not mad."
-    },
-    {
-      "id": "ch34-q16",
-      "text": "What is the 'great distance' mentioned in the final verse?",
-      "answer": "The distance between the disbelievers and the faith they wish to have once the punishment arrives; it will be too late."
-    },
-    {
-      "id": "ch34-q17",
-      "text": "Who are the 'few' among Allah's servants mentioned in Verse 13?",
-      "answer": "The grateful ones (Ash-Shakur)."
-    },
-    {
-      "id": "ch34-q18",
-      "text": "Does Allah know the weight of an atom in the heavens or earth?",
-      "answer": "Yes, nothing escapes Him, not even something smaller or larger than that."
-    },
-    {
-      "id": "ch34-q19",
-      "text": "What will the disbelievers say when they are presented with the punishment?",
-      "answer": "They will try to believe, but a barrier will be placed between them and what they desire."
-    },
-    {
-      "id": "ch34-q20",
-      "text": "What is the 'Saba' mentioned in the title?",
-      "answer": "A kingdom in ancient Yemen known for its prosperity and eventual destruction due to disbelief."
-    }
-  ]
+    "id": 34,
+    "englishName": "Saba",
+    "arabicName": "سبأ",
+    "translation": "Sheba",
+    "questions": [
+        {
+            "id": "ch34-q1",
+            "text": "What is the main theme of Surah Saba regarding Allah's ownership and control?",
+            "answer": "That Allah alone owns and governs the heavens and the earth, and all outcomes return to Him."
+        },
+        {
+            "id": "ch34-q2",
+            "text": "True/False: The Surah teaches that Allah's praise is limited to worldly blessings only.",
+            "answer": "False. It connects Allah's praise to both this world and the Hereafter."
+        },
+        {
+            "id": "ch34-q3",
+            "text": "How does Surah Saba correct the excuse: 'We only worship intermediaries to get closer to Allah'?",
+            "answer": "It teaches that worship belongs to Allah alone, and excuses do not justify associating partners with Him."
+        },
+        {
+            "id": "ch34-q4",
+            "text": "What does the Surah teach about Allah's knowledge of hidden intentions and secret actions?",
+            "answer": "Allah knows what is concealed and what is revealed; nothing is hidden from Him."
+        },
+        {
+            "id": "ch34-q5",
+            "text": "Yes/No: Does the Surah portray disbelief in resurrection as a serious spiritual disease?",
+            "answer": "Yes. It presents denial of the Hereafter as rooted in arrogance and doubt, leading to loss."
+        },
+        {
+            "id": "ch34-q6",
+            "text": "What is the relationship between belief in the Hereafter and taking personal responsibility?",
+            "answer": "Belief in the Hereafter pushes a person to own their choices and prepare for accountability."
+        },
+        {
+            "id": "ch34-q7",
+            "text": "What lesson does the Surah teach about receiving blessings through the examples of Dawud and Sulayman?",
+            "answer": "Great blessings and power are tests that require humility, gratitude, and obedience to Allah."
+        },
+        {
+            "id": "ch34-q8",
+            "text": "Why is the story of Dawud's armor-making spiritually significant?",
+            "answer": "It shows that worship includes responsible effort, excellence in work, and serving people with what Allah grants."
+        },
+        {
+            "id": "ch34-q9",
+            "text": "What does the Surah imply about the limits of created beings like jinn?",
+            "answer": "They are powerful creatures but do not know the unseen and remain under Allah's control."
+        },
+        {
+            "id": "ch34-q10",
+            "text": "How does the Surah respond to the misconception that jinn can reveal the unseen reliably?",
+            "answer": "It demonstrates that jinn did not even know a major reality right before them, proving their limitation."
+        },
+        {
+            "id": "ch34-q11",
+            "text": "What does the Surah teach about gratitude (shukr) as an action, not just a feeling?",
+            "answer": "Shukr is shown by obedience, avoiding sin, and using blessings in ways that please Allah."
+        },
+        {
+            "id": "ch34-q12",
+            "text": "True/False: Ingratitude is presented as harmless as long as someone remains wealthy and successful.",
+            "answer": "False. The Surah shows ingratitude can lead to ruin even after great prosperity."
+        },
+        {
+            "id": "ch34-q13",
+            "text": "What is the main moral warning in the story of the people of Saba?",
+            "answer": "That comfort without gratitude and obedience can turn into hardship and destruction."
+        },
+        {
+            "id": "ch34-q14",
+            "text": "How can a community protect blessings according to the Surah's lessons?",
+            "answer": "By being grateful, just, obedient to Allah, and not becoming arrogant with prosperity."
+        },
+        {
+            "id": "ch34-q15",
+            "text": "What does the Surah teach about asking Allah for hardship when He has given ease?",
+            "answer": "It is self-oppression and a sign of ingratitude; it can lead to real hardship and regret."
+        },
+        {
+            "id": "ch34-q16",
+            "text": "What is one way Satan misleads people according to the Surah's message?",
+            "answer": "By making false beliefs and sinful lifestyles seem reasonable until it is too late."
+        },
+        {
+            "id": "ch34-q17",
+            "text": "Does Satan have the power to force a person to disbelieve? Explain briefly.",
+            "answer": "No. He only invites and whispers; people choose whether to follow him."
+        },
+        {
+            "id": "ch34-q18",
+            "text": "What does Surah Saba teach about blind following in religion and culture?",
+            "answer": "Blind following is not an excuse; people are responsible for seeking truth and not following misguidance."
+        },
+        {
+            "id": "ch34-q19",
+            "text": "Why will excuses and blame-shifting fail on the Day of Judgment?",
+            "answer": "Because Allah judges with perfect knowledge, and each person is accountable for what they chose."
+        },
+        {
+            "id": "ch34-q20",
+            "text": "What is the Surah's warning about wealth and children as a measure of Allah's love?",
+            "answer": "They are not proof of honor; true honor is faith and righteous deeds."
+        },
+        {
+            "id": "ch34-q21",
+            "text": "How does the Surah balance between hope and fear for the listener?",
+            "answer": "It warns of consequences for denial and ingratitude while inviting reflection, repentance, and sincere faith."
+        },
+        {
+            "id": "ch34-q22",
+            "text": "What is one proof that truth is stronger than falsehood in this Surah?",
+            "answer": "Truth remains and clarifies reality, while falsehood collapses and cannot create or restore anything lasting."
+        },
+        {
+            "id": "ch34-q23",
+            "text": "What does the Surah suggest a sincere seeker should do when doubts arise?",
+            "answer": "Stand sincerely for Allah and reflect calmly and fairly rather than rejecting out of pride."
+        },
+        {
+            "id": "ch34-q24",
+            "text": "True/False: People can delay faith until the moment they see punishment and still be safe.",
+            "answer": "False. The Surah warns that delayed faith may be blocked when punishment arrives."
+        },
+        {
+            "id": "ch34-q25",
+            "text": "What does the Surah teach about the difference between worldly regret and repentance?",
+            "answer": "Worldly regret after consequences is not the same as sincere repentance before the end."
+        },
+        {
+            "id": "ch34-q26",
+            "text": "Why is gratitude described as rare among people?",
+            "answer": "Because it requires humility and consistent obedience, which many neglect despite enjoying blessings."
+        },
+        {
+            "id": "ch34-q27",
+            "text": "How does Surah Saba teach that Allah's tests can come through both ease and hardship?",
+            "answer": "Prosperity tests gratitude and humility, while hardship tests patience and faith."
+        },
+        {
+            "id": "ch34-q28",
+            "text": "What does the Surah imply about the relationship between truth and reflection?",
+            "answer": "Truth becomes clearer through sincere reflection, while refusal to reflect keeps a person trapped in falsehood."
+        },
+        {
+            "id": "ch34-q29",
+            "text": "What is one life application lesson from the story of Saba about infrastructure and security?",
+            "answer": "Material strength does not protect without gratitude and righteousness; Allah can remove security when people persist in wrongdoing."
+        },
+        {
+            "id": "ch34-q30",
+            "text": "How does Surah Saba address the idea that prophets are delusional or mentally unstable?",
+            "answer": "It invites people to reflect sincerely and recognize the Prophet's soundness and the clarity of his message."
+        },
+        {
+            "id": "ch34-q31",
+            "text": "What does the Surah teach about the fairness of Allah's judgment?",
+            "answer": "Allah judges with full knowledge and perfect justice; no one will be wronged."
+        },
+        {
+            "id": "ch34-q32",
+            "text": "What is the purpose of warnings in this Surah?",
+            "answer": "To establish proof, awaken hearts, and give people a chance to return to Allah before the Hereafter."
+        },
+        {
+            "id": "ch34-q33",
+            "text": "How does this Surah define true success?",
+            "answer": "Success is faith and righteous deeds that lead to Allah's pleasure and the reward of the Hereafter."
+        },
+        {
+            "id": "ch34-q34",
+            "text": "True/False: A person's social rank can protect them from Allah's accountability.",
+            "answer": "False. Status does not save anyone; each person stands before Allah."
+        },
+        {
+            "id": "ch34-q35",
+            "text": "What does Surah Saba teach about the danger of arrogance when confronted with guidance?",
+            "answer": "Arrogance blocks reflection and leads to denial, even when the truth is clear."
+        },
+        {
+            "id": "ch34-q36",
+            "text": "How can a person increase their chances of being among the grateful servants?",
+            "answer": "By regularly recognizing Allah's favors, thanking Him, and consistently obeying Him with humility."
+        },
+        {
+            "id": "ch34-q37",
+            "text": "What is a key spiritual takeaway from the Surah's ending about wanting faith too late?",
+            "answer": "Do not delay repentance; guidance should be accepted while there is time and opportunity."
+        },
+        {
+            "id": "ch34-q38",
+            "text": "How does Surah Saba teach that truth and falsehood affect daily life, not only theology?",
+            "answer": "Believing truth shapes gratitude, morals, and choices, while falsehood leads to injustice, denial, and eventual regret."
+        },
+        {
+            "id": "ch34-q39",
+            "text": "What does Surah Saba teach about contentment (qana'ah) in contrast to always wanting changes?",
+            "answer": "It encourages appreciating Allah's ease and provision instead of rejecting it out of boredom or arrogance."
+        },
+        {
+            "id": "ch34-q40",
+            "text": "What is one way to avoid becoming like those who argued and blamed others in the Hereafter?",
+            "answer": "Seek knowledge, follow evidence, and refuse to follow leaders or crowds when they contradict Allah's guidance."
+        },
+        {
+            "id": "ch34-q41",
+            "text": "What is the Surah's message about worship and reliance (tawakkul)?",
+            "answer": "Rely on Allah while taking lawful means, and keep worship purely for Him without partners."
+        },
+        {
+            "id": "ch34-q42",
+            "text": "Why is it important to reflect alone or with someone trustworthy when exploring faith?",
+            "answer": "It reduces social pressure and helps a person think honestly, increasing the chance of accepting truth."
+        },
+        {
+            "id": "ch34-q43",
+            "text": "How does Surah Saba teach that guidance is a mercy?",
+            "answer": "Allah sends reminders and warnings so people can correct themselves and avoid the regret of the Hereafter."
+        },
+        {
+            "id": "ch34-q44",
+            "text": "What does the Surah imply about the stability of false beliefs over time?",
+            "answer": "False beliefs are unstable and eventually collapse, even if they seem strong for a while."
+        },
+        {
+            "id": "ch34-q45",
+            "text": "What is one lesson about humility from the prophets mentioned in this Surah?",
+            "answer": "Even with great power and miracles, prophets remained devoted, grateful, and obedient to Allah."
+        },
+        {
+            "id": "ch34-q46",
+            "text": "What does Surah Saba teach about using travel, trade, and provision ethically?",
+            "answer": "Use ease and provision with gratitude and justice, and do not let prosperity lead to sin or arrogance."
+        },
+        {
+            "id": "ch34-q47",
+            "text": "What is a misconception about 'gratefulness' that this Surah corrects?",
+            "answer": "That gratitude is only saying thanks; the Surah shows it must be proven by deeds and obedience."
+        },
+        {
+            "id": "ch34-q48",
+            "text": "Why does the Surah repeatedly remind that Allah's knowledge is complete?",
+            "answer": "To strengthen faith, encourage accountability, and remove the illusion that wrongdoing can remain hidden."
+        },
+        {
+            "id": "ch34-q49",
+            "text": "What is the overall purpose of Surah Saba for someone studying it seriously?",
+            "answer": "To deepen tawhid, cultivate gratitude, warn against arrogance and denial, and prepare for the Hereafter."
+        },
+        {
+            "id": "ch34-q50",
+            "text": "What is one final takeaway about choosing between truth and falsehood in Surah Saba?",
+            "answer": "Truth is firm and beneficial, while falsehood is weak and ends in regret; accept truth early and live by it."
+        },
+        {
+            "id": "ch34-q51",
+            "text": "How does the Surah begin regarding praise?",
+            "answer": "All praise is for Allah, to whom belongs whatever is in the heavens and whatever is on the earth, and to Him belongs praise in the Hereafter."
+        },
+        {
+            "id": "ch34-q52",
+            "text": "What was the unique miracle given to Prophet Dawud (David) regarding the mountains and birds?",
+            "answer": "They were commanded to repeat Allah's praises along with him."
+        },
+        {
+            "id": "ch34-q53",
+            "text": "What material was made 'pliable' (soft) for Dawud (AS)?",
+            "answer": "Iron, so he could make coats of armor."
+        },
+        {
+            "id": "ch34-q54",
+            "text": "What was the speed of the wind subjected to Sulayman (AS)?",
+            "answer": "Its morning journey was a month and its afternoon journey was a month."
+        },
+        {
+            "id": "ch34-q55",
+            "text": "What was the 'fountain' given to Sulayman?",
+            "answer": "A fountain of molten copper."
+        },
+        {
+            "id": "ch34-q56",
+            "text": "How did the Jinn find out that Sulayman (AS) had died?",
+            "answer": "They only realized he was dead when a creature of the earth (termite) ate his staff, and he fell down."
+        },
+        {
+            "id": "ch34-q57",
+            "text": "What lesson did the Jinn learn from the death of Sulayman?",
+            "answer": "That if they had known the Unseen, they would not have continued in the humiliating punishment (their labor)."
+        },
+        {
+            "id": "ch34-q58",
+            "text": "What was the 'Sign' for the people of Saba (Sheba) in their homeland?",
+            "answer": "Two gardens, one on the right and one on the left, in a land that was good and fertile."
+        },
+        {
+            "id": "ch34-q59",
+            "text": "How were the people of Saba punished for their ungratefulness?",
+            "answer": "Allah sent upon them the flood of the dam (Arim) and replaced their lush gardens with gardens of bitter fruit, tamarisks, and some lote trees."
+        },
+        {
+            "id": "ch34-q60",
+            "text": "What was the specific 'wish' of the people of Saba that led to their downfall?",
+            "answer": "They asked Allah to make the distance between their journeys longer, thus acting unjustly to themselves."
+        },
+        {
+            "id": "ch34-q61",
+            "text": "Does Iblis (Satan) have any authority over mankind?",
+            "answer": "No, he has no authority; his influence is only to distinguish those who believe in the Hereafter from those who are in doubt."
+        },
+        {
+            "id": "ch34-q62",
+            "text": "What happens to the 'argument' between the weak and the arrogant on the Day of Judgment?",
+            "answer": "The weak will blame the arrogant for misleading them, and the arrogant will say they only followed what was presented to them; both will be in punishment."
+        },
+        {
+            "id": "ch34-q63",
+            "text": "Can wealth and children bring one closer to Allah?",
+            "answer": "No, except for those who believe and do righteous deeds; for them is a manifold reward."
+        },
+        {
+            "id": "ch34-q64",
+            "text": "What does the Surah declare about the arrival of truth and the fate of falsehood?",
+            "answer": "It declares that truth has come, and falsehood can neither begin anything nor restore what it loses."
+        },
+        {
+            "id": "ch34-q65",
+            "text": "What is the Surah's single advice to skeptics who doubt the Prophet's message?",
+            "answer": "To stand up for Allah, in pairs and individually, and then reflect that the Prophet is not mad."
+        },
+        {
+            "id": "ch34-q66",
+            "text": "What is the 'great distance' mentioned in the the closing ayah?",
+            "answer": "The distance between the disbelievers and the faith they wish to have once the punishment arrives; it will be too late."
+        },
+        {
+            "id": "ch34-q67",
+            "text": "Who are described as 'few' among Allah's servants in this Surah?",
+            "answer": "The grateful ones (Ash-Shakur)."
+        },
+        {
+            "id": "ch34-q68",
+            "text": "Does Allah know the weight of an atom in the heavens or earth?",
+            "answer": "Yes, nothing escapes Him, not even something smaller or larger than that."
+        },
+        {
+            "id": "ch34-q69",
+            "text": "What will the disbelievers say when they are presented with the punishment?",
+            "answer": "They will try to believe, but a barrier will be placed between them and what they desire."
+        },
+        {
+            "id": "ch34-q70",
+            "text": "What is the 'Saba' mentioned in the title?",
+            "answer": "A kingdom in ancient Yemen known for its prosperity and eventual destruction due to disbelief."
+        }
+    ]
 }

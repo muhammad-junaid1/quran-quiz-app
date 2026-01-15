@@ -16,43 +16,393 @@
     },
     {
       "id": "ch8-q3",
+      "text": "To whom do the spoils of war belong according to the opening of the Surah?",
+      "answer": "They belong to Allah and His Messenger; the believers are told to fear Allah and settle their differences."
+    },
+    {
+      "id": "ch8-q4",
       "text": "How does Allah describe the reaction of true believers when His name is mentioned?",
       "answer": "Their hearts feel fear (tremble), and when His verses are recited, it increases them in faith (Iman)."
     },
     {
-      "id": "ch8-q4",
-      "text": "How did Allah assist the believers during the Battle of Badr according to Verse 9?",
-      "answer": "He reinforced them with a thousand angels, rank upon rank."
-    },
-    {
       "id": "ch8-q5",
-      "text": "What is the meaning of the phrase 'You did not throw when you threw, but it was Allah who threw' (Verse 17)?",
-      "answer": "It refers to the Prophet (SAW) throwing a handful of dust at the enemy, signifying that the ultimate cause and effect of victory belong to Allah."
+      "text": "What are the three qualities of the true believers mentioned at the start of the Surah?",
+      "answer": "They feel fear at the mention of Allah, their faith increases with His verses, they rely solely on their Lord, they establish prayer, and they spend from what Allah has provided them."
     },
     {
       "id": "ch8-q6",
-      "text": "Who are described as 'the worst of living creatures' in the sight of Allah?",
-      "answer": "Those who are 'deaf and dumb' (spiritually) and do not use their intellect/reason."
+      "text": "What were the 'two groups' that the believers were promised one of them would be theirs at Badr?",
+      "answer": "The commercial caravan (of Abu Sufyan) or the military army (of the Quraysh)."
     },
     {
       "id": "ch8-q7",
-      "text": "What is the ruling for the distribution of the 'Ghanimah' (spoils of war)?",
-      "answer": "One-fifth (Khums) belongs to Allah, the Messenger, his kin, orphans, the needy, and the traveler."
+      "text": "How did Allah assist the believers during the Battle of Badr?",
+      "answer": "He reinforced them with a thousand angels, rank upon rank."
     },
     {
       "id": "ch8-q8",
-      "text": "What is the condition for Allah to stop punishing a people while they are doing it?",
-      "answer": "Allah will not punish them while they are seeking His forgiveness (Istighfar)."
+      "text": "What was the purpose of the 'slumber' (security) that Allah sent down upon the believers during the battle?",
+      "answer": "To give them peace and tranquility and to remove any fear from their hearts."
     },
     {
       "id": "ch8-q9",
-      "text": "How many patient believers can overcome how many disbelievers according to the final verses?",
-      "answer": "Initially, 20 could overcome 200; later, with Allah's lightening of the burden, 100 patient ones can overcome 200."
+      "text": "Why did Allah send down rain during the Battle of Badr?",
+      "answer": "To purify the believers, to remove the 'defilement of Shaitan' from them, to strengthen their hearts, and to make their footing firm on the sandy ground."
     },
     {
       "id": "ch8-q10",
+      "text": "What did Allah command the angels to do at Badr?",
+      "answer": "To strengthen the believers and to strike the necks and fingertips of the disbelievers."
+    },
+    {
+      "id": "ch8-q11",
+      "text": "What is the warning given to believers about turning their backs to the enemy during battle?",
+      "answer": "Whoever turns his back to them on such a day—unless maneuvering for war or to join another company—has incurred the wrath of Allah, and his refuge is Hell."
+    },
+    {
+      "id": "ch8-q12",
+      "text": "What is the meaning of the phrase 'You did not throw when you threw, but it was Allah who threw'?",
+      "answer": "It refers to the Prophet (SAW) throwing a handful of pebbles/dust at the enemy, signifying that the ultimate victory and its causes belong to Allah."
+    },
+    {
+      "id": "ch8-q13",
+      "text": "How should believers respond to the call of Allah and His Messenger?",
+      "answer": "They should respond immediately when they are called to that which gives them life (true faith and guidance)."
+    },
+    {
+      "id": "ch8-q14",
+      "text": "What is the warning about 'Fitnah' (trial/affliction) in this Surah?",
+      "answer": "Believers are told to fear a trial that will not strike only the wrongdoers among them exclusively, but will affect the whole community."
+    },
+    {
+      "id": "ch8-q15",
+      "text": "How does Allah describe the state of the believers when they were 'few and oppressed' in Makkah?",
+      "answer": "They were few and feared that people would snatch them away, but Allah gave them refuge, supported them with His victory, and provided them with good things."
+    },
+    {
+      "id": "ch8-q16",
+      "text": "What is the warning regarding 'Amanat' (trusts)?",
+      "answer": "Believers are commanded not to betray Allah and the Messenger or betray their trusts knowingly."
+    },
+    {
+      "id": "ch8-q17",
+      "text": "What are wealth and children described as in this Surah?",
+      "answer": "As a 'Fitnah' (trial) and a test."
+    },
+    {
+      "id": "ch8-q18",
+      "text": "What does Allah grant to those who have Taqwa (God-consciousness)?",
+      "answer": "He will grant them 'Furqan' (a criterion to judge between right and wrong), remove their misdeeds, and forgive them."
+    },
+    {
+      "id": "ch8-q19",
+      "text": "What were the three things the disbelievers plotted to do to the Prophet in Makkah?",
+      "answer": "To imprison him, to kill him, or to expel him."
+    },
+    {
+      "id": "ch8-q20",
+      "text": "What was the arrogant response of the disbelievers when the Quran was recited to them?",
+      "answer": "They said, 'We have heard this; if we willed, we could say something like it. This is nothing but legends of the former peoples.'"
+    },
+    {
+      "id": "ch8-q21",
+      "text": "What was the 'prayer' of the disbelievers regarding the truth?",
+      "answer": "They said, 'O Allah, if this is the truth from You, then rain down upon us stones from the sky or bring us a painful punishment.'"
+    },
+    {
+      "id": "ch8-q22",
+      "text": "What is the condition for Allah to stop punishing a people while the Prophet is among them?",
+      "answer": "Allah would not punish them while the Prophet was among them, nor would He punish them while they were seeking His forgiveness (Istighfar)."
+    },
+    {
+      "id": "ch8-q23",
+      "text": "What was the nature of the disbelievers' 'worship' at the Sacred House (Kaaba)?",
+      "answer": "It was nothing but whistling and clapping of hands."
+    },
+    {
+      "id": "ch8-q24",
+      "text": "Why do the disbelievers spend their wealth in the path of falsehood?",
+      "answer": "To avert people from the way of Allah; it will be a source of regret for them, and then they will be overcome."
+    },
+    {
+      "id": "ch8-q25",
+      "text": "Until when are the believers commanded to fight according to this Surah?",
+      "answer": "Until there is no more 'Fitnah' (persecution/polytheism) and the religion, all of it, is for Allah."
+    },
+    {
+      "id": "ch8-q26",
+      "text": "What is the ruling for the distribution of the 'Ghanimah' (spoils of war)?",
+      "answer": "One-fifth (Khums) belongs to Allah, the Messenger, his kin, orphans, the needy, and the traveler; the rest is for the fighters."
+    },
+    {
+      "id": "ch8-q27",
+      "text": "Describe the 'nearer side' and 'farther side' mentioned regarding the positions at Badr.",
+      "answer": "The believers were on the nearer side (closer to Madinah), the disbelievers were on the farther side, and the caravan was below them."
+    },
+    {
+      "id": "ch8-q28",
+      "text": "Why did Allah make the two armies see each other as few in their eyes before the battle?",
+      "answer": "To encourage them to fight and to ensure the matter was decided according to His plan."
+    },
+    {
+      "id": "ch8-q29",
+      "text": "What should believers do when they meet an enemy force in battle?",
+      "answer": "They should be firm and remember Allah much so that they may be successful."
+    },
+    {
+      "id": "ch8-q30",
+      "text": "What is the consequence of disputing and arguing among the believers during a crisis?",
+      "answer": "They would lose heart, and their strength/spirit would depart; they are commanded to be patient instead."
+    },
+    {
+      "id": "ch8-q31",
+      "text": "How did the Quraysh leave Makkah for Badr?",
+      "answer": "With insolence, to be seen by people, and to avert others from the way of Allah."
+    },
+    {
+      "id": "ch8-q32",
+      "text": "What did Shaitan say to the disbelievers before the battle, and what did he do when he saw the angels?",
+      "answer": "He told them no one could overcome them and he was their protector; but when the armies met and he saw the angels, he fled, saying, 'I see what you do not see; indeed, I fear Allah.'"
+    },
+    {
+      "id": "ch8-q33",
+      "text": "How do the angels take the souls of the disbelievers according to this Surah?",
+      "answer": "They strike their faces and their backs, saying, 'Taste the punishment of the Burning Fire.'"
+    },
+    {
+      "id": "ch8-q34",
+      "text": "Does Allah ever change a favor He has bestowed upon a people without a reason?",
+      "answer": "No, He does not change a favor until they change what is in themselves."
+    },
+    {
+      "id": "ch8-q35",
+      "text": "Who are described as 'the worst of living creatures' in the sight of Allah?",
+      "answer": "Those who disbelieve and will not believe (specifically the heartless and the ungrateful)."
+    },
+    {
+      "id": "ch8-q36",
+      "text": "What should be done with those who consistently break their treaties and covenants?",
+      "answer": "They should be dealt with in a way that serves as a deterrent to those who follow them."
+    },
+    {
+      "id": "ch8-q37",
+      "text": "What preparation are believers commanded to make for defense?",
+      "answer": "To prepare against the enemy whatever they are able of power and of steeds of war to terrify the enemy of Allah and their own enemy."
+    },
+    {
+      "id": "ch8-q38",
+      "text": "What is the command if the enemy inclines toward peace?",
+      "answer": "The believers should also incline toward peace and rely upon Allah."
+    },
+    {
+      "id": "ch8-q39",
+      "text": "Who is sufficient for the Prophet as a supporter?",
+      "answer": "Allah and those who follow him among the believers."
+    },
+    {
+      "id": "ch8-q40",
+      "text": "What was the initial ratio of believers to disbelievers that could win in battle?",
+      "answer": "Twenty patient ones could overcome two hundred."
+    },
+    {
+      "id": "ch8-q41",
+      "text": "What did Allah do when He recognized weakness among the believers regarding the ratio?",
+      "answer": "He lightened the burden, making it so that one hundred patient ones could overcome two hundred."
+    },
+    {
+      "id": "ch8-q42",
+      "text": "What is the ruling regarding taking captives before a battle is fully won?",
+      "answer": "It is not for a prophet to have captives until he has fully dominated the land (to avoid focusing on ransom over the mission)."
+    },
+    {
+      "id": "ch8-q43",
+      "text": "What message is given to the prisoners of war regarding their hearts?",
+      "answer": "If Allah knows any good in their hearts, He will give them something better than what was taken from them and will forgive them."
+    },
+    {
+      "id": "ch8-q44",
+      "text": "Who are the true allies of one another according to the end of the Surah?",
+      "answer": "Those who believed, emigrated (Muhajirun), and fought, along with those who gave shelter and aid (Ansar)."
+    },
+    {
+      "id": "ch8-q45",
+      "text": "What is the relationship between those who believe but did not emigrate (Hijrah)?",
+      "answer": "The community has no obligation of alliance/protection toward them until they emigrate, except to help them in religion if they ask, unless it is against a people with whom there is a treaty."
+    },
+    {
+      "id": "ch8-q46",
+      "text": "What will happen if the believers do not protect and help one another?",
+      "answer": "There will be Fitnah (oppression/corruption) on earth and great mischief."
+    },
+    {
+      "id": "ch8-q47",
+      "text": "How does Allah describe the bond between the Muhajirun and Ansar?",
+      "answer": "They are the true believers; for them is forgiveness and a noble provision."
+    },
+    {
+      "id": "ch8-q48",
+      "text": "Who are the 'Ulu al-Arham' (blood relatives) in the context of inheritance?",
+      "answer": "They are closer to one another in the decree of Allah than the general bond of faith alone."
+    },
+    {
+      "id": "ch8-q49",
       "text": "What is the 'Anfal' (bounty) intended to be for the believers besides physical wealth?",
       "answer": "The purification of their hearts and the strengthening of the bond between them through obedience to Allah."
+    },
+    {
+      "id": "ch8-q50",
+      "text": "What is the importance of 'Zikr' (remembrance of Allah) during a battle?",
+      "answer": "It is essential for steadfastness and success when meeting the enemy."
+    },
+    {
+      "id": "ch8-q51",
+      "text": "How did Allah demonstrate His power over the 'hearts' of the believers before the battle?",
+      "answer": "He brought their hearts together; even if one had spent all that is in the earth, they could not have brought them together, but Allah did."
+    },
+    {
+      "id": "ch8-q52",
+      "text": "What does 'Sufficient for us is Allah' mean in the context of Al-Anfal?",
+      "answer": "That Allah is enough as a protector and supporter, regardless of the enemy's strength or plots."
+    },
+    {
+      "id": "ch8-q53",
+      "text": "What is the 'clear sign' that the matter was decided by Allah at Badr?",
+      "answer": "The fact that the two groups met without prior planning in a way that ensured the truth was established and the falsehood was abolished."
+    },
+    {
+      "id": "ch8-q54",
+      "text": "What is the 'defilement of Shaitan' that rain helped remove?",
+      "answer": "The whispers of doubt or fear that Shaitan tried to instill in the hearts of the believers before the battle."
+    },
+    {
+      "id": "ch8-q55",
+      "text": "What is the 'stability' mentioned that Allah grants the believers?",
+      "answer": "Steadfastness of the heart and the feet during the heat of battle."
+    },
+    {
+      "id": "ch8-q56",
+      "text": "How should a believer view the trials of wealth and children?",
+      "answer": "As tests to see if they will remain loyal to Allah and His Messenger or be distracted by worldly gains."
+    },
+    {
+      "id": "ch8-q57",
+      "text": "What is the 'best of planners' attribute of Allah referring to here?",
+      "answer": "It refers to how Allah counter-plotted the schemes of the Quraysh against the Prophet in Makkah."
+    },
+    {
+      "id": "ch8-q58",
+      "text": "Why does the Surah emphasize 'deaf and dumb' people?",
+      "answer": "To describe those who refuse to hear the truth or speak the truth despite having the faculties to do so."
+    },
+    {
+      "id": "ch8-q59",
+      "text": "What is the 'life' that Allah and the Messenger call the believers to?",
+      "answer": "A life of faith, purpose, dignity, and eternal success in the Hereafter."
+    },
+    {
+      "id": "ch8-q60",
+      "text": "What is the consequence of 'betraying' the Messenger?",
+      "answer": "Loss of Allah's support and falling into the traps of the enemies."
+    },
+    {
+      "id": "ch8-q61",
+      "text": "What is the 'Furqan' granted by Allah?",
+      "answer": "A spiritual light and ability to distinguish between truth and falsehood."
+    },
+    {
+      "id": "ch8-q62",
+      "text": "How does Allah describe the punishment of Fir'aun and those before him?",
+      "answer": "They denied the signs of Allah, so He seized them for their sins."
+    },
+    {
+      "id": "ch8-q63",
+      "text": "What is the 'heaviness' of the disbelievers' souls at death?",
+      "answer": "The burden of their sins and the terror of facing the angels of punishment."
+    },
+    {
+      "id": "ch8-q64",
+      "text": "What is the significance of 'steeds of war' in modern terms?",
+      "answer": "Preparing any necessary and effective means of defense to protect the community."
+    },
+    {
+      "id": "ch8-q65",
+      "text": "What if the enemy tries to deceive the believers through a peace treaty?",
+      "answer": "The believers should still rely on Allah, as He is sufficient to protect them from any deception."
+    },
+    {
+      "id": "ch8-q66",
+      "text": "What is the 'noble provision' promised to the believers?",
+      "answer": "Paradise and the eternal rewards from Allah."
+    },
+    {
+      "id": "ch8-q67",
+      "text": "How does the Surah describe the unity of the disbelievers?",
+      "answer": "They are allies of one another in their opposition to the truth."
+    },
+    {
+      "id": "ch8-q68",
+      "text": "What is the 'great mischief' on earth caused by?",
+      "answer": "Lack of alliance and mutual support among the believers against the forces of corruption."
+    },
+    {
+      "id": "ch8-q69",
+      "text": "What is the 'decree of Allah' regarding blood relatives?",
+      "answer": "That they have specific rights and obligations toward each other, including inheritance."
+    },
+    {
+      "id": "ch8-q70",
+      "text": "What is the 'victory' mentioned at the end of the Surah?",
+      "answer": "The success of the believers in establishing the truth and protecting the community."
+    },
+    {
+      "id": "ch8-q71",
+      "text": "Why does Allah mention the 'sand' or 'footing' at Badr?",
+      "answer": "Because the physical terrain was a challenge that Allah made easier for the believers through rain."
+    },
+    {
+      "id": "ch8-q72",
+      "text": "What is the 'remembrance' that should be done 'much'?",
+      "answer": "Mentioning Allah's names, His greatness, and seeking His help."
+    },
+    {
+      "id": "ch8-q73",
+      "text": "What is the 'wrath of Allah' incurred by?",
+      "answer": "Cowardice and fleeing from the battlefield without a valid military reason."
+    },
+    {
+      "id": "ch8-q74",
+      "text": "What is the 'lightening' of the burden by Allah?",
+      "answer": "A mercy from Allah recognizing that believers are not always at their peak strength."
+    },
+    {
+      "id": "ch8-q75",
+      "text": "What is the 'noble entrance' (related to the end of the Surah)?",
+      "answer": "Entry into the ranks of the true believers and eventually into Paradise."
+    },
+    {
+      "id": "ch8-q76",
+      "text": "How did the believers view the commercial caravan?",
+      "answer": "Some of them preferred it because it was an easier target with no fighting involved."
+    },
+    {
+      "id": "ch8-q77",
+      "text": "What was the 'true aim' of Allah at Badr?",
+      "answer": "To establish the truth by His words and to cut off the roots of the disbelievers."
+    },
+    {
+      "id": "ch8-q78",
+      "text": "What is the 'slumber' a sign of?",
+      "answer": "Divine security and tranquility."
+    },
+    {
+      "id": "ch8-q79",
+      "text": "What is the 'worst of living creatures' lacking?",
+      "answer": "Intellect and the willingness to listen to the truth."
+    },
+    {
+      "id": "ch8-q80",
+      "text": "What is the final status of those who believe and emigrate?",
+      "answer": "They are the true believers who have a high rank with Allah."
     }
   ]
 }

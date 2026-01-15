@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch95-q1",
+            "text": "Why does the Surah begin with oaths by places and symbols linked to revelation?",
+            "answer": "To emphasize the truth of the message and connect guidance to the prophetic legacy."
+        },
+        {
+            "id": "ch95-q2",
+            "text": "True/False: The Surah teaches humans are noble simply because they are human, even without faith and character.",
+            "answer": "False. It connects true nobility to faith and righteous deeds."
+        },
+        {
+            "id": "ch95-q3",
+            "text": "What does 'created in the best stature' teach about human responsibility?",
+            "answer": "Human abilities and dignity are a trust; they must be used for truth, worship, and moral living."
+        },
+        {
+            "id": "ch95-q4",
+            "text": "In what ways can a person be 'returned to the lowest of the low'?",
+            "answer": "By moral collapse and disbelief, or by a humiliating decline when faith and purpose are abandoned."
+        },
+        {
+            "id": "ch95-q5",
+            "text": "What protects a person from falling into spiritual ‘lowest of the low’?",
+            "answer": "Faith and righteous deeds that keep the soul upright."
+        },
+        {
+            "id": "ch95-q6",
+            "text": "True/False: The Surah teaches Allah’s reward for believers is temporary.",
+            "answer": "False. It describes an uninterrupted reward."
+        },
+        {
+            "id": "ch95-q7",
+            "text": "What does the Surah imply about why some people deny accountability?",
+            "answer": "They ignore the signs of Allah’s justice and the moral logic that righteous and wicked cannot be equal."
+        },
+        {
+            "id": "ch95-q8",
+            "text": "How does Surah At-Tin strengthen belief in the Hereafter?",
+            "answer": "It argues that Allah’s perfect justice requires recompense—good and evil cannot share the same end."
+        },
+        {
+            "id": "ch95-q9",
+            "text": "What is one practical way to honor the ‘best stature’ Allah gave you?",
+            "answer": "Use mind and body for halal, worship, learning, honesty, and serving others."
+        },
+        {
+            "id": "ch95-q10",
+            "text": "How can this Surah guide someone who feels worthless?",
+            "answer": "It reminds humans were created with dignity and purpose; worth is restored through faith and obedience."
+        },
+        {
+            "id": "ch95-q11",
+            "text": "True/False: The Surah suggests dignity is only physical appearance.",
+            "answer": "False. It includes intellectual and spiritual uprightness."
+        },
+        {
+            "id": "ch95-q12",
+            "text": "What does the final question 'Is Allah not the most just of judges?' teach?",
+            "answer": "That Allah’s judgment is perfect and will establish ultimate justice."
+        },
+        {
+            "id": "ch95-q13",
+            "text": "How does this Surah address arrogance?",
+            "answer": "By reminding humans of their created nature and the certainty of divine judgment."
+        },
+        {
+            "id": "ch95-q14",
+            "text": "What is one modern example of misusing the ‘best stature’?",
+            "answer": "Using intelligence for deception, exploiting others, or justifying sin while ignoring accountability."
+        },
+        {
+            "id": "ch95-q15",
+            "text": "How does the Surah connect multiple prophetic centers to one message?",
+            "answer": "It points to the unity of revelation: tawhid, moral responsibility, and accountability."
+        },
+        {
+            "id": "ch95-q16",
+            "text": "True/False: The Surah teaches that being near holy places guarantees salvation.",
+            "answer": "False. Salvation depends on belief and righteous deeds."
+        },
+        {
+            "id": "ch95-q17",
+            "text": "How can a believer protect themselves from spiritual decline over time?",
+            "answer": "Maintain consistent worship, repent often, and keep good company and halal habits."
+        },
+        {
+            "id": "ch95-q18",
+            "text": "What is one daily habit that reflects faith-linked human nobility?",
+            "answer": "Truthfulness and self-control in private, where only Allah sees."
+        },
+        {
+            "id": "ch95-q19",
+            "text": "How does this Surah balance hope and warning?",
+            "answer": "It warns of falling low through disbelief, and promises uninterrupted reward to believers who do good."
+        },
+        {
+            "id": "ch95-q20",
+            "text": "True/False: The Surah teaches that Allah’s justice is uncertain and may fail.",
+            "answer": "False. It ends by affirming Allah’s perfect justice."
+        },
+        {
+            "id": "ch95-q21",
             "text": "What four things does Allah swear by in the first three verses?",
             "answer": "The Fig, the Olive, Mount Sinai (Tur Sinin), and the Secure City (Makkah)."
         },
         {
-            "id": "ch95-q2",
+            "id": "ch95-q22",
             "text": "What do the 'Fig and Olive' symbolize?",
             "answer": "They often refer to the region of Jerusalem/Palestine where many Prophets were sent."
         },
         {
-            "id": "ch95-q3",
+            "id": "ch95-q23",
             "text": "What is 'Tur Sinin'?",
             "answer": "Mount Sinai, where Allah spoke to Prophet Musa (AS)."
         },
         {
-            "id": "ch95-q4",
+            "id": "ch95-q24",
             "text": "What is the 'Secure City'?",
             "answer": "Makkah, the city of Prophet Muhammad (SAW)."
         },
         {
-            "id": "ch95-q5",
+            "id": "ch95-q25",
             "text": "What is the central 'statement' Allah makes after these oaths?",
             "answer": "We have certainly created man in the best of statures (Ahsani Taqwin)."
         },
         {
-            "id": "ch95-q6",
+            "id": "ch95-q26",
             "text": "What does 'Ahsani Taqwin' mean?",
             "answer": "The best upright form, intellectually, physically, and spiritually."
         },
         {
-            "id": "ch95-q7",
-            "text": "What happens to the human after being in the best stature (Verse 5)?",
+            "id": "ch95-q27",
+            "text": "What does this Surah mention can happen to the human after being in the best stature?",
             "answer": "We return him to the lowest of the low (Asfala Safilin)."
         },
         {
-            "id": "ch95-q8",
+            "id": "ch95-q28",
             "text": "What does 'Asfala Safilin' mean?",
             "answer": "It can refer to old age/decrepitude, or to the depths of Hell due to rejection of faith."
         },
         {
-            "id": "ch95-q9",
+            "id": "ch95-q29",
             "text": "Who is exempted from being returned to the lowest of the low?",
             "answer": "Those who believe and do righteous deeds."
         },
         {
-            "id": "ch95-q10",
-            "text": "What is the reward for the believers mentioned in Verse 6?",
+            "id": "ch95-q30",
+            "text": "What is the reward for the believers mentioned in this Surah?",
             "answer": "A reward uninterrupted (Ghayru Mamnun)."
         },
         {
-            "id": "ch95-q11",
-            "text": "What question is asked to the denier in Verse 7?",
+            "id": "ch95-q31",
+            "text": "What question is asked to the denier in this Surah?",
             "answer": "'So what causes you hereafter to deny the Recompense?'"
         },
         {
-            "id": "ch95-q12",
+            "id": "ch95-q32",
             "text": "What is the final rhetorical question of the Surah?",
             "answer": "Is not Allah the most just of judges? (Alaysa-Allahu bi-ahkami al-hakimin)."
         },
         {
-            "id": "ch95-q13",
+            "id": "ch95-q33",
             "text": "How should a believer answer the question 'Is not Allah the most just of judges'?",
             "answer": "By saying: 'Bala wa ana 'ala dhalika minash-shahidin' (Yes, and I am among the witnesses to that)."
         },
         {
-            "id": "ch95-q14",
+            "id": "ch95-q34",
             "text": "What is the significance of the four locations mentioned?",
             "answer": "They represent the centers of the great Abrahamic revelations (Musa, Isa, and Muhammad)."
         },
         {
-            "id": "ch95-q15",
+            "id": "ch95-q35",
             "text": "What is the spiritual warning of this Surah?",
             "answer": "That having a 'best form' is a responsibility, and failing to believe leads to a fall lower than the animals."
         },
         {
-            "id": "ch95-q16",
+            "id": "ch95-q36",
             "text": "True or False: Surah At-Tin highlights that human nobility is tied to faith and action, not just biological form.",
             "answer": "True."
         },
         {
-            "id": "ch95-q17",
+            "id": "ch95-q37",
             "text": "What is the meaning of 'Ghayru Mamnun'?",
             "answer": "Without end, without being cut off, or without being diminished."
         },
         {
-            "id": "ch95-q18",
+            "id": "ch95-q38",
             "text": "How does Makkah being a 'secure city' relate to its history?",
             "answer": "It refers to the sanctity of the Haram established by Ibrahim (AS) and reaffirmed by Islam."
         },
         {
-            "id": "ch95-q19",
+            "id": "ch95-q39",
             "text": "What does 'Taqwin' imply about creation?",
             "answer": "It implies careful design and balance."
         },
         {
-            "id": "ch95-q20",
+            "id": "ch95-q40",
             "text": "How does the Surah motivate a person to prepare for the Hereafter?",
             "answer": "By reminding them of Allah's perfect justice; He would not equate the righteous with the wicked."
         }

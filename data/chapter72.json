@@ -6,101 +6,231 @@
     "questions": [
         {
             "id": "ch72-q1",
+            "text": "What is the central theme of Surah Al-Jinn?",
+            "answer": "It shows how the jinn responded to the Quran, teaches pure tawhid, and warns against superstition and claiming knowledge of the unseen."
+        },
+        {
+            "id": "ch72-q2",
+            "text": "Why is the jinn’s reaction to the Quran important for humans?",
+            "answer": "It proves the Quran’s impact and truth can be recognized by different creations, not only by one community."
+        },
+        {
+            "id": "ch72-q3",
+            "text": "True/False: The Surah teaches that jinn are all evil and incapable of faith.",
+            "answer": "False. It shows some jinn believe and become righteous."
+        },
+        {
+            "id": "ch72-q4",
+            "text": "What does the Surah teach about attributing a spouse or child to Allah?",
+            "answer": "It is a great lie and contradicts Allah’s perfection and uniqueness."
+        },
+        {
+            "id": "ch72-q5",
+            "text": "How does Surah Al-Jinn correct superstition about seeking refuge in jinn?",
+            "answer": "It condemns it as harmful and a form of misguidance that increases people in fear and burden."
+        },
+        {
+            "id": "ch72-q6",
+            "text": "What is one modern example of the superstition condemned in this Surah?",
+            "answer": "Relying on spiritual charms or ‘jinn help’ instead of turning to Allah through dua and obedience."
+        },
+        {
+            "id": "ch72-q7",
+            "text": "True/False: The Surah teaches that jinn can independently control fate and outcomes.",
+            "answer": "False. It teaches all power and decree belong to Allah."
+        },
+        {
+            "id": "ch72-q8",
+            "text": "What does the Surah teach about the jinn trying to listen to the heavens?",
+            "answer": "Their access was blocked by guards and flames, showing a limit placed by Allah."
+        },
+        {
+            "id": "ch72-q9",
+            "text": "What is one lesson from the jinn admitting they do not know the unseen future?",
+            "answer": "Claims of predicting the unseen are unreliable; only Allah fully knows the unseen."
+        },
+        {
+            "id": "ch72-q10",
+            "text": "How does Surah Al-Jinn teach that guidance is open to anyone?",
+            "answer": "It shows jinn heard the Quran, believed, and changed—guidance is for sincere seekers."
+        },
+        {
+            "id": "ch72-q11",
+            "text": "What does the Surah teach about diversity among the jinn?",
+            "answer": "They have different paths: some are righteous and some are unjust."
+        },
+        {
+            "id": "ch72-q12",
+            "text": "True/False: The Surah teaches that being ‘Muslim’ is only a label without consequences.",
+            "answer": "False. It links belief with safety from injustice and with accountability."
+        },
+        {
+            "id": "ch72-q13",
+            "text": "What does the Surah teach about masajid belonging to Allah?",
+            "answer": "Places of worship are for Allah alone, so no one should be invoked alongside Him."
+        },
+        {
+            "id": "ch72-q14",
+            "text": "What is one practical lesson from 'do not call upon anyone with Allah'?",
+            "answer": "Keep dua and worship purely for Allah; avoid religious practices that blur tawhid."
+        },
+        {
+            "id": "ch72-q15",
+            "text": "How does the Surah teach the Prophet’s limits in guidance and harm?",
+            "answer": "The Prophet does not control harm or guidance by himself; it is in Allah’s control."
+        },
+        {
+            "id": "ch72-q16",
+            "text": "What does Surah Al-Jinn teach about Allah revealing unseen matters to messengers?",
+            "answer": "Allah reveals only what He wills to selected messengers, and protects revelation with guards."
+        },
+        {
+            "id": "ch72-q17",
+            "text": "True/False: The Surah supports fortune-telling as a way to access hidden knowledge.",
+            "answer": "False. It emphasizes only Allah knows the unseen, and revelation is protected."
+        },
+        {
+            "id": "ch72-q18",
+            "text": "What does the Surah teach about abundant provision being a test?",
+            "answer": "Ease and abundance can test gratitude and obedience, not just hardship."
+        },
+        {
+            "id": "ch72-q19",
+            "text": "How can a believer respond wisely to increased provision?",
+            "answer": "Increase gratitude, charity, and obedience rather than arrogance and forgetfulness."
+        },
+        {
+            "id": "ch72-q20",
+            "text": "What does the Surah teach about the consequence of turning away from Allah’s reminder?",
+            "answer": "It leads to severe punishment, showing reminders are a mercy that must be accepted."
+        },
+        {
+            "id": "ch72-q21",
+            "text": "How does this Surah help protect a community from spiritual manipulation?",
+            "answer": "It removes claims of unseen control and calls everyone back to Allah alone."
+        },
+        {
+            "id": "ch72-q22",
+            "text": "True/False: The Surah teaches that spiritual beings deserve worship because they are unseen.",
+            "answer": "False. Unseen creation does not deserve worship; only Allah does."
+        },
+        {
+            "id": "ch72-q23",
+            "text": "What does the Surah teach about Allah counting and encompassing everything?",
+            "answer": "Allah’s knowledge is complete; He counts every deed and detail."
+        },
+        {
+            "id": "ch72-q24",
+            "text": "How can a believer apply the Surah’s message about Allah counting everything?",
+            "answer": "Live with ihsan: be honest in private, avoid hidden sins, and do good consistently."
+        },
+        {
+            "id": "ch72-q25",
+            "text": "How can a modern reader apply Surah Al-Jinn practically?",
+            "answer": "Avoid fortune-tellers and spiritual shortcuts; use dua, Quran, and obedience for protection."
+        },
+        {
+            "id": "ch72-q26",
+            "text": "What is one concluding takeaway from Surah Al-Jinn?",
+            "answer": "The Quran guides to right conduct, and Allah alone owns the unseen and worship."
+        },
+        {
+            "id": "ch72-q27",
             "text": "What was the initial reaction of the group of Jinn when they heard the Quran?",
             "answer": "They said: 'Indeed, we have heard an amazing Quran' (Qur'anan 'Ajaba)."
         },
         {
-            "id": "ch72-q2",
+            "id": "ch72-q28",
             "text": "To what does the Quran guide according to the Jinn?",
             "answer": "It guides to the right course (ar-Rushd)."
         },
         {
-            "id": "ch72-q3",
+            "id": "ch72-q29",
             "text": "What did the Jinn realize about their previous beliefs regarding Allah having a spouse or a son?",
             "answer": "They realized it was an 'exorbitant lie' against Allah."
         },
         {
-            "id": "ch72-q4",
+            "id": "ch72-q30",
             "text": "Did the Jinn previously think that humans and jinn would not lie about Allah?",
             "answer": "Yes, they assumed no one would ever speak a lie against Allah."
         },
         {
-            "id": "ch72-q5",
+            "id": "ch72-q31",
             "text": "How did some humans increase the Jinn in 'rebellion' or 'burden'?",
             "answer": "By seeking refuge in men of the jinn (a form of shirk/superstition)."
         },
         {
-            "id": "ch72-q6",
+            "id": "ch72-q32",
             "text": "What did the Jinn find when they tried to reach the heaven to eavesdrop?",
             "answer": "They found it filled with powerful guards and burning flames (missiles)."
         },
         {
-            "id": "ch72-q7",
+            "id": "ch72-q33",
             "text": "Can the Jinn know the unseen (Ghaib) about the future on earth?",
             "answer": "No, they admitted they do not know if evil is intended for those on earth or if their Lord intends for them a right course."
         },
         {
-            "id": "ch72-q8",
+            "id": "ch72-q34",
             "text": "Are all Jinn righteous?",
             "answer": "No, they are of various sects; some are righteous and some are otherwise."
         },
         {
-            "id": "ch72-q9",
+            "id": "ch72-q35",
             "text": "What is the consequence for a Jinn (or human) who believes in his Lord?",
             "answer": "He will not fear any loss or burden."
         },
         {
-            "id": "ch72-q10",
+            "id": "ch72-q36",
             "text": "What happens to those Jinn who are 'unjust' (the Qasitun)?",
             "answer": "They will be fuel for Hellfire."
         },
         {
-            "id": "ch72-q11",
+            "id": "ch72-q37",
             "text": "What would Allah have given people if they remained constant on the right way?",
             "answer": "Abundant water/provision as a test for them."
         },
         {
-            "id": "ch72-q12",
+            "id": "ch72-q38",
             "text": "To whom do the Masajid (places of worship) belong?",
             "answer": "To Allah alone; so do not call upon anyone with Allah."
         },
         {
-            "id": "ch72-q13",
+            "id": "ch72-q39",
             "text": "What was the reaction of the people when the servant of Allah (the Prophet) stood up to pray?",
             "answer": "They almost crowded over him in opposition."
         },
         {
-            "id": "ch72-q14",
+            "id": "ch72-q40",
             "text": "Can the Prophet (SAW) cause harm or bring right guidance to anyone by himself?",
             "answer": "No, he possesses no power to cause harm or right guidance; it is only from Allah."
         },
         {
-            "id": "ch72-q15",
+            "id": "ch72-q41",
             "text": "What is the only protection the Prophet (SAW) has?",
             "answer": "Allah; he can find no refuge besides Him."
         },
         {
-            "id": "ch72-q16",
+            "id": "ch72-q42",
             "text": "Who knows the unseen entirely?",
             "answer": "Allah, the Knower of the unseen."
         },
         {
-            "id": "ch72-q17",
+            "id": "ch72-q43",
             "text": "Under what condition does Allah reveal part of the unseen to a messenger?",
             "answer": "If He chooses that messenger, and He sends before and behind him guards (angels) to protect the revelation."
         },
         {
-            "id": "ch72-q18",
+            "id": "ch72-q44",
             "text": "Does Allah keep count of all things?",
             "answer": "Yes, He has encompassed all they have and has enumerated all things in number."
         },
         {
-            "id": "ch72-q19",
+            "id": "ch72-q45",
             "text": "True or False: The Jinn mentioned in this Surah became Muslims and went back to warn their people.",
             "answer": "True."
         },
         {
-            "id": "ch72-q20",
+            "id": "ch72-q46",
             "text": "What is the fate of the one who is turned away from the reminder of his Lord?",
             "answer": "Allah will thrust him into a severe punishment."
         }

@@ -6,101 +6,156 @@
     "questions": [
         {
             "id": "ch111-q1",
+            "text": "Why is this Surah a strong proof against arrogance and denial?",
+            "answer": "It declares the downfall of a prominent enemy, showing Allah’s knowledge and truth of revelation."
+        },
+        {
+            "id": "ch111-q2",
+            "text": "True/False: The Surah teaches family ties to righteous people guarantee salvation.",
+            "answer": "False. Abu Lahab was a close relative yet condemned due to disbelief and hostility."
+        },
+        {
+            "id": "ch111-q3",
+            "text": "What does the Surah teach about relying on wealth for security?",
+            "answer": "Wealth cannot protect from Allah’s judgment; it can become a source of delusion."
+        },
+        {
+            "id": "ch111-q4",
+            "text": "Why does the Surah mention both Abu Lahab and his wife?",
+            "answer": "To show that partnership in sin and hostility shares consequences."
+        },
+        {
+            "id": "ch111-q5",
+            "text": "What is one moral lesson from 'the carrier of firewood'?",
+            "answer": "Those who spread harm and stir hostility carry the fuel of their own punishment."
+        },
+        {
+            "id": "ch111-q6",
+            "text": "True/False: The Surah teaches that someone can oppose truth without spiritual consequences if they are influential.",
+            "answer": "False. Influence does not shield from Allah’s judgment."
+        },
+        {
+            "id": "ch111-q7",
+            "text": "What does the ‘rope of palm fiber’ symbolize about punishment?",
+            "answer": "Humiliation, restraint, and fitting consequences for harmful behavior."
+        },
+        {
+            "id": "ch111-q8",
+            "text": "How can this Surah guide a believer facing insults for their faith?",
+            "answer": "It reassures that Allah sees hostility and will judge; remain patient and firm."
+        },
+        {
+            "id": "ch111-q9",
+            "text": "What is one modern example of ‘hindering Allah’s message’?",
+            "answer": "Mocking Islam publicly, spreading lies about it, or pressuring others to abandon worship."
+        },
+        {
+            "id": "ch111-q10",
+            "text": "How does this Surah teach personal responsibility despite social environment?",
+            "answer": "Even in a family close to the Prophet, a person is judged by faith and deeds."
+        },
+        {
+            "id": "ch111-q11",
+            "text": "True/False: The Surah teaches that repentance is impossible for enemies of truth.",
+            "answer": "False. Repentance is always possible before death, but persistent hostility leads to ruin."
+        },
+        {
+            "id": "ch111-q12",
             "text": "What does 'Al-Masad' mean?",
             "answer": "The Palm Fiber / The twisted rope."
         },
         {
-            "id": "ch111-q2",
+            "id": "ch111-q13",
             "text": "Who is the primary person condemned in this Surah?",
             "answer": "Abu Lahab (the uncle of the Prophet SAW)."
         },
         {
-            "id": "ch111-q3",
+            "id": "ch111-q14",
             "text": "What does 'Tabbat' mean in the first verse?",
             "answer": "Perished, ruined, or destroyed."
         },
         {
-            "id": "ch111-q4",
+            "id": "ch111-q15",
             "text": "What was Abu Lahab's real name?",
             "answer": "Abd al-Uzza bin Abdul-Muttalib."
         },
         {
-            "id": "ch111-q5",
+            "id": "ch111-q16",
             "text": "What was the 'crime' of Abu Lahab mentioned in Hadith?",
             "answer": "He was the most vocal and insulting opponent of the Prophet (SAW) when he first called the Quraysh to Islam on Mount Safa."
         },
         {
-            "id": "ch111-q6",
-            "text": "Will Abu Lahab's wealth or children benefit him (Verse 2)?",
+            "id": "ch111-q17",
+            "text": "Will Abu Lahab's wealth or children benefit him in this Surah?",
             "answer": "No, they will not avail him."
         },
         {
-            "id": "ch111-q7",
-            "text": "Where will Abu Lahab be thrown (Verse 3)?",
+            "id": "ch111-q18",
+            "text": "Where will Abu Lahab be thrown according to this Surah?",
             "answer": "Into a Fire of blazing flame (Naran dhata lahab)."
         },
         {
-            "id": "ch111-q8",
+            "id": "ch111-q19",
             "text": "Who else is condemned in this Surah?",
             "answer": "His wife (Umm Jamil)."
         },
         {
-            "id": "ch111-q9",
+            "id": "ch111-q20",
             "text": "How is Abu Lahab's wife described?",
             "answer": "As the 'carrier of firewood' (Hammalatal hatab)."
         },
         {
-            "id": "ch111-q10",
+            "id": "ch111-q21",
             "text": "What will be around the wife's neck?",
             "answer": "A rope of twisted palm fiber (Hablum-mim-masad)."
         },
         {
-            "id": "ch111-q11",
+            "id": "ch111-q22",
             "text": "Why was she called the 'carrier of firewood'?",
             "answer": "Because she used to place thorny bushes in the Prophet's path to harm him, or it refers to her carrying wood for the fire of Hell."
         },
         {
-            "id": "ch111-q12",
+            "id": "ch111-q23",
             "text": "What is the miracle of this Surah regarding Abu Lahab's fate?",
             "answer": "It predicted he would die as a disbeliever. He lived for 10 years after its revelation but never embraced Islam, even to try to 'prove' the Quran wrong."
         },
         {
-            "id": "ch111-q13",
+            "id": "ch111-q24",
             "text": "Is this a Makkan or Madinan Surah?",
             "answer": "Makkan."
         },
         {
-            "id": "ch111-q14",
+            "id": "ch111-q25",
             "text": "How many verses are in Surah Al-Masad?",
             "answer": "Five verses."
         },
         {
-            "id": "ch111-q15",
+            "id": "ch111-q26",
             "text": "What is the meaning of 'Abu Lahab'?",
             "answer": "Father of the Flame (referring to his reddish complexion or his fate in Hell)."
         },
         {
-            "id": "ch111-q16",
+            "id": "ch111-q27",
             "text": "What is 'Jidiha' in the final verse?",
             "answer": "Her neck."
         },
         {
-            "id": "ch111-q17",
+            "id": "ch111-q28",
             "text": "Does this Surah prove that being a relative of a Prophet cannot save a person without faith?",
             "answer": "Yes, Abu Lahab was the Prophet's own uncle."
         },
         {
-            "id": "ch111-q18",
-            "text": "What is the meaning of 'Kasab' in Verse 2?",
+            "id": "ch111-q29",
+            "text": "What is the meaning of 'Kasab' in this Surah?",
             "answer": "What he earned (wealth, children, or status)."
         },
         {
-            "id": "ch111-q19",
+            "id": "ch111-q30",
             "text": "How did Abu Lahab die?",
             "answer": "He died of a repulsive disease (black smallpox) shortly after the Battle of Badr."
         },
         {
-            "id": "ch111-q20",
+            "id": "ch111-q31",
             "text": "What is the primary message of the Surah?",
             "answer": "A severe warning against those who insult and hinder the message of Allah."
         }

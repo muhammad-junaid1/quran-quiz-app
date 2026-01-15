@@ -6,101 +6,231 @@
     "questions": [
         {
             "id": "ch77-q1",
+            "text": "What is the main message of Surah Al-Mursalat?",
+            "answer": "It warns deniers of the Day of Judgment and repeatedly affirms that accountability and separation of truth from falsehood are certain."
+        },
+        {
+            "id": "ch77-q2",
+            "text": "Why does the Surah repeat the warning 'Woe that Day to the deniers' so many times?",
+            "answer": "To shake the heart, emphasize certainty, and expose repeated denial at different stages of the argument."
+        },
+        {
+            "id": "ch77-q3",
+            "text": "True/False: Repetition in the Quran can be a deliberate teaching method to awaken hardened hearts.",
+            "answer": "True."
+        },
+        {
+            "id": "ch77-q4",
+            "text": "What does the Surah teach through the signs of the stars and mountains changing?",
+            "answer": "That the world’s order will collapse at Allah’s command, proving the Day is real and overwhelming."
+        },
+        {
+            "id": "ch77-q5",
+            "text": "What does 'Yawm al-Fasl' (Day of Sorting) mean practically?",
+            "answer": "It is the Day when Allah separates truth from falsehood and judges people with justice."
+        },
+        {
+            "id": "ch77-q6",
+            "text": "How does the Surah use the destruction of earlier nations as a warning?",
+            "answer": "It shows that denial has consequences and that Allah’s judgment in history foreshadows final judgment."
+        },
+        {
+            "id": "ch77-q7",
+            "text": "What does the Surah teach about human origins from a ‘disdained liquid’?",
+            "answer": "Humans are created from something humble, so arrogance and denial are irrational."
+        },
+        {
+            "id": "ch77-q8",
+            "text": "True/False: The Surah teaches that being human is proof of being above accountability.",
+            "answer": "False. Human creation is used as proof for resurrection and judgment."
+        },
+        {
+            "id": "ch77-q9",
+            "text": "What does the Surah teach about the womb being a secure lodging for a known term?",
+            "answer": "Life develops with precise measure, showing Allah’s control and planning."
+        },
+        {
+            "id": "ch77-q10",
+            "text": "How does Surah Al-Mursalat use the earth as a sign of Allah’s care?",
+            "answer": "It describes earth as a gathering/place for the living and the dead, showing Allah’s provision and order."
+        },
+        {
+            "id": "ch77-q11",
+            "text": "What is one daily-life lesson from the mention of mountains and sweet water?",
+            "answer": "Basic stability and water are gifts—gratitude and obedience should follow."
+        },
+        {
+            "id": "ch77-q12",
+            "text": "What does the Surah teach about Hell’s 'shadow' not giving coolness?",
+            "answer": "It warns that what looks like relief will not help; punishment has no comfort."
+        },
+        {
+            "id": "ch77-q13",
+            "text": "How does the Surah’s imagery of sparks teach fear of punishment?",
+            "answer": "It makes Hell vivid and terrifying, breaking the illusion that punishment is ‘light’ or symbolic."
+        },
+        {
+            "id": "ch77-q14",
+            "text": "True/False: The Surah teaches that people will talk their way out of judgment with clever excuses.",
+            "answer": "False. It says they will not be permitted to speak or apologize in that moment."
+        },
+        {
+            "id": "ch77-q15",
+            "text": "What does the Surah teach about Allah challenging people’s plotting?",
+            "answer": "Human schemes cannot defeat Allah; denial is powerless before divine justice."
+        },
+        {
+            "id": "ch77-q16",
+            "text": "How does Surah Al-Mursalat describe the reward of the righteous?",
+            "answer": "They will be in shade and springs with fruits, enjoying peace and satisfaction."
+        },
+        {
+            "id": "ch77-q17",
+            "text": "What is one moral lesson from 'Eat and drink in satisfaction for what you used to do'?",
+            "answer": "Paradise is linked to deeds done sincerely; choices now shape comfort later."
+        },
+        {
+            "id": "ch77-q18",
+            "text": "Why does the Surah say 'Eat and enjoy yourselves a little' to criminals?",
+            "answer": "It is a warning that worldly enjoyment is brief and ends in accountability."
+        },
+        {
+            "id": "ch77-q19",
+            "text": "True/False: The Surah suggests short-term pleasure is worth long-term loss.",
+            "answer": "False. It repeatedly calls denial a path to disaster."
+        },
+        {
+            "id": "ch77-q20",
+            "text": "What does Surah Al-Mursalat teach about refusing to bow in prayer?",
+            "answer": "It reflects arrogance and rejection of Allah, which leads to condemnation."
+        },
+        {
+            "id": "ch77-q21",
+            "text": "How can a believer use this Surah to fight procrastination in repentance?",
+            "answer": "By remembering the repeated warning and acting now before the Day of Sorting arrives."
+        },
+        {
+            "id": "ch77-q22",
+            "text": "It uses repeated warnings and clear signs of creation and destruction as evidence.",
+            "answer": "It uses repeated warnings and clear signs of creation and destruction as evidence."
+        },
+        {
+            "id": "ch77-q23",
+            "text": "What does the Surah teach about the Quran being the final statement people must respond to?",
+            "answer": "If someone rejects the Quran’s warning, there is no clearer message left to accept."
+        },
+        {
+            "id": "ch77-q24",
+            "text": "True/False: The Surah suggests that guidance will keep coming forever even if people reject it.",
+            "answer": "False. It implies rejecting the Quran leaves a person with no better statement to rely on."
+        },
+        {
+            "id": "ch77-q25",
+            "text": "How can a modern reader apply this Surah in one day?",
+            "answer": "Pray on time, make sincere istighfar, and do one act of charity as preparation for the Hereafter."
+        },
+        {
+            "id": "ch77-q26",
+            "text": "What is one concluding takeaway from Surah Al-Mursalat?",
+            "answer": "Repeated denial leads to repeated warnings—until judgment arrives with no excuses."
+        },
+        {
+            "id": "ch77-q27",
             "text": "What does 'Al-Mursalat' mean?",
             "answer": "The Winds Sent Forth (referring to angels or winds sent by Allah)."
         },
         {
-            "id": "ch77-q2",
+            "id": "ch77-q28",
             "text": "What is the recurring refrain in this Surah?",
             "answer": "'Woe, that Day, to the deniers' (Wailun yawma'idhin lil-mukadhdhibin) - repeated 10 times."
         },
         {
-            "id": "ch77-q3",
+            "id": "ch77-q29",
             "text": "What will happen to the stars on the Day of Judgment?",
             "answer": "They will be obliterated/extinguished."
         },
         {
-            "id": "ch77-q4",
+            "id": "ch77-q30",
             "text": "What will happen to the mountains on that Day?",
             "answer": "They will be blown away/crumbled."
         },
         {
-            "id": "ch77-q5",
+            "id": "ch77-q31",
             "text": "What is the 'Day of Sorting' (Yawm al-Fasl)?",
             "answer": "The Day when the true and false will be separated and judged."
         },
         {
-            "id": "ch77-q6",
+            "id": "ch77-q32",
             "text": "What was the fate of the 'former peoples' who denied?",
             "answer": "Allah destroyed them and will make the later ones follow them."
         },
         {
-            "id": "ch77-q7",
+            "id": "ch77-q33",
             "text": "From what 'disdained liquid' was man created?",
             "answer": "A sperm-drop (ma'in mahin)."
         },
         {
-            "id": "ch77-q8",
+            "id": "ch77-q34",
             "text": "What is the 'secure lodging' for the sperm-drop?",
             "answer": "The womb, for a known duration."
         },
         {
-            "id": "ch77-q9",
+            "id": "ch77-q35",
             "text": "How has Allah made the earth for the living and the dead?",
             "answer": "As a 'Kifata' (container/place of gathering)."
         },
         {
-            "id": "ch77-q10",
+            "id": "ch77-q36",
             "text": "What are the 'lofty mountains' and 'sweet water' signs of?",
             "answer": "Allah's providence and power in creation."
         },
         {
-            "id": "ch77-q11",
-            "text": "To what will the deniers be told to proceed (Verse 30)?",
+            "id": "ch77-q37",
+            "text": "To what will the deniers be told to proceed on the Day of Judgment according to this Surah?",
             "answer": "To a shadow [of smoke] having three columns."
         },
         {
-            "id": "ch77-q12",
+            "id": "ch77-q38",
             "text": "Will this shadow provide any coolness or protection from the flame?",
             "answer": "No."
         },
         {
-            "id": "ch77-q13",
-            "text": "What are the sparks of Hell compared to (Verse 32-33)?",
+            "id": "ch77-q39",
+            "text": "What are the sparks of Hell compared to in this Surah’s imagery?",
             "answer": "Sparks as large as castles, like yellow camels."
         },
         {
-            "id": "ch77-q14",
+            "id": "ch77-q40",
             "text": "Will the disbelievers be able to speak or offer excuses on that Day?",
             "answer": "No, it is a Day they will not speak, nor will they be permitted to apologize."
         },
         {
-            "id": "ch77-q15",
-            "text": "What will the disbelievers be told regarding their worldly plotting (Verse 39)?",
+            "id": "ch77-q41",
+            "text": "What challenge will the disbelievers be told regarding their plotting against Allah?",
             "answer": "'If you have a plan, then plan against Me'."
         },
         {
-            "id": "ch77-q16",
+            "id": "ch77-q42",
             "text": "Where will the righteous be on that Day?",
             "answer": "In shades and springs, and fruits from whatever they desire."
         },
         {
-            "id": "ch77-q17",
+            "id": "ch77-q43",
             "text": "How are the righteous rewarded for their deeds?",
             "answer": "They are told: 'Eat and drink in satisfaction for what you used to do'."
         },
         {
-            "id": "ch77-q18",
+            "id": "ch77-q44",
             "text": "What were the disbelievers told to do in the world (sarcastically)?",
             "answer": "'Eat and enjoy yourselves a little; indeed, you are criminals'."
         },
         {
-            "id": "ch77-q19",
+            "id": "ch77-q45",
             "text": "What was the reaction of the disbelievers when told to 'bow' in prayer?",
             "answer": "They did not bow."
         },
         {
-            "id": "ch77-q20",
+            "id": "ch77-q46",
             "text": "What is the final question of the Surah?",
             "answer": "'In what statement after it (the Quran) will they believe?'."
         }

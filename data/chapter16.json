@@ -6,103 +6,403 @@
   "questions": [
     {
       "id": "ch16-q1",
+      "text": "What is the primary warning given in the very first Ayah of Surah An-Nahl?",
+      "answer": "That the command (judgment) of Allah is coming, so do not seek to hasten it."
+    },
+    {
+      "id": "ch16-q2",
       "text": "What does 'An-Nahl' mean and why is it a significant title for this Surah?",
       "answer": "It means 'The Bee'. It is significant because Allah highlights the bee's inspiration and the medicinal value of honey as signs of His wisdom and providence."
     },
     {
-      "id": "ch16-q2",
-      "text": "What is the primary warning given in the very first verse of Surah An-Nahl?",
-      "answer": "That the command (judgment) of Allah is coming, so do not seek to hasten it."
-    },
-    {
       "id": "ch16-q3",
-      "text": "How does Allah describe the purpose of cattle for mankind in Verse 5?",
-      "answer": "For warmth, numerous benefits, and food."
+      "text": "How does Allah describe the creation of man in this Surah?",
+      "answer": "He created man from a sperm-drop, yet man becomes an open adversary."
     },
     {
       "id": "ch16-q4",
+      "text": "How does Allah describe the purpose of cattle for mankind?",
+      "answer": "For warmth, numerous benefits, food, and as a source of beauty and transport."
+    },
+    {
+      "id": "ch16-q5",
+      "text": "What are the benefits of horses, mules, and donkeys according to the Surah?",
+      "answer": "For you to ride them and as an adornment; and He creates that which you do not know."
+    },
+    {
+      "id": "ch16-q6",
+      "text": "Who is responsible for showing the straight way according to the Surah?",
+      "answer": "To Allah belongs the showing of the straight way; and among them are those which are devious."
+    },
+    {
+      "id": "ch16-q7",
+      "text": "What are the various benefits of rain mentioned in the early verses?",
+      "answer": "It provides water to drink and for the growth of trees and crops like olives, date-palms, grapes, and every kind of fruit."
+    },
+    {
+      "id": "ch16-q8",
+      "text": "What celestial bodies has Allah subjected to serve mankind?",
+      "answer": "The night, the day, the sun, the moon, and the stars."
+    },
+    {
+      "id": "ch16-q9",
+      "text": "What is the benefit of the sea as mentioned in this Surah?",
+      "answer": "To eat fresh meat from it and to extract ornaments (pearls/coral) to wear, and for ships to sail through it for commerce."
+    },
+    {
+      "id": "ch16-q10",
       "text": "What is the 'sign' mentioned regarding the mountains in this Surah?",
       "answer": "They are placed as firm stabilizers (rawasiya) so that the earth does not shake with its inhabitants."
     },
     {
-      "id": "ch16-q5",
-      "text": "In Verse 18, what is said about counting the favors of Allah?",
+      "id": "ch16-q11",
+      "text": "What purpose do landmarks and stars serve according to the Surah?",
+      "answer": "By them, people are guided in their journeys."
+    },
+    {
+      "id": "ch16-q12",
+      "text": "In this Surah, what is said about counting the favors of Allah?",
       "answer": "If you try to count them, you will never be able to number them."
     },
     {
-      "id": "ch16-q6",
+      "id": "ch16-q13",
       "text": "How does the Surah describe the reaction of the arrogant when told about the Quran?",
       "answer": "They dismissively say, 'Legends of the former peoples' (Asatirul Awwalin)."
     },
     {
-      "id": "ch16-q7",
-      "text": "What does the 'Word of Allah' represent for the bees in Verse 68?",
-      "answer": "It represents divine inspiration (Wahyan) to build hives and eat from fruits."
+      "id": "ch16-q14",
+      "text": "What happens to the 'buildings' or plans of those who plotted against the truth in the past?",
+      "answer": "Allah struck their foundation, and the roof fell upon them from above them, and the punishment came to them from where they did not perceive."
     },
     {
-      "id": "ch16-q8",
+      "id": "ch16-q15",
+      "text": "What do the angels say to the righteous ones when taking their souls?",
+      "answer": "They say, 'Peace be upon you (Salamun Alaikum). Enter Paradise for what you used to do.'"
+    },
+    {
+      "id": "ch16-q16",
+      "text": "What was the mission of every messenger sent to every nation?",
+      "answer": "To call people to 'Worship Allah and avoid Taghut (false deities/evil).'"
+    },
+    {
+      "id": "ch16-q17",
+      "text": "To whom should people ask if they do not know religious matters?",
+      "answer": "To the 'People of the Reminder' (Ahlul Dhikr/scholars)."
+    },
+    {
+      "id": "ch16-q18",
+      "text": "What is the warning for those who feel secure against the sudden punishment of Allah?",
+      "answer": "They are warned that the earth could swallow them, or punishment could seize them in the midst of their activities, or seize them by gradual wasting."
+    },
+    {
+      "id": "ch16-q19",
+      "text": "How is the 'Prostration of Shadows' described in the context of nature?",
+      "answer": "The shadows of things created by Allah incline to the right and left, prostrating to Allah in humility."
+    },
+    {
+      "id": "ch16-q20",
+      "text": "Does Allah allow the belief in two gods?",
+      "answer": "No, Allah has said, 'Do not take for yourselves two deities. He is only one God.'"
+    },
+    {
+      "id": "ch16-q21",
+      "text": "To whom do we turn when we are touched by adversity?",
+      "answer": "To Allah alone we cry for help."
+    },
+    {
+      "id": "ch16-q22",
+      "text": "How does Allah describe the reaction of the pagan Arabs to the birth of a daughter?",
+      "answer": "Their faces would turn black with grief and hidden shame, and they would consider whether to keep her with humiliation or bury her alive."
+    },
+    {
+      "id": "ch16-q23",
+      "text": "If Allah were to punish people immediately for their wrongdoing, would any creature be left?",
+      "answer": "No, He would not leave upon the earth any creature, but He defers them for a specified term."
+    },
+    {
+      "id": "ch16-q24",
+      "text": "What is the sign of Allah's power in the provision of water for a dead land?",
+      "answer": "He sends down rain from the sky and gives life thereby to the earth after its lifelessness."
+    },
+    {
+      "id": "ch16-q25",
+      "text": "What is the 'Milk' sign mentioned in this Surah?",
+      "answer": "Pure milk coming from between the contents of the stomach and blood, palatable to the drinkers."
+    },
+    {
+      "id": "ch16-q26",
+      "text": "What are the two products mentioned from the fruits of palm trees and grapevines?",
+      "answer": "Intoxicants (before prohibition) and good provision (like juice and dried fruit)."
+    },
+    {
+      "id": "ch16-q27",
+      "text": "What does the 'Word of Allah' represent for the bees?",
+      "answer": "It represents divine inspiration (Wahyan) to build hives in mountains, trees, and buildings."
+    },
+    {
+      "id": "ch16-q28",
       "text": "What flows from the bellies of bees and what is its benefit?",
       "answer": "A drink (honey) of varying colors, which is a healing for mankind."
     },
     {
-      "id": "ch16-q9",
-      "text": "Which three things does Allah command in the famous Verse 90?",
+      "id": "ch16-q29",
+      "text": "What happens to a person when they reach the 'most abject' stage of old age?",
+      "answer": "They become like a child, knowing nothing after having had knowledge."
+    },
+    {
+      "id": "ch16-q30",
+      "text": "How does Allah describe the difference in provision among people as a test?",
+      "answer": "He has favored some over others in provision; those who are favored should not be ungrateful or refuse to share with their dependents."
+    },
+    {
+      "id": "ch16-q31",
+      "text": "What parable is used for the slave and his master to explain the concept of Shirk?",
+      "answer": "The comparison between a slave who has no power and a free man whom Allah has provided for; they are not equal, so how can the Creator be equal to His creation?"
+    },
+    {
+      "id": "ch16-q32",
+      "text": "What parable is used for the 'dumb' (helpless) man and the one who commands justice?",
+      "answer": "A man who is a burden to his master vs a man who is on the straight path and commands justice."
+    },
+    {
+      "id": "ch16-q33",
+      "text": "How quickly will the 'Command of the Hour' arrive?",
+      "answer": "It is but as a blink of an eye or even nearer."
+    },
+    {
+      "id": "ch16-q34",
+      "text": "In what state does a baby come out of its mother's womb?",
+      "answer": "Knowing nothing, but Allah gives it hearing, sight, and intellect (hearts) so it may be grateful."
+    },
+    {
+      "id": "ch16-q35",
+      "text": "What keeps the birds held up in the air according to the Surah?",
+      "answer": "None holds them up except Allah; indeed, in that are signs for a people who believe."
+    },
+    {
+      "id": "ch16-q36",
+      "text": "What are the benefits of the skins (hides) and wool of cattle mentioned here?",
+      "answer": "For making tents that are light to carry, and for furnishings and enjoyment for a time."
+    },
+    {
+      "id": "ch16-q37",
+      "text": "What has Allah provided for protection from heat and in battle?",
+      "answer": "Shades from trees/mountains, garments to protect from heat, and coats of mail (armor) to protect in battle."
+    },
+    {
+      "id": "ch16-q38",
+      "text": "What will happen on the Day of Resurrection when every nation's witness (Messenger) is brought forth?",
+      "answer": "The disbelievers will not be allowed to make excuses, nor will they be asked to appease Allah."
+    },
+    {
+      "id": "ch16-q39",
+      "text": "Which three things does Allah command in the famous 'Ayah of Justice' (a specific ayah)?",
       "answer": "Justice (Adl), doing good (Ihsan), and giving to kinsfolk."
     },
     {
-      "id": "ch16-q10",
-      "text": "Which three things does Allah forbid in Verse 90?",
+      "id": "ch16-q40",
+      "text": "Which three things does Allah forbid in a specific ayah?",
       "answer": "Immorality (Fahsha), bad conduct (Munkar), and oppression (Baghy)."
     },
     {
-      "id": "ch16-q11",
-      "text": "What is the condition for a person to be forgiven if they utter words of disbelief under duress?",
-      "answer": "If they are forced while their heart remains content and firm in faith (Verse 106)."
+      "id": "ch16-q41",
+      "text": "What is the command regarding fulfilling covenants and oaths?",
+      "answer": "Fulfill the covenant of Allah when you have taken it and do not break oaths after their confirmation."
     },
     {
-      "id": "ch16-q12",
-      "text": "How is Prophet Ibrahim (AS) described in Verse 120?",
+      "id": "ch16-q42",
+      "text": "What parable is used for someone who breaks their oath after making it firm?",
+      "answer": "A woman who breaks her thread into pieces after she has spun it strong."
+    },
+    {
+      "id": "ch16-q43",
+      "text": "What reward is promised to those who do righteous deeds, whether male or female, while being believers?",
+      "answer": "Allah will surely cause them to live a good life and will reward them according to the best of what they used to do."
+    },
+    {
+      "id": "ch16-q44",
+      "text": "What should a person do before reciting the Quran?",
+      "answer": "Seek refuge in Allah from Shaitan, the rejected."
+    },
+    {
+      "id": "ch16-q45",
+      "text": "Does Shaitan have authority over the true believers?",
+      "answer": "No, he has no authority over those who believe and rely upon their Lord."
+    },
+    {
+      "id": "ch16-q46",
+      "text": "Who brought down the Quran from the Lord, and for what purpose?",
+      "answer": "The Holy Spirit (Jibril) brought it down with truth to make firm those who believe and as guidance and glad tidings."
+    },
+    {
+      "id": "ch16-q47",
+      "text": "How did the polytheists try to explain the source of the Prophet's knowledge?",
+      "answer": "They said, 'It is only a human being who teaches him,' but Allah points out that the person they refer to speaks a foreign language, while the Quran is in clear Arabic."
+    },
+    {
+      "id": "ch16-q48",
+      "text": "What is the condition for a person to be forgiven if they utter words of disbelief under duress?",
+      "answer": "If they are forced while their heart remains content and firm in faith."
+    },
+    {
+      "id": "ch16-q49",
+      "text": "Describe the example of the city that was safe and secure but then became ungrateful.",
+      "answer": "It received its provision in abundance from every side, but it denied the favors of Allah, so Allah made it taste the extreme of hunger and fear."
+    },
+    {
+      "id": "ch16-q50",
+      "text": "What foods are forbidden (Haram) as mentioned in this Surah?",
+      "answer": "Dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah."
+    },
+    {
+      "id": "ch16-q51",
+      "text": "Is there an exception for someone who is forced by necessity to eat forbidden food?",
+      "answer": "Yes, if they are forced by necessity and not desiring it or transgressing, then Allah is Forgiving and Merciful."
+    },
+    {
+      "id": "ch16-q52",
+      "text": "How is Prophet Ibrahim (AS) described in this Surah?",
       "answer": "As an 'Ummah' (a nation/leader) in himself, devoutly obedient to Allah and a Hanif (monotheist)."
     },
     {
-      "id": "ch16-q13",
-      "text": "What is the 'Sabbath' ruling mentioned in this Surah?",
-      "answer": "It was only made obligatory for those who differed over it (the Jews)."
+      "id": "ch16-q53",
+      "text": "What was Ibrahim's (AS) primary quality regarding Allah's favors?",
+      "answer": "He was grateful for His favors."
     },
     {
-      "id": "ch16-q14",
-      "text": "What are the three ways to call people to the path of Allah (Verse 125)?",
+      "id": "ch16-q54",
+      "text": "What is the 'Sabbath' ruling mentioned in this Surah?",
+      "answer": "It was only made obligatory for those who differed over it; it was a test for the Jews."
+    },
+    {
+      "id": "ch16-q55",
+      "text": "What are the three ways to call people to the path of Allah?",
       "answer": "With wisdom (Hikmah), good instruction (Maw'idhatul Hasanah), and by arguing in the best manner."
     },
     {
-      "id": "ch16-q15",
+      "id": "ch16-q56",
       "text": "What is the limit of retaliation if one chooses to respond to an injury?",
       "answer": "Retaliation should be with the like of that with which one was harmed, though patience is better."
     },
     {
-      "id": "ch16-q16",
-      "text": "To whom should people ask if they do not know religious matters (Verse 43)?",
-      "answer": "To the 'People of the Reminder' (Ahlul Dhikr/scholars)."
+      "id": "ch16-q57",
+      "text": "How should the Prophet (SAW) handle the plots of the disbelievers?",
+      "answer": "He is told to be patient and not be in distress because of what they plot."
     },
     {
-      "id": "ch16-q17",
-      "text": "How does Allah describe the change in the state of disbelievers' daughters in pre-Islamic times?",
-      "answer": "They would turn black with grief and hidden shame upon hearing the news of a female birth."
+      "id": "ch16-q58",
+      "text": "With whom is Allah's support according to the the closing ayah?",
+      "answer": "With those who fear Him and those who do good (Muhsinun)."
     },
     {
-      "id": "ch16-q18",
-      "text": "What parable is used for the slave and his master to explain the concept of Shirk?",
-      "answer": "The comparison between a slave who has no power and a free man whom Allah has provided for; they are not equal."
+      "id": "ch16-q59",
+      "text": "What is the 'Specified Term' (Ajal) for every person?",
+      "answer": "The fixed time of death which cannot be advanced or delayed."
     },
     {
-      "id": "ch16-q19",
-      "text": "What is the 'Milk' sign mentioned in Verse 66?",
-      "answer": "Pure milk coming from between the contents of the stomach and blood, palatable to the drinkers."
+      "id": "ch16-q60",
+      "text": "What is the 'Two Gods' warning?",
+      "answer": "A refutation of dualism and an affirmation of absolute monotheism."
     },
     {
-      "id": "ch16-q20",
-      "text": "How does the Surah end regarding Allah's support?",
-      "answer": "Allah is with those who fear Him and those who do good."
+      "id": "ch16-q61",
+      "text": "What is the 'Adversary' nature of man mentioned?",
+      "answer": "Despite his humble origin, man becomes argumentative against his Creator."
+    },
+    {
+      "id": "ch16-q62",
+      "text": "What is the 'Beauty' in cattle?",
+      "answer": "The sight of them when they are driven home in the evening and out to pasture in the morning."
+    },
+    {
+      "id": "ch16-q63",
+      "text": "What is the 'Heavy Load' cattle carry for us?",
+      "answer": "Our burdens and belongings to lands we could not reach except with great difficulty."
+    },
+    {
+      "id": "ch16-q64",
+      "text": "What is the 'Guidance' mentioned at the beginning?",
+      "answer": "Allah's role in directing the creation toward their sustenance and purpose."
+    },
+    {
+      "id": "ch16-q65",
+      "text": "What is the 'Sign' in the sea?",
+      "answer": "The ability to sail and extract resources like food and ornaments."
+    },
+    {
+      "id": "ch16-q66",
+      "text": "What is the 'Stabilizer' (Rawasiya)?",
+      "answer": "The mountains that keep the earth's crust from shaking."
+    },
+    {
+      "id": "ch16-q67",
+      "text": "What is the 'Praiseworthy' (Al-Hamid)?",
+      "answer": "Allah, who deserves all thanks for His gifts."
+    },
+    {
+      "id": "ch16-q68",
+      "text": "What is the 'Burden of Sins' on the Day of Judgment?",
+      "answer": "The responsibility for one's own sins and the sins of those they led astray."
+    },
+    {
+      "id": "ch16-q69",
+      "text": "What is the 'Good Life' (Hayatan Tayyibah)?",
+      "answer": "A life of contentment, faith, and peace in this world."
+    },
+    {
+      "id": "ch16-q70",
+      "text": "What is the 'Holy Spirit' (Ruh-ul-Qudus)?",
+      "answer": "The Angel Jibril (Gabriel)."
+    },
+    {
+      "id": "ch16-q71",
+      "text": "What is the 'Arabic Tongue'?",
+      "answer": "The clear and eloquent language in which the Quran was revealed."
+    },
+    {
+      "id": "ch16-q72",
+      "text": "What is the 'Hunger and Fear' punishment?",
+      "answer": "The loss of security and sustenance as a consequence of ungratefulness."
+    },
+    {
+      "id": "ch16-q73",
+      "text": "What is the 'Nation' (Ummah) in the context of Ibrahim?",
+      "answer": "That he was a leader and a model for all believers."
+    },
+    {
+      "id": "ch16-q74",
+      "text": "What is the 'Wisdom' in calling to Allah?",
+      "answer": "Using the appropriate approach and evidence for each individual."
+    },
+    {
+      "id": "ch16-q75",
+      "text": "What is the 'Good Instruction'?",
+      "answer": "Advice that is gentle, persuasive, and beneficial."
+    },
+    {
+      "id": "ch16-q76",
+      "text": "What is the 'Best Manner' of arguing?",
+      "answer": "Being respectful, calm, and focused on the truth rather than winning."
+    },
+    {
+      "id": "ch16-q77",
+      "text": "What is the 'Patience' of the Prophet?",
+      "answer": "His endurance of the disbelievers' plots and mockery."
+    },
+    {
+      "id": "ch16-q78",
+      "text": "What is the 'Witness' of the Messenger?",
+      "answer": "The testimony the Prophet will give regarding his nation's response to the message."
+    },
+    {
+      "id": "ch16-q79",
+      "text": "What is the 'Healing' in honey?",
+      "answer": "The physical medicinal properties Allah has placed in what the bees produce."
+    },
+    {
+      "id": "ch16-q80",
+      "text": "What is the 'Reminder' (Dhikr)?",
+      "answer": "The Quran and the knowledge of previous revelations."
     }
   ]
 }

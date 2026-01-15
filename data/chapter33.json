@@ -1,108 +1,408 @@
 {
-  "id": 33,
-  "englishName": "Al-Ahzab",
-  "arabicName": "الأحزاب",
-  "translation": "The Combined Forces",
-  "questions": [
-    {
-      "id": "ch33-q1",
-      "text": "What historical event does 'Al-Ahzab' refer to?",
-      "answer": "The Battle of the Trench (Khandaq), where various tribes combined forces to besiege Madinah."
-    },
-    {
-      "id": "ch33-q2",
-      "text": "How did Allah help the believers during the Battle of the Trench?",
-      "answer": "He sent against the enemies a wind and hosts (angels) that the people could not see."
-    },
-    {
-      "id": "ch33-q3",
-      "text": "How is the Prophet's relationship with the believers described in Verse 6?",
-      "answer": "The Prophet is closer to the believers than their own selves, and his wives are their mothers."
-    },
-    {
-      "id": "ch33-q4",
-      "text": "What is the ruling on 'Zihar' (calling one's wife 'mother') mentioned in Verse 4?",
-      "answer": "Allah has not made your wives whom you declare as your mothers your actual mothers; it is just a word from your mouths."
-    },
-    {
-      "id": "ch33-q5",
-      "text": "What is the command regarding the naming of adopted children?",
-      "answer": "Call them by [the names of] their fathers; it is more just in the sight of Allah."
-    },
-    {
-      "id": "ch33-q6",
-      "text": "Who is the 'Excellent Example' (Uswatun Hasanah) for the believers?",
-      "answer": "Prophet Muhammad (SAW)."
-    },
-    {
-      "id": "ch33-q7",
-      "text": "What was the reaction of the believers when they saw the combined armies (Ahzab)?",
-      "answer": "They said 'This is what Allah and His Messenger had promised us...'; it only increased them in faith and submission."
-    },
-    {
-      "id": "ch33-q8",
-      "text": "How did the hypocrites react during the siege of Madinah?",
-      "answer": "They said 'Allah and His Messenger did not promise us except delusion' and sought permission to leave, saying their houses were exposed."
-    },
-    {
-      "id": "ch33-q9",
-      "text": "What choice did the Prophet (SAW) give to his wives in Verses 28-29?",
-      "answer": "To choose between the life of this world and its adornment (and be released kindly) or Allah, His Messenger, and the Home of the Hereafter."
-    },
-    {
-      "id": "ch33-q10",
-      "text": "What is the status of the 'Mothers of the Believers' (the Prophet's wives) compared to other women?",
-      "answer": "They are not like any other women; if they fear Allah, they should not be soft in speech [to men] and should stay in their houses."
-    },
-    {
-      "id": "ch33-q11",
-      "text": "What is the 'Verse of Purification' (Ayat al-Tathir)?",
-      "answer": "Verse 33: 'Allah intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [thorough] purification'."
-    },
-    {
-      "id": "ch33-q12",
-      "text": "What is the 'Seal of the Prophets' (Khatam an-Nabiyyin)?",
-      "answer": "Prophet Muhammad (SAW); Verse 40 states he is not the father of any of your men, but the Messenger of Allah and the last of the Prophets."
-    },
-    {
-      "id": "ch33-q13",
-      "text": "What is the command to the believers regarding sending blessings on the Prophet?",
-      "answer": "Allah and His angels send blessings upon the Prophet, so 'O you who have believed, ask [Allah to confer] blessing upon him and ask [Allah to grant him] peace'."
-    },
-    {
-      "id": "ch33-q14",
-      "text": "What is the etiquette for entering the Prophet's house as a guest?",
-      "answer": "Do not enter unless invited for a meal, do not wait for its preparation, and when finished, disperse without staying for conversation."
-    },
-    {
-      "id": "ch33-q15",
-      "text": "What is the command regarding 'Hijab' for the Prophet's wives, daughters, and believing women?",
-      "answer": "To bring down over themselves part of their outer garments (Jalabib); that is more suitable so they will be known and not abused."
-    },
-    {
-      "id": "ch33-q16",
-      "text": "What is the 'Trust' (Amanah) mentioned at the end of the Surah?",
-      "answer": "The trust of moral responsibility and obedience which the heavens, earth, and mountains refused to carry out of fear, but man undertook it."
-    },
-    {
-      "id": "ch33-q17",
-      "text": "How is man described in his undertaking of the Amanah?",
-      "answer": "As 'unjust and ignorant' (Zaluman Jahula) to himself for the weight of the responsibility he took."
-    },
-    {
-      "id": "ch33-q18",
-      "text": "What should believers say to have their deeds amended and sins forgiven?",
-      "answer": "They should fear Allah and speak a word of appropriate justice (Qawlan Sadida)."
-    },
-    {
-      "id": "ch33-q19",
-      "text": "Who was the companion mentioned by name in this Surah?",
-      "answer": "Zayd (bin Harithah) (RA), in the context of his divorce and the Prophet's subsequent marriage to Zaynab bint Jahsh."
-    },
-    {
-      "id": "ch33-q20",
-      "text": "What is the consequence of hurting the Messenger of Allah?",
-      "answer": "Allah has cursed them in this world and the Hereafter and prepared for them a humiliating punishment."
-    }
-  ]
+    "id": 33,
+    "englishName": "Al-Ahzab",
+    "arabicName": "الأحزاب",
+    "translation": "The Combined Forces",
+    "questions": [
+        {
+            "id": "ch33-q1",
+            "text": "What is the opening command given to the Prophet in this Surah?",
+            "answer": "To fear Allah and not obey the disbelievers and the hypocrites."
+        },
+        {
+            "id": "ch33-q2",
+            "text": "What does Allah say about a man having 'two hearts' in his interior?",
+            "answer": "Allah has not made for any man two hearts in his interior, signifying that one cannot hold two contradictory beliefs or loyalties at once."
+        },
+        {
+            "id": "ch33-q3",
+            "text": "What is the ruling on 'Zihar' (calling one's wife 'mother') mentioned in this Surah?",
+            "answer": "Allah has not made your wives whom you declare as your mothers your actual mothers; it is just a word from your mouths."
+        },
+        {
+            "id": "ch33-q4",
+            "text": "What is the command regarding the naming of adopted children?",
+            "answer": "Call them by [the names of] their fathers; it is more just in the sight of Allah. If you do not know their fathers, then they are your brothers in religion."
+        },
+        {
+            "id": "ch33-q5",
+            "text": "How is the Prophet's relationship with the believers described?",
+            "answer": "The Prophet is closer to the believers than their own selves, and his wives are their mothers."
+        },
+        {
+            "id": "ch33-q6",
+            "text": "What is the 'Covenant' (Mithaq) Allah took from the prophets including Nuh, Ibrahim, Musa, and Isa?",
+            "answer": "A solemn covenant to deliver the message and remain faithful to the truth."
+        },
+        {
+            "id": "ch33-q7",
+            "text": "How did Allah help the believers during the Battle of the Trench (Al-Ahzab)?",
+            "answer": "He sent against the enemies a wind and hosts (angels) that the people could not see."
+        },
+        {
+            "id": "ch33-q8",
+            "text": "How is the state of the believers' hearts described during the intense siege of Madinah?",
+            "answer": "The eyes swerved, the hearts reached the throats, and they were thinking various thoughts about Allah."
+        },
+        {
+            "id": "ch33-q9",
+            "text": "What did the hypocrites say when they saw the combined armies approaching?",
+            "answer": "They said, 'Allah and His Messenger did not promise us except delusion.'"
+        },
+        {
+            "id": "ch33-q10",
+            "text": "Why did a group of the hypocrites ask the Prophet for permission to leave the battle?",
+            "answer": "They claimed their houses were exposed/vulnerable, but Allah says they only intended to flee."
+        },
+        {
+            "id": "ch33-q11",
+            "text": "Would fleeing benefit someone if death or killing was decreed for them?",
+            "answer": "No, if they fled, they would not enjoy life except for a little while."
+        },
+        {
+            "id": "ch33-q12",
+            "text": "Who are the 'hinders' mentioned who discourage others from fighting for Allah's sake?",
+            "answer": "The hypocrites who say to their brothers, 'Come to us,' and do not join the battle except a little."
+        },
+        {
+            "id": "ch33-q13",
+            "text": "How do the hypocrites behave when fear comes vs. when fear departs?",
+            "answer": "When fear comes, they look at the Prophet with eyes rolling like one fainting; when fear departs, they lash out with sharp tongues, greedy for wealth."
+        },
+        {
+            "id": "ch33-q14",
+            "text": "Who is the 'Excellent Example' (Uswatun Hasanah) for the believers?",
+            "answer": "Prophet Muhammad (SAW), for those who hope in Allah and the Last Day and remember Allah much."
+        },
+        {
+            "id": "ch33-q15",
+            "text": "What was the reaction of the true believers when they saw the combined armies (Ahzab)?",
+            "answer": "They said, 'This is what Allah and His Messenger had promised us, and Allah and His Messenger spoke the truth.' It only increased them in faith and submission."
+        },
+        {
+            "id": "ch33-q16",
+            "text": "Who are the 'men' who have been true to their covenant with Allah?",
+            "answer": "The believers who remained steadfast; some have fulfilled their vow (died as martyrs) and some are still waiting."
+        },
+        {
+            "id": "ch33-q17",
+            "text": "What was the outcome of the Battle of the Trench for the disbelievers?",
+            "answer": "Allah repelled them in their rage without them achieving any good; Allah was sufficient for the believers in battle."
+        },
+        {
+            "id": "ch33-q18",
+            "text": "What happened to the People of the Scripture who supported the combined forces?",
+            "answer": "Allah brought them down from their fortresses and cast terror into their hearts; a party the Muslims killed and a party they took captive."
+        },
+        {
+            "id": "ch33-q19",
+            "text": "What choice did the Prophet give to his wives regarding worldly life?",
+            "answer": "To choose between the life of this world and its adornment (and be released kindly) or Allah, His Messenger, and the Home of the Hereafter."
+        },
+        {
+            "id": "ch33-q20",
+            "text": "How is the punishment or reward of the Prophet's wives different from other women?",
+            "answer": "Whoever commits a clear immorality would have a double punishment, and whoever is obedient and does good would have a double reward."
+        },
+        {
+            "id": "ch33-q21",
+            "text": "What title is given to the wives of the Prophet in this Surah?",
+            "answer": "Mothers of the Believers (Ummahat al-Mu'minin)."
+        },
+        {
+            "id": "ch33-q22",
+            "text": "What social etiquette were the Prophet's wives commanded to follow?",
+            "answer": "Not to be soft in speech [to men] so that the diseased of heart would desire them, but to speak with appropriate speech."
+        },
+        {
+            "id": "ch33-q23",
+            "text": "Where were the Prophet's wives commanded to remain as a sign of dignity?",
+            "answer": "To remain in their houses and not display themselves like the former times of ignorance (Jahiliyyah)."
+        },
+        {
+            "id": "ch33-q24",
+            "text": "What is the 'Ayah of Purification' (Ayat al-Tathir)?",
+            "answer": "'Allah intends only to remove from you the impurity [of sin], O people of the [Prophet's] household (Ahl al-Bayt), and to purify you with [thorough] purification.'"
+        },
+        {
+            "id": "ch33-q25",
+            "text": "What were the Prophet's wives told to remember from their homes?",
+            "answer": "The verses of Allah and the wisdom (the Sunnah) which are recited in their houses."
+        },
+        {
+            "id": "ch33-q26",
+            "text": "List some of the qualities of the Muslim men and women whom Allah has prepared forgiveness and a great reward.",
+            "answer": "Submitting, believing, obedient, truthful, patient, humble, charitable, fasting, guarding their chastity, and remembering Allah much."
+        },
+        {
+            "id": "ch33-q27",
+            "text": "What is the rule when Allah and His Messenger have decided a matter?",
+            "answer": "It is not for a believing man or woman to have any choice about their affair."
+        },
+        {
+            "id": "ch33-q28",
+            "text": "Who was the companion mentioned by name in this Surah?",
+            "answer": "Zayd (bin Harithah) (RA), in the context of his divorce and the Prophet's subsequent marriage."
+        },
+        {
+            "id": "ch33-q29",
+            "text": "Why did Allah command the Prophet to marry the former wife of his adopted son Zayd?",
+            "answer": "To establish that there is no blame upon the believers concerning the wives of their adopted sons when they have finished their marriage."
+        },
+        {
+            "id": "ch33-q30",
+            "text": "What is the 'Seal of the Prophets' (Khatam an-Nabiyyin)?",
+            "answer": "Prophet Muhammad (SAW); he is the last of the Prophets."
+        },
+        {
+            "id": "ch33-q31",
+            "text": "What are the four roles of the Prophet mentioned in this Surah?",
+            "answer": "As a witness, a bringer of glad tidings, a warner, and one who invites to Allah by His permission, and an illuminating lamp."
+        },
+        {
+            "id": "ch33-q32",
+            "text": "What is the ruling regarding the 'Iddah' (waiting period) for women divorced before the marriage is consummated?",
+            "answer": "There is no waiting period for them to count."
+        },
+        {
+            "id": "ch33-q33",
+            "text": "Which categories of women were made lawful for the Prophet specifically?",
+            "answer": "Those to whom he gave their bridal gift, those his right hand possessed from war captives, daughters of his paternal/maternal uncles/aunts who emigrated with him, and a believing woman who gives herself to the Prophet."
+        },
+        {
+            "id": "ch33-q34",
+            "text": "Was the Prophet permitted to marry any more women after the specific ruling in this Surah?",
+            "answer": "No, it was not lawful for him to marry any more women after that or to replace his wives with others, except what his right hand possessed."
+        },
+        {
+            "id": "ch33-q35",
+            "text": "What is the etiquette for entering the Prophet's house as a guest?",
+            "answer": "Do not enter unless invited for a meal, do not wait for its preparation, and when finished, disperse without staying for conversation."
+        },
+        {
+            "id": "ch33-q36",
+            "text": "How should people ask the wives of the Prophet for anything?",
+            "answer": "Ask them from behind a partition (Hijab); that is purer for your hearts and their hearts."
+        },
+        {
+            "id": "ch33-q37",
+            "text": "Was it permissible for anyone to marry the wives of the Prophet after him?",
+            "answer": "No, it was never permissible, for it would be an enormity in the sight of Allah."
+        },
+        {
+            "id": "ch33-q38",
+            "text": "What is the command to the believers regarding sending blessings on the Prophet?",
+            "answer": "Allah and His angels send blessings upon the Prophet, so believers should ask Allah to confer blessings and peace upon him."
+        },
+        {
+            "id": "ch33-q39",
+            "text": "What is the consequence of hurting or insulting Allah and His Messenger?",
+            "answer": "Allah has cursed them in this world and the Hereafter and prepared for them a humiliating punishment."
+        },
+        {
+            "id": "ch33-q40",
+            "text": "What is the command regarding 'Hijab' for the Prophet's wives, daughters, and all believing women?",
+            "answer": "To bring down over themselves part of their outer garments (Jalabib) so they will be known and not abused."
+        },
+        {
+            "id": "ch33-q41",
+            "text": "Who are the 'Murjifun' mentioned in this Surah?",
+            "answer": "Those who spread rumors and false news in Madinah to cause panic and division."
+        },
+        {
+            "id": "ch33-q42",
+            "text": "What will happen to the hypocrites and rumor-mongers if they do not desist?",
+            "answer": "Allah will incite the Prophet against them, and they will not remain his neighbors except for a little while, being cursed wherever they are found."
+        },
+        {
+            "id": "ch33-q43",
+            "text": "Does the Prophet know when the Hour (Judgment Day) will occur?",
+            "answer": "No, knowledge of it is only with Allah; it may be that the Hour is near."
+        },
+        {
+            "id": "ch33-q44",
+            "text": "What will the disbelievers say when their faces are turned about in the Fire?",
+            "answer": "They will say, 'How we wish we had obeyed Allah and obeyed the Messenger!'"
+        },
+        {
+            "id": "ch33-q45",
+            "text": "Who will the disbelievers blame for their misguidance in Hell?",
+            "answer": "They will say they obeyed their masters and dignitaries, and they led them astray from the path."
+        },
+        {
+            "id": "ch33-q46",
+            "text": "What is the 'Trust' (Amanah) mentioned at the end of the Surah?",
+            "answer": "The trust of moral responsibility and obedience which the heavens, earth, and mountains refused to carry, but man undertook it."
+        },
+        {
+            "id": "ch33-q47",
+            "text": "How is man described in his undertaking of the Amanah?",
+            "answer": "As 'unjust and ignorant' (Zaluman Jahula) for taking on a responsibility he often fails to fulfill."
+        },
+        {
+            "id": "ch33-q48",
+            "text": "What should believers say to have their deeds amended and sins forgiven?",
+            "answer": "They should fear Allah and speak a word of appropriate justice (Qawlan Sadida)."
+        },
+        {
+            "id": "ch33-q49",
+            "text": "What is the meaning of the name 'Al-Ahzab'?",
+            "answer": "The Combined Forces or The Confederates."
+        },
+        {
+            "id": "ch33-q50",
+            "text": "What is the 'Battle of the Trench' also known as?",
+            "answer": "The Battle of Al-Ahzab."
+        },
+        {
+            "id": "ch33-q51",
+            "text": "What is the 'Great Victory' (Fawzan Azima)?",
+            "answer": "Obeying Allah and His Messenger."
+        },
+        {
+            "id": "ch33-q52",
+            "text": "What is the 'Illuminating Lamp' (Sirajan Munira)?",
+            "answer": "A description of the Prophet's role in guiding humanity with the light of revelation."
+        },
+        {
+            "id": "ch33-q53",
+            "text": "What is the 'Outer Garment' (Jilbab)?",
+            "answer": "A large sheet or cloak worn by women to cover their bodies in public."
+        },
+        {
+            "id": "ch33-q54",
+            "text": "What is the 'Appropriate justice' in speech (Qawlan Sadida)?",
+            "answer": "Speaking the truth, being upright, and avoid deception or vain talk."
+        },
+        {
+            "id": "ch33-q55",
+            "text": "What is the 'Impurity' (Rijs) Allah wants to remove from the Prophet's household?",
+            "answer": "The spiritual and moral filth of sin and disobedience."
+        },
+        {
+            "id": "ch33-q56",
+            "text": "Why is the Prophet's household (Ahl al-Bayt) singled out for purification?",
+            "answer": "To maintain their dignity and status as role models for the entire community."
+        },
+        {
+            "id": "ch33-q57",
+            "text": "What is the 'Former times of ignorance' (Jahiliyyat al-Ula)?",
+            "answer": "The era before Islam characterized by idol worship and lack of modesty."
+        },
+        {
+            "id": "ch33-q58",
+            "text": "How should the believers treat the Prophet's privacy?",
+            "answer": "With respect, not entering his house uninvited and not overstaying their welcome."
+        },
+        {
+            "id": "ch33-q59",
+            "text": "What is the 'Humiliating Punishment' (Adhaban Muhina)?",
+            "answer": "The punishment for those who hurt Allah and His Messenger."
+        },
+        {
+            "id": "ch33-q60",
+            "text": "What is the 'Covenant' of the believers mentioned in the context of the battle?",
+            "answer": "Their pledge to fight and not turn their backs to the enemy."
+        },
+        {
+            "id": "ch33-q61",
+            "text": "What is the 'Seal' an indication of?",
+            "answer": "The completion and finality of the chain of divine messengers."
+        },
+        {
+            "id": "ch33-q62",
+            "text": "What is the 'Trust' (Amanah) in relation to free will?",
+            "answer": "The choice to obey or disobey Allah, which carries the potential for great reward or punishment."
+        },
+        {
+            "id": "ch33-q63",
+            "text": "What is the 'Exposed' house (Awrah) claim?",
+            "answer": "A lie used by the hypocrites to escape military duty."
+        },
+        {
+            "id": "ch33-q64",
+            "text": "What is the 'Decision of Allah' regarding the Prophet's marriage to Zaynab?",
+            "answer": "A divine decree that overrode social taboos of the time."
+        },
+        {
+            "id": "ch33-q65",
+            "text": "What is the 'Witness' (Shahid) role of the Prophet?",
+            "answer": "Testifying for or against people based on their acceptance of the message."
+        },
+        {
+            "id": "ch33-q66",
+            "text": "What is the 'Warner' (Nadhir) role?",
+            "answer": "Cautioning about the consequences of disbelief."
+        },
+        {
+            "id": "ch33-q67",
+            "text": "What is the 'Glad Tidings' (Bashir) role?",
+            "answer": "Informing the believers of the rewards of Paradise."
+        },
+        {
+            "id": "ch33-q68",
+            "text": "What is the 'Inviter to Allah' (Da'iyan ilallah) role?",
+            "answer": "Calling humanity to worship the one true God."
+        },
+        {
+            "id": "ch33-q69",
+            "text": "What is the 'Blessing' (Salat) from Allah and the angels?",
+            "answer": "Allah's mercy and the angels' prayers for forgiveness."
+        },
+        {
+            "id": "ch33-q70",
+            "text": "What is the 'Curse' (La'nah) of Allah?",
+            "answer": "Being removed from Allah's mercy."
+        },
+        {
+            "id": "ch33-q71",
+            "text": "What is the 'Sharp tongue' of the hypocrites?",
+            "answer": "Their criticism and insults toward the believers after a victory."
+        },
+        {
+            "id": "ch33-q72",
+            "text": "What is the 'Roll of eyes' of the hypocrites?",
+            "answer": "Their intense fear and cowardice in battle."
+        },
+        {
+            "id": "ch33-q73",
+            "text": "What is the 'Grief' the Prophet should avoid?",
+            "answer": "Distress over the plots and rejection of the disbelievers."
+        },
+        {
+            "id": "ch33-q74",
+            "text": "What is the 'Wisdom' (Hikmah) in the Prophet's homes?",
+            "answer": "The practical application of the Quran in daily life."
+        },
+        {
+            "id": "ch33-q75",
+            "text": "What is the 'Noble Recompense' (Karim)?",
+            "answer": "The honorable rewards in Paradise."
+        },
+        {
+            "id": "ch33-q76",
+            "text": "What is the 'Specified Term' for marriages?",
+            "answer": "The duration of the legal contract and waiting periods."
+        },
+        {
+            "id": "ch33-q77",
+            "text": "What is the 'Covenant' of the prophets?",
+            "answer": "Their agreement to support one another and deliver the same core message."
+        },
+        {
+            "id": "ch33-q78",
+            "text": "What is the 'Wind' sent against the Ahzab?",
+            "answer": "A cold, violent wind that uprooted the enemies' tents and equipment."
+        },
+        {
+            "id": "ch33-q79",
+            "text": "What is the 'Terror' in the hearts of the enemy?",
+            "answer": "A psychological defeat caused by Allah's intervention."
+        },
+        {
+            "id": "ch33-q80",
+            "text": "What is the final lesson of Al-Ahzab?",
+            "answer": "That total trust in Allah and obedience to the Prophet lead to victory, even against overwhelming odds."
+        }
+    ]
 }

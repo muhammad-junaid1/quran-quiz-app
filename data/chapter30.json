@@ -1,108 +1,408 @@
 {
-  "id": 30,
-  "englishName": "Ar-Rum",
-  "arabicName": "الروم",
-  "translation": "The Romans",
-  "questions": [
-    {
-      "id": "ch30-q1",
-      "text": "What historical prediction is made in the opening of Surah Ar-Rum?",
-      "answer": "The victory of the Romans over the Persians within a few years (3 to 9 years) after their initial defeat."
-    },
-    {
-      "id": "ch30-q2",
-      "text": "Why would the believers rejoice at the Roman victory?",
-      "answer": "Because it was a victory for the People of the Book (Christians) over the fire-worshippers (Persians), signifying the help of Allah."
-    },
-    {
-      "id": "ch30-q3",
-      "text": "How do people generally view the life of this world (Verse 7)?",
-      "answer": "They know only the outward appearance of the worldly life, but are heedless of the Hereafter."
-    },
-    {
-      "id": "ch30-q4",
-      "text": "What is the 'sign' mentioned regarding the creation of spouses (Verse 21)?",
-      "answer": "That He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy."
-    },
-    {
-      "id": "ch30-q5",
-      "text": "What are two signs of Allah mentioned in Verse 22?",
-      "answer": "The creation of the heavens and the earth, and the diversity of languages and colors."
-    },
-    {
-      "id": "ch30-q6",
-      "text": "What is the sign mentioned regarding sleep (Verse 23)?",
-      "answer": "Your sleep by night and day and your seeking of His bounty."
-    },
-    {
-      "id": "ch30-q7",
-      "text": "To whom does everything in the heavens and earth belong?",
-      "answer": "To Allah; all are devoutly obedient to Him."
-    },
-    {
-      "id": "ch30-q8",
-      "text": "What is the 'Fitra' of Allah mentioned in Verse 30?",
-      "answer": "The natural inclination/disposition upon which Allah has created all mankind; there is no change in the creation of Allah."
-    },
-    {
-      "id": "ch30-q9",
-      "text": "What is the ruling on Riba (interest/usury) in this Surah?",
-      "answer": "Whatever you give in interest to increase within the wealth of people will not increase with Allah."
-    },
-    {
-      "id": "ch30-q10",
-      "text": "What is the reward for giving Zakat out of a desire for Allah's countenance?",
-      "answer": "Those are the ones who will have their reward multiplied."
-    },
-    {
-      "id": "ch30-q11",
-      "text": "What causes corruption (Fasad) to appear throughout the land and sea?",
-      "answer": "What the hands of people have earned (their sins and disobedience)."
-    },
-    {
-      "id": "ch30-q12",
-      "text": "What is the purpose of Allah allowing some of the consequences of people's actions to reach them?",
-      "answer": "So that they may taste part of what they have done and perhaps they will return (to the right path)."
-    },
-    {
-      "id": "ch30-q13",
-      "text": "How does Allah describe the winds in Verse 46?",
-      "answer": "As heralds of glad tidings, to give you a taste of His mercy, and to make the ships sail by His command."
-    },
-    {
-      "id": "ch30-q14",
-      "text": "To whom did Allah send Messengers before Muhammad (SAW)?",
-      "answer": "To their own people with clear proofs."
-    },
-    {
-      "id": "ch30-q15",
-      "text": "How does Allah describe the revival of the dead in the context of nature?",
-      "answer": "He gives life to the earth after its death; indeed, that same Allah will give life to the dead."
-    },
-    {
-      "id": "ch30-q16",
-      "text": "Can the Prophet make the dead hear or the deaf hear the call (Verse 52)?",
-      "answer": "No, especially when they turn their backs and flee."
-    },
-    {
-      "id": "ch30-q17",
-      "text": "What is the sequence of human strength and weakness described in Verse 54?",
-      "answer": "Created in weakness, then given strength, then after strength, weakness and white hair (old age)."
-    },
-    {
-      "id": "ch30-q18",
-      "text": "What will the criminals swear on the Day of Judgment regarding the length of their stay?",
-      "answer": "They will swear they remained but an hour."
-    },
-    {
-      "id": "ch30-q19",
-      "text": "What is the final instruction to the Prophet in this Surah?",
-      "answer": "To be patient, for the promise of Allah is truth, and not to let those who have no certainty discourage him."
-    },
-    {
-      "id": "ch30-q20",
-      "text": "What does Allah say about those who 'split up their religion and became sects'?",
-      "answer": "Each faction rejoices in what it has."
-    }
-  ]
+    "id": 30,
+    "englishName": "Ar-Rum",
+    "arabicName": "الروم",
+    "translation": "The Romans",
+    "questions": [
+        {
+            "id": "ch30-q1",
+            "text": "What are the opening disjointed letters of Surah Ar-Rum?",
+            "answer": "Alif, Lam, Meem."
+        },
+        {
+            "id": "ch30-q2",
+            "text": "What historical prediction is made in the opening of this Surah?",
+            "answer": "The victory of the Romans over their enemies within a few years (3 to 9 years) after their initial defeat."
+        },
+        {
+            "id": "ch30-q3",
+            "text": "Where did the initial defeat of the Romans take place?",
+            "answer": "In the nearest land (Adna al-Ard)."
+        },
+        {
+            "id": "ch30-q4",
+            "text": "To whom does the decision (order) belong before and after the Roman victory?",
+            "answer": "To Allah alone."
+        },
+        {
+            "id": "ch30-q5",
+            "text": "Why would the believers rejoice on the day of the Roman victory?",
+            "answer": "Because of the help of Allah; He helps whom He wills and He is the Exalted in Might, the Merciful."
+        },
+        {
+            "id": "ch30-q6",
+            "text": "Does Allah ever fail in His promise?",
+            "answer": "No, it is the promise of Allah, and He does not fail in His promise, but most people do not know."
+        },
+        {
+            "id": "ch30-q7",
+            "text": "How do many people generally view the life of this world?",
+            "answer": "They know only the outward appearance of the worldly life, but they are heedless of the Hereafter."
+        },
+        {
+            "id": "ch30-q8",
+            "text": "What should people reflect upon regarding their own creation and the universe?",
+            "answer": "That Allah did not create the heavens and the earth and what is between them except in truth and for a specified term."
+        },
+        {
+            "id": "ch30-q9",
+            "text": "What is the lesson from the travel throughout the earth regarding previous nations?",
+            "answer": "To see the end of those who were more powerful, who tilled the earth and built it more than they have, but were destroyed when they denied their messengers."
+        },
+        {
+            "id": "ch30-q10",
+            "text": "What was the result for those who did evil and denied the signs of Allah?",
+            "answer": "The worst of outcomes, because they used to mock the signs."
+        },
+        {
+            "id": "ch30-q11",
+            "text": "Who begins creation and then repeats it and to whom will all return?",
+            "answer": "Allah."
+        },
+        {
+            "id": "ch30-q12",
+            "text": "What will be the state of the criminals on the Day the Hour is established?",
+            "answer": "They will be in despair (stubborn silence and grief)."
+        },
+        {
+            "id": "ch30-q13",
+            "text": "Will the 'partners' they associated with Allah help them on the Day of Judgment?",
+            "answer": "No, they will have no intercessors from among their 'partners', and they will deny those partners."
+        },
+        {
+            "id": "ch30-q14",
+            "text": "How will the believers and the righteous be rewarded on the Day of Judgment?",
+            "answer": "They will be in a garden (Paradise), delighted and honored."
+        },
+        {
+            "id": "ch30-q15",
+            "text": "At what times of the day is Allah specially exalted as mentioned in this Surah?",
+            "answer": "In the evening (Masa') and in the morning (Subh)."
+        },
+        {
+            "id": "ch30-q16",
+            "text": "What are the other two times of day mentioned for praising Allah in this section?",
+            "answer": "In the afternoon (Ashiyyan) and when you are at noon (Zuhur)."
+        },
+        {
+            "id": "ch30-q17",
+            "text": "How does Allah bring out the living from the dead and the dead from the living?",
+            "answer": "As a sign of His power, just as He gives life to the earth after its death."
+        },
+        {
+            "id": "ch30-q18",
+            "text": "What is the sign mentioned regarding the origin of human creation?",
+            "answer": "That He created you from dust, then suddenly you were human beings dispersing [throughout the earth]."
+        },
+        {
+            "id": "ch30-q19",
+            "text": "What is the 'sign' mentioned regarding the creation of spouses?",
+            "answer": "That He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection (Mawaddah) and mercy (Rahmah)."
+        },
+        {
+            "id": "ch30-q20",
+            "text": "What are the two signs of Allah mentioned regarding the heavens, the earth, and human diversity?",
+            "answer": "The creation of the heavens and the earth, and the diversity of your languages and your colors."
+        },
+        {
+            "id": "ch30-q21",
+            "text": "What is the sign mentioned regarding sleep and seeking bounty?",
+            "answer": "Your sleep by night and day and your seeking of His bounty."
+        },
+        {
+            "id": "ch30-q22",
+            "text": "How is the lightning described as a sign in this Surah?",
+            "answer": "He shows you the lightning for fear and hope, and He sends down rain from the sky."
+        },
+        {
+            "id": "ch30-q23",
+            "text": "What happens when Allah calls people from the earth with a single call?",
+            "answer": "Immediately they will come forth (for resurrection)."
+        },
+        {
+            "id": "ch30-q24",
+            "text": "To whom does the 'highest attribute' (Al-Mathal al-A'la) belong in the heavens and the earth?",
+            "answer": "To Allah, the Exalted in Might, the Wise."
+        },
+        {
+            "id": "ch30-q25",
+            "text": "What is the parable of the slaves mentioned to refute Shirk?",
+            "answer": "Would a person share his own wealth and status equally with his slaves? If not, then why associate partners with the Creator of all?"
+        },
+        {
+            "id": "ch30-q26",
+            "text": "What do the wrongdoers follow instead of knowledge?",
+            "answer": "They follow their own desires without knowledge."
+        },
+        {
+            "id": "ch30-q27",
+            "text": "What is the 'Fitra' of Allah mentioned in this Surah?",
+            "answer": "The natural inclination/disposition upon which Allah has created all mankind; there is no change in the creation of Allah."
+        },
+        {
+            "id": "ch30-q28",
+            "text": "How should believers turn to Allah when facing Him in religion?",
+            "answer": "As Hanifs (pure monotheists), turning in repentance to Him, fearing Him, and establishing prayer."
+        },
+        {
+            "id": "ch30-q29",
+            "text": "What does Allah say about those who 'split up their religion and became sects'?",
+            "answer": "Each faction rejoices in what it has; believers should avoid being among them."
+        },
+        {
+            "id": "ch30-q30",
+            "text": "How do people react when a hardship touches them vs when they taste mercy?",
+            "answer": "They call upon their Lord in repentance during hardship, but when they taste mercy, some of them associate partners with Him again."
+        },
+        {
+            "id": "ch30-q31",
+            "text": "How do people react when Allah gives them a blessing vs when an evil touches them because of their own deeds?",
+            "answer": "They rejoice in the blessing, but they despair when evil touches them."
+        },
+        {
+            "id": "ch30-q32",
+            "text": "Who should be given their due right according to this Surah?",
+            "answer": "The relative, the needy, and the traveler; this is best for those who desire the 'Face' of Allah."
+        },
+        {
+            "id": "ch30-q33",
+            "text": "What is the result of giving wealth in Riba (interest) to increase within the wealth of people?",
+            "answer": "It will not increase with Allah."
+        },
+        {
+            "id": "ch30-q34",
+            "text": "What is the reward for giving Zakat out of a desire for Allah's 'Face'?",
+            "answer": "Those are the ones who will have their reward multiplied."
+        },
+        {
+            "id": "ch30-q35",
+            "text": "What are the four actions of Allah mentioned to show His power over life and death?",
+            "answer": "He created you, then provided for you, then He will cause you to die, then He will give you life."
+        },
+        {
+            "id": "ch30-q36",
+            "text": "What causes corruption (Fasad) to appear throughout the land and sea?",
+            "answer": "What the hands of people have earned (their sins and disobedience)."
+        },
+        {
+            "id": "ch30-q37",
+            "text": "What is the purpose of Allah allowing some of the consequences of people's actions to reach them?",
+            "answer": "So that they may taste part of what they have done and perhaps they will return to the right path."
+        },
+        {
+            "id": "ch30-q38",
+            "text": "How should one set their face toward the 'correct religion'?",
+            "answer": "Directly and firmly, before there comes a Day from Allah that cannot be averted."
+        },
+        {
+            "id": "ch30-q39",
+            "text": "What happens to the disbeliever and the righteous doer on the Day of Judgment?",
+            "answer": "The disbeliever's disbelief is against himself, while those who did righteousness have prepared for themselves a good place."
+        },
+        {
+            "id": "ch30-q40",
+            "text": "How does Allah describe the winds as a sign of His mercy?",
+            "answer": "As heralds of glad tidings, to give you a taste of His mercy, and to make the ships sail by His command."
+        },
+        {
+            "id": "ch30-q41",
+            "text": "What was the mission of the messengers sent before Muhammad (SAW)?",
+            "answer": "To bring clear proofs to their people; Allah took retribution from the criminals and it was an obligation upon Him to help the believers."
+        },
+        {
+            "id": "ch30-q42",
+            "text": "Describe the process of cloud formation and rain as mentioned in this Surah.",
+            "answer": "Allah sends the winds that stir up clouds, spreads them in the sky as He wills, and makes them fragments so you see the rain coming from them."
+        },
+        {
+            "id": "ch30-q43",
+            "text": "How do people react when rain falls on them after they had been in despair?",
+            "answer": "They rejoice, even though they were certain of despair just before it fell."
+        },
+        {
+            "id": "ch30-q44",
+            "text": "What is the lesson from looking at the 'effects of the mercy of Allah' on the earth?",
+            "answer": "How He gives life to the earth after its death; indeed, that same Allah will give life to the dead."
+        },
+        {
+            "id": "ch30-q45",
+            "text": "How do the disbelievers react if a wind turns their crops yellow (damaging them)?",
+            "answer": "They remain thereafter in persistent disbelief/ingratitude."
+        },
+        {
+            "id": "ch30-q46",
+            "text": "Can the Prophet make the dead hear or the deaf hear the call?",
+            "answer": "No, especially when they turn their backs and flee."
+        },
+        {
+            "id": "ch30-q47",
+            "text": "Can the Prophet guide the blind out of their error?",
+            "answer": "No, he can only make those hear who believe in Allah's verses and are Muslims."
+        },
+        {
+            "id": "ch30-q48",
+            "text": "What is the sequence of human strength and weakness described in this Surah?",
+            "answer": "Created in weakness, then given strength, then after strength, weakness and white hair (old age)."
+        },
+        {
+            "id": "ch30-q49",
+            "text": "What will the criminals swear on the Day of Judgment regarding the length of their stay in the world?",
+            "answer": "They will swear they remained but an hour."
+        },
+        {
+            "id": "ch30-q50",
+            "text": "What will those given knowledge and faith say to the criminals on that Day?",
+            "answer": "They will say, 'You have remained according to the decree of Allah until the Day of Resurrection, and this is the Day of Resurrection, but you did not know.'"
+        },
+        {
+            "id": "ch30-q51",
+            "text": "Will the excuses of the wrongdoers benefit them on the Day of Judgment?",
+            "answer": "No, and they will not be asked to appease Allah."
+        },
+        {
+            "id": "ch30-q52",
+            "text": "How does Allah seal the hearts of those who do not know?",
+            "answer": "By presenting every kind of example in the Quran, which they still reject as 'falsehood'."
+        },
+        {
+            "id": "ch30-q53",
+            "text": "What is the final instruction to the Prophet in the last Ayah of Surah Ar-Rum?",
+            "answer": "To be patient, for the promise of Allah is truth, and not to let those who have no certainty discourage him."
+        },
+        {
+            "id": "ch30-q54",
+            "text": "What is the meaning of the name 'Ar-Rum'?",
+            "answer": "The Romans."
+        },
+        {
+            "id": "ch30-q55",
+            "text": "What is the 'Adna al-Ard'?",
+            "answer": "The 'nearest land' or the 'lowest land', referring to the location of the Roman-Persian battle."
+        },
+        {
+            "id": "ch30-q56",
+            "text": "What is the 'Face' (Wajh) of Allah?",
+            "answer": "A term used to describe seeking His pleasure, approval, and reward alone."
+        },
+        {
+            "id": "ch30-q57",
+            "text": "What is the 'Mawaddah' and 'Rahmah' in marriage?",
+            "answer": "Affection and mercy, the two essential spiritual ingredients for a successful union."
+        },
+        {
+            "id": "ch30-q58",
+            "text": "What is the 'diversity of colors' a sign of?",
+            "answer": "Allah's infinite creativity and the beauty of human difference."
+        },
+        {
+            "id": "ch30-q59",
+            "text": "What is the 'seeking of bounty' (Ibtigha' Fadlihi)?",
+            "answer": "Working and searching for one's livelihood provided by Allah."
+        },
+        {
+            "id": "ch30-q60",
+            "text": "What is the 'Hanif' state?",
+            "answer": "The state of pure monotheism, being upright and sincere in faith."
+        },
+        {
+            "id": "ch30-q61",
+            "text": "What is the 'Specified Term' (Ajal Musamma)?",
+            "answer": "The fixed time for the existence of the universe and every individual life."
+        },
+        {
+            "id": "ch30-q62",
+            "text": "Why is the Roman victory called 'Help from Allah'?",
+            "answer": "Because it validated the Quranic prophecy and supported the People of the Book against idolaters."
+        },
+        {
+            "id": "ch30-q63",
+            "text": "What is the 'outward appearance' (Zahiran) of life?",
+            "answer": "The material and temporary aspects of the world that people focus on while neglecting the spiritual reality."
+        },
+        {
+            "id": "ch30-q64",
+            "text": "What is the 'highest example'?",
+            "answer": "The ultimate perfection that belongs only to Allah."
+        },
+        {
+            "id": "ch30-q65",
+            "text": "What is the 'natural disposition' (Fitra)?",
+            "answer": "The innate human drive to recognize and worship the one true Creator."
+        },
+        {
+            "id": "ch30-q66",
+            "text": "What is the 'Bounteous reward'?",
+            "answer": "The multiplication of good deeds for those who give for Allah's sake."
+        },
+        {
+            "id": "ch30-q67",
+            "text": "What is the 'Corruption' (Fasad) on land and sea?",
+            "answer": "Environmental, social, and spiritual decay caused by human immorality and rejection of divine laws."
+        },
+        {
+            "id": "ch30-q68",
+            "text": "What is the 'Correct religion' (Ad-Din al-Qayyim)?",
+            "answer": "The upright and unchanging path of Islam."
+        },
+        {
+            "id": "ch30-q69",
+            "text": "What is the 'Mercy' (Rahmah) shown through rain?",
+            "answer": "The physical provision of water and the spiritual reminder of resurrection."
+        },
+        {
+            "id": "ch30-q70",
+            "text": "What is the 'Retribution' (Intiqam) from criminals?",
+            "answer": "Allah's justice in punishing those who knowingly reject the truth and harm others."
+        },
+        {
+            "id": "ch30-q71",
+            "text": "What is the 'Obligation' (Haqqan) to help believers?",
+            "answer": "A promise Allah has made to Himself to ensure the ultimate success of the faithful."
+        },
+        {
+            "id": "ch30-q72",
+            "text": "What is the 'Breeze' (Mubashshirat) role of the winds?",
+            "answer": "To bring relief and the news of coming rain."
+        },
+        {
+            "id": "ch30-q73",
+            "text": "What is the 'White hair' (Shaybah) a sign of?",
+            "answer": "The final stage of human life leading to the return to the Creator."
+        },
+        {
+            "id": "ch30-q74",
+            "text": "What is the 'Certainty' (Yaqin) required for patience?",
+            "answer": "Absolute trust in Allah's promise which keeps one firm during trials."
+        },
+        {
+            "id": "ch30-q75",
+            "text": "What is the 'Return' (Yarji'un) hoped for through trials?",
+            "answer": "Turning back to Allah and correcting one's course."
+        },
+        {
+            "id": "ch30-q76",
+            "text": "What is the 'Appeasement' (Yusta'tabun)?",
+            "answer": "Being given a chance to make amends, which will not happen after death."
+        },
+        {
+            "id": "ch30-q77",
+            "text": "What is the 'Knowledge and Faith' (Al-Ilm wal-Iman)?",
+            "answer": "The two foundations for understanding the reality of the Hereafter."
+        },
+        {
+            "id": "ch30-q78",
+            "text": "What is the 'Seal' (Tab'a) on hearts?",
+            "answer": "The loss of spiritual perception due to persistent rejection of the truth."
+        },
+        {
+            "id": "ch30-q79",
+            "text": "What is the 'Truth' (Haqq) which Allah's promise is?",
+            "answer": "The undeniable reality of resurrection and judgment."
+        },
+        {
+            "id": "ch30-q80",
+            "text": "What is the final lesson of Ar-Rum?",
+            "answer": "That political and natural events are all signs of Allah's power and reminders of the ultimate return to Him."
+        }
+    ]
 }

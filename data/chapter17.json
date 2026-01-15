@@ -6,103 +6,403 @@
   "questions": [
     {
       "id": "ch17-q1",
-      "text": "What miracle does the first verse of this Surah describe?",
-      "answer": "The Night Journey (Al-Isra) of Prophet Muhammad (SAW) from Al-Masjid al-Haram to Al-Masjid al-Aqsa."
+      "text": "What miracle does the first Ayah of this Surah describe?",
+      "answer": "The Night Journey (Al-Isra) of Prophet Muhammad (SAW) from Al-Masjid al-Haram in Makkah to Al-Masjid al-Aqsa in Jerusalem."
     },
     {
       "id": "ch17-q2",
-      "text": "What was the purpose of the Night Journey as stated in Verse 1?",
+      "text": "What was the purpose of the Night Journey as stated in the opening of the Surah?",
       "answer": "To show the Prophet (SAW) some of Allah's signs."
     },
     {
       "id": "ch17-q3",
-      "text": "What did Allah decree for the Children of Israel in the Scripture regarding their behavior on Earth?",
-      "answer": "That they would cause corruption twice and reach a level of great haughtiness."
+      "text": "Which Prophet was given the Scripture as a guidance for the Children of Israel?",
+      "answer": "Prophet Musa (AS)."
     },
     {
       "id": "ch17-q4",
-      "text": "How does Allah describe the Quran's guidance for mankind in Verse 9?",
-      "answer": "It guides to that which is most upright and gives glad tidings to the believers."
+      "text": "What did Allah decree for the Children of Israel regarding their behavior on Earth?",
+      "answer": "That they would cause corruption twice and reach a level of great haughtiness."
     },
     {
       "id": "ch17-q5",
-      "text": "What is attached to the neck of every human being on the Day of Judgment?",
-      "answer": "Their 'bird' (record of deeds), which will be shown as an open book."
+      "text": "How does Allah describe the Quran's guidance for mankind?",
+      "answer": "It guides to that which is most upright and gives glad tidings to the believers who do righteous deeds."
     },
     {
       "id": "ch17-q6",
-      "text": "What is the command regarding treatment of parents in Verse 23?",
-      "answer": "To worship only Allah and to show kindness to parents, never saying even 'Uff' (a sigh of frustration) to them."
+      "text": "What is the nature of man according to this Surah when he prays?",
+      "answer": "Man supplicates for evil just as he supplicates for good, for man is ever hasty."
     },
     {
       "id": "ch17-q7",
-      "text": "How does the Surah characterize those who spend wastefully (the Tabdhir)?",
-      "answer": "They are brothers of the devils (Ikhwan al-Shayatin)."
+      "text": "What are the two signs mentioned that Allah has made as a means to know the count of years?",
+      "answer": "The night and the day; Allah made the sign of the night dim and the sign of the day bright."
     },
     {
       "id": "ch17-q8",
-      "text": "What is the Quranic stance on taking the life of a child due to poverty?",
-      "answer": "It is strictly forbidden; Allah provides for them and for the parents. Killing them is a great sin."
+      "text": "What is attached to the neck of every human being?",
+      "answer": "Their 'bird' (record of deeds), which will be shown as an open book on the Day of Judgment."
     },
     {
       "id": "ch17-q9",
-      "text": "What is the instruction regarding fulfilling promises and covenants (Verse 34)?",
-      "answer": "Fulfill the covenant, for the covenant will be questioned on the Day of Judgment."
+      "text": "What will be told to every person as they receive their record of deeds?",
+      "answer": "'Read your record. Sufficient is your soul today as an accountant against you.'"
     },
     {
       "id": "ch17-q10",
-      "text": "What is the command regarding walking on the earth with pride (Verse 37)?",
-      "answer": "Do not walk with insolence, for you cannot tear the earth apart nor reach the mountains in height."
+      "text": "Does one person bear the burden of another person's sins?",
+      "answer": "No, 'no bearer of burdens will bear the burden of another.'"
     },
     {
       "id": "ch17-q11",
-      "text": "What do the seven heavens and the earth and all in them do regarding Allah?",
-      "answer": "They exalt Him, but mankind does not understand their way of exalting (Tasbih)."
+      "text": "Does Allah punish a people before sending a messenger to them?",
+      "answer": "No, 'We would never punish until We sent a messenger.'"
     },
     {
       "id": "ch17-q12",
-      "text": "What will the disbelievers say when they are raised from the dead regarding their time spent in the grave?",
-      "answer": "They will think they remained there for only a very short time."
+      "text": "What is the difference between those who desire the fleeting life (this world) and those who desire the Hereafter?",
+      "answer": "Those who desire this world are given what Allah wills, but their end is Hell; those who desire the Hereafter and strive for it with faith will have their effort appreciated."
     },
     {
       "id": "ch17-q13",
+      "text": "What is the command regarding treatment of parents in this Surah?",
+      "answer": "To worship only Allah and to show kindness to parents, especially in their old age, never saying even 'Uff' (a sigh of frustration) to them."
+    },
+    {
+      "id": "ch17-q14",
+      "text": "What prayer are believers taught for their parents?",
+      "answer": "'My Lord, have mercy upon them as they brought me up [when I was] small.'"
+    },
+    {
+      "id": "ch17-q15",
+      "text": "Apart from parents, who else are we commanded to give their due rights?",
+      "answer": "The relatives, the needy, and the traveler."
+    },
+    {
+      "id": "ch17-q16",
+      "text": "How does the Surah characterize those who spend wastefully (the Tabdhir)?",
+      "answer": "They are brothers of the devils (Ikhwan al-Shayatin), and Shaitan is ever ungrateful to his Lord."
+    },
+    {
+      "id": "ch17-q17",
+      "text": "What is the instruction regarding moderation in spending?",
+      "answer": "Do not keep your hand chained to your neck (be stingy) nor extend it to its full stretch (be wasteful), lest you become blamed and insolvent."
+    },
+    {
+      "id": "ch17-q18",
+      "text": "What is the Quranic stance on taking the life of a child due to fear of poverty?",
+      "answer": "It is strictly forbidden; Allah provides for them and for the parents. Killing them is a great sin."
+    },
+    {
+      "id": "ch17-q19",
+      "text": "What is the command regarding Zina (unlawful sexual intercourse)?",
+      "answer": "Do not even approach it; indeed, it is an immorality and an evil way."
+    },
+    {
+      "id": "ch17-q20",
+      "text": "What is the rule regarding killing a soul?",
+      "answer": "Do not kill the soul which Allah has forbidden, except by right (legal justice)."
+    },
+    {
+      "id": "ch17-q21",
+      "text": "What is the command regarding the property of an orphan?",
+      "answer": "Do not approach it except in the best way (to improve it) until he reaches maturity."
+    },
+    {
+      "id": "ch17-q22",
+      "text": "What is the instruction regarding fulfilling promises and covenants?",
+      "answer": "Fulfill the covenant, for the covenant will be questioned on the Day of Judgment."
+    },
+    {
+      "id": "ch17-q23",
+      "text": "What is the command regarding weights and measures in trade?",
+      "answer": "Give full measure when you measure and weigh with an even balance."
+    },
+    {
+      "id": "ch17-q24",
+      "text": "What is the warning against following something you have no knowledge of?",
+      "answer": "Do not pursue that of which you have no knowledge; indeed, the hearing, the sight, and the heart—all those will be questioned."
+    },
+    {
+      "id": "ch17-q25",
+      "text": "What is the command regarding walking on the earth with pride?",
+      "answer": "Do not walk with insolence, for you cannot tear the earth apart nor reach the mountains in height."
+    },
+    {
+      "id": "ch17-q26",
+      "text": "How do the seven heavens and the earth and all in them regard Allah?",
+      "answer": "They exalt Him, but mankind does not understand their way of exalting (Tasbih)."
+    },
+    {
+      "id": "ch17-q27",
+      "text": "What is placed between the Prophet and those who do not believe in the Hereafter when he recites the Quran?",
+      "answer": "A concealed veil, so they do not understand the message."
+    },
+    {
+      "id": "ch17-q28",
+      "text": "What will the disbelievers say when they are raised from the dead?",
+      "answer": "They will think they remained in their graves for only a very short time."
+    },
+    {
+      "id": "ch17-q29",
+      "text": "How should believers speak to others, especially in disputes?",
+      "answer": "They should say that which is best, for Shaitan seeks to sow discord between them."
+    },
+    {
+      "id": "ch17-q30",
+      "text": "Who are the beings called upon besides Allah that themselves seek a way to their Lord?",
+      "answer": "Even the righteous beings (like angels or prophets) whom people worship seek nearness to Allah and fear His punishment."
+    },
+    {
+      "id": "ch17-q31",
+      "text": "What is the 'Cursed Tree' mentioned in the Quran?",
+      "answer": "It refers to the Tree of Zaqqum in Hell, which is a trial for people."
+    },
+    {
+      "id": "ch17-q32",
+      "text": "Why did Iblis refuse to prostrate to Adam according to this Surah?",
+      "answer": "He said, 'Should I prostrate to one You created from clay?'"
+    },
+    {
+      "id": "ch17-q33",
+      "text": "What did Iblis vow to do to the descendants of Adam?",
+      "answer": "To bring them under his control, except for a few."
+    },
+    {
+      "id": "ch17-q34",
+      "text": "What are the tools Shaitan uses to mislead people?",
+      "answer": "His voice, his cavalry and infantry (allies), and sharing in their wealth and children, making them false promises."
+    },
+    {
+      "id": "ch17-q35",
+      "text": "Who are the only ones Shaitan has no authority over?",
+      "answer": "The true servants of Allah; for them, Allah is sufficient as a Guardian."
+    },
+    {
+      "id": "ch17-q36",
+      "text": "What is the favor Allah has bestowed upon the Children of Adam?",
+      "answer": "He has honored them, carried them on land and sea, provided them with good things, and preferred them over much of His creation."
+    },
+    {
+      "id": "ch17-q37",
+      "text": "How will every people be called on the Day of Judgment?",
+      "answer": "They will be called with their 'Imam' (their leader or their record of deeds)."
+    },
+    {
+      "id": "ch17-q38",
+      "text": "What happens to the one who is 'blind' (spiritually) in this life?",
+      "answer": "He will be blind in the Hereafter and even more astray from the path."
+    },
+    {
+      "id": "ch17-q39",
+      "text": "What was the attempt of the disbelievers regarding the Prophet's revelation?",
+      "answer": "They tried to tempt him away from what was revealed to him so he might invent something else about Allah."
+    },
+    {
+      "id": "ch17-q40",
+      "text": "What are the times of prayer mentioned in this Surah?",
+      "answer": "From the decline of the sun until the darkness of the night, and the dawn prayer (Quran al-Fajr)."
+    },
+    {
+      "id": "ch17-q41",
+      "text": "What is the special status of the dawn prayer?",
+      "answer": "It is witnessed by the angels."
+    },
+    {
+      "id": "ch17-q42",
+      "text": "What is the 'Tahajjud' prayer and what is its reward for the Prophet?",
+      "answer": "A prayer in the night as an additional duty; through it, Allah would raise him to a 'Praised Station' (Maqam-um-Mahmuda)."
+    },
+    {
+      "id": "ch17-q43",
+      "text": "What prayer did the Prophet use for a truthful beginning and end?",
+      "answer": "'My Lord, cause me to enter a truthful entrance and cause me to exit a truthful exit and grant me from Yourself a supporting authority.'"
+    },
+    {
+      "id": "ch17-q44",
+      "text": "What happens when the truth arrives regarding falsehood?",
+      "answer": "'Truth has come, and falsehood has departed. Indeed, falsehood is bound to depart.'"
+    },
+    {
+      "id": "ch17-q45",
       "text": "How does Allah describe the Quran's effect on believers vs. wrongdoers?",
       "answer": "It is a healing and mercy for believers, but increases the wrongdoers only in loss."
     },
     {
-      "id": "ch17-q14",
-      "text": "What is the 'Ruh' (Soul/Spirit) according to Verse 85?",
+      "id": "ch17-q46",
+      "text": "How does man react when Allah bestows favor upon him compared to when evil touches him?",
+      "answer": "When favored, he turns away and distances himself; when evil touches him, he is in despair."
+    },
+    {
+      "id": "ch17-q47",
+      "text": "What is the 'Ruh' (Soul/Spirit) according to this Surah?",
       "answer": "It is of the affair/command of my Lord, and mankind has been given but little knowledge of it."
     },
     {
-      "id": "ch17-q15",
-      "text": "What was the challenge regarding the Quran mentioned in Verse 88?",
+      "id": "ch17-q48",
+      "text": "What was the challenge regarding the Quran mentioned in this Surah?",
       "answer": "If mankind and jinn joined together to produce the like of the Quran, they could not, even if they assisted each other."
     },
     {
-      "id": "ch17-q16",
+      "id": "ch17-q49",
+      "text": "Name three of the physical miracles the disbelievers demanded from the Prophet.",
+      "answer": "Causing a spring to gush from the earth, having a garden of palms and grapes with rivers, or bringing Allah and the angels before them."
+    },
+    {
+      "id": "ch17-q50",
+      "text": "What was the disbelievers' objection to a human messenger?",
+      "answer": "They said, 'Has Allah sent a human as a messenger?'"
+    },
+    {
+      "id": "ch17-q51",
       "text": "Why did Allah send a human Messenger instead of an Angel?",
-      "answer": "Because if there were angels walking on earth in peace, Allah would have sent down an angel as a messenger."
+      "answer": "Because if there were angels walking on earth in peace, Allah would have sent down an angel as a messenger to them."
     },
     {
-      "id": "ch17-q17",
-      "text": "What is the 'Maqam-um-Mahmuda' promised to the Prophet (SAW) in Verse 79?",
-      "answer": "The 'Praised Station' of intercession on the Day of Judgment, attained through Tahajjud prayer."
+      "id": "ch17-q52",
+      "text": "How will the disbelievers be gathered on the Day of Resurrection?",
+      "answer": "On their faces—blind, dumb, and deaf; their refuge is Hell."
     },
     {
-      "id": "ch17-q18",
+      "id": "ch17-q53",
       "text": "How many clear signs were given to Prophet Musa (AS)?",
       "answer": "Nine clear signs."
     },
     {
-      "id": "ch17-q19",
-      "text": "What is the instruction regarding the tone of voice during prayer (Verse 110)?",
+      "id": "ch17-q54",
+      "text": "What did Fir'aun say to Musa when he came with the signs?",
+      "answer": "He said, 'Indeed, I think you, O Musa, are affected by magic.'"
+    },
+    {
+      "id": "ch17-q55",
+      "text": "What was Musa's response to Fir'aun's accusation of magic?",
+      "answer": "He said, 'You have already known that none has sent down these [signs] except the Lord of the heavens and the earth as evidence, and indeed, I think you, O Pharaoh, are destroyed.'"
+    },
+    {
+      "id": "ch17-q56",
+      "text": "What happened to Fir'aun and those with him when he tried to drive the Children of Israel from the land?",
+      "answer": "Allah drowned them all together."
+    },
+    {
+      "id": "ch17-q57",
+      "text": "What was promised to the Children of Israel after Fir'aun's drowning?",
+      "answer": "To dwell in the land, and when the promise of the Hereafter comes, Allah will bring them all together."
+    },
+    {
+      "id": "ch17-q58",
+      "text": "What is the reaction of those who were given knowledge before when the Quran is recited to them?",
+      "answer": "They fall upon their faces in prostration, weeping, and it increases them in humility."
+    },
+    {
+      "id": "ch17-q59",
+      "text": "What names should be used to call upon Allah?",
+      "answer": "Call Him Allah or Ar-Rahman; to Him belong the best names (Al-Asma'ul Husna)."
+    },
+    {
+      "id": "ch17-q60",
+      "text": "What is the instruction regarding the tone of voice during prayer?",
       "answer": "Do not be too loud in your prayer nor too quiet, but seek a way in between."
     },
     {
-      "id": "ch17-q20",
-      "text": "What names should be used to call upon Allah?",
-      "answer": "Call Him Allah or Ar-Rahman; to Him belong the best names (Al-Asma'ul Husna)."
+      "id": "ch17-q61",
+      "text": "What is the final praise mentioned at the end of the Surah?",
+      "answer": "Praise to Allah, who has not taken a son and has had no partner in [His] dominion and has no need of a protector out of weakness; and magnify Him with [great] magnificence."
+    },
+    {
+      "id": "ch17-q62",
+      "text": "What is the 'Night Journey' (Isra)?",
+      "answer": "The miraculous horizontal travel of the Prophet from Makkah to Jerusalem."
+    },
+    {
+      "id": "ch17-q63",
+      "text": "What is the 'Sacred Mosque' (Al-Masjid al-Haram)?",
+      "answer": "The mosque in Makkah surrounding the Kaaba."
+    },
+    {
+      "id": "ch17-q64",
+      "text": "What is the 'Farthest Mosque' (Al-Masjid al-Aqsa)?",
+      "answer": "The mosque in Jerusalem whose surroundings Allah has blessed."
+    },
+    {
+      "id": "ch17-q65",
+      "text": "What is the 'corruption twice' mentioned for the Children of Israel?",
+      "answer": "Two historical periods of widespread disobedience and arrogance that led to their downfall."
+    },
+    {
+      "id": "ch17-q66",
+      "text": "What is the 'haughtiness' (Uluww) of the Children of Israel?",
+      "answer": "Their excessive pride and rebellion against Allah's laws."
+    },
+    {
+      "id": "ch17-q67",
+      "text": "What is the 'sign of the night'?",
+      "answer": "The darkness and the moon, made less bright for rest and time-keeping."
+    },
+    {
+      "id": "ch17-q68",
+      "text": "What is the 'sign of the day'?",
+      "answer": "The sunlight, made bright for people to seek Allah's bounty."
+    },
+    {
+      "id": "ch17-q69",
+      "text": "What is the 'Accountant' soul?",
+      "answer": "The person's own awareness and the record of their deeds on the Day of Judgment."
+    },
+    {
+      "id": "ch17-q70",
+      "text": "What is the 'Mercy' for parents?",
+      "answer": "The kindness and care children should provide them in their old age."
+    },
+    {
+      "id": "ch17-q71",
+      "text": "What is 'wastefulness' (Tabdhir)?",
+      "answer": "Spending wealth on sinful things or in an excessive, pointless manner."
+    },
+    {
+      "id": "ch17-q72",
+      "text": "What is the 'Covenant' (Ahd)?",
+      "answer": "The promises made to Allah and between people."
+    },
+    {
+      "id": "ch17-q73",
+      "text": "What is 'insolence' in walking?",
+      "answer": "An arrogant or boastful manner of movement."
+    },
+    {
+      "id": "ch17-q74",
+      "text": "What is the 'Tasbih' of the universe?",
+      "answer": "The continuous praise and glorification of Allah by all created things."
+    },
+    {
+      "id": "ch17-q75",
+      "text": "What is the 'veil' (Hijab)?",
+      "answer": "A spiritual barrier that prevents the arrogant from understanding the Quran."
+    },
+    {
+      "id": "ch17-q76",
+      "text": "What is the 'supporting authority' (Sultanun Nasira)?",
+      "answer": "The divine support and power given by Allah to the truth."
+    },
+    {
+      "id": "ch17-q77",
+      "text": "What is the 'healing' (Shifa) of the Quran?",
+      "answer": "Its ability to guide the soul and cure the diseases of the heart."
+    },
+    {
+      "id": "ch17-q78",
+      "text": "What is the 'Spirit' (Ruh)?",
+      "answer": "The life-force or the angel Jibril, whose nature is known only to Allah."
+    },
+    {
+      "id": "ch17-q79",
+      "text": "What is the 'Praised Station' (Maqam-um-Mahmuda)?",
+      "answer": "A high rank of honor and intercession for the Prophet in the Hereafter."
+    },
+    {
+      "id": "ch17-q80",
+      "text": "What is the 'Final Prayer' of the Surah?",
+      "answer": "The declaration of Allah's oneness, self-sufficiency, and greatness."
     }
   ]
 }

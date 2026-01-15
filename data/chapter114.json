@@ -6,101 +6,106 @@
     "questions": [
         {
             "id": "ch114-q1",
+            "text": "Why does the Surah mention Allah as Lord, King, and God of mankind?",
+            "answer": "To strengthen complete reliance: Allah controls, owns, and deserves worship, so He is the true protector."
+        },
+        {
+            "id": "ch114-q2",
+            "text": "What does this Surah teach about how whispers (waswas) work and how to protect yourself?",
+            "answer": "Whispers target the heart with doubts and temptations and can come from jinn or humans. They weaken when Allah is remembered, so protection is by sincerely seeking refuge in Allah, doing dhikr and Qur’an, keeping good company, and acting quickly against sinful thoughts."
+        },
+        {
+            "id": "ch114-q3",
+            "text": "True/False: The Surah teaches that Satan can force a believer to sin.",
+            "answer": "False. Satan whispers; the choice remains with the person."
+        },
+        {
+            "id": "ch114-q4",
+            "text": "What is one practical way to respond immediately to a bad whisper?",
+            "answer": "Seek refuge in Allah, do dhikr, change environment, and take a small action toward good."
+        },
+        {
+            "id": "ch114-q5",
+            "text": "How do Surah Al-Falaq and Surah An-Nas complement each other?",
+            "answer": "Al-Falaq shields from external harms; An-Nas shields from internal whispers and spiritual attacks."
+        },
+        {
+            "id": "ch114-q6",
+            "text": "How can a believer reduce whisper vulnerability long-term?",
+            "answer": "Strengthen prayer, Quran, daily adhkar, halal boundaries, and good company."
+        },
+        {
+            "id": "ch114-q7",
+            "text": "True/False: The Surah teaches protection is achieved mainly by rituals without sincerity.",
+            "answer": "False. Refuge is sincere turning to Allah as Lord, King, and God."
+        },
+        {
+            "id": "ch114-q8",
             "text": "What does 'An-Nas' mean?",
             "answer": "Mankind / People."
         },
         {
-            "id": "ch114-q2",
+            "id": "ch114-q9",
             "text": "What are the three attributes of Allah mentioned in the first three verses?",
             "answer": "The Lord (Rabb), the King (Malik), and the God (Ilah) of mankind."
         },
         {
-            "id": "ch114-q3",
-            "text": "Who are we seeking refuge from in Verse 4?",
+            "id": "ch114-q10",
+            "text": "Who are we seeking refuge from in this Surah?",
             "answer": "The evil of the retreating whisperer (Waswasil-Khannas)."
         },
         {
-            "id": "ch114-q4",
-            "text": "Where does the whisperer whisper (Verse 5)?",
+            "id": "ch114-q11",
+            "text": "Where does the whisperer whisper according to this Surah?",
             "answer": "Into the breasts/hearts of mankind (Sudurin-nas)."
         },
         {
-            "id": "ch114-q5",
-            "text": "From which two groups do the whisperers come (Verse 6)?",
+            "id": "ch114-q12",
+            "text": "From which two groups do the whisperers come according to this Surah?",
             "answer": "From among the Jinn and mankind (Minal Jinnati wan-nas)."
         },
         {
-            "id": "ch114-q6",
+            "id": "ch114-q13",
             "text": "What does 'Al-Khannas' mean?",
             "answer": "The one who withdraws or retreats (Satan retreats when Allah is remembered)."
         },
         {
-            "id": "ch114-q7",
+            "id": "ch114-q14",
             "text": "What is 'Waswas'?",
             "answer": "Evil whispers or suggestions that are repeated and hidden."
         },
         {
-            "id": "ch114-q8",
+            "id": "ch114-q15",
             "text": "How can a human be a 'whisperer'?",
             "answer": "By suggesting evil ideas, discouraging good deeds, or spreading doubt through speech and influence."
         },
         {
-            "id": "ch114-q9",
+            "id": "ch114-q16",
             "text": "Why is Allah's protection needed against whispers?",
             "answer": "Because whispers are the starting point of almost every sin and deviation."
         },
         {
-            "id": "ch114-q10",
+            "id": "ch114-q17",
             "text": "How many verses are in Surah An-Nas?",
             "answer": "Six verses."
         },
         {
-            "id": "ch114-q11",
-            "text": "Why is 'An-Nas' repeated in almost every verse?",
-            "answer": "To emphasize that Allah is the Master and Protector of all people in every capacity."
-        },
-        {
-            "id": "ch114-q12",
+            "id": "ch114-q18",
             "text": "What is the significance of this being the final Surah of the Quran?",
             "answer": "It ends the Quran with a plea for protection, reminding us that after receiving guidance, our greatest struggle is the internal battle against temptation."
         },
         {
-            "id": "ch114-q13",
-            "text": "Does the devil have power to force us to sin?",
-            "answer": "No, he only has the power to whisper and suggest; the choice remains with the human."
-        },
-        {
-            "id": "ch114-q14",
-            "text": "What is the 'Sudur' mentioned in Verse 5?",
+            "id": "ch114-q19",
+            "text": "What is the 'Sudur' mentioned in this Surah?",
             "answer": "The breasts / chests, representing the entry point to the heart."
         },
         {
-            "id": "ch114-q15",
-            "text": "What is the relationship between 'Dhikir' (remembrance) and 'Al-Khannas'?",
-            "answer": "When a person remembers Allah, the whisperer 'shrinks' and 'retreats' (Khannas)."
-        },
-        {
-            "id": "ch114-q16",
-            "text": "Is this a Makkan or Madinan Surah?",
-            "answer": "Madinan (linked with Al-Falaq)."
-        },
-        {
-            "id": "ch114-q17",
-            "text": "What is the meaning of 'Malikin-Nas'?",
-            "answer": "The King of mankind (The Absolute Sovereign)."
-        },
-        {
-            "id": "ch114-q18",
-            "text": "What is the meaning of 'Ilahin-Nas'?",
-            "answer": "The God of mankind (The only one worthy of their worship)."
-        },
-        {
-            "id": "ch114-q19",
-            "text": "How do Al-Falaq and An-Nas work together?",
-            "answer": "They provide a complete shield: Al-Falaq against external harms and An-Nas against internal spiritual attacks."
-        },
-        {
             "id": "ch114-q20",
+            "text": "Is this a Makkan or Madinan Surah?",
+            "answer": "Most scholars classify it as Makkan."
+        },
+        {
+            "id": "ch114-q21",
             "text": "What is the final word of the Holy Quran?",
             "answer": "An-Nas (Mankind)."
         }

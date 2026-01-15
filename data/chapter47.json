@@ -1,108 +1,353 @@
 {
-  "id": 47,
-  "englishName": "Muhammad",
-  "arabicName": "محمد",
-  "translation": "Muhammad",
-  "questions": [
-    {
-      "id": "ch47-q1",
-      "text": "What does Allah do to the deeds of those who disbelieve and avert others from His path?",
-      "answer": "He wastes their deeds (Adalla a'malahum)."
-    },
-    {
-      "id": "ch47-q2",
-      "text": "What does Allah do for those who believe and believe in what was sent down to Muhammad?",
-      "answer": "He removes from them their misdeeds and amends their condition (Aslaha balahum)."
-    },
-    {
-      "id": "ch47-q3",
-      "text": "What is the command regarding enemies met in battle?",
-      "answer": "To strike their necks until they are subdued, then secure the bonds, and thereafter either release them as a favor or for ransom."
-    },
-    {
-      "id": "ch47-q4",
-      "text": "If Allah willed, could He have taken retribution from the disbelievers directly?",
-      "answer": "Yes, but He tests some by means of others."
-    },
-    {
-      "id": "ch47-q5",
-      "text": "What is the promise for those who are killed in the cause of Allah?",
-      "answer": "He will never waste their deeds; He will guide them and admit them to Paradise."
-    },
-    {
-      "id": "ch47-q6",
-      "text": "What is the condition for Allah's help according to Verse 7?",
-      "answer": "'If you support Allah, He will support you and plant firmly your feet'."
-    },
-    {
-      "id": "ch47-q7",
-      "text": "How is the life of the disbelievers compared in Verse 12?",
-      "answer": "They enjoy themselves and eat as cattle eat, and the Fire will be their residence."
-    },
-    {
-      "id": "ch47-q8",
-      "text": "Describe the four rivers of Paradise mentioned in Verse 15.",
-      "answer": "Rivers of water unaltered, rivers of milk whose taste never changes, rivers of wine delicious to drinkers, and rivers of purified honey."
-    },
-    {
-      "id": "ch47-q9",
-      "text": "What happens when the hypocrites leave the presence of the Prophet (SAW)?",
-      "answer": "They mockingly ask the people of knowledge, 'What did he just say?'."
-    },
-    {
-      "id": "ch47-q10",
-      "text": "What is the 'most important knowledge' mentioned in Verse 19?",
-      "answer": "'Know, [O Muhammad], that there is no deity except Allah, and ask forgiveness for your sin'."
-    },
-    {
-      "id": "ch47-q11",
-      "text": "What are the 'signs' (Ashrat) of the Hour?",
-      "answer": "Its conditions or portents that have already begun to appear."
-    },
-    {
-      "id": "ch47-q12",
-      "text": "What happens to the hearts of those who do not reflect upon the Quran?",
-      "answer": "They have locks upon them (Verse 24)."
-    },
-    {
-      "id": "ch47-q13",
-      "text": "How does Allah describe the death of those whose souls are taken by angels while they are in a state of wrongdoing?",
-      "answer": "The angels will be striking their faces and their backs."
-    },
-    {
-      "id": "ch47-q14",
-      "text": "Will Allah test the believers to know who among them are the 'Mujahedeen' and the 'Sabireen'?",
-      "answer": "Yes (Verse 31)."
-    },
-    {
-      "id": "ch47-q15",
-      "text": "What is the ruling on seeking peace when the believers are superior?",
-      "answer": "Do not weaken and call for peace while you are superior; Allah is with you (Verse 35)."
-    },
-    {
-      "id": "ch47-q16",
-      "text": "What is the life of this world according to Verse 36?",
-      "answer": "Amusement and play."
-    },
-    {
-      "id": "ch47-q17",
-      "text": "What happens if Allah asks people for all their wealth?",
-      "answer": "They would withhold it stingily, and He would bring out their hatred."
-    },
-    {
-      "id": "ch47-q18",
-      "text": "What is the warning at the end of the Surah regarding turning away from Islam?",
-      "answer": "If you turn away, He will replace you with another people; then they will not be the likes of you."
-    },
-    {
-      "id": "ch47-q19",
-      "text": "Who is the 'Ghani' (Free of need) and who are the 'Fuqara' (The needy)?",
-      "answer": "Allah is the Free of need, and mankind are the needy."
-    },
-    {
-      "id": "ch47-q20",
-      "text": "What is the consequence of 'breaking ties of kinship' (Verse 22)?",
-      "answer": "Being cursed by Allah, becoming deaf and blind to the truth."
-    }
-  ]
+    "id": 47,
+    "englishName": "Muhammad",
+    "arabicName": "محمد",
+    "translation": "Muhammad",
+    "questions": [
+        {
+            "id": "ch47-q1",
+            "text": "What is the main contrast Surah Muhammad makes between believers and disbelievers?",
+            "answer": "Believers are guided and forgiven, while disbelievers who block Allah's path have their deeds wasted."
+        },
+        {
+            "id": "ch47-q2",
+            "text": "What does it mean that Allah 'wastes' the deeds of those who reject and obstruct guidance?",
+            "answer": "Their deeds bring no saving reward because they lacked faith and sincerity toward Allah."
+        },
+        {
+            "id": "ch47-q3",
+            "text": "True/False: The Surah teaches that good deeds without faith always guarantee salvation.",
+            "answer": "False. Faith and sincerity are the foundation for deeds to be accepted."
+        },
+        {
+            "id": "ch47-q4",
+            "text": "What does the Surah teach about Allah removing misdeeds of believers?",
+            "answer": "Allah forgives and purifies them, and He improves their spiritual condition and life direction."
+        },
+        {
+            "id": "ch47-q5",
+            "text": "How does the Surah frame conflict and struggle as part of Allah's testing?",
+            "answer": "Allah tests people through one another to reveal sincerity, patience, and commitment to truth."
+        },
+        {
+            "id": "ch47-q6",
+            "text": "What ethical principle governs treatment of captives mentioned in this Surah?",
+            "answer": "After fighting ends, captives may be released as a favor or for ransom, showing controlled justice not chaos."
+        },
+        {
+            "id": "ch47-q7",
+            "text": "What does the Surah teach about Allah's support for believers who support His cause?",
+            "answer": "Allah grants them help and firmness, strengthening their stance and morale."
+        },
+        {
+            "id": "ch47-q8",
+            "text": "What does 'supporting Allah' practically mean for believers today?",
+            "answer": "Obeying Allah, defending truth, upholding justice, and striving sincerely in worship and character."
+        },
+        {
+            "id": "ch47-q9",
+            "text": "How does the Surah describe the disbeliever's attitude toward worldly pleasure?",
+            "answer": "They indulge like grazing cattle, living for appetite while ignoring the Hereafter."
+        },
+        {
+            "id": "ch47-q10",
+            "text": "What is one life application lesson from the comparison to cattle?",
+            "answer": "Do not reduce life to consumption; live with purpose, worship, and awareness of accountability."
+        },
+        {
+            "id": "ch47-q11",
+            "text": "What does the Surah teach about Paradise that motivates believers?",
+            "answer": "It describes pure, lasting pleasures and honored provision, contrasting with Hell for deniers."
+        },
+        {
+            "id": "ch47-q12",
+            "text": "What is the spiritual message behind describing different rivers in Paradise?",
+            "answer": "Allah's reward is complete and pure, beyond worldly limitations and harm."
+        },
+        {
+            "id": "ch47-q13",
+            "text": "What does the Surah teach about hypocrites' relationship with the Prophet's teachings?",
+            "answer": "They listen superficially, then mock and pretend they did not understand, showing insincerity."
+        },
+        {
+            "id": "ch47-q14",
+            "text": "Why is mocking religious teaching a sign of hypocrisy in this Surah?",
+            "answer": "Because it reveals a heart that resists guidance and seeks excuses rather than truth."
+        },
+        {
+            "id": "ch47-q15",
+            "text": "What core knowledge does the Surah highlight as essential for a Muslim?",
+            "answer": "Knowing and living by 'There is no deity except Allah' and seeking Allah's forgiveness."
+        },
+        {
+            "id": "ch47-q16",
+            "text": "How does this Surah connect tawhid with humility?",
+            "answer": "Tawhid requires submitting to Allah alone and seeking forgiveness rather than being proud."
+        },
+        {
+            "id": "ch47-q17",
+            "text": "What does Surah Muhammad teach about signs of the Hour in general?",
+            "answer": "That its signs have begun, reminding people that the end is approaching and preparation is urgent."
+        },
+        {
+            "id": "ch47-q18",
+            "text": "What does it mean for hearts to have 'locks'?",
+            "answer": "A spiritual state where arrogance and sin prevent a person from understanding and accepting the Quran."
+        },
+        {
+            "id": "ch47-q19",
+            "text": "How can a person unlock their heart according to the Surah's message?",
+            "answer": "Through sincere reflection on the Quran, repentance, humility, and obedience."
+        },
+        {
+            "id": "ch47-q20",
+            "text": "What does the Surah teach about angels taking the souls of wrongdoers?",
+            "answer": "It describes a humiliating, painful death scene as a warning against ظلم and denial."
+        },
+        {
+            "id": "ch47-q21",
+            "text": "True/False: The Surah teaches that spiritual consequences begin only on Judgment Day.",
+            "answer": "False. It describes consequences already at death and beyond."
+        },
+        {
+            "id": "ch47-q22",
+            "text": "Why does Allah test believers by revealing who strives and who is patient?",
+            "answer": "To distinguish sincerity from claims and to raise ranks through genuine struggle and endurance."
+        },
+        {
+            "id": "ch47-q23",
+            "text": "What does the Surah teach about being weak and begging for compromise when believers are strong?",
+            "answer": "It warns against weakness that abandons principles, reminding believers Allah is with them."
+        },
+        {
+            "id": "ch47-q24",
+            "text": "How does the Surah describe the nature of worldly life to prevent attachment?",
+            "answer": "As amusement and play compared to the seriousness of the Hereafter."
+        },
+        {
+            "id": "ch47-q25",
+            "text": "What does the Surah teach about wealth as a test of sincerity?",
+            "answer": "If asked for everything, many would withhold; wealth reveals hidden stinginess and hypocrisy."
+        },
+        {
+            "id": "ch47-q26",
+            "text": "What is one practical way to pass the test of wealth based on this Surah?",
+            "answer": "Give for Allah sincerely, avoid stinginess, and trust Allah's reward."
+        },
+        {
+            "id": "ch47-q27",
+            "text": "What does the Surah warn about turning away from Islam after knowing the truth?",
+            "answer": "Allah can replace a people who turn away with others who are better in obedience."
+        },
+        {
+            "id": "ch47-q28",
+            "text": "How does the Surah teach humility by calling humanity 'fuqara' (needy)?",
+            "answer": "It reminds humans are dependent on Allah, while Allah is free of need (Al-Ghani)."
+        },
+        {
+            "id": "ch47-q29",
+            "text": "What does the Surah teach about breaking ties of kinship?",
+            "answer": "It is a major sin that leads to Allah's curse and spiritual blindness."
+        },
+        {
+            "id": "ch47-q30",
+            "text": "Why is maintaining family ties connected to spiritual health?",
+            "answer": "Because it reflects obedience, mercy, and gratitude, while severing ties hardens the heart."
+        },
+        {
+            "id": "ch47-q31",
+            "text": "True/False: The Surah teaches that hypocrisy is only an inner issue with no outward effects.",
+            "answer": "False. Hypocrisy shows in mockery, avoidance of sacrifice, and resistance to reflection."
+        },
+        {
+            "id": "ch47-q32",
+            "text": "How does Surah Muhammad encourage reflection on the Quran?",
+            "answer": "It criticizes hearts that do not reflect and describes them as locked, pushing people to think seriously."
+        },
+        {
+            "id": "ch47-q33",
+            "text": "What is one balanced lesson about struggle from this Surah?",
+            "answer": "Struggle is regulated and purposeful, tied to justice and the testing of sincerity, not aggression."
+        },
+        {
+            "id": "ch47-q34",
+            "text": "How does the Surah warn against being deluded by temporary success of falsehood?",
+            "answer": "It shows final outcomes belong to Allah; denial ends in wasted deeds and punishment."
+        },
+        {
+            "id": "ch47-q35",
+            "text": "What is one spiritual benefit of seeking forgiveness regularly as emphasized in this Surah?",
+            "answer": "It purifies the heart, removes sins, and keeps a believer humble and connected to Allah."
+        },
+        {
+            "id": "ch47-q36",
+            "text": "How can this Surah shape a believer's attitude toward death?",
+            "answer": "By reminding that the moment of death reveals truth and consequences, motivating repentance now."
+        },
+        {
+            "id": "ch47-q37",
+            "text": "What does the Surah imply about the danger of delaying reform?",
+            "answer": "Hearts can become locked and the Hour can approach; delaying repentance hardens the path back."
+        },
+        {
+            "id": "ch47-q38",
+            "text": "True/False: The Surah teaches that believers are promised ease without any hardship.",
+            "answer": "False. It teaches believers are tested to reveal patience and striving."
+        },
+        {
+            "id": "ch47-q39",
+            "text": "What is one key takeaway about sincerity from Surah Muhammad?",
+            "answer": "Sincerity is proven through obedience, reflection, sacrifice, and avoiding mockery and excuses."
+        },
+        {
+            "id": "ch47-q40",
+            "text": "How does the Surah teach that victory is ultimately moral and spiritual?",
+            "answer": "Allah supports those who support His cause, linking victory to obedience and truth."
+        },
+        {
+            "id": "ch47-q41",
+            "text": "What is one daily-life application of the Surah's warning about stinginess?",
+            "answer": "Practice regular charity and generosity to train the soul against greed."
+        },
+        {
+            "id": "ch47-q42",
+            "text": "How does Surah Muhammad address the problem of listening without understanding?",
+            "answer": "It highlights mockery and locked hearts, urging sincere learning and reflection."
+        },
+        {
+            "id": "ch47-q43",
+            "text": "What does the Surah teach about Allah's fairness in tests between people?",
+            "answer": "Tests reveal truth; Allah knows outcomes and rewards sincerity and patience."
+        },
+        {
+            "id": "ch47-q44",
+            "text": "What is one misconception corrected by describing worldly life as play?",
+            "answer": "That worldly life is the ultimate goal; it is temporary compared to the Hereafter."
+        },
+        {
+            "id": "ch47-q45",
+            "text": "What does the Surah imply about community renewal when people turn away?",
+            "answer": "Allah can replace a negligent community with another that is more obedient and sincere."
+        },
+        {
+            "id": "ch47-q46",
+            "text": "How does the Surah connect kinship ties to community strength?",
+            "answer": "Maintaining kinship supports mercy and cohesion; severing ties spreads فساد and hardens hearts."
+        },
+        {
+            "id": "ch47-q47",
+            "text": "What is one concluding lesson about the Quran from this Surah?",
+            "answer": "The Quran requires reflection; ignoring it locks the heart and leads to loss."
+        },
+        {
+            "id": "ch47-q48",
+            "text": "True/False: The Surah teaches that Allah's help comes with no effort from believers.",
+            "answer": "False. It links Allah's help to supporting His cause through obedience and striving."
+        },
+        {
+            "id": "ch47-q49",
+            "text": "What is the Surah's strongest call to action for modern readers?",
+            "answer": "Support Allah's guidance through sincere faith, reflect on the Quran, give generously, and prepare for the Hour."
+        },
+        {
+            "id": "ch47-q50",
+            "text": "What does Allah do to the deeds of those who disbelieve and avert others from His path?",
+            "answer": "He wastes their deeds (Adalla a'malahum)."
+        },
+        {
+            "id": "ch47-q51",
+            "text": "What does Allah do for those who believe and believe in what was sent down to Muhammad?",
+            "answer": "He removes from them their misdeeds and amends their condition (Aslaha balahum)."
+        },
+        {
+            "id": "ch47-q52",
+            "text": "What is the command regarding enemies met in battle?",
+            "answer": "To strike their necks until they are subdued, then secure the bonds, and thereafter either release them as a favor or for ransom."
+        },
+        {
+            "id": "ch47-q53",
+            "text": "If Allah willed, could He have taken retribution from the disbelievers directly?",
+            "answer": "Yes, but He tests some by means of others."
+        },
+        {
+            "id": "ch47-q54",
+            "text": "What is the promise for those who are killed in the cause of Allah?",
+            "answer": "He will never waste their deeds; He will guide them and admit them to Paradise."
+        },
+        {
+            "id": "ch47-q55",
+            "text": "What is the condition for Allah's help mentioned in this Surah?",
+            "answer": "'If you support Allah, He will support you and plant firmly your feet'."
+        },
+        {
+            "id": "ch47-q56",
+            "text": "How does the Surah compare the worldly life of disbelievers?",
+            "answer": "They enjoy themselves and eat as cattle eat, and the Fire will be their residence."
+        },
+        {
+            "id": "ch47-q57",
+            "text": "Describe the four rivers of Paradise mentioned in this Surah.",
+            "answer": "Rivers of water unaltered, rivers of milk whose taste never changes, rivers of wine delicious to drinkers, and rivers of purified honey."
+        },
+        {
+            "id": "ch47-q58",
+            "text": "What happens when the hypocrites leave the presence of the Prophet (SAW)?",
+            "answer": "They mockingly ask the people of knowledge, 'What did he just say?'."
+        },
+        {
+            "id": "ch47-q59",
+            "text": "What foundational knowledge does the Surah emphasize about faith and seeking forgiveness?",
+            "answer": "'Know, [O Muhammad], that there is no deity except Allah, and ask forgiveness for your sin'."
+        },
+        {
+            "id": "ch47-q60",
+            "text": "What are the 'signs' (Ashrat) of the Hour?",
+            "answer": "Its conditions or portents that have already begun to appear."
+        },
+        {
+            "id": "ch47-q61",
+            "text": "What does the Surah say about hearts that do not reflect upon the Quran?",
+            "answer": "They have locks upon them, preventing sincere understanding and change."
+        },
+        {
+            "id": "ch47-q62",
+            "text": "How does Allah describe the death of those whose souls are taken by angels while they are in a state of wrongdoing?",
+            "answer": "The angels will be striking their faces and their backs."
+        },
+        {
+            "id": "ch47-q63",
+            "text": "Will Allah test the believers to know who among them are the 'Mujahedeen' and the 'Sabireen'?",
+            "answer": "Yes. The Surah teaches believers are tested to reveal striving and patience."
+        },
+        {
+            "id": "ch47-q64",
+            "text": "What is the ruling on seeking peace when the believers are superior?",
+            "answer": "Do not weaken and call for peace while you are superior; Allah is with you."
+        },
+        {
+            "id": "ch47-q65",
+            "text": "How does the Surah describe the nature of worldly life?",
+            "answer": "Amusement and play."
+        },
+        {
+            "id": "ch47-q66",
+            "text": "What happens if Allah asks people for all their wealth?",
+            "answer": "They would withhold it stingily, and He would bring out their hatred."
+        },
+        {
+            "id": "ch47-q67",
+            "text": "What is the warning at the end of the Surah regarding turning away from Islam?",
+            "answer": "If you turn away, He will replace you with another people; then they will not be the likes of you."
+        },
+        {
+            "id": "ch47-q68",
+            "text": "Who is the 'Ghani' (Free of need) and who are the 'Fuqara' (The needy)?",
+            "answer": "Allah is the Free of need, and mankind are the needy."
+        },
+        {
+            "id": "ch47-q69",
+            "text": "What is the consequence of 'breaking ties of kinship' mentioned in this Surah?",
+            "answer": "Being cursed by Allah, becoming deaf and blind to the truth."
+        }
+    ]
 }

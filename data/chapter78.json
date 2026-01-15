@@ -6,101 +6,226 @@
     "questions": [
         {
             "id": "ch78-q1",
+            "text": "Why is resurrection described as the 'Great News'?",
+            "answer": "Because it is the most important reality people dispute, and it changes the meaning of life."
+        },
+        {
+            "id": "ch78-q2",
+            "text": "True/False: The Surah suggests it is normal to argue about the Hereafter without ever seeking evidence.",
+            "answer": "False. It answers doubts with clear signs and warnings."
+        },
+        {
+            "id": "ch78-q3",
+            "text": "How does Surah An-Naba use the earth and mountains as evidence of Allah’s power?",
+            "answer": "It shows stability and design in creation, proving Allah can recreate and judge."
+        },
+        {
+            "id": "ch78-q4",
+            "text": "What is one lesson from sleep being described as rest?",
+            "answer": "Daily rest is a mercy and a reminder that humans are weak and dependent on Allah."
+        },
+        {
+            "id": "ch78-q5",
+            "text": "How do night and day in this Surah teach balance in life?",
+            "answer": "Night is for covering and rest; day is for work—both are signs of Allah’s mercy."
+        },
+        {
+            "id": "ch78-q6",
+            "text": "True/False: The Surah teaches that humans created the order of night and day by their own power.",
+            "answer": "False. It presents them as Allah’s signs."
+        },
+        {
+            "id": "ch78-q7",
+            "text": "What does the Surah teach by describing the heavens as strong and structured?",
+            "answer": "That creation is precise and powerful, pointing to a wise Creator and inevitable return."
+        },
+        {
+            "id": "ch78-q8",
+            "text": "What does the Surah’s mention of rain producing food teach about provision?",
+            "answer": "Allah provides sustenance through ordered means, so gratitude and obedience are required."
+        },
+        {
+            "id": "ch78-q9",
+            "text": "How does Surah An-Naba describe the Day of Sorting in a way that creates urgency?",
+            "answer": "It says it has an appointed time and people will be gathered in crowds."
+        },
+        {
+            "id": "ch78-q10",
+            "text": "What does the Surah teach about the changes of the sky and mountains on Judgment Day?",
+            "answer": "The world’s stability will dissolve, proving the Day’s reality and Allah’s power."
+        },
+        {
+            "id": "ch78-q11",
+            "text": "True/False: The Surah teaches that Hell is only for those who make small mistakes.",
+            "answer": "False. It describes Hell as a return for transgressors who deny and persist."
+        },
+        {
+            "id": "ch78-q12",
+            "text": "Why are transgressors punished severely according to this Surah?",
+            "answer": "Because they denied accountability and rejected Allah’s signs, living without preparing for return."
+        },
+        {
+            "id": "ch78-q13",
+            "text": "What does the Surah teach about Allah recording deeds?",
+            "answer": "Everything is counted and preserved; no deed is lost."
+        },
+        {
+            "id": "ch78-q14",
+            "text": "How does the Surah describe Paradise as 'success' for the righteous?",
+            "answer": "It is safety and reward: gardens, comfort, pure speech, and lasting honor."
+        },
+        {
+            "id": "ch78-q15",
+            "text": "What is one moral lesson from the absence of vain talk and lies in Paradise?",
+            "answer": "Pure environments are built on truth; lying and nonsense are signs of corrupted hearts."
+        },
+        {
+            "id": "ch78-q16",
+            "text": "True/False: The Surah teaches that speaking truth is only important in religious settings.",
+            "answer": "False. It makes truthfulness a mark of the righteous outcome."
+        },
+        {
+            "id": "ch78-q17",
+            "text": "What does the Surah teach about angels standing in rows?",
+            "answer": "It shows the Day’s seriousness and order; even angels do not speak except by Allah’s permission."
+        },
+        {
+            "id": "ch78-q18",
+            "text": "What does the Surah teach about taking a path back to Allah?",
+            "answer": "People must choose repentance and obedience now, before the True Day arrives."
+        },
+        {
+            "id": "ch78-q19",
+            "text": "How can a believer apply Surah An-Naba’s message about daily signs?",
+            "answer": "Use sleep, work, food, and nature as reminders to pray, repent, and stay grateful."
+        },
+        {
+            "id": "ch78-q20",
+            "text": "Why does the Surah mention a person wishing to be dust?",
+            "answer": "To show the extreme regret of the disbeliever when consequences become undeniable."
+        },
+        {
+            "id": "ch78-q21",
+            "text": "True/False: The Surah teaches that regret after seeing the truth will still save a person.",
+            "answer": "False. Regret without prior repentance comes too late."
+        },
+        {
+            "id": "ch78-q22",
+            "text": "How does Surah An-Naba strengthen belief in Allah without complex arguments?",
+            "answer": "It points to obvious signs—earth, sky, sleep, rain—and connects them to resurrection."
+        },
+        {
+            "id": "ch78-q23",
+            "text": "How can a modern reader use this Surah as a weekly reset?",
+            "answer": "Reflect on daily signs, renew prayer habits, and do a clear act of repentance and charity."
+        },
+        {
+            "id": "ch78-q24",
+            "text": "What is one concluding takeaway about dunya from this Surah?",
+            "answer": "Dunya’s order is a sign, not a home—its stability ends, and the Hereafter begins."
+        },
+        {
+            "id": "ch78-q25",
+            "text": "What is one concluding takeaway about akhirah from this Surah?",
+            "answer": "The appointed Day will come, and outcomes will be irreversible."
+        },
+        {
+            "id": "ch78-q26",
             "text": "What is the 'Great News' (An-Naba al-'Adhim) mentioned in the beginning?",
             "answer": "The News of the Resurrection and the Day of Judgment."
         },
         {
-            "id": "ch78-q2",
-            "text": "How does Allah describe the earth and mountains in Verse 6-7?",
+            "id": "ch78-q27",
+            "text": "How does this Surah describe the earth and mountains?",
             "answer": "The earth as a bed/expanse and the mountains as pegs (awtada)."
         },
         {
-            "id": "ch78-q3",
-            "text": "What is the purpose of 'Sleep' according to Verse 9?",
+            "id": "ch78-q28",
+            "text": "What is the purpose of sleep according to this Surah?",
             "answer": "For rest (subata)."
         },
         {
-            "id": "ch78-q4",
-            "text": "How is the night and day described (Verse 10-11)?",
+            "id": "ch78-q29",
+            "text": "How does this Surah describe the night and day?",
             "answer": "The night as a covering and the day for livelihood (ma'asha)."
         },
         {
-            "id": "ch78-q5",
+            "id": "ch78-q30",
             "text": "What are the 'seven strong [heavens]'?",
             "answer": "The seven layers of the sky."
         },
         {
-            "id": "ch78-q6",
+            "id": "ch78-q31",
             "text": "What is the 'burning lamp' in the sky?",
             "answer": "The sun."
         },
         {
-            "id": "ch78-q7",
+            "id": "ch78-q32",
             "text": "From where does the 'pouring water' come to produce grain and gardens?",
             "answer": "From the rain-clouds (mu'sirat)."
         },
         {
-            "id": "ch78-q8",
+            "id": "ch78-q33",
             "text": "What is the 'Day of Sorting' (Yawm al-Fasl)?",
             "answer": "A day whose time is already appointed."
         },
         {
-            "id": "ch78-q9",
+            "id": "ch78-q34",
             "text": "What will happen when the Trumpet is blown?",
             "answer": "People will come in crowds (afwaja)."
         },
         {
-            "id": "ch78-q10",
+            "id": "ch78-q35",
             "text": "How will the heaven and mountains change on that Day?",
             "answer": "The heaven will be opened as gates, and the mountains will be moved and become a mirage."
         },
         {
-            "id": "ch78-q11",
+            "id": "ch78-q36",
             "text": "Who is Hellfire waiting for as a 'place of return'?",
             "answer": "The transgressors (Tagheen)."
         },
         {
-            "id": "ch78-q12",
+            "id": "ch78-q37",
             "text": "What will the transgressors NOT taste in Hell?",
             "answer": "Coolness or any drink, except for scalding water and foul purulence (Ghassaqa)."
         },
         {
-            "id": "ch78-q13",
+            "id": "ch78-q38",
             "text": "Why are the people in Hell punished so severely?",
             "answer": "Because they did not expect an account and denied Allah's signs completely."
         },
         {
-            "id": "ch78-q14",
+            "id": "ch78-q39",
             "text": "How does Allah keep track of deeds?",
             "answer": "Everything is enumerated/recorded in a Book."
         },
         {
-            "id": "ch78-q15",
+            "id": "ch78-q40",
             "text": "What will the people in Hell be told to taste?",
             "answer": "'So taste! Never will We increase you except in punishment'."
         },
         {
-            "id": "ch78-q16",
+            "id": "ch78-q41",
             "text": "What is the 'Success' (Mafaza) for the righteous?",
             "answer": "Gardens, grapevines, well-matched companions, and a full cup (of drink)."
         },
         {
-            "id": "ch78-q17",
+            "id": "ch78-q42",
             "text": "Will there be any vain talk or lying in Paradise?",
             "answer": "No."
         },
         {
-            "id": "ch78-q18",
+            "id": "ch78-q43",
             "text": "Who will stand in rows on that Day and not speak except by permission?",
             "answer": "The Spirit (Jibreel) and the angels."
         },
         {
-            "id": "ch78-q19",
+            "id": "ch78-q44",
             "text": "What is the 'True Day'?",
             "answer": "The Day of Judgment; so whoever wills should take a return to his Lord."
         },
         {
-            "id": "ch78-q20",
+            "id": "ch78-q45",
             "text": "What will the disbeliever say at the end of the Surah when he sees his deeds?",
             "answer": "'Oh, I wish that I were dust!'."
         }

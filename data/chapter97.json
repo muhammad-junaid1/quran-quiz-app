@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch97-q1",
+            "text": "Why is Laylat al-Qadr described as better than a thousand months?",
+            "answer": "Because worship in that night carries immense reward beyond a lifetime’s worth of ordinary months."
+        },
+        {
+            "id": "ch97-q2",
+            "text": "True/False: The Surah teaches that one night of worship can outweigh years of worship by Allah’s generosity.",
+            "answer": "True."
+        },
+        {
+            "id": "ch97-q3",
+            "text": "What does the Surah teach about the Quran being ‘sent down’ on this night?",
+            "answer": "It highlights the honor of revelation and that guidance is a gift from Allah to humanity."
+        },
+        {
+            "id": "ch97-q4",
+            "text": "How does the descent of angels on Laylat al-Qadr affect a believer’s mindset?",
+            "answer": "It creates awe and hope, motivating worship and repentance because Allah’s mercy is near."
+        },
+        {
+            "id": "ch97-q5",
+            "text": "What does it mean that angels descend with every matter by Allah’s permission?",
+            "answer": "Allah’s decree is executed with perfect order; angels carry out what Allah commands."
+        },
+        {
+            "id": "ch97-q6",
+            "text": "True/False: The Surah teaches angels act independently without Allah’s permission.",
+            "answer": "False. It emphasizes they descend by their Lord’s permission."
+        },
+        {
+            "id": "ch97-q7",
+            "text": "What does the Surah’s description of the night as ‘peace’ teach?",
+            "answer": "It is a night of mercy, safety, and spiritual calm for sincere worshippers."
+        },
+        {
+            "id": "ch97-q8",
+            "text": "How can a believer seek Laylat al-Qadr without needing to know its exact date?",
+            "answer": "Strive in worship throughout the last ten nights, especially the odd nights."
+        },
+        {
+            "id": "ch97-q9",
+            "text": "What is one practical worship plan for the last ten nights inspired by this Surah?",
+            "answer": "Extra night prayer, Quran, dua, charity, and forgiveness every night, with increased effort on odd nights."
+        },
+        {
+            "id": "ch97-q10",
+            "text": "Why is hiding the exact date a mercy for believers?",
+            "answer": "It encourages consistent striving rather than minimal effort on only one expected night."
+        },
+        {
+            "id": "ch97-q11",
+            "text": "What does the Surah teach about the value of worship compared to long-term life plans?",
+            "answer": "One sincere night can outweigh decades, reminding that Allah’s reward is not limited by time."
+        },
+        {
+            "id": "ch97-q12",
+            "text": "True/False: The Surah suggests Ramadan is mainly cultural and not spiritually unique.",
+            "answer": "False. It highlights a night of extraordinary spiritual value within Ramadan."
+        },
+        {
+            "id": "ch97-q13",
+            "text": "How does Surah Al-Qadr connect revelation with transformation?",
+            "answer": "The Quran’s descent is the source of guidance; receiving it should change hearts and behavior."
+        },
+        {
+            "id": "ch97-q14",
+            "text": "What is one moral lesson from angels descending in great numbers?",
+            "answer": "The unseen world is real and organized; a believer’s worship is witnessed and honored."
+        },
+        {
+            "id": "ch97-q15",
+            "text": "How can someone avoid burnout while striving in the last ten nights?",
+            "answer": "Set a consistent minimum (prayer, Quran, dua) and increase gradually with sincerity, not perfectionism."
+        },
+        {
+            "id": "ch97-q16",
+            "text": "True/False: The Surah teaches that only scholars can benefit from Laylat al-Qadr.",
+            "answer": "False. Any sincere believer can benefit through worship and repentance."
+        },
+        {
+            "id": "ch97-q17",
+            "text": "What is one action that best matches the Surah’s theme of forgiveness?",
+            "answer": "Making abundant dua for forgiveness and forgiving others for Allah’s sake."
+        },
+        {
+            "id": "ch97-q18",
+            "text": "How does the Surah teach that peace lasts ‘until dawn’?",
+            "answer": "The night’s blessing extends through the night, encouraging consistent worship until morning."
+        },
+        {
+            "id": "ch97-q19",
+            "text": "What is one way to connect Quran recitation to Laylat al-Qadr meaningfully?",
+            "answer": "Recite with reflection and make dua to live by the guidance, not only to finish pages."
+        },
+        {
+            "id": "ch97-q20",
+            "text": "True/False: The Surah teaches that decrees make dua useless.",
+            "answer": "False. Dua and worship are among the greatest means of seeking Allah’s mercy and good outcomes."
+        },
+        {
+            "id": "ch97-q21",
             "text": "What does 'Al-Qadr' mean?",
             "answer": "Power, Decree, or Honor."
         },
         {
-            "id": "ch97-q2",
+            "id": "ch97-q22",
             "text": "What was 'sent down' during the Night of Al-Qadr?",
             "answer": "The Quran."
         },
         {
-            "id": "ch97-q3",
+            "id": "ch97-q23",
             "text": "In which month does the Night of Al-Qadr occur?",
             "answer": "The month of Ramadan."
         },
         {
-            "id": "ch97-q4",
+            "id": "ch97-q24",
             "text": "What is the value of the Night of Al-Qadr in terms of time?",
             "answer": "It is better than a thousand months."
         },
         {
-            "id": "ch97-q5",
+            "id": "ch97-q25",
             "text": "Who descends during this night?",
             "answer": "The angels and the Spirit (Angel Jibreel)."
         },
         {
-            "id": "ch97-q6",
+            "id": "ch97-q26",
             "text": "By whose permission do the angels descend?",
             "answer": "By permission of their Lord."
         },
         {
-            "id": "ch97-q7",
+            "id": "ch97-q27",
             "text": "What is the purpose of the angels' descent during this night?",
             "answer": "To carry out every matter/decree (Kulli Amrin)."
         },
         {
-            "id": "ch97-q8",
+            "id": "ch97-q28",
             "text": "How is the atmosphere of this night described?",
             "answer": "As 'Peace' (Salam)."
         },
         {
-            "id": "ch97-q9",
+            "id": "ch97-q29",
             "text": "How long does the peace of Laylat al-Qadr last?",
             "answer": "Until the emergence of dawn (Fajr)."
         },
         {
-            "id": "ch97-q10",
-            "text": "What is the 'Spirit' (Ar-Ruh) mentioned in Verse 4?",
+            "id": "ch97-q30",
+            "text": "What is the 'Spirit' (Ar-Ruh) mentioned in this Surah?",
             "answer": "Angel Jibreel (Gabriel)."
         },
         {
-            "id": "ch97-q11",
+            "id": "ch97-q31",
             "text": "Why is the exact date of Laylat al-Qadr hidden from us?",
             "answer": "To encourage believers to strive in worship throughout the last ten nights of Ramadan."
         },
         {
-            "id": "ch97-q12",
+            "id": "ch97-q32",
             "text": "What does 'better than a thousand months' imply?",
             "answer": "That worship during this single night is more rewarding than worship for over 83 years (a lifetime)."
         },
         {
-            "id": "ch97-q13",
+            "id": "ch97-q33",
             "text": "What is the root meaning of 'Qadr' regarding the 'narrowing' of the earth?",
             "answer": "Some scholars say it is named because the earth becomes 'narrow' (crowded) due to the immense number of angels descending."
         },
         {
-            "id": "ch97-q14",
+            "id": "ch97-q34",
             "text": "True or False: Every matter of the upcoming year is decreed during this night.",
             "answer": "True, based on this Surah and Surah Ad-Dukhan."
         },
         {
-            "id": "ch97-q15",
+            "id": "ch97-q35",
             "text": "Is Laylat al-Qadr a historical event or an annually recurring one?",
             "answer": "It is an annually recurring night."
         },
         {
-            "id": "ch97-q16",
+            "id": "ch97-q36",
             "text": "What is the special Dua recommended for this night?",
             "answer": "'O Allah, You are forgiving, You love forgiveness, so forgive me' (Allahumma innaka 'afuwwun...)."
         },
         {
-            "id": "ch97-q17",
+            "id": "ch97-q37",
             "text": "What does the phrase 'And what can make you know' (Wa ma adraka) signify in the Quran?",
             "answer": "It signifies the greatness and transcendence of the subject being discussed."
         },
         {
-            "id": "ch97-q18",
+            "id": "ch97-q38",
             "text": "How does the Quran describe the beginning of the night's revelation in Surah Ad-Dukhan?",
             "answer": "As a 'blessed night'."
         },
         {
-            "id": "ch97-q19",
+            "id": "ch97-q39",
             "text": "What is the primary spiritual focus of a believer during this night?",
             "answer": "Ibadah (worship), Istighfar (forgiveness), and Tilawah (Quranic recitation)."
         },
         {
-            "id": "ch97-q20",
+            "id": "ch97-q40",
             "text": "Why is the Surah titled 'Al-Qadr'?",
             "answer": "Because it explains the honor of the night the Quran began to descend and the decree of Allah for that night."
         }

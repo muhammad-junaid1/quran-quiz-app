@@ -6,101 +6,156 @@
     "questions": [
         {
             "id": "ch109-q1",
+            "text": "Why does this Surah reject religious compromise so firmly?",
+            "answer": "Because worship is exclusive to Allah; mixing truth with shirk destroys the foundation of faith."
+        },
+        {
+            "id": "ch109-q2",
+            "text": "True/False: The Surah teaches tolerance means blending beliefs to keep peace.",
+            "answer": "False. It teaches peaceful clarity without compromising tawhid."
+        },
+        {
+            "id": "ch109-q3",
+            "text": "How does repeating the refusal to worship idols strengthen the message?",
+            "answer": "It removes ambiguity and closes every door to compromise in creed."
+        },
+        {
+            "id": "ch109-q4",
+            "text": "What is one modern example of ‘compromise’ this Surah warns against?",
+            "answer": "Adjusting worship or beliefs to please people, trends, or politics at the expense of tawhid."
+        },
+        {
+            "id": "ch109-q5",
+            "text": "Does this Surah teach hatred toward non-Muslims?",
+            "answer": "No. It sets a clear boundary in worship while maintaining truthful, principled conduct."
+        },
+        {
+            "id": "ch109-q6",
+            "text": "What does ‘for you is your religion, and for me is my religion’ mean practically?",
+            "answer": "A final separation in worship and creed: each path has its consequences before Allah."
+        },
+        {
+            "id": "ch109-q7",
+            "text": "True/False: The Surah teaches all religions are equally true.",
+            "answer": "False. It emphasizes irreconcilable difference between tawhid and shirk."
+        },
+        {
+            "id": "ch109-q8",
+            "text": "How can a Muslim apply this Surah in interfaith settings respectfully?",
+            "answer": "Be polite and just, but keep worship and core beliefs uncompromised."
+        },
+        {
+            "id": "ch109-q9",
+            "text": "What is one spiritual benefit of reciting Surah Al-Kafirun regularly?",
+            "answer": "It renews sincerity and protects the heart from subtle forms of shirk and compromise."
+        },
+        {
+            "id": "ch109-q10",
+            "text": "How does this Surah teach confidence in identity without arrogance?",
+            "answer": "It gives clarity in belief while avoiding obsession with proving oneself to people."
+        },
+        {
+            "id": "ch109-q11",
+            "text": "True/False: The Surah suggests worship is negotiable as long as morals are good.",
+            "answer": "False. Worship is the core issue and must be for Allah alone."
+        },
+        {
+            "id": "ch109-q12",
             "text": "What is the historical context of Surah Al-Kafirun?",
             "answer": "The leaders of the Quraysh proposed a compromise: they would worship Allah for a year if the Prophet worshipped their idols for a year."
         },
         {
-            "id": "ch109-q2",
+            "id": "ch109-q13",
             "text": "What is the Prophet commanded to say in the first verse?",
             "answer": "'O disbelievers' (Ya ayyuhal kafirun)."
         },
         {
-            "id": "ch109-q3",
-            "text": "What is the main declaration regarding worship in Verse 2?",
+            "id": "ch109-q14",
+            "text": "What is the main declaration regarding worship in this Surah?",
             "answer": "'I do not worship what you worship'."
         },
         {
-            "id": "ch109-q4",
+            "id": "ch109-q15",
             "text": "Does the Prophet say 'nor are you worshippers of what I worship'?",
-            "answer": "Yes, twice (in Verses 3 and 5)."
+            "answer": "Yes, it is repeated to emphasize a complete separation in worship."
         },
         {
-            "id": "ch109-q5",
+            "id": "ch109-q16",
             "text": "What is the final verse of the Surah?",
             "answer": "'For you is your religion, and for me is my religion' (Lakum dinukum waliya din)."
         },
         {
-            "id": "ch109-q6",
+            "id": "ch109-q17",
             "text": "Why is the statement about worship repeated?",
             "answer": "To emphasize a total and absolute refusal of compromise in matters of faith (Tawhid)."
         },
         {
-            "id": "ch109-q7",
+            "id": "ch109-q18",
             "text": "Does this Surah imply that all religions are equal?",
             "answer": "No, it highlights an irreconcilable difference between monotheism and polytheism."
         },
         {
-            "id": "ch109-q8",
+            "id": "ch109-q19",
             "text": "What is the virtue of reciting this Surah before sleeping?",
             "answer": "It is a 'disavowal of Shirk' (associating partners with Allah)."
         },
         {
-            "id": "ch109-q9",
+            "id": "ch109-q20",
             "text": "Is this a Makkan or Madinan Surah?",
             "answer": "Makkan."
         },
         {
-            "id": "ch109-q10",
+            "id": "ch109-q21",
             "text": "How many verses are in Surah Al-Kafirun?",
             "answer": "Six verses."
         },
         {
-            "id": "ch109-q11",
+            "id": "ch109-q22",
             "text": "What does 'Al-Kafirun' mean?",
             "answer": "The Disbelievers."
         },
         {
-            "id": "ch109-q12",
+            "id": "ch109-q23",
             "text": "Does 'Lakum dinukum' mean the Prophet accepted their idols?",
             "answer": "No, it means a final separation and that they will face the consequences of their false religion."
         },
         {
-            "id": "ch109-q13",
+            "id": "ch109-q24",
             "text": "What name is this Surah also known by?",
-            "answer": "Al-Ikhlas (Sincerity) or Al-Mukaqshishah (The Remover of Disease)."
+            "answer": "Al-Muqashqishah (a Surah that purifies from shirk by declaring a clear separation)."
         },
         {
-            "id": "ch109-q14",
+            "id": "ch109-q25",
             "text": "What did the Prophet (SAW) frequently recite in the sunnah of Fajr and Maghrib?",
             "answer": "Surah Al-Kafirun and Surah Al-Ikhlas."
         },
         {
-            "id": "ch109-q15",
+            "id": "ch109-q26",
             "text": "What is 'Ma a'bud' referring to in the Surah?",
             "answer": "The object of worship (Allah)."
         },
         {
-            "id": "ch109-q16",
+            "id": "ch109-q27",
             "text": "What is 'Abid' referring to?",
             "answer": "The worshipper."
         },
         {
-            "id": "ch109-q17",
+            "id": "ch109-q28",
             "text": "Why does the Surah start with 'Qul' (Say)?",
             "answer": "To show it is a direct command from Allah that the Prophet must convey exactly."
         },
         {
-            "id": "ch109-q18",
+            "id": "ch109-q29",
             "text": "What is the spiritual significance of the Surah today?",
             "answer": "It teaches Muslims to be firm in their faith and not compromise core beliefs for social or political pressure."
         },
         {
-            "id": "ch109-q19",
+            "id": "ch109-q30",
             "text": "Does the Surah address the 'Kafirun' with hatred or with a clear boundary of truth?",
             "answer": "With a clear and firm boundary of truth."
         },
         {
-            "id": "ch109-q20",
+            "id": "ch109-q31",
             "text": "What is the final word of the Surah?",
             "answer": "Din (Religion / Way of life)."
         }

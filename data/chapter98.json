@@ -6,101 +6,201 @@
     "questions": [
         {
             "id": "ch98-q1",
+            "text": "Why does the Surah mention the People of the Book and the polytheists together?",
+            "answer": "To show disbelief can exist in different communities and that all are responsible once clear proof comes."
+        },
+        {
+            "id": "ch98-q2",
+            "text": "True/False: The Surah teaches that guidance is impossible for people once they have a tradition.",
+            "answer": "False. It shows a clear proof came, and people are responsible for how they respond."
+        },
+        {
+            "id": "ch98-q3",
+            "text": "What does it mean that the Messenger recites purified pages?",
+            "answer": "The Quran is pure from distortion and falsehood, carrying upright guidance."
+        },
+        {
+            "id": "ch98-q4",
+            "text": "How does Surah Al-Bayyinah define true religion in practice?",
+            "answer": "Worship Allah alone with sincerity, be upright away from shirk, establish prayer, and give zakat."
+        },
+        {
+            "id": "ch98-q5",
+            "text": "What is one sign of sincerity (ikhlas) in worship?",
+            "answer": "Doing acts for Allah’s pleasure even when no one sees and no worldly benefit is gained."
+        },
+        {
+            "id": "ch98-q6",
+            "text": "True/False: The Surah suggests rituals have value even if done for showing off.",
+            "answer": "False. It emphasizes sincerity as essential."
+        },
+        {
+            "id": "ch98-q7",
+            "text": "Why does the Surah say some People of the Book became divided after proof came?",
+            "answer": "Because pride, jealousy, and worldly motives can block acceptance even when truth is clear."
+        },
+        {
+            "id": "ch98-q8",
+            "text": "What does ‘Hunafa’ teach about religious identity?",
+            "answer": "True monotheism is turning away from shirk and deviant compromise toward pure worship of Allah."
+        },
+        {
+            "id": "ch98-q9",
+            "text": "How does the Surah create a clear moral ranking of people?",
+            "answer": "It distinguishes between worst and best of creatures based on faith and righteous deeds."
+        },
+        {
+            "id": "ch98-q10",
+            "text": "What is one warning from calling some people ‘worst of creatures’?",
+            "answer": "Persistent denial after proof is severe; rejecting truth can degrade a person below their human dignity."
+        },
+        {
+            "id": "ch98-q11",
+            "text": "What makes believers ‘best of creatures’ in this Surah?",
+            "answer": "Faith joined with righteous deeds and fear of Allah."
+        },
+        {
+            "id": "ch98-q12",
+            "text": "True/False: The Surah teaches that good deeds without belief guarantee Paradise.",
+            "answer": "False. It links best outcome to belief and righteous deeds together."
+        },
+        {
+            "id": "ch98-q13",
+            "text": "What does ‘Allah is pleased with them and they are pleased with Him’ teach about the highest success?",
+            "answer": "The highest success is mutual pleasure: Allah accepts them and they are content with His reward and decree."
+        },
+        {
+            "id": "ch98-q14",
+            "text": "How can a believer grow into being ‘pleased with Allah’?",
+            "answer": "Through trust, patience, gratitude, and obedience in both ease and hardship."
+        },
+        {
+            "id": "ch98-q15",
+            "text": "What is one practical way to apply Surah Al-Bayyinah in community life?",
+            "answer": "Keep worship sincere, avoid sectarian pride, and build unity on clear Quran and Sunnah principles."
+        },
+        {
+            "id": "ch98-q16",
+            "text": "How does this Surah warn against religious complacency?",
+            "answer": "It shows that having scripture or tradition is not enough; sincerity and response to proof matter."
+        },
+        {
+            "id": "ch98-q17",
+            "text": "True/False: The Surah teaches the final destination is temporary.",
+            "answer": "False. It emphasizes permanence of the final destination."
+        },
+        {
+            "id": "ch98-q18",
+            "text": "How does the Surah teach balance between inner and outer religion?",
+            "answer": "It combines inner sincerity with outward acts like prayer and zakat."
+        },
+        {
+            "id": "ch98-q19",
+            "text": "What is one misconception corrected by this Surah about disagreements in religion?",
+            "answer": "That proof automatically ends division; hearts can still resist due to pride and desires."
+        },
+        {
+            "id": "ch98-q20",
+            "text": "True/False: The Surah teaches fear of Allah is unrelated to happiness.",
+            "answer": "False. It links fear of Allah to Paradise and Allah’s pleasure."
+        },
+        {
+            "id": "ch98-q21",
             "text": "What does 'Al-Bayyinah' mean?",
             "answer": "The Clear Proof."
         },
         {
-            "id": "ch98-q2",
+            "id": "ch98-q22",
             "text": "Who are the two groups mentioned who would not leave their disbelief until a proof came?",
             "answer": "The disbelievers among the People of the Book (Jews and Christians) and the polytheists (Mushrikeen)."
         },
         {
-            "id": "ch98-q3",
-            "text": "Who is the 'Clear Proof' sent by Allah (Verse 2)?",
+            "id": "ch98-q23",
+            "text": "Who is the 'Clear Proof' sent by Allah in this Surah?",
             "answer": "A Messenger from Allah (Prophet Muhammad SAW)."
         },
         {
-            "id": "ch98-q4",
+            "id": "ch98-q24",
             "text": "What does the Messenger recite?",
             "answer": "Purified pages (Suhufan Mutahharah)."
         },
         {
-            "id": "ch98-q5",
+            "id": "ch98-q25",
             "text": "What do the purified pages contain?",
             "answer": "Correct/upright laws and scriptures (Kutubun Qayyimah)."
         },
         {
-            "id": "ch98-q6",
+            "id": "ch98-q26",
             "text": "When did the People of the Book become divided?",
             "answer": "After the clear proof (the Prophet/Quran) came to them."
         },
         {
-            "id": "ch98-q7",
-            "text": "What were they commanded to do (Verse 5)?",
+            "id": "ch98-q27",
+            "text": "What were they commanded to do in this Surah?",
             "answer": "To worship Allah, being sincere to Him in religion, being 'Hunafa', establishing prayer, and giving Zakat."
         },
         {
-            "id": "ch98-q8",
+            "id": "ch98-q28",
             "text": "What does 'Hunafa' mean?",
             "answer": "Inclining toward the truth and away from shirk (monotheists)."
         },
         {
-            "id": "ch98-q9",
+            "id": "ch98-q29",
             "text": "What is 'Din al-Qayyimah'?",
             "answer": "The correct and upright religion."
         },
         {
-            "id": "ch98-q10",
+            "id": "ch98-q30",
             "text": "What is the fate of the disbelievers from the People of the Book and polytheists?",
             "answer": "The Fire of Hell, abiding therein eternally."
         },
         {
-            "id": "ch98-q11",
-            "text": "How are these disbelievers described in Verse 6?",
+            "id": "ch98-q31",
+            "text": "How are these disbelievers described in this Surah?",
             "answer": "As 'the worst of creatures' (Shar-rul Bariyyah)."
         },
         {
-            "id": "ch98-q12",
+            "id": "ch98-q32",
             "text": "Who are 'the best of creatures' (Khayr-ul Bariyyah)?",
             "answer": "Those who believe and do righteous deeds."
         },
         {
-            "id": "ch98-q13",
+            "id": "ch98-q33",
             "text": "What is the reward for the best of creatures?",
             "answer": "Gardens of perpetual residence beneath which rivers flow."
         },
         {
-            "id": "ch98-q14",
+            "id": "ch98-q34",
             "text": "How does Allah describe His relationship with the successful ones?",
             "answer": "'Allah is pleased with them and they are pleased with Him'."
         },
         {
-            "id": "ch98-q15",
+            "id": "ch98-q35",
             "text": "Who is this reward (Paradise/Allah's pleasure) for?",
             "answer": "For whoever has feared his Lord (Khashiya Rabbah)."
         },
         {
-            "id": "ch98-q16",
+            "id": "ch98-q36",
             "text": "Why is the Messenger described as 'reciting purified pages'?",
             "answer": "To show the Quran is free from any falsehood, distortion, or satanic influence."
         },
         {
-            "id": "ch98-q17",
+            "id": "ch98-q37",
             "text": "True or False: The People of the Book were expected to follow the Prophet because their own scriptures foretold him.",
             "answer": "True."
         },
         {
-            "id": "ch98-q18",
-            "text": "What is the significance of 'sincerity' (Ikhlas) in Verse 5?",
+            "id": "ch98-q38",
+            "text": "What is the significance of 'sincerity' (Ikhlas) in this Surah?",
             "answer": "It shows that outward rituals (prayer/zakat) are only valid if done purely for Allah's sake."
         },
         {
-            "id": "ch98-q19",
+            "id": "ch98-q39",
             "text": "Does Allah treat all 'creatures' the same?",
             "answer": "No, this Surah creates a clear distinction between the 'worst' and 'best' based on faith and action."
         },
         {
-            "id": "ch98-q20",
+            "id": "ch98-q40",
             "text": "What does 'abiding therein eternally' imply about the afterlife?",
             "answer": "The permanence of the final destination."
         }

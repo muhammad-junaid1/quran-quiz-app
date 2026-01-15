@@ -6,103 +6,403 @@
   "questions": [
     {
       "id": "ch15-q1",
-      "text": "What will the disbelievers wish for on the Day of Judgment as mentioned in Verse 2?",
-      "answer": "They will intensely wish that they had been Muslims."
+      "text": "What will the disbelievers intensely wish for on the Day of Judgment?",
+      "answer": "They will wish that they had been Muslims."
     },
     {
       "id": "ch15-q2",
-      "text": "What famous guarantee does Allah give regarding the Quran in Verse 9?",
-      "answer": "Indeed, it is We who sent down the message (Dhikr) and indeed, We will be its guardian."
+      "text": "How does Allah describe the 'term' or lifespan of a nation?",
+      "answer": "No nation can precede its term, nor can they delay it; everything is decreed."
     },
     {
       "id": "ch15-q3",
-      "text": "How did the disbelievers mock the Prophet (SAW) regarding revelation?",
-      "answer": "They called him 'mad' (Majnun) and asked why he didn't bring angels to them."
+      "text": "What famous guarantee does Allah give regarding the Quran?",
+      "answer": "Indeed, it is We who sent down the message (Dhikr) and indeed, We will be its guardian."
     },
     {
       "id": "ch15-q4",
-      "text": "What are the 'Buruj' mentioned in the sky?",
-      "answer": "Great constellations or stars that Allah has beautified for the observers."
+      "text": "How did the disbelievers mock the Prophet (SAW) regarding his sanity?",
+      "answer": "They called him 'mad' (Majnun) and challenged him to bring angels if he was truthful."
     },
     {
       "id": "ch15-q5",
-      "text": "How does Allah protect the heavens from every 'accused devil'?",
-      "answer": "By a piercing flame (Shihab) that pursues any who try to eavesdrop."
+      "text": "What is the reason Allah does not send down angels to the disbelievers?",
+      "answer": "He only sends them with the truth (for punishment or a final decree), and then the disbelievers would not be given any more time."
     },
     {
       "id": "ch15-q6",
-      "text": "From what material did Allah create humans (Adam)?",
-      "answer": "From clay (Salsal) from altered black mud (Ham'-im-Masnun)."
+      "text": "What are the 'Buruj' mentioned in the sky?",
+      "answer": "Great constellations or stars that Allah has placed and beautified for the observers."
     },
     {
       "id": "ch15-q7",
-      "text": "From what was the Jinn (Iblis) created?",
-      "answer": "Before man, from scorching fire (Nar-is-Samum)."
+      "text": "How does Allah protect the heavens from every 'accused devil'?",
+      "answer": "By a piercing flame (Shihab) that pursues any devil who tries to eavesdrop on the celestial assembly."
     },
     {
       "id": "ch15-q8",
-      "text": "Why did Iblis refuse to prostrate to Adam?",
-      "answer": "He argued he would not prostrate to a human created from clay/mud, showing his arrogance."
+      "text": "How does Allah describe the earth and its stability in this Surah?",
+      "answer": "He has spread it out, set firm mountains upon it, and caused everything to grow in its proper balance."
     },
     {
       "id": "ch15-q9",
-      "text": "What respite did Allah grant Iblis?",
-      "answer": "He was granted a delay until the Day of the time well-known (Judgment Day)."
+      "text": "What is the role of the 'fertilizing winds' (Lawaqih) mentioned in this Surah?",
+      "answer": "They pollinate plants and clouds to bring down rain for people to drink and store."
     },
     {
       "id": "ch15-q10",
-      "text": "What did Iblis vow to do to mankind?",
-      "answer": "To make disobedience attractive to them on earth and mislead them all."
+      "text": "Does Allah possess the 'treasures' of all things?",
+      "answer": "Yes, there is not a thing but that with Him are its depositories, and He sends it down only in a known measure."
     },
     {
       "id": "ch15-q11",
+      "text": "From what material did Allah create humans?",
+      "answer": "From clay (Salsal) from altered black mud (Ham'-im-Masnun)."
+    },
+    {
+      "id": "ch15-q12",
+      "text": "From what were the Jinn created?",
+      "answer": "Before man, from scorching fire (Nar-is-Samum)."
+    },
+    {
+      "id": "ch15-q13",
+      "text": "What was the command given to the angels after the soul was breathed into Adam?",
+      "answer": "To fall down in prostration to him."
+    },
+    {
+      "id": "ch15-q14",
+      "text": "Why did Iblis refuse to prostrate to Adam?",
+      "answer": "He argued he would not prostrate to a human created from clay and mud, showing his arrogance."
+    },
+    {
+      "id": "ch15-q15",
+      "text": "What was the punishment for Iblis for his disobedience?",
+      "answer": "He was expelled from Paradise and cursed until the Day of Recompense."
+    },
+    {
+      "id": "ch15-q16",
+      "text": "What respite did Allah grant Iblis when he asked for it?",
+      "answer": "He was granted a delay until the Day of the time well-known (Judgment Day)."
+    },
+    {
+      "id": "ch15-q17",
+      "text": "What did Iblis vow to do to mankind on earth?",
+      "answer": "To make disobedience and worldly life attractive to them and to mislead them all."
+    },
+    {
+      "id": "ch15-q18",
       "text": "Who are the only ones Iblis admitted he could not mislead?",
       "answer": "The 'Mukhlaseen' (chosen/sincere servants of Allah)."
     },
     {
-      "id": "ch15-q12",
-      "text": "How many gates does Hell have?",
-      "answer": "Seven gates, with a specific group assigned to each."
+      "id": "ch15-q19",
+      "text": "What is the 'Path' that leads to Allah as mentioned in this section?",
+      "answer": "The path of sincerity and devotion, over which Iblis has no authority."
     },
     {
-      "id": "ch15-q13",
+      "id": "ch15-q20",
+      "text": "How many gates does Hell have?",
+      "answer": "Seven gates, with a specific group of followers of Iblis assigned to each."
+    },
+    {
+      "id": "ch15-q21",
+      "text": "How are the believers in Paradise described in terms of their surroundings?",
+      "answer": "They will be in gardens and springs, entering them in peace and security."
+    },
+    {
+      "id": "ch15-q22",
       "text": "How is the state of the believers' hearts in Paradise described?",
       "answer": "Allah will remove whatever resentment is in their breasts, making them brothers on thrones facing each other."
     },
     {
-      "id": "ch15-q14",
-      "text": "What was the reaction of Ibrahim's (AS) wife when she was told she would have a son?",
-      "answer": "The angels told her not to despair, for none despairs of the mercy of his Lord except the misguided."
+      "id": "ch15-q23",
+      "text": "What are the two major attributes of Allah that the Prophet is told to inform His servants about?",
+      "answer": "That He is the Forgiving, the Merciful, but also that His punishment is the most painful punishment."
     },
     {
-      "id": "ch15-q15",
+      "id": "ch15-q24",
+      "text": "Briefly describe the visit of the angels to Ibrahim (AS).",
+      "answer": "They entered his home and said 'Salam'; he felt fear, but they told him not to be afraid as they had brought glad tidings of a learned son."
+    },
+    {
+      "id": "ch15-q25",
+      "text": "What did the angels say to Ibrahim (AS) when he expressed amazement at having a child in old age?",
+      "answer": "They told him not to despair, for none despairs of the mercy of his Lord except the misguided."
+    },
+    {
+      "id": "ch15-q26",
+      "text": "What was the 'mission' of the angels after visiting Ibrahim?",
+      "answer": "To destroy a people of criminals (the people of Lut)."
+    },
+    {
+      "id": "ch15-q27",
+      "text": "Who was the only family to be saved from the destruction of Lut's people?",
+      "answer": "The family of Lut, except for his wife."
+    },
+    {
+      "id": "ch15-q28",
+      "text": "What was the decree regarding Lut's wife?",
+      "answer": "That she was among those destined to stay behind and be destroyed."
+    },
+    {
+      "id": "ch15-q29",
+      "text": "How did the people of the city react when they heard about Lut's guests?",
+      "answer": "They came rejoicing, intending evil toward the guests."
+    },
+    {
+      "id": "ch15-q30",
+      "text": "What was the final punishment for the people of Lut in this Surah?",
+      "answer": "A shriek (Saihah) seized them at sunrise, their city was turned upside down, and stones of baked clay rained upon them."
+    },
+    {
+      "id": "ch15-q31",
       "text": "Who were the 'People of the Wood' (Aykah)?",
-      "answer": "The people of Prophet Shu'ayb who were also destroyed for their wrongdoing."
+      "answer": "The people of Prophet Shu'ayb who were also wrongdoers and were destroyed by a punishment."
     },
     {
-      "id": "ch15-q16",
+      "id": "ch15-q32",
+      "text": "Who were the 'People of Al-Hijr'?",
+      "answer": "The people of Thamud (Prophet Salih) who lived in the rocky tract."
+    },
+    {
+      "id": "ch15-q33",
       "text": "What were the houses of the people of Al-Hijr carved out of?",
-      "answer": "They carved their houses out of the mountains, feeling secure."
+      "answer": "They carved their houses out of the mountains, feeling secure in their engineering."
     },
     {
-      "id": "ch15-q17",
-      "text": "What is the 'Sab'an minal Mathani' (Seven of the oft-repeated) referred to in Verse 87?",
-      "answer": "Surah Al-Fatiha."
+      "id": "ch15-q34",
+      "text": "How was the punishment of the people of Al-Hijr delivered?",
+      "answer": "A shriek seized them in the morning, and their carvings and wealth did not avail them at all."
     },
     {
-      "id": "ch15-q18",
-      "text": "How should the Prophet (SAW) deal with those who mock him?",
-      "answer": "By glorifying the praise of his Lord and being among those who prostrate."
+      "id": "ch15-q35",
+      "text": "With what purpose did Allah create the heavens and the earth?",
+      "answer": "With truth (purpose and justice)."
     },
     {
-      "id": "ch15-q19",
-      "text": "What does Allah say about the 'heaviness' in the Prophet's chest due to their speech?",
-      "answer": "He acknowledges that He knows the Prophet's chest is constrained by what they say."
+      "id": "ch15-q36",
+      "text": "What is the 'Sab'an minal Mathani' (Seven of the oft-repeated) referred to in this Surah?",
+      "answer": "The seven verses of Surah Al-Fatiha."
     },
     {
-      "id": "ch15-q20",
+      "id": "ch15-q37",
+      "text": "What is the instruction to the Prophet regarding the worldly wealth given to some disbelievers?",
+      "answer": "He is told not to extend his eyes toward it and not to grieve over them, but to be kind to the believers."
+    },
+    {
+      "id": "ch15-q38",
+      "text": "What does the Surah say about those who 'divided the Quran' (Al-Muqtasimin)?",
+      "answer": "They are those who accepted some parts of revelation and rejected others; Allah swears He will question them all."
+    },
+    {
+      "id": "ch15-q39",
+      "text": "What should the Prophet (SAW) do regarding the truth he was commanded to proclaim?",
+      "answer": "He is told to 'Proclaim what you are commanded' and turn away from the polytheists."
+    },
+    {
+      "id": "ch15-q40",
+      "text": "How does Allah promise to handle those who mock the Prophet?",
+      "answer": "'Indeed, We are sufficient for you against the mockers.'"
+    },
+    {
+      "id": "ch15-q41",
+      "text": "How does Allah acknowledge the Prophet's emotional state regarding the mockers' words?",
+      "answer": "He says: 'We already know that your breast is constrained by what they say.'"
+    },
+    {
+      "id": "ch15-q42",
+      "text": "What is the remedy given to the Prophet to ease his heart?",
+      "answer": "Exalt Allah with praise and be among those who prostrate."
+    },
+    {
+      "id": "ch15-q43",
       "text": "Until when is the believer commanded to worship Allah?",
-      "answer": "Until 'Al-Yaqin' (the certainty), which means until death."
+      "answer": "Until 'Al-Yaqin' (the certainty), which refers to the time of death."
+    },
+    {
+      "id": "ch15-q44",
+      "text": "What is the 'piercing flame' (Shihab)?",
+      "answer": "A shooting star or celestial fire that drives away the devils."
+    },
+    {
+      "id": "ch15-q45",
+      "text": "What is the 'proper balance' in which things grow?",
+      "answer": "The ecological and biological harmony established by Allah in nature."
+    },
+    {
+      "id": "ch15-q46",
+      "text": "What is the 'altered black mud'?",
+      "answer": "A stage in the creation of man from the earth."
+    },
+    {
+      "id": "ch15-q47",
+      "text": "What is the 'scorching fire' (Nar-is-Samum)?",
+      "answer": "The intense, smokeless fire from which Jinn were created."
+    },
+    {
+      "id": "ch15-q48",
+      "text": "What is the 'Day of the time well-known'?",
+      "answer": "The Day of Resurrection."
+    },
+    {
+      "id": "ch15-q49",
+      "text": "What is 'Mukhlaseen'?",
+      "answer": "Servants of Allah who are pure in their faith and selected for His mercy."
+    },
+    {
+      "id": "ch15-q50",
+      "text": "What is the 'resentment' (Ghill) that is removed in Paradise?",
+      "answer": "Any negative feelings or traces of hatred between the hearts of the believers."
+    },
+    {
+      "id": "ch15-q51",
+      "text": "What are the 'springs' of Paradise?",
+      "answer": "Fountains of pure water and other delights for the inhabitants."
+    },
+    {
+      "id": "ch15-q52",
+      "text": "What is the 'glad tidings' (Bushra) given to Ibrahim?",
+      "answer": "The promise of a son who would be a person of knowledge."
+    },
+    {
+      "id": "ch15-q53",
+      "text": "What is the 'shriek' (Saihah)?",
+      "answer": "A powerful sound or vibration used as a means of divine punishment."
+    },
+    {
+      "id": "ch15-q54",
+      "text": "What is the 'Rocky Tract' (Al-Hijr)?",
+      "answer": "The area where the people of Thamud lived, known for its stone-carved buildings."
+    },
+    {
+      "id": "ch15-q55",
+      "text": "What is the 'Great Creation' (Al-Khallaq)?",
+      "answer": "An attribute of Allah, the All-Knowing Creator."
+    },
+    {
+      "id": "ch15-q56",
+      "text": "What is the 'Great Quran' (Al-Quran al-'Azim)?",
+      "answer": "The magnificent revelation given to the Prophet."
+    },
+    {
+      "id": "ch15-q57",
+      "text": "What are the 'parts' (Idien) into which some people divided the Quran?",
+      "answer": "Sectarian interpretations or selective acceptance of the message."
+    },
+    {
+      "id": "ch15-q58",
+      "text": "What is the 'Proclamation' (Isda')?",
+      "answer": "Declaring the message of Islam openly and clearly."
+    },
+    {
+      "id": "ch15-q59",
+      "text": "What is the 'constrained breast'?",
+      "answer": "The feeling of sadness and pressure the Prophet felt from the rejection of his people."
+    },
+    {
+      "id": "ch15-q60",
+      "text": "What is the 'certainty' (Al-Yaqin)?",
+      "answer": "Death, after which all doubts are removed and reality is seen."
+    },
+    {
+      "id": "ch15-q61",
+      "text": "Why does Allah mention the constellations as 'beautified'?",
+      "answer": "To draw attention to the artistic and orderly nature of His creation."
+    },
+    {
+      "id": "ch15-q62",
+      "text": "What is the 'depositories' (Khaza'in)?",
+      "answer": "The unlimited resources and treasures of everything that Allah controls."
+    },
+    {
+      "id": "ch15-q63",
+      "text": "What is the 'fertilizing' wind?",
+      "answer": "Wind that carries seeds or causes the formation of rain."
+    },
+    {
+      "id": "ch15-q64",
+      "text": "Why does the Surah mention humans being created from 'altered black mud'?",
+      "answer": "To remind humans of humble origins and Allah’s power to create and resurrect, cutting arrogance and denial."
+    },
+    {
+      "id": "ch15-q65",
+      "text": "Why did Iblis focus on the 'mud'?",
+      "answer": "To justify his arrogance by looking only at the physical shell rather than the divine soul."
+    },
+    {
+      "id": "ch15-q66",
+      "text": "What is the 'curse' on Iblis?",
+      "answer": "His permanent distance from the mercy of Allah."
+    },
+    {
+      "id": "ch15-q67",
+      "text": "What is the 'authority' of Iblis?",
+      "answer": "He has no power to force anyone; he only has influence over those who choose to follow him."
+    },
+    {
+      "id": "ch15-q68",
+      "text": "What is the 'assigned group' (Juz'un Maqsum)?",
+      "answer": "The specific division of sinners for each gate of Hell."
+    },
+    {
+      "id": "ch15-q69",
+      "text": "What is the 'brotherhood' of Paradise?",
+      "answer": "A state of perfect social and spiritual harmony among the believers."
+    },
+    {
+      "id": "ch15-q70",
+      "text": "What is the 'throne' (Surur)?",
+      "answer": "The raised seats of honor in Paradise."
+    },
+    {
+      "id": "ch15-q71",
+      "text": "What is the 'learned son'?",
+      "answer": "Prophet Ishaq (Isaac)."
+    },
+    {
+      "id": "ch15-q72",
+      "text": "Why did Lut offer his 'daughters'?",
+      "answer": "To protect his guests and to encourage a lawful and natural way of life for his people."
+    },
+    {
+      "id": "ch15-q73",
+      "text": "What is the 'turning upside down' of the city?",
+      "answer": "The physical destruction of the land of Sodom."
+    },
+    {
+      "id": "ch15-q74",
+      "text": "What is the 'sign for those who discern' (Mutawassimin)?",
+      "answer": "The ruins of the destroyed nations left as lessons for those who reflect."
+    },
+    {
+      "id": "ch15-q75",
+      "text": "What is the 'clear way' (Imamin mubin) mentioned regarding Madyan?",
+      "answer": "The remains of the city that people still pass by on their journeys."
+    },
+    {
+      "id": "ch15-q76",
+      "text": "What is the 'security' the people of Al-Hijr thought they had?",
+      "answer": "Their strong stone houses which they thought would protect them from any disaster."
+    },
+    {
+      "id": "ch15-q77",
+      "text": "What is the 'coming of the Hour'?",
+      "answer": "The approach of the Day of Judgment."
+    },
+    {
+      "id": "ch15-q78",
+      "text": "What is the 'pardon' (Al-Safh al-Jamil)?",
+      "answer": "A beautiful and gracious forgiveness that the Prophet is told to show."
+    },
+    {
+      "id": "ch15-q79",
+      "text": "What is the 'kindness to believers'?",
+      "answer": "The humble and compassionate attitude the Prophet is told to have toward his followers."
+    },
+    {
+      "id": "ch15-q80",
+      "text": "What is the 'glorification' (Tasbih)?",
+      "answer": "Praising Allah and acknowledging His perfection to find strength."
     }
   ]
 }
