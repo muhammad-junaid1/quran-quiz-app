@@ -213,6 +213,15 @@ const App: React.FC = () => {
   const [isGeneratingReport, setIsGeneratingReport] = useState(false);
   const [reportStatus, setReportStatus] = useState<'idle' | 'success'>('idle');
   const [isSigningIn, setIsSigningIn] = useState(false);
+  const [streak, setStreak] = useState(0);
+  const [showStreakCelebration, setShowStreakCelebration] = useState(false);
+
+  const celebrationSoundRef = useRef<HTMLAudioElement | null>(null);
+
+  // Initialize sound
+  useEffect(() => {
+    celebrationSoundRef.current = new Audio('https://assets.mixkit.co/active_storage/sfx/2013/2013-preview.mp3'); // A nice "tada/success" sound
+  }, []);
 
   const generateExcelReport = async () => {
     if (!user?.email || !currentSurahData) return;
@@ -338,6 +347,7 @@ const App: React.FC = () => {
   useEffect(() => {
     const fetchChapter = async () => {
       setIsLoading(true);
+      setStreak(0); // Reset streak when changing chapters
       try {
         const response = await fetch(`./data/chapter${state.currentSurahId}.json`);
         if (!response.ok) throw new Error('Failed to load chapter');
@@ -485,6 +495,30 @@ const App: React.FC = () => {
 
       if (nextIndex === currentSurahData!.questions.length && oldProg.activeIndex < currentSurahData!.questions.length) {
         setShowCompletionPopup(true);
+      }
+
+      // Handle Streak Logic
+      if (isCorrect) {
+        const question = currentSurahData?.questions[targetIdx];
+        const isAlreadyAnswered = question && !oldProg.wrongIds.includes(question.id) && targetIdx < oldProg.activeIndex;
+        
+        if (!isAlreadyAnswered) {
+          const newStreak = streak + 1;
+          setStreak(newStreak);
+          
+          if (newStreak % 3 === 0 && newStreak > 0) {
+            setShowStreakCelebration(true);
+            if (celebrationSoundRef.current) {
+              celebrationSoundRef.current.currentTime = 0;
+              celebrationSoundRef.current.play().catch(e => console.log("Audio play blocked", e));
+            }
+            setTimeout(() => {
+              setShowStreakCelebration(false);
+            }, 3000);
+          }
+        }
+      } else {
+        setStreak(0); // Reset streak on "Not Sure"
       }
 
       return {
@@ -1704,6 +1738,41 @@ const App: React.FC = () => {
                 Cancel
               </button>
             </div>
+          </div>
+        </div>
+      )}
+
+      {/* Streak Celebration Overlay */}
+      {showStreakCelebration && (
+        <div className="fixed inset-0 z-[300] flex items-center justify-center pointer-events-none">
+          {/* Background Dimming */}
+          <div className="absolute inset-0 bg-black/50 backdrop-blur-[2px] animate-in fade-in duration-500" />
+          
+          <div className="relative flex flex-col items-center animate-in fade-in zoom-in duration-500">
+            {/* Floating Graphics/Particles Effect */}
+            <div className="absolute -top-24 -left-24 w-48 h-48 bg-emerald-500/20 rounded-full blur-3xl animate-pulse" />
+            <div className="absolute -bottom-24 -right-24 w-48 h-48 bg-amber-500/20 rounded-full blur-3xl animate-pulse delay-75" />
+            
+     
+       
+            
+            <div className="flex flex-col items-center">
+              <div className="w-32 h-32 bg-gradient-to-tr from-emerald-400 to-emerald-600 rounded-[40px] flex items-center justify-center mb-10 rotate-12 shadow-[0_25px_50px_rgba(16,185,129,0.4)] ring-8 ring-white/10">
+                <svg className="w-16 h-16 text-white" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" />
+                </svg>
+              </div>
+              
+              <div className="text-center relative">
+                <h2 className="text-7xl md:text-8xl font-premium font-black text-white mb-2 tracking-tighter drop-shadow-[0_10px_10px_rgba(0,0,0,0.5)] italic">
+                  {streak} IN A ROW!
+                </h2>
+                <div className="h-1.5 w-full bg-gradient-to-r from-transparent via-emerald-400 to-transparent mb-6 opacity-80" />
+               
+              </div>
+            </div>
+            
+        
           </div>
         </div>
       )}
