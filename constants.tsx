@@ -9,7 +9,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الفاتحة",
     translation: "The Opening",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 32
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "البقرة",
     translation: "The Cow",
     revelationType: "Medinan",
-    totalQuestions: 160
+    totalQuestions: 200
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "آل عمران",
     translation: "Family of Imran",
     revelationType: "Medinan",
-    totalQuestions: 30
+    totalQuestions: 80
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النساء",
     translation: "The Women",
     revelationType: "Medinan",
-    totalQuestions: 10
+    totalQuestions: 80
   },
   {
     id: 5,
@@ -41,7 +41,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المائدة",
     translation: "The Table Spread",
     revelationType: "Medinan",
-    totalQuestions: 10
+    totalQuestions: 80
   },
   {
     id: 6,
@@ -49,7 +49,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الأنعام",
     translation: "The Cattle",
     revelationType: "Meccan",
-    totalQuestions: 10
+    totalQuestions: 80
   },
   {
     id: 7,
@@ -57,7 +57,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الأعراف",
     translation: "The Heights",
     revelationType: "Meccan",
-    totalQuestions: 10
+    totalQuestions: 80
   },
   {
     id: 8,
@@ -65,7 +65,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الأنفال",
     translation: "The Spoils of War",
     revelationType: "Medinan",
-    totalQuestions: 10
+    totalQuestions: 80
   },
   {
     id: 9,
@@ -73,7 +73,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "التوبة",
     translation: "The Repentance",
     revelationType: "Medinan",
-    totalQuestions: 10
+    totalQuestions: 80
   },
   {
     id: 10,
@@ -81,7 +81,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "يونس",
     translation: "Jonah",
     revelationType: "Meccan",
-    totalQuestions: 10
+    totalQuestions: 80
   },
   {
     id: 11,
@@ -89,7 +89,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "هود",
     translation: "Hud",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 12,
@@ -97,7 +97,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "يوسف",
     translation: "Joseph",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 13,
@@ -105,7 +105,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الرعد",
     translation: "The Thunder",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 76
   },
   {
     id: 14,
@@ -113,7 +113,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "إبراهيم",
     translation: "Abraham",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 15,
@@ -121,7 +121,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الحجر",
     translation: "The Rocky Tract",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 16,
@@ -129,7 +129,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النحل",
     translation: "The Bee",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 17,
@@ -137,7 +137,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الإسراء",
     translation: "The Night Journey",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 18,
@@ -145,7 +145,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الكهف",
     translation: "The Cave",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 19,
@@ -153,7 +153,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "مريم",
     translation: "Mary",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 20,
@@ -161,7 +161,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "طه",
     translation: "Ta-Ha",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 21,
@@ -169,7 +169,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الأنبياء",
     translation: "The Prophets",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 22,
@@ -177,7 +177,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الحج",
     translation: "The Pilgrimage",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 23,
@@ -185,7 +185,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المؤمنون",
     translation: "The Believers",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 79
   },
   {
     id: 24,
@@ -193,7 +193,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النور",
     translation: "The Light",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 25,
@@ -201,7 +201,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الفرقآن",
     translation: "The Criterion",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 26,
@@ -209,7 +209,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الشعراء",
     translation: "The Poets",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 27,
@@ -217,7 +217,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النمل",
     translation: "The Ant",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 28,
@@ -225,7 +225,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "القصص",
     translation: "The Stories",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 29,
@@ -233,7 +233,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "العنكبوت",
     translation: "The Spider",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 30,
@@ -241,7 +241,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الروم",
     translation: "The Romans",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 31,
@@ -249,7 +249,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "لقمان",
     translation: "Luqman",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 79
   },
   {
     id: 32,
@@ -257,7 +257,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "السجدة",
     translation: "The Prostration",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 33,
@@ -265,7 +265,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الأحزاب",
     translation: "The Combined Forces",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 80
   },
   {
     id: 34,
@@ -273,7 +273,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "سبأ",
     translation: "Sheba",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 70
   },
   {
     id: 35,
@@ -281,7 +281,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "فاطر",
     translation: "The Originator",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 70
   },
   {
     id: 36,
@@ -289,7 +289,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "يس",
     translation: "Ya-Sin",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 70
   },
   {
     id: 37,
@@ -297,7 +297,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الصافات",
     translation: "Those who set the Ranks",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 70
   },
   {
     id: 38,
@@ -305,7 +305,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "ص",
     translation: "The Letter \"Saad\"",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 70
   },
   {
     id: 39,
@@ -313,7 +313,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الزمر",
     translation: "The Troops",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 70
   },
   {
     id: 40,
@@ -321,7 +321,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "غافر",
     translation: "The Forgiver",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 69
   },
   {
     id: 41,
@@ -329,7 +329,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "فصلت",
     translation: "Explained in Detail",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 69
   },
   {
     id: 42,
@@ -337,7 +337,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الشورى",
     translation: "The Consultation",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 69
   },
   {
     id: 43,
@@ -345,7 +345,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الزخرف",
     translation: "The Ornaments of Gold",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 69
   },
   {
     id: 44,
@@ -353,7 +353,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الدخان",
     translation: "The Smoke",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 70
   },
   {
     id: 45,
@@ -361,7 +361,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الجاثية",
     translation: "The Crouching",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 68
   },
   {
     id: 46,
@@ -369,7 +369,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الأحقاف",
     translation: "The Wind-Curved Sandhills",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 69
   },
   {
     id: 47,
@@ -377,7 +377,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "محمد",
     translation: "Muhammad",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 69
   },
   {
     id: 48,
@@ -385,7 +385,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الفتح",
     translation: "The Victory",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 68
   },
   {
     id: 49,
@@ -393,7 +393,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الحجرات",
     translation: "The Dwellings",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 65
   },
   {
     id: 50,
@@ -401,7 +401,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "ق",
     translation: "The Letter \"Qaf\"",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 66
   },
   {
     id: 51,
@@ -409,7 +409,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الذاريات",
     translation: "The Winnowing Winds",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 67
   },
   {
     id: 52,
@@ -417,7 +417,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الطور",
     translation: "The Mount",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 68
   },
   {
     id: 53,
@@ -425,7 +425,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النجم",
     translation: "The Star",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 68
   },
   {
     id: 54,
@@ -433,7 +433,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "القمر",
     translation: "The Moon",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 67
   },
   {
     id: 55,
@@ -441,7 +441,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الرحمن",
     translation: "The Beneficent",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 68
   },
   {
     id: 56,
@@ -449,7 +449,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الواقعة",
     translation: "The Inevitable",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 67
   },
   {
     id: 57,
@@ -457,7 +457,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الحديد",
     translation: "The Iron",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 67
   },
   {
     id: 58,
@@ -465,7 +465,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المجادلة",
     translation: "The Pleading Woman",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 66
   },
   {
     id: 59,
@@ -473,7 +473,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الحشر",
     translation: "The Exile",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 66
   },
   {
     id: 60,
@@ -481,7 +481,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الممتحنة",
     translation: "She that is to be examined",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 66
   },
   {
     id: 61,
@@ -489,7 +489,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الصف",
     translation: "The Ranks",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 49
   },
   {
     id: 62,
@@ -497,7 +497,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الجمعة",
     translation: "The Congregation",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 47
   },
   {
     id: 63,
@@ -505,7 +505,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المنافقون",
     translation: "The Hypocrites",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 48
   },
   {
     id: 64,
@@ -513,7 +513,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "التغابن",
     translation: "The Mutual Disillusion",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 47
   },
   {
     id: 65,
@@ -521,7 +521,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الطلاق",
     translation: "The Divorce",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 66,
@@ -529,7 +529,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "التحريم",
     translation: "The Prohibition",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 67,
@@ -537,7 +537,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الملك",
     translation: "The Sovereignty",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 68,
@@ -545,7 +545,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "القلم",
     translation: "The Pen",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 69,
@@ -553,7 +553,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الحاقة",
     translation: "The Reality",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 70,
@@ -561,7 +561,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المعارج",
     translation: "The Ascending Stairways",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 47
   },
   {
     id: 71,
@@ -569,7 +569,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "نوح",
     translation: "Noah",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 47
   },
   {
     id: 72,
@@ -577,7 +577,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الجن",
     translation: "The Jinn",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 73,
@@ -585,7 +585,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المزمل",
     translation: "The Enshrouded One",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 74,
@@ -593,7 +593,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المدثر",
     translation: "The Cloaked One",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 45
   },
   {
     id: 75,
@@ -601,7 +601,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "القيامة",
     translation: "The Resurrection",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 45
   },
   {
     id: 76,
@@ -609,7 +609,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الإنسان",
     translation: "The Man",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 44
   },
   {
     id: 77,
@@ -617,7 +617,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المرسلات",
     translation: "The Emissaries",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 46
   },
   {
     id: 78,
@@ -625,7 +625,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النبأ",
     translation: "The Tidings",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 45
   },
   {
     id: 79,
@@ -633,7 +633,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النازعات",
     translation: "Those who drag forth",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 45
   },
   {
     id: 80,
@@ -641,7 +641,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "عبس",
     translation: "He Frowned",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 45
   },
   {
     id: 81,
@@ -649,7 +649,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "التكوير",
     translation: "The Overthrowing",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 41
   },
   {
     id: 82,
@@ -657,7 +657,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الانفطار",
     translation: "The Cleaving",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 83,
@@ -665,7 +665,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المطففين",
     translation: "The Defrauding",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 84,
@@ -673,7 +673,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الانشقاق",
     translation: "The Sundering",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 85,
@@ -681,7 +681,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "البروج",
     translation: "The Mansions of the Stars",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 86,
@@ -689,7 +689,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الطارق",
     translation: "The Nightcomer",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 87,
@@ -697,7 +697,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الأعلى",
     translation: "The Most High",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 88,
@@ -705,7 +705,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الغاشية",
     translation: "The Overwhelming",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 89,
@@ -713,7 +713,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الفجر",
     translation: "The Dawn",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 90,
@@ -721,7 +721,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "البلد",
     translation: "The City",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 91,
@@ -729,7 +729,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الشمس",
     translation: "The Sun",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 92,
@@ -737,7 +737,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الليل",
     translation: "The Night",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 39
   },
   {
     id: 93,
@@ -745,7 +745,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الضحى",
     translation: "The Morning Hours",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 94,
@@ -753,7 +753,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الشرح",
     translation: "The Relief",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 95,
@@ -761,7 +761,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "التين",
     translation: "The Fig",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 96,
@@ -769,7 +769,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "العلق",
     translation: "The Clot",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 97,
@@ -777,7 +777,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "القدر",
     translation: "The Power",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 98,
@@ -785,7 +785,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "البينة",
     translation: "The Clear Proof",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 99,
@@ -793,7 +793,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الزلزلة",
     translation: "The Earthquake",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 40
   },
   {
     id: 100,
@@ -801,7 +801,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "العاديات",
     translation: "The Courser",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 27
   },
   {
     id: 101,
@@ -809,7 +809,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "القارعة",
     translation: "The Calamity",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 33
   },
   {
     id: 102,
@@ -817,7 +817,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "التكاثر",
     translation: "The Piling Up",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 35
   },
   {
     id: 103,
@@ -825,7 +825,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "العصر",
     translation: "The Declining Day",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 32
   },
   {
     id: 104,
@@ -833,7 +833,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الهمزة",
     translation: "The Traducer",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 34
   },
   {
     id: 105,
@@ -841,7 +841,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الفيل",
     translation: "The Elephant",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 31
   },
   {
     id: 106,
@@ -849,7 +849,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "قريش",
     translation: "Quraysh",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 31
   },
   {
     id: 107,
@@ -857,7 +857,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الماعون",
     translation: "The Small Kindnesses",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 31
   },
   {
     id: 108,
@@ -865,7 +865,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الكوثر",
     translation: "The Abundance",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 29
   },
   {
     id: 109,
@@ -873,7 +873,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الكافرون",
     translation: "The Disbelievers",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 31
   },
   {
     id: 110,
@@ -881,7 +881,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "النصر",
     translation: "The Divine Support",
     revelationType: "Medinan",
-    totalQuestions: 20
+    totalQuestions: 31
   },
   {
     id: 111,
@@ -889,7 +889,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "المسد",
     translation: "The Palm Fiber",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 31
   },
   {
     id: 112,
@@ -897,7 +897,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الإخلاص",
     translation: "The Sincerity",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 29
   },
   {
     id: 113,
@@ -905,7 +905,7 @@ export const SURAHS_REGISTRY = [
     arabicName: "الفلق",
     translation: "The Daybreak",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 29
   },
   {
     id: 114,
@@ -913,6 +913,6 @@ export const SURAHS_REGISTRY = [
     arabicName: "الناس",
     translation: "Mankind",
     revelationType: "Meccan",
-    totalQuestions: 20
+    totalQuestions: 21
   }
 ];
