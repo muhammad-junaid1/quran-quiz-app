@@ -8,7 +8,8 @@ import LandingPage from './components/LandingPage';
 
 interface SurahProgress {
   activeIndex: number;
-  wrongIds: string[];
+  answeredIds: string[];
+  notSureIds: string[];
 }
 
 interface MultiSurahState {
@@ -19,7 +20,7 @@ interface MultiSurahState {
 const getInitialProgress = () => {
     const initialProgress: Record<number, SurahProgress> = {};
     SURAHS_REGISTRY.forEach(s => {
-      initialProgress[s.id] = { activeIndex: 0, wrongIds: [] };
+      initialProgress[s.id] = { activeIndex: 0, answeredIds: [], notSureIds: [] };
     });
     
     return {
@@ -32,10 +33,83 @@ const App: React.FC = () => {
   const [user, setUser] = useState<User | null>(null);
   const [isAuthLoading, setIsAuthLoading] = useState(true);
   const [isDataLoading, setIsDataLoading] = useState(false);
+  const [isOverviewLoading, setIsOverviewLoading] = useState(false);
   const [hasLoadedInitialData, setHasLoadedInitialData] = useState(false);
   const [state, setState] = useState<MultiSurahState>(getInitialProgress);
+  // Store chapters overview progress percentages: { "1": 45, "2": 100, ... }
+  const [chaptersOverview, setChaptersOverview] = useState<Record<string, number>>({});
 
-  // Load user data when user is available
+  // Function to calculate and save chapter progress percentage to overview
+  const saveChapterProgressPercentage = async (chapterId: number, progress: SurahProgress, totalQuestions?: number) => {
+    if (!user?.email) return;
+    
+    // Use provided totalQuestions or get from registry
+    const registryItem = SURAHS_REGISTRY.find(s => s.id === chapterId);
+    const total = totalQuestions || registryItem?.totalQuestions || 0;
+    if (total === 0) return;
+    
+    const progressPercentage = Math.min(100, Math.round((progress.activeIndex / total) * 100));
+    
+    // Update local state immediately (no refetch) and get updated overview
+    let updatedOverview: Record<string, number> = {};
+    setChaptersOverview(prev => {
+      updatedOverview = {
+        ...prev,
+        [chapterId.toString()]: progressPercentage
+      };
+      return updatedOverview;
+    });
+    
+    // Update database with the updated overview
+    try {
+      const { error } = await supabase
+        .from('user_chapters_overview')
+        .upsert({
+          email: user.email,
+          chapters_progress: updatedOverview
+        }, { onConflict: 'email' });
+
+      if (error) {
+        console.error('Error saving chapter progress percentage:', error);
+      }
+    } catch (err) {
+      console.error('Failed to save chapter progress percentage:', err);
+    }
+  };
+
+  // Load chapters overview on page load
+  useEffect(() => {
+    const loadChaptersOverview = async () => {
+      if (!user?.email) {
+        return;
+      }
+      
+      setIsOverviewLoading(true);
+      try {
+        const { data, error } = await supabase
+          .from('user_chapters_overview')
+          .select('chapters_progress')
+          .eq('email', user.email)
+          .single();
+
+        if (data && !error && data.chapters_progress) {
+          setChaptersOverview(data.chapters_progress);
+        } else {
+          // Initialize with empty object if no overview exists
+          setChaptersOverview({});
+        }
+      } catch (err) {
+        console.error("Error fetching chapters overview:", err);
+        setChaptersOverview({});
+      } finally {
+        setIsOverviewLoading(false);
+      }
+    };
+
+    loadChaptersOverview();
+  }, [user?.email]);
+
+  // Load user data when user is available - fetch progress for active chapter
   useEffect(() => {
     const loadUserData = async () => {
       if (!user?.email) {
@@ -43,39 +117,40 @@ const App: React.FC = () => {
         return;
       }
       
-      const userKey = `quran_furqan_progress_${user.email}`;
-      const savedLocal = localStorage.getItem(userKey);
-
-      // 1. Try Local Storage First
-      if (savedLocal) {
-        try {
-          const parsed = JSON.parse(savedLocal);
-          setState(parsed);
-          setHasLoadedInitialData(true);
-          return; // Exit early if we have local data
-        } catch (e) {
-          console.error("Error parsing local storage data", e);
-        }
-      }
-      
-      // 2. Fallback to Supabase if local storage doesn't exist or is invalid
       setIsDataLoading(true);
       try {
+        // Initialize with default progress
+        const initialState = getInitialProgress();
+        setState(initialState);
+        
+        // Fetch progress for the active chapter
+        const activeChapterId = initialState.currentSurahId;
         const { data, error } = await supabase
-          .from('user_progress')
-          .select('progress_data')
+          .from('user_chapter_progress')
+          .select('chapter_id, answered_question_ids, not_sure_question_ids, active_index')
           .eq('email', user.email)
+          .eq('chapter_id', activeChapterId)
           .single();
 
-        if (data?.progress_data) {
-          setState(data.progress_data);
-          localStorage.setItem(userKey, JSON.stringify(data.progress_data));
-        } else {
-          setState(getInitialProgress());
+        if (data && !error) {
+          const chapterProgress = {
+            activeIndex: data.active_index || 0,
+            answeredIds: data.answered_question_ids || [],
+            notSureIds: data.not_sure_question_ids || []
+          };
+          
+          // Update progress for the active chapter
+          setState(prev => ({
+            ...prev,
+            progress: {
+              ...prev.progress,
+              [activeChapterId]: chapterProgress
+            }
+          }));
         }
       } catch (err) {
         console.error("Error fetching from Supabase", err);
-        setState(getInitialProgress());
+        // Keep initial state on error
       } finally {
         setIsDataLoading(false);
         setHasLoadedInitialData(true);
@@ -104,44 +179,67 @@ const App: React.FC = () => {
     }
   };
 
-  // Persist user data to local storage
+  // Load progress when chapter changes
   useEffect(() => {
-    if (user?.email) {
-      const userKey = `quran_furqan_progress_${user.email}`;
-      localStorage.setItem(userKey, JSON.stringify(state));
-    }
-  }, [state, user]);
-
-  // Sync to Supabase every 1 minute
-  useEffect(() => {
-    if (!user?.email || !hasLoadedInitialData) return;
-
-    const syncToSupabase = async () => {
-      // Fetch the latest state from local storage to ensure we're syncing what the user has locally
-      const userKey = `quran_furqan_progress_${user.email}`;
-      const saved = localStorage.getItem(userKey);
-      if (!saved) return;
-
+    const loadChapterProgress = async () => {
+      if (!user?.email || !hasLoadedInitialData) return;
+      
+      setIsDataLoading(true);
       try {
-        const { error } = await supabase
-          .from('user_progress')
-          .upsert({ 
-            email: user.email, 
-            progress_data: JSON.parse(saved),
-            last_synced: new Date().toISOString()
-          }, { onConflict: 'email' });
-        
-        if (error) console.error('Supabase Sync Error:', error.message);
-        else console.log('Progress synced to cloud');
+        const { data, error } = await supabase
+          .from('user_chapter_progress')
+          .select('chapter_id, answered_question_ids, not_sure_question_ids, active_index')
+          .eq('email', user.email)
+          .eq('chapter_id', state.currentSurahId)
+          .single();
+
+        if (data && !error) {
+          setState(prev => ({
+            ...prev,
+            progress: {
+              ...prev.progress,
+              [state.currentSurahId]: {
+                activeIndex: data.active_index || 0,
+                answeredIds: data.answered_question_ids || [],
+                notSureIds: data.not_sure_question_ids || []
+              }
+            }
+          }));
+        } else {
+          // Initialize with default if no progress exists
+          setState(prev => ({
+            ...prev,
+            progress: {
+              ...prev.progress,
+              [state.currentSurahId]: {
+                activeIndex: 0,
+                answeredIds: [],
+                notSureIds: []
+              }
+            }
+          }));
+        }
       } catch (err) {
-        console.error('Failed to sync with Supabase:', err);
+        console.error("Error fetching chapter progress:", err);
+        // Initialize with default on error
+        setState(prev => ({
+          ...prev,
+          progress: {
+            ...prev.progress,
+            [state.currentSurahId]: {
+              activeIndex: 0,
+              answeredIds: [],
+              notSureIds: []
+            }
+          }
+        }));
+      } finally {
+        setIsDataLoading(false);
       }
     };
 
-    const interval = setInterval(syncToSupabase, 60000); // 60,000ms = 1 minute
-    
-    return () => clearInterval(interval);
-  }, [user?.email, hasLoadedInitialData]);
+    loadChapterProgress();
+  }, [state.currentSurahId, user?.email, hasLoadedInitialData]);
 
   useEffect(() => {
     // Check current session
@@ -242,7 +340,7 @@ const App: React.FC = () => {
         userAnswersMap[row.question_id] = row.answer_text;
       });
 
-      const currentProgress = state.progress[state.currentSurahId] || { activeIndex: 0, wrongIds: [] };
+      const currentProgress = state.progress[state.currentSurahId] || { activeIndex: 0, answeredIds: [], notSureIds: [] };
       const activeIdx = currentProgress.activeIndex;
       const totalQuestions = currentSurahData.questions.length;
       const remainingCount = totalQuestions - activeIdx;
@@ -270,7 +368,7 @@ const App: React.FC = () => {
       
       const processedCount = Math.min(activeIdx + 1, totalQuestions);
       currentSurahData.questions.slice(0, processedCount).forEach((q, index) => {
-        const userAns = userAnswersMap[q.id] || (currentProgress.wrongIds.includes(q.id) ? "Marked as Not Sure" : "");
+        const userAns = userAnswersMap[q.id] || (currentProgress.notSureIds.includes(q.id) ? "Marked as Not Sure" : "");
         // Escape quotes for CSV
         const escapeCsv = (str: string) => `"${str.replace(/"/g, '""')}"`;
         
@@ -362,7 +460,7 @@ const App: React.FC = () => {
     fetchChapter();
   }, [state.currentSurahId]);
 
-  const currentProgress = state.progress[state.currentSurahId] || { activeIndex: 0, wrongIds: [] };
+  const currentProgress = state.progress[state.currentSurahId] || { activeIndex: 0, answeredIds: [], notSureIds: [] };
 
   const globalProgress = useMemo(() => {
     let totalQuestions = 0;
@@ -389,9 +487,10 @@ const App: React.FC = () => {
     if (!currentSurahData) return { total: 0, answeredCount: 0, notSureCount: 0, progress: 0, isCompleted: false };
     const total = currentSurahData.questions.length;
     
-    // notSureCount is the number of questions in wrongIds
-    const notSureCount = currentProgress.wrongIds.length;
-    const answeredCount = Math.max(0, (currentProgress.activeIndex >= total ? total : currentProgress.activeIndex) - notSureCount);
+    // notSureCount is the number of questions in notSureIds
+    const notSureCount = currentProgress.notSureIds.length;
+    // answeredCount is the number of questions in answeredIds
+    const answeredCount = currentProgress.answeredIds.length;
     
     const isCompleted = currentProgress.activeIndex >= total;
     const progressPerc = Math.round((currentProgress.activeIndex / total) * 100);
@@ -402,10 +501,17 @@ const App: React.FC = () => {
     if (selectedQuestionIndex === null || !currentSurahData) return false;
     const q = currentSurahData.questions[selectedQuestionIndex];
     if (!q) return false;
-    return !currentProgress.wrongIds.includes(q.id) && selectedQuestionIndex < currentProgress.activeIndex;
+    return currentProgress.answeredIds.includes(q.id) && selectedQuestionIndex < currentProgress.activeIndex;
   }, [selectedQuestionIndex, currentSurahData, currentProgress]);
 
   const getSurahProgressPercent = (surahId: number) => {
+    // Use chapters overview if available, otherwise calculate from state
+    const overviewPercent = chaptersOverview[surahId.toString()];
+    if (overviewPercent !== undefined) {
+      return overviewPercent;
+    }
+    
+    // Fallback to calculating from state
     const registryItem = SURAHS_REGISTRY.find(s => s.id === surahId);
     const prog = state.progress[surahId];
     if (!registryItem || !prog) return 0;
@@ -457,7 +563,7 @@ const App: React.FC = () => {
 
     // Logic for "Not Sure" on a previously answered question
     if (!isCorrect && user?.email) {
-      const isAlreadyAnswered = !currentProgress.wrongIds.includes(question.id) && targetIdx < currentProgress.activeIndex;
+      const isAlreadyAnswered = currentProgress.answeredIds.includes(question.id) && targetIdx < currentProgress.activeIndex;
       
       if (isAlreadyAnswered) {
         setPendingNotSureIdx(targetIdx);
@@ -466,69 +572,115 @@ const App: React.FC = () => {
       }
     }
 
-    executeResponse(isCorrect, targetIdx);
+    await executeResponse(isCorrect, targetIdx);
   };
 
-  const executeResponse = (isCorrect: boolean, targetIdx: number) => {
+  const executeResponse = async (isCorrect: boolean, targetIdx: number) => {
     const question = currentSurahData?.questions[targetIdx];
-    if (!question) return;
+    if (!question || !user?.email) return;
 
     setIsActionDisabled(true);
     setTimeout(() => setIsActionDisabled(false), 1000);
 
-    setState(prev => {
-      const surahId = prev.currentSurahId;
-      const oldProg = prev.progress[surahId];
-      let newWrongIds = [...oldProg.wrongIds];
+    // Calculate updated progress before setState
+    const surahId = state.currentSurahId;
+    const oldProg = state.progress[surahId];
+    let newAnsweredIds = [...oldProg.answeredIds];
+    let newNotSureIds = [...oldProg.notSureIds];
 
-      if (!isCorrect) {
-        if (!newWrongIds.includes(question.id)) newWrongIds.push(question.id);
-      } else {
-        newWrongIds = newWrongIds.filter(id => id !== question.id);
+    if (isCorrect) {
+      // Add to answeredIds if not already there, remove from notSureIds
+      if (!newAnsweredIds.includes(question.id)) {
+        newAnsweredIds.push(question.id);
       }
+      newNotSureIds = newNotSureIds.filter(id => id !== question.id);
+    } else {
+      // Add to notSureIds if not already there, remove from answeredIds
+      if (!newNotSureIds.includes(question.id)) {
+        newNotSureIds.push(question.id);
+      }
+      newAnsweredIds = newAnsweredIds.filter(id => id !== question.id);
+    }
 
-      const isAnsweringCurrent = targetIdx === oldProg.activeIndex;
+    const isAnsweringCurrent = targetIdx === oldProg.activeIndex;
+    
+    const nextIndex = isAnsweringCurrent 
+      ? Math.min(oldProg.activeIndex + 1, currentSurahData!.questions.length)
+      : oldProg.activeIndex;
+
+    if (nextIndex === currentSurahData!.questions.length && oldProg.activeIndex < currentSurahData!.questions.length) {
+      setShowCompletionPopup(true);
+    }
+
+    // Handle Streak Logic
+    if (isCorrect) {
+      const isAlreadyAnswered = oldProg.answeredIds.includes(question.id) && targetIdx < oldProg.activeIndex;
       
-      const nextIndex = isAnsweringCurrent 
-        ? Math.min(oldProg.activeIndex + 1, currentSurahData!.questions.length)
-        : oldProg.activeIndex;
-
-      if (nextIndex === currentSurahData!.questions.length && oldProg.activeIndex < currentSurahData!.questions.length) {
-        setShowCompletionPopup(true);
-      }
-
-      // Handle Streak Logic
-      if (isCorrect) {
-        const question = currentSurahData?.questions[targetIdx];
-        const isAlreadyAnswered = question && !oldProg.wrongIds.includes(question.id) && targetIdx < oldProg.activeIndex;
+      if (!isAlreadyAnswered) {
+        const newStreak = streak + 1;
+        setStreak(newStreak);
         
-        if (!isAlreadyAnswered) {
-          const newStreak = streak + 1;
-          setStreak(newStreak);
-          
-          if (newStreak % 3 === 0 && newStreak > 0) {
-            setShowStreakCelebration(true);
-            if (celebrationSoundRef.current) {
-              celebrationSoundRef.current.currentTime = 0;
-              celebrationSoundRef.current.play().catch(e => console.log("Audio play blocked", e));
-            }
-            setTimeout(() => {
-              setShowStreakCelebration(false);
-            }, 3000);
+        if (newStreak % 3 === 0 && newStreak > 0) {
+          setShowStreakCelebration(true);
+          if (celebrationSoundRef.current) {
+            celebrationSoundRef.current.currentTime = 0;
+            celebrationSoundRef.current.play().catch(e => console.log("Audio play blocked", e));
           }
+          setTimeout(() => {
+            setShowStreakCelebration(false);
+          }, 3000);
         }
-      } else {
-        setStreak(0); // Reset streak on "Not Sure"
       }
+    } else {
+      setStreak(0); // Reset streak on "Not Sure"
+    }
 
-      return {
-        ...prev,
-        progress: {
-          ...prev.progress,
-          [surahId]: { activeIndex: nextIndex, wrongIds: newWrongIds }
+    const updatedProgress: SurahProgress = { 
+      activeIndex: nextIndex, 
+      answeredIds: newAnsweredIds, 
+      notSureIds: newNotSureIds 
+    };
+
+    // Update state
+    setState(prev => ({
+      ...prev,
+      progress: {
+        ...prev.progress,
+        [surahId]: updatedProgress
+      }
+    }));
+
+    // Save progress to Supabase immediately
+    try {
+      const { error } = await supabase
+        .from('user_chapter_progress')
+        .upsert({
+          email: user.email,
+          chapter_id: surahId,
+          answered_question_ids: updatedProgress.answeredIds,
+          not_sure_question_ids: updatedProgress.notSureIds,
+          active_index: updatedProgress.activeIndex
+        }, { onConflict: 'email,chapter_id' });
+
+      if (error) {
+        console.error('Error saving progress to Supabase:', error);
+      } else {
+        console.log('Progress saved successfully:', {
+          chapter_id: surahId,
+          answeredIds: updatedProgress.answeredIds.length,
+          notSureIds: updatedProgress.notSureIds.length,
+          activeIndex: updatedProgress.activeIndex
+        });
+        
+        // Update chapter progress percentage in overview
+        const total = currentSurahData?.questions.length;
+        if (total) {
+          await saveChapterProgressPercentage(surahId, updatedProgress, total);
         }
-      };
-    });
+      }
+    } catch (err) {
+      console.error('Failed to save progress:', err);
+    }
 
     if (selectedQuestionIndex !== null) setSelectedQuestionIndex(null);
   };
@@ -550,7 +702,7 @@ const App: React.FC = () => {
 
       if (error) throw error;
 
-      executeResponse(false, pendingNotSureIdx);
+      await executeResponse(false, pendingNotSureIdx);
     } catch (err) {
       console.error("Error deleting answer:", err);
       alert("Failed to delete saved answer. Please try again.");
@@ -617,7 +769,7 @@ const App: React.FC = () => {
       if (error) throw error;
 
       // Successfully saved, now update local state to mark as answered
-      handleResponse(true, answeringQuestionIdx);
+      await handleResponse(true, answeringQuestionIdx);
       setLastUpdatedDate(now);
       setIsAnswerPopupOpen(false);
       setAnsweringQuestionIdx(null);
@@ -676,12 +828,16 @@ const App: React.FC = () => {
       
       const dataUrl = await toPng(shareCardRef.current, { 
         quality: 1, 
-        pixelRatio: 3,
+        pixelRatio: 5,
         backgroundColor: '#0a0a0a',
         cacheBust: true,
         style: {
           transform: 'scale(1)',
           transformOrigin: 'top left',
+        },
+        filter: (node) => {
+          // Exclude any unwanted elements for cleaner rendering
+          return true;
         },
       });
 
@@ -711,12 +867,16 @@ const App: React.FC = () => {
       
       const dataUrl = await toPng(reviewShareCardRef.current, { 
         quality: 1, 
-        pixelRatio: 3,
+        pixelRatio: 5,
         backgroundColor: '#0a0a0a',
         cacheBust: true,
         style: {
           transform: 'scale(1)',
           transformOrigin: 'top left',
+        },
+        filter: (node) => {
+          // Exclude any unwanted elements for cleaner rendering
+          return true;
         },
       });
 
@@ -871,7 +1031,12 @@ const App: React.FC = () => {
                 </div>
               </div>
               <div className="max-h-[50vh] overflow-y-auto custom-scrollbar pb-2">
-              {(() => {
+              {isOverviewLoading ? (
+                <div className="flex flex-col items-center justify-center py-12 px-6 text-center">
+                  <div className="w-8 h-8 rounded-full border-2 border-indigo-500/20 border-t-indigo-500 animate-spin mb-4" />
+                  <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Loading chapters progress...</p>
+                </div>
+              ) : (() => {
                 const filtered = SURAHS_REGISTRY.filter(s => 
                   s.englishName.toLowerCase().includes(searchQuery.toLowerCase()) || 
                   s.translation.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -963,10 +1128,17 @@ const App: React.FC = () => {
         onClick={() => setSelectedQuestionIndex(null)}
         className="flex-1 overflow-y-auto custom-scrollbar px-6 md:px-32 lg:px-[25%] py-8 select-none"
       >
-        {isLoading ? (
-          <div className="h-full flex flex-col items-center justify-center animate-pulse gap-6">
-            <div className="w-10 h-10 rounded-full border border-indigo-500/20 border-t-indigo-500/80 animate-spin" />
-            <p className="text-[10px] font-premium font-medium uppercase tracking-[0.3em] text-zinc-600">Syncing Verse Insights...</p>
+        {isLoading || isDataLoading ? (
+          <div className="flex-1 mt-12 flex flex-col items-center justify-center animate-in fade-in duration-500 gap-8">
+            <div className="relative">
+              <div className="w-16 h-16 rounded-full border-2 border-indigo-500/10 border-t-indigo-500 animate-spin" />
+              <div className="absolute inset-0 flex items-center justify-center">
+                <div className="w-2 h-2 bg-indigo-500 rounded-full animate-pulse" />
+              </div>
+            </div>
+            <div className="flex flex-col items-center gap-3">
+              <p className="text-[10px] md:text-[11px] font-premium font-bold uppercase tracking-[0.4em] text-white/80">Loading</p>
+            </div>
           </div>
         ) : currentSurahData && (
           <>
@@ -983,7 +1155,8 @@ const App: React.FC = () => {
 
             <div className="relative text-[1.25rem] md:text-[1.4rem] font-light text-justify leading-[1.8] tracking-tight">
               {currentSurahData.questions.map((q, idx) => {
-              const isWrong = currentProgress.wrongIds.includes(q.id);
+              const isNotSure = currentProgress.notSureIds.includes(q.id);
+              const isAnswered = currentProgress.answeredIds.includes(q.id);
               const isPast = idx < currentProgress.activeIndex;
               const isActive = idx === currentProgress.activeIndex;
               const isSelected = selectedQuestionIndex === idx;
@@ -991,7 +1164,7 @@ const App: React.FC = () => {
 
               let colorClass = "text-zinc-400/70";
               if (isPast) {
-                colorClass = !isWrong ? "text-emerald-500/80" : "text-amber-500/80";
+                colorClass = isAnswered ? "text-emerald-500/80" : (isNotSure ? "text-amber-500/80" : "text-zinc-400/70");
               } else if (isActive) {
                 colorClass = "text-white";
               } else {
@@ -1004,7 +1177,7 @@ const App: React.FC = () => {
                     <span className={`
                       w-8 h-8 rounded-full border flex items-center justify-center text-[13px] font-premium font-bold transition-all duration-700 select-none
                       ${isActive ? 'bg-white text-black border-white shadow-[0_0_15px_rgba(255,255,255,0.3)]' : 
-                        isPast ? (!isWrong ? 'border-emerald-500/40 text-emerald-500/60 bg-emerald-500/5' : 'border-amber-500/40 text-amber-500/60 bg-amber-500/5') : 
+                        isPast ? (isAnswered ? 'border-emerald-500/40 text-emerald-500/60 bg-emerald-500/5' : (isNotSure ? 'border-amber-500/40 text-amber-500/60 bg-amber-500/5' : 'border-white/20 text-zinc-400 bg-white/[0.05]')) : 
                         'border-white/20 text-zinc-400 bg-white/[0.05]'}
                     `}>
                       {idx + 1}
@@ -1019,12 +1192,12 @@ const App: React.FC = () => {
                       setSelectedQuestionIndex(idx);
                     }}
                     onDoubleClick={() => {
-                      const isAnswered = !currentProgress.wrongIds.includes(q.id) && idx < currentProgress.activeIndex;
+                      const isQuestionAnswered = currentProgress.answeredIds.includes(q.id) && idx < currentProgress.activeIndex;
                       if (stats.isCompleted) {
                         setReviewIdx(idx);
                         setIsReviewOpen(true);
                       } else {
-                        if (isAnswered) {
+                        if (isQuestionAnswered) {
                           openAnswerPopup(idx);
                         }
                       }
@@ -1144,7 +1317,7 @@ const App: React.FC = () => {
                             <textarea
                               value={answerText}
                               onChange={(e) => setAnswerText(e.target.value)}
-                              placeholder="Type your understanding of this verse here..."
+                              placeholder="Type your answer here..."
                               className="flex-1 w-full min-h-[200px] bg-white/[0.03] border border-white/10 rounded-2xl p-6 text-white placeholder:text-zinc-600 focus:outline-none focus:border-indigo-500/30 transition-all resize-none font-light leading-relaxed"
                             />
                           </div>
@@ -1221,13 +1394,17 @@ const App: React.FC = () => {
                       
                       {/* User Status Badge */}
                       <div className={`px-3 py-1 rounded-full border text-[9px] font-premium font-bold uppercase tracking-wider ${
-                        !currentProgress.wrongIds.includes(currentSurahData.questions[reviewIdx].id)
+                        currentProgress.answeredIds.includes(currentSurahData.questions[reviewIdx].id)
                           ? 'bg-emerald-500/10 border-emerald-500/20 text-emerald-400'
-                          : 'bg-amber-500/10 border-amber-500/20 text-amber-400'
+                          : currentProgress.notSureIds.includes(currentSurahData.questions[reviewIdx].id)
+                          ? 'bg-amber-500/10 border-amber-500/20 text-amber-400'
+                          : 'bg-zinc-500/10 border-zinc-500/20 text-zinc-400'
                       }`}>
-                        {!currentProgress.wrongIds.includes(currentSurahData.questions[reviewIdx].id)
+                        {currentProgress.answeredIds.includes(currentSurahData.questions[reviewIdx].id)
                           ? 'You answered this'
-                          : 'You were not sure about this'}
+                          : currentProgress.notSureIds.includes(currentSurahData.questions[reviewIdx].id)
+                          ? 'You were not sure about this'
+                          : 'Not answered'}
                       </div>
                     </div>
                     <p className="text-base md:text-lg text-zinc-400 font-light leading-relaxed italic">
@@ -1554,7 +1731,7 @@ const App: React.FC = () => {
                   </div>
                   <h2 className="text-2xl md:text-4xl font-premium font-light text-white mb-4 md:mb-6 tracking-tight">Write Your Answer</h2>
                   <p className="text-sm md:text-lg text-zinc-400 leading-relaxed font-light mb-8 md:mb-10 px-2 md:px-0">
-                    When you click <span className="text-white font-medium">"Write Answer"</span> (or <span className="text-white font-medium">"Update Answer"</span>), you can type your understanding of the verse. Your answers are saved securely in the cloud.
+                    When you click <span className="text-white font-medium">"Write Answer"</span> (or <span className="text-white font-medium">"Update Answer"</span>), you can type your answer. Your answers are saved securely in the cloud.
                   </p>
                   <div className="p-5 md:p-8 bg-white/[0.03] border border-white/10 rounded-2xl md:rounded-[32px] text-left space-y-4">
                     <div className="flex items-center gap-3">
