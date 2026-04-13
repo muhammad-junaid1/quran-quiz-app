@@ -1,10 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Quran Furqan (Quran Quiz App)
 
-Quran Furqan is an interactive study application built to test, track, and improve your knowledge and memorization (Hifz) of the Quran. Unlike traditional reading apps, this tool employs active recall techniques by letting you take assessments chapter by chapter for all 114 Surahs.
+Quran Furqan is an interactive study application built to test, track, and improve your knowledge of the Quran. Unlike traditional reading apps, this tool employs active recall techniques by letting you take assessments chapter by chapter for all 114 Surahs.
 
 ## 🚀 Features
 
