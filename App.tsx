@@ -447,7 +447,7 @@ const App: React.FC = () => {
       setIsLoading(true);
       setStreak(0); // Reset streak when changing chapters
       try {
-        const response = await fetch(`./data/chapter${state.currentSurahId}.json`);
+        const response = await fetch(`/data/chapter${state.currentSurahId}.json?v=2`);
         if (!response.ok) throw new Error('Failed to load chapter');
         const data = await response.json();
         setCurrentSurahData(data);
