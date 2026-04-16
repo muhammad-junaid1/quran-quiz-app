@@ -5,6 +5,7 @@ import { Surah, Question } from './types';
 import { supabase } from './lib/supabase';
 import { User } from '@supabase/supabase-js';
 import LandingPage from './components/LandingPage';
+import { fetchChapterTranslation } from './lib/quran';
 
 interface SurahProgress {
   activeIndex: number;
@@ -414,6 +415,11 @@ const App: React.FC = () => {
   const [isDeleteConfirmOpen, setIsDeleteConfirmOpen] = useState(false);
   const [isDeletingAnswer, setIsDeletingAnswer] = useState(false);
   const [pendingNotSureIdx, setPendingNotSureIdx] = useState<number | null>(null);
+
+  // Translation States
+  const [isTranslationOpen, setIsTranslationOpen] = useState(false);
+  const [translationData, setTranslationData] = useState<any[]>([]);
+  const [isTranslationLoading, setIsTranslationLoading] = useState(false);
 
   const isFirstAuthCheck = useRef(true);
   
@@ -893,6 +899,24 @@ const App: React.FC = () => {
     }
   };
 
+  const toggleTranslation = async () => {
+    if (isTranslationOpen) {
+      setIsTranslationOpen(false);
+      return;
+    }
+
+    setIsTranslationOpen(true);
+    setIsTranslationLoading(true);
+    try {
+      const data = await fetchChapterTranslation(state.currentSurahId);
+      setTranslationData(data);
+    } catch (err) {
+      console.error('Error fetching translation:', err);
+    } finally {
+      setIsTranslationLoading(false);
+    }
+  };
+
   useEffect(() => {
     if (!isLoading && selectedQuestionIndex === null) {
       if (stats.isCompleted) {
@@ -1012,6 +1036,19 @@ const App: React.FC = () => {
             </div>
             <span className="text-[10px] md:text-[11px] text-zinc-400 font-premium font-semibold uppercase tracking-[0.2em] md:tracking-[0.25em] mt-1.5 md:mt-2">{currentRegistryItem.id}. {currentRegistryItem.translation}</span>
           </button>
+
+          {/* Read Translation Button */}
+          <div className="flex justify-center mt-4">
+            <button 
+              onClick={toggleTranslation}
+              className="px-4 py-2 bg-white/5 border border-white/10 rounded-full text-zinc-400 hover:text-indigo-400 hover:bg-indigo-500/5 transition-all flex items-center gap-2 group"
+            >
+              <svg className="w-3.5 h-3.5 group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+              </svg>
+              <span className="text-[10px] font-premium font-bold uppercase tracking-[0.2em]">Read Translation</span>
+            </button>
+          </div>
 
           {isDropdownOpen && (
             <div className="absolute top-full left-1/2 -translate-x-1/2 mt-6 w-80 bg-[#0d0d0d] border border-white/[0.08] rounded-[32px] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.7)] animate-in fade-in slide-in-from-top-4 duration-300 z-[100]">
@@ -1662,9 +1699,74 @@ const App: React.FC = () => {
             </div>
           </div>
         </div>
-      )}
-        </>
-      )}
+        )}
+
+        {/* Translation Modal */}
+        {isTranslationOpen && (
+          <div className="fixed inset-0 z-[200] flex items-center justify-center p-0 md:p-6">
+            <div className="absolute inset-0 bg-black/95 backdrop-blur-2xl" onClick={() => setIsTranslationOpen(false)} />
+            <div className="relative w-full h-full md:max-h-[90vh] md:max-w-3xl bg-[#0d0d0d] border md:border-white/[0.1] rounded-none md:rounded-[40px] overflow-hidden shadow-2xl animate-in fade-in zoom-in-95 duration-300 flex flex-col">
+              
+              {/* Modal Header */}
+              <div className="p-6 md:p-10 border-b border-white/[0.05] flex justify-between items-center shrink-0">
+                <div className="flex flex-col">
+                  <span className="text-[10px] font-premium font-bold uppercase tracking-[0.3em] text-indigo-400 mb-2">Translation</span>
+                  <div className="flex items-center gap-4">
+                    <span className="text-2xl md:text-3xl font-arabic text-white leading-none">{currentRegistryItem.arabicName}</span>
+                    <span className="text-lg md:text-xl font-premium font-medium text-white tracking-tight">{currentRegistryItem.englishName}</span>
+                  </div>
+                </div>
+                <button 
+                  onClick={() => setIsTranslationOpen(false)}
+                  className="p-3 text-zinc-500 hover:text-white transition-colors rounded-2xl hover:bg-white/5"
+                >
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </button>
+              </div>
+
+              {/* Modal Content */}
+              <div className="flex-1 overflow-y-auto custom-scrollbar p-6 md:p-10">
+                {isTranslationLoading ? (
+                  <div className="h-full flex flex-col items-center justify-center gap-4">
+                    <div className="w-10 h-10 rounded-full border-2 border-indigo-500/20 border-t-indigo-500 animate-spin" />
+                    <p className="text-[10px] font-premium font-bold uppercase tracking-[0.2em] text-zinc-500">Loading Translation...</p>
+                  </div>
+                ) : (
+                <div className="max-w-3xl mx-auto pb-10">
+                  <div className="text-lg md:text-xl text-zinc-300 font-light leading-[2] md:leading-[2.2] text-justify selection:bg-indigo-500/30">
+                    {translationData.map((verse, index) => {
+                      const cleanedText = verse.translations?.[0]?.text
+                        .replace(/<sup[^>]*>.*?<\/sup>/g, '') // Remove footnote tags and their content
+                        .replace(/<[^>]*>/g, '') // Strip remaining HTML tags
+                        .trim();
+                      
+                      const verseNumber = verse.verse_key.split(':')[1];
+                      
+                      return (
+                        <span key={verse.id} className="inline group">
+                          <span className="inline-flex items-center justify-center w-7 h-7 md:w-8 md:h-8 rounded-full bg-white/[0.03] border border-white/[0.08] text-[9px] md:text-[10px] font-premium font-bold text-zinc-500 mr-3 mb-1 align-middle group-hover:bg-indigo-500/20 group-hover:border-indigo-500/30 group-hover:text-indigo-400 transition-all cursor-default">
+                            {verseNumber}
+                          </span>
+                          <span className="group-hover:text-white transition-colors duration-300">
+                            {cleanedText}{' '}
+                          </span>
+                        </span>
+                      );
+                    })}
+                  </div>
+                </div>
+                )}
+              </div>
+              
+              {/* Modal Footer */}
+              <div className="p-6 md:p-8 border-t border-white/[0.05] bg-black/20 text-center shrink-0">
+                <p className="text-[10px] font-premium font-medium text-zinc-600 uppercase tracking-[0.2em]">Translation by Saheeh International</p>
+              </div>
+            </div>
+          </div>
+        )}
 
       {/* Instructions Modal */}
       {isInstructionsOpen && (
@@ -2115,6 +2217,8 @@ const App: React.FC = () => {
           </div>
         </div>
       </div>
+        </>
+      )}
     </div>
   );
 };
